@@ -1,0 +1,15 @@
+# Build context hygiene — keep the image lean and the API key out of it.
+node_modules
+**/node_modules
+web/dist
+dist
+
+# Secrets never enter the image; the key arrives as a runtime env var.
+.env
+
+# VCS, tooling, and personal notes are not part of the runtime.
+.git
+.github
+.claude
+*.local.md
+docs
