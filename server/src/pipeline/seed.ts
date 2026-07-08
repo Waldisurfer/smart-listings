@@ -46,6 +46,27 @@ export interface SeedStats {
   duplicates: number;
 }
 
+/**
+ * Fuzzy-dedupe pass: rows sharing a dedupe_hash with an earlier (lower-id) row
+ * are flagged is_duplicate = TRUE; the MIN(id) row per hash is kept. Recomputed
+ * from scratch (reset to FALSE first) so re-running never leaves a stale flag.
+ * Exported so the integration test can drive it against a controlled collision.
+ */
+export async function flagDuplicates(): Promise<void> {
+  await pool.query('UPDATE listings SET is_duplicate = FALSE');
+  await pool.query(`
+    UPDATE listings l
+    JOIN (
+      SELECT dedupe_hash, MIN(id) AS keeper_id
+      FROM listings
+      WHERE dedupe_hash IS NOT NULL
+      GROUP BY dedupe_hash
+      HAVING COUNT(*) > 1
+    ) dupes ON l.dedupe_hash = dupes.dedupe_hash AND l.id <> dupes.keeper_id
+    SET l.is_duplicate = TRUE
+  `);
+}
+
 export async function seed(): Promise<SeedStats> {
   const listings: NormalizedListing[] = JSON.parse(readFileSync(ENRICHED, 'utf-8'));
 
@@ -60,19 +81,7 @@ export async function seed(): Promise<SeedStats> {
     ]);
   }
 
-  // Fuzzy pass — recomputed from scratch so the flag never goes stale on re-runs.
-  await pool.query('UPDATE listings SET is_duplicate = FALSE');
-  await pool.query(`
-    UPDATE listings l
-    JOIN (
-      SELECT dedupe_hash, MIN(id) AS keeper_id
-      FROM listings
-      WHERE dedupe_hash IS NOT NULL
-      GROUP BY dedupe_hash
-      HAVING COUNT(*) > 1
-    ) dupes ON l.dedupe_hash = dupes.dedupe_hash AND l.id <> dupes.keeper_id
-    SET l.is_duplicate = TRUE
-  `);
+  await flagDuplicates();
 
   const [[row]] = (await pool.query(`
     SELECT COUNT(*) AS total,
