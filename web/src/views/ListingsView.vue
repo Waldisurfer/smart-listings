@@ -44,7 +44,7 @@ const resultLabel = computed(() => {
   return `${n} ${word}`;
 });
 
-const chatOpen = ref(false);
+const aiMode = ref(false);
 const interpretation = ref('');
 const degraded = ref(false);
 
@@ -140,47 +140,54 @@ onMounted(() => {
 
 <template>
   <section>
-    <div class="search-bar">
-      <input
-        v-model="filters.q"
-        type="search"
-        placeholder="Szukaj w tytule lub opisie… (balkon, garaż, Kazimierz)"
-        aria-label="Wyszukiwanie tekstowe"
-      />
-      <button class="chat-toggle" :class="{ open: chatOpen }" @click="chatOpen = !chatOpen">
-        ✨ Wyszukiwanie AI
-      </button>
+    <div class="mode-switch">
+      <p class="mode-hint">✨ Spróbuj wyszukiwania z AI</p>
+      <div class="toggle" role="group" aria-label="Tryb wyszukiwania">
+        <button :class="{ active: !aiMode }" @click="aiMode = false">Zwykłe wyszukiwanie</button>
+        <button :class="{ active: aiMode }" @click="aiMode = true">✨ Wyszukiwanie AI</button>
+      </div>
     </div>
 
-    <ChatSearch v-if="chatOpen" @apply-filters="applyIntent" />
+    <ChatSearch v-if="aiMode" large @apply-filters="applyIntent" />
+
+    <template v-else>
+      <div class="search-bar">
+        <input
+          v-model="filters.q"
+          type="search"
+          placeholder="Szukaj w tytule lub opisie… (balkon, garaż, Kazimierz)"
+          aria-label="Wyszukiwanie tekstowe"
+        />
+      </div>
+
+      <div class="filter-row">
+        <div class="toggle" role="group" aria-label="Typ oferty">
+          <button :class="{ active: filters.offerType === 'sale' }" @click="filters.offerType = 'sale'">
+            Sprzedaż
+          </button>
+          <button :class="{ active: filters.offerType === 'rent' }" @click="filters.offerType = 'rent'">
+            Wynajem
+          </button>
+        </div>
+        <select v-model="filters.city" aria-label="Miasto">
+          <option value="">Wszystkie miasta</option>
+          <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
+        </select>
+        <input v-model="filters.minPrice" type="number" min="0" placeholder="Cena od (zł)" aria-label="Cena minimalna" />
+        <input v-model="filters.maxPrice" type="number" min="0" placeholder="Cena do (zł)" aria-label="Cena maksymalna" />
+        <input v-model="filters.minArea" type="number" min="0" placeholder="Pow. od (m²)" aria-label="Powierzchnia minimalna" />
+        <input v-model="filters.maxArea" type="number" min="0" placeholder="Pow. do (m²)" aria-label="Powierzchnia maksymalna" />
+        <select v-model="filters.rooms" aria-label="Pokoje">
+          <option value="">Pokoje</option>
+          <option v-for="n in 5" :key="n" :value="String(n)">{{ n }}+</option>
+        </select>
+      </div>
+    </template>
 
     <p v-if="interpretation" class="interpretation" :class="{ degraded }">
       {{ interpretation }}
       <button class="dismiss" aria-label="Zamknij" @click="interpretation = ''">✕</button>
     </p>
-
-    <div class="filter-row">
-      <div class="toggle" role="group" aria-label="Typ oferty">
-        <button :class="{ active: filters.offerType === 'sale' }" @click="filters.offerType = 'sale'">
-          Sprzedaż
-        </button>
-        <button :class="{ active: filters.offerType === 'rent' }" @click="filters.offerType = 'rent'">
-          Wynajem
-        </button>
-      </div>
-      <select v-model="filters.city" aria-label="Miasto">
-        <option value="">Wszystkie miasta</option>
-        <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
-      </select>
-      <input v-model="filters.minPrice" type="number" min="0" placeholder="Cena od (zł)" aria-label="Cena minimalna" />
-      <input v-model="filters.maxPrice" type="number" min="0" placeholder="Cena do (zł)" aria-label="Cena maksymalna" />
-      <input v-model="filters.minArea" type="number" min="0" placeholder="Pow. od (m²)" aria-label="Powierzchnia minimalna" />
-      <input v-model="filters.maxArea" type="number" min="0" placeholder="Pow. do (m²)" aria-label="Powierzchnia maksymalna" />
-      <select v-model="filters.rooms" aria-label="Pokoje">
-        <option value="">Pokoje</option>
-        <option v-for="n in 5" :key="n" :value="String(n)">{{ n }}+</option>
-      </select>
-    </div>
 
     <p v-if="!loading && !error" class="result-count">
       {{ resultLabel }}
@@ -218,14 +225,17 @@ onMounted(() => {
   font-size: 16px;
 }
 
-.chat-toggle {
-  white-space: nowrap;
+.mode-switch {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 14px;
 }
 
-.chat-toggle.open {
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
+.mode-hint {
+  margin: 0;
+  font-size: 13px;
+  color: var(--muted);
 }
 
 .interpretation {
