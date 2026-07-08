@@ -1,0 +1,21 @@
+# MySQL — the only infrastructure dependency. `docker compose up -d` → healthy
+# → the app can seed and serve. Host port is parameterized (default 3306) and
+# bound to loopback only, so a second local MySQL never collides in silence.
+services:
+  db:
+    image: mysql:8.4
+    environment:
+      MYSQL_ROOT_PASSWORD: listings
+      MYSQL_DATABASE: listings
+    ports:
+      - "127.0.0.1:${MYSQL_HOST_PORT:-3306}:3306"
+    volumes:
+      - dbdata:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-plistings"]
+      interval: 2s
+      timeout: 5s
+      retries: 30
+
+volumes:
+  dbdata:
