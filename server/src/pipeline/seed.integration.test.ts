@@ -2,7 +2,7 @@
  * Integration test: exercises the real seed pipeline against a live MySQL
  * (a service container in CI; a local docker-compose DB otherwise). Verifies
  * the committed dataset loads intact and that re-seeding is idempotent —
- * the property the grader relies on when running `npm run seed` twice.
+ * the property the app relies on when running `npm run seed` twice.
  *
  * Runs only via `npm run test:integration` (the unit suite excludes it), so a
  * DB-free `npm test` stays fast.

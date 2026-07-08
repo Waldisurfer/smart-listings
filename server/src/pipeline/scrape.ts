@@ -1,6 +1,6 @@
 /**
  * Stage 1 of the data pipeline: a one-time otodom scrape (run once by the author,
- * never by the grader). Writes raw offers to data/raw/otodom/offer-<id>.json,
+ * never at runtime). Writes raw offers to data/raw/otodom/offer-<id>.json,
  * committed to the repo so every later stage (ingest, seed) is re-runnable offline.
  *
  * Strategy: otodom is a Next.js site — every page embeds its full structured data in

@@ -1,6 +1,6 @@
 /**
- * Stage 3: data/enriched/listings.json → MySQL. The ONLY pipeline stage the
- * grader runs — zero network, zero API key, idempotent by construction:
+ * Stage 3: data/enriched/listings.json → MySQL. The ONLY pipeline stage run at
+ * runtime — zero network, zero API key, idempotent by construction:
  *
  * - Hard dedupe: UNIQUE (source, source_id) + INSERT … ON DUPLICATE KEY UPDATE
  *   → re-running seed can never create a second row for the same offer.

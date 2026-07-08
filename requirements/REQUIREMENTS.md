@@ -4,9 +4,10 @@ A requirements spec for a smart real-estate listings platform: it ingests real
 listings from a public marketplace, normalizes messy real-world data, and lets
 users explore offers through filters and natural-language search.
 
-> **Context.** Built as a time-boxed take-home (≤ 6 hours of build time). That
-> cap is deliberate and shapes scope: correctness, data-quality handling, and
-> clear reasoning are prioritized over feature count or scale. The requirement
+> **Context.** Built to a deliberately time-boxed scope (≤ 6 hours of build
+> time). That cap is intentional and shapes priorities: correctness, data-quality
+> handling, and clear reasoning are prioritized over feature count or scale. The
+> requirement
 > IDs below (`FR-*`, `NFR-*`) are referenced by the pull requests that satisfy
 > them.
 

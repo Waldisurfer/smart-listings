@@ -50,7 +50,7 @@ merge gate.
 | AI merge/precedence (params-first, pure) | **mandatory** | unit (SDK mocked) |
 | Repo filter building + routes | **mandatory** | integration |
 | Vue components | light or skip | smoke / golden-path e2e |
-| Network scraper | skip | non-deterministic, not the grader path |
+| Network scraper | skip | non-deterministic, not the runtime path |
 
 A new file under `pipeline/` or `repo/` without a sibling `*.test.ts` for its
 pure logic is an incomplete change.

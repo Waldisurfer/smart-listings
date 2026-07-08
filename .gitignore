@@ -8,5 +8,5 @@ dist/
 # personal working notes — not part of the deliverable
 *.local.md
 
-# committed data fixtures are the exception (grader runs fully offline):
+# committed data fixtures are the exception (the app runs fully offline):
 # data/raw/ and data/enriched/ are deliberately tracked once they land.
