@@ -1,12 +1,17 @@
-# MySQL — the only infrastructure dependency. `docker compose up -d` → healthy
-# → the app can seed and serve. Host port is parameterized (default 3306) and
-# bound to loopback only, so a second local MySQL never collides in silence.
+# The whole stack in one command: `docker compose up` → MySQL + the app,
+# seeded and served on http://localhost:3004. No Node, no manual build.
+#
+# For host-side development instead, bring up only the database
+# (`docker compose up -d db`) and run `npm run dev` against it.
 services:
   db:
     image: mysql:8.4
     environment:
       MYSQL_ROOT_PASSWORD: listings
       MYSQL_DATABASE: listings
+    # Host port is parameterized (default 3306) and bound to loopback only, so a
+    # second local MySQL never collides in silence. The app reaches MySQL over
+    # the compose network as db:3306 regardless of this mapping.
     ports:
       - "127.0.0.1:${MYSQL_HOST_PORT:-3306}:3306"
     volumes:
@@ -16,6 +21,25 @@ services:
       interval: 2s
       timeout: 5s
       retries: 30
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # Talk to the db service over the compose network, not the host mapping.
+      DB_HOST: db
+      DB_PORT: "3306"
+      DB_USER: root
+      DB_PASSWORD: listings
+      DB_NAME: listings
+      PORT: "3004"
+      # Optional — passed through from your shell/.env if set; empty disables the
+      # chat box but never blocks browse/search. The key never enters the image.
+      ANTHROPIC_API_KEY: "${ANTHROPIC_API_KEY:-}"
+    ports:
+      - "3004:3004"
 
 volumes:
   dbdata:
