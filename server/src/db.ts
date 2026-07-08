@@ -1,0 +1,51 @@
+/**
+ * MySQL pool + schema bootstrap. `ensureSchema()` applies db/schema.sql
+ * (CREATE TABLE IF NOT EXISTS) behind a boot-time connect retry, so there is no
+ * migration step to forget and `docker compose up -d` racing MySQL's first-boot
+ * init never kills the run. Defaults match docker-compose.yml — zero .env setup.
+ */
+import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import mysql from 'mysql2/promise';
+
+const SCHEMA_PATH = join(dirname(fileURLToPath(import.meta.url)), '..', 'db', 'schema.sql');
+
+const CONNECT_RETRIES = 10;
+const RETRY_DELAY_MS = 1500;
+
+export const pool = mysql.createPool({
+  host: process.env.DB_HOST ?? '127.0.0.1',
+  port: Number(process.env.DB_PORT ?? 3306),
+  user: process.env.DB_USER ?? 'root',
+  password: process.env.DB_PASSWORD ?? 'listings',
+  database: process.env.DB_NAME ?? 'listings',
+  waitForConnections: true,
+  connectionLimit: 10,
+  decimalNumbers: true, // DECIMAL area_m2 comes back as a number, not a string
+});
+
+const sleep = (ms: number): Promise<void> => new Promise((r) => setTimeout(r, ms));
+
+export async function ensureSchema(): Promise<void> {
+  let lastError: unknown = null;
+  for (let attempt = 1; attempt <= CONNECT_RETRIES; attempt++) {
+    try {
+      await pool.query('SELECT 1');
+      lastError = null;
+      break;
+    } catch (err) {
+      lastError = err;
+      if (attempt < CONNECT_RETRIES) {
+        console.log(`  MySQL not ready (attempt ${attempt}/${CONNECT_RETRIES}), retrying…`);
+        await sleep(RETRY_DELAY_MS);
+      }
+    }
+  }
+  if (lastError) {
+    throw new Error(
+      `Could not reach MySQL after ${CONNECT_RETRIES} attempts — is "docker compose up -d" running? (${lastError})`,
+    );
+  }
+  await pool.query(readFileSync(SCHEMA_PATH, 'utf-8'));
+}
