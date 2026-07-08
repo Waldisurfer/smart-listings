@@ -6,7 +6,7 @@
     <div class="container header-row">
       <RouterLink to="/" class="brand">
         <h1>Mieszkania<span class="brand-dot">.</span></h1>
-        <span class="tagline">smart real-estate listings — otodom snapshot</span>
+        <span class="tagline">inteligentne ogłoszenia nieruchomości — migawka z otodom</span>
       </RouterLink>
     </div>
   </header>

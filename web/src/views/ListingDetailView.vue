@@ -11,22 +11,23 @@ const imageFailed = ref(false);
 const pln = (n: number) => `${n.toLocaleString('pl-PL')} zł`;
 const dash = <T,>(v: T | null, fmt: (v: T) => string = String): string =>
   v === null || v === undefined ? '—' : fmt(v);
+const offerTypeLabel = (t: string) => (t === 'rent' ? 'Wynajem' : 'Sprzedaż');
 
 onMounted(async () => {
   try {
     listing.value = await fetchListing(String(route.params.id));
   } catch (err) {
-    error.value = err instanceof Error ? err.message : 'Failed to load listing';
+    error.value = err instanceof Error ? err.message : 'Nie udało się wczytać ogłoszenia';
   }
 });
 </script>
 
 <template>
-  <p v-if="error" class="state error">{{ error }} — <RouterLink to="/" class="back">back to listings</RouterLink></p>
-  <p v-else-if="!listing" class="state">Loading…</p>
+  <p v-if="error" class="state error">{{ error }} — <RouterLink to="/" class="back">powrót do ogłoszeń</RouterLink></p>
+  <p v-else-if="!listing" class="state">Ładowanie…</p>
 
   <article v-else class="detail">
-    <RouterLink to="/" class="back">← Back to listings</RouterLink>
+    <RouterLink to="/" class="back">← Powrót do ogłoszeń</RouterLink>
 
     <div class="hero">
       <img
@@ -40,9 +41,9 @@ onMounted(async () => {
 
     <h2>{{ listing.title }}</h2>
     <p class="location">
-      {{ [listing.street, listing.district, listing.city].filter(Boolean).join(', ') || 'Location unknown' }}
+      {{ [listing.street, listing.district, listing.city].filter(Boolean).join(', ') || 'Lokalizacja nieznana' }}
       · <span class="badge">{{ listing.source }}</span>
-      <span v-if="listing.is_incomplete" class="badge warn" title="Missing price, area, or city in the source data">incomplete data</span>
+      <span v-if="listing.is_incomplete" class="badge warn" title="Brak ceny, powierzchni lub miasta w danych źródłowych">niepełne dane</span>
     </p>
 
     <div class="price-line">
@@ -52,25 +53,25 @@ onMounted(async () => {
     </div>
 
     <dl class="attrs">
-      <div><dt>Area</dt><dd>{{ dash(listing.area_m2, (v) => `${v} m²`) }}</dd></div>
-      <div><dt>Rooms</dt><dd>{{ dash(listing.rooms) }}</dd></div>
-      <div><dt>Floor</dt><dd>{{ dash(listing.floor, (v) => (v === 0 ? 'parter' : String(v))) }}</dd></div>
-      <div><dt>Price / m²</dt><dd>{{ dash(listing.price_per_m2, pln) }}</dd></div>
-      <div><dt>Type</dt><dd>{{ listing.offer_type }}</dd></div>
+      <div><dt>Powierzchnia</dt><dd>{{ dash(listing.area_m2, (v) => `${v} m²`) }}</dd></div>
+      <div><dt>Pokoje</dt><dd>{{ dash(listing.rooms) }}</dd></div>
+      <div><dt>Piętro</dt><dd>{{ dash(listing.floor, (v) => (v === 0 ? 'parter' : String(v))) }}</dd></div>
+      <div><dt>Cena za m²</dt><dd>{{ dash(listing.price_per_m2, pln) }}</dd></div>
+      <div><dt>Typ oferty</dt><dd>{{ offerTypeLabel(listing.offer_type) }}</dd></div>
     </dl>
 
     <aside v-if="listing.summary_ai" class="ai-callout">
-      <span class="ai-label">✨ AI summary</span>
+      <span class="ai-label">✨ Podsumowanie AI</span>
       <p>{{ listing.summary_ai }}</p>
     </aside>
 
     <section v-if="listing.description" class="description">
-      <h3>Description</h3>
+      <h3>Opis</h3>
       <p>{{ listing.description }}</p>
     </section>
 
     <a :href="listing.source_url" target="_blank" rel="noopener noreferrer" class="source-link">
-      View original on {{ listing.source }} ↗
+      Zobacz oryginał na {{ listing.source }} ↗
     </a>
   </article>
 </template>

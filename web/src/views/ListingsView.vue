@@ -34,6 +34,16 @@ const error = ref('');
 
 const totalPages = computed(() => Math.max(1, Math.ceil(total.value / PAGE_SIZE)));
 
+// Polish plural: 1 ogłoszenie · 2-4 ogłoszenia · 0/5+/x11-14 ogłoszeń.
+const resultLabel = computed(() => {
+  const n = total.value;
+  const t = n % 100;
+  const u = n % 10;
+  const word =
+    n === 1 ? 'ogłoszenie' : u >= 2 && u <= 4 && !(t >= 12 && t <= 14) ? 'ogłoszenia' : 'ogłoszeń';
+  return `${n} ${word}`;
+});
+
 const chatOpen = ref(false);
 const interpretation = ref('');
 const degraded = ref(false);
@@ -82,7 +92,7 @@ async function load() {
     total.value = data.total;
   } catch (err) {
     if (seq !== loadSeq) return;
-    error.value = err instanceof Error ? err.message : 'Failed to load listings';
+    error.value = err instanceof Error ? err.message : 'Nie udało się wczytać ogłoszeń';
     items.value = [];
     total.value = 0;
   } finally {
@@ -134,11 +144,11 @@ onMounted(() => {
       <input
         v-model="filters.q"
         type="search"
-        placeholder="Search title or description… (balkon, garaż, Kazimierz)"
-        aria-label="Text search"
+        placeholder="Szukaj w tytule lub opisie… (balkon, garaż, Kazimierz)"
+        aria-label="Wyszukiwanie tekstowe"
       />
       <button class="chat-toggle" :class="{ open: chatOpen }" @click="chatOpen = !chatOpen">
-        ✨ Chat search
+        ✨ Wyszukiwanie AI
       </button>
     </div>
 
@@ -146,34 +156,34 @@ onMounted(() => {
 
     <p v-if="interpretation" class="interpretation" :class="{ degraded }">
       {{ interpretation }}
-      <button class="dismiss" aria-label="Dismiss" @click="interpretation = ''">✕</button>
+      <button class="dismiss" aria-label="Zamknij" @click="interpretation = ''">✕</button>
     </p>
 
     <div class="filter-row">
-      <div class="toggle" role="group" aria-label="Offer type">
+      <div class="toggle" role="group" aria-label="Typ oferty">
         <button :class="{ active: filters.offerType === 'sale' }" @click="filters.offerType = 'sale'">
-          Sale
+          Sprzedaż
         </button>
         <button :class="{ active: filters.offerType === 'rent' }" @click="filters.offerType = 'rent'">
-          Rent
+          Wynajem
         </button>
       </div>
-      <select v-model="filters.city" aria-label="City">
-        <option value="">All cities</option>
+      <select v-model="filters.city" aria-label="Miasto">
+        <option value="">Wszystkie miasta</option>
         <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
       </select>
-      <input v-model="filters.minPrice" type="number" min="0" placeholder="Min zł" aria-label="Min price" />
-      <input v-model="filters.maxPrice" type="number" min="0" placeholder="Max zł" aria-label="Max price" />
-      <input v-model="filters.minArea" type="number" min="0" placeholder="Min m²" aria-label="Min area" />
-      <input v-model="filters.maxArea" type="number" min="0" placeholder="Max m²" aria-label="Max area" />
-      <select v-model="filters.rooms" aria-label="Rooms">
-        <option value="">Rooms</option>
+      <input v-model="filters.minPrice" type="number" min="0" placeholder="Cena od (zł)" aria-label="Cena minimalna" />
+      <input v-model="filters.maxPrice" type="number" min="0" placeholder="Cena do (zł)" aria-label="Cena maksymalna" />
+      <input v-model="filters.minArea" type="number" min="0" placeholder="Pow. od (m²)" aria-label="Powierzchnia minimalna" />
+      <input v-model="filters.maxArea" type="number" min="0" placeholder="Pow. do (m²)" aria-label="Powierzchnia maksymalna" />
+      <select v-model="filters.rooms" aria-label="Pokoje">
+        <option value="">Pokoje</option>
         <option v-for="n in 5" :key="n" :value="String(n)">{{ n }}+</option>
       </select>
     </div>
 
     <p v-if="!loading && !error" class="result-count">
-      {{ total }} listing{{ total === 1 ? '' : 's' }}
+      {{ resultLabel }}
     </p>
 
     <div v-if="loading" class="grid" aria-hidden="true">
@@ -182,16 +192,16 @@ onMounted(() => {
 
     <p v-else-if="error" class="state error">{{ error }}</p>
 
-    <p v-else-if="items.length === 0" class="state">No listings match these filters.</p>
+    <p v-else-if="items.length === 0" class="state">Brak ogłoszeń pasujących do filtrów.</p>
 
     <div v-else class="grid">
       <ListingCard v-for="l in items" :key="l.id" :listing="l" />
     </div>
 
-    <nav v-if="totalPages > 1" class="pagination" aria-label="Pagination">
-      <button :disabled="filters.page <= 1" @click="filters.page--">← Prev</button>
-      <span>page {{ filters.page }} of {{ totalPages }}</span>
-      <button :disabled="filters.page >= totalPages" @click="filters.page++">Next →</button>
+    <nav v-if="totalPages > 1" class="pagination" aria-label="Paginacja">
+      <button :disabled="filters.page <= 1" @click="filters.page--">← Poprzednia</button>
+      <span>strona {{ filters.page }} z {{ totalPages }}</span>
+      <button :disabled="filters.page >= totalPages" @click="filters.page++">Następna →</button>
     </nav>
   </section>
 </template>
@@ -251,7 +261,7 @@ onMounted(() => {
 }
 
 .filter-row input[type='number'] {
-  width: 96px;
+  width: 120px; /* fits the Polish placeholders ("Cena od (zł)", "Pow. od (m²)") */
 }
 
 .toggle {

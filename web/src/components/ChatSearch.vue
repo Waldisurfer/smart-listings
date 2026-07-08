@@ -29,7 +29,7 @@ async function submit() {
     // Same degraded shape the server would produce — the box never breaks.
     emit('apply-filters', {
       filters: { q },
-      interpretation: 'AI unavailable — using plain text search.',
+      interpretation: 'AI niedostępne — używam zwykłego wyszukiwania.',
       degraded: true,
     });
   } finally {
@@ -43,12 +43,12 @@ async function submit() {
     <input
       v-model="query"
       type="text"
-      placeholder='Describe what you want… e.g. "tanie mieszkanie do wynajęcia w Krakowie, min 40m"'
-      aria-label="AI chat search"
+      placeholder='Opisz, czego szukasz… np. „tanie mieszkanie do wynajęcia w Krakowie, min 40m”'
+      aria-label="Wyszukiwanie AI"
       :disabled="busy"
     />
     <button type="submit" :disabled="busy || !query.trim()">
-      {{ busy ? 'Thinking…' : '✨ Search' }}
+      {{ busy ? 'Myślę…' : '✨ Szukaj' }}
     </button>
   </form>
 </template>
