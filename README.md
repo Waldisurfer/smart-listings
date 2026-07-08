@@ -61,6 +61,33 @@ The reasoning behind these choices is the real deliverable — see
 **[requirements/REQUIREMENTS.md](requirements/REQUIREMENTS.md)**, and the
 engineering conventions are in **[CLAUDE.md](CLAUDE.md)**.
 
+## Regenerating the dataset (optional)
+
+The scraped and AI-enriched data is committed (`data/raw/otodom/` and
+`data/enriched/listings.json`), so you never need this to run or test the app.
+But the pipeline is fully reproducible — you can step back to any stage and re-run it:
+
+```bash
+npm install                 # once, for the Node pipeline scripts below
+
+# 1 · Scrape — fetch a fresh, random ~108 offers nationwide from otodom
+npm run scrape              # → data/raw/otodom/   (network only, no API key)
+
+# 2 · Enrich — deterministic normalization + AI gap-fill and Polish summaries
+cp .env.example .env        # add your ANTHROPIC_API_KEY for the AI parts
+npm run ingest              # → data/enriched/listings.json
+                            #   (no key? it still writes the parsed fields —
+                            #    just without the AI summaries and gap-fill)
+
+# 3 · Load the fresh data into MySQL
+docker compose up -d db
+npm run seed
+```
+
+`scrape` draws offers at random across the country (54 sale + 54 rent, so both
+sides of the filter stay populated), so every run yields a different snapshot.
+`ingest` and `seed` are idempotent, so re-running them never duplicates data.
+
 ## Developing locally (optional)
 
 Prefer running the app on your machine with only the database in Docker:
@@ -81,8 +108,8 @@ npm run dev               # API + Vite dev server with hot reload
 | `npm run ai:smoke` | Live AI check — confirms your `ANTHROPIC_API_KEY` actually reaches Claude (skips cleanly if unset). |
 | `npm run typecheck` | Type-check the server. |
 
-`scrape` and `ingest` are one-time author steps (they need network access and an
-API key) that produced the committed dataset — you never need to run them.
+To rebuild the dataset from scratch instead of using the committed snapshot, see
+**[Regenerating the dataset](#regenerating-the-dataset-optional)** above.
 
 ## License
 
