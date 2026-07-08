@@ -1,0 +1,169 @@
+{
+  "id": 66768499,
+  "title": "Przytulne mieszkanie z kominkiem.",
+  "slug": "przytulne-mieszkanie-z-kominkiem-ID4v9xh",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Szewska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Miastko",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "pomorskie",
+          "fullName": "pomorskie",
+          "name": "pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/bytowski",
+          "fullName": "bytowski, pomorskie",
+          "name": "bytowski",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/bytowski/miastko",
+          "fullName": "Miastko, bytowski, pomorskie",
+          "name": "Miastko",
+          "locationLevel": "commune",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/bytowski/miastko/miastko",
+          "fullName": "Miastko, Miastko, bytowski, pomorskie",
+          "name": "Miastko",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRmdGxwYjVvZHpqaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9Dh_p0MRu_yJaigw3suTzmu8NRBp5z7yQ6hDG2guz1E/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRmdGxwYjVvZHpqaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9Dh_p0MRu_yJaigw3suTzmu8NRBp5z7yQ6hDG2guz1E/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqdjRsNmk2Ym1sbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rM-1jlSTibO-icoRreMG-ZJacuDLlE-DH5BtIVJS1IE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqdjRsNmk2Ym1sbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rM-1jlSTibO-icoRreMG-ZJacuDLlE-DH5BtIVJS1IE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InkwYTdrOXJ2NWxqMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JgRcG8cbAOG2x8EOc7xW1nxYVPG3SrAtJPj3lkG8Ca0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InkwYTdrOXJ2NWxqMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JgRcG8cbAOG2x8EOc7xW1nxYVPG3SrAtJPj3lkG8Ca0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 629621,
+    "name": "TYSZKIEWICZ NIERUCHOMOŚCI",
+    "slug": "tyszkiewicz-nieruchomosci-ID629621",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImkwOHE4MmViZGViYjEtQVBMIn0.Mw_PwJuiv1P7cXngvIWq_R3CYrl6fIlo0V2KAzTMB24/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 199900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 294,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 4445.19,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 44.97,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-27 11:11:50",
+  "createdAtFirst": "2025-04-28T17:06:32Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-27T11:11:50+02:00",
+  "specialOffer": null,
+  "shortDescription": "Oferta, którą oglądasz jest dostępna TYLKO W NASZYM BIURZE i została dokładnie sprawdzona pod względem formalno-prawnym.Przytulne mieszkanie z kominkiem w Miastku - po remoncie na ul. SzewskiejZaprasz...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Marcin Malottki",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlvazZ4MWxpd2JqazMtQVBMIn0.X8UC4WI2J-VO-RIMewbYoX4b9hSC_0Z840dCgI9gmAE/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/przytulne-mieszkanie-z-kominkiem-ID4v9xh",
+  "description": "Oferta, którą oglądasz jest dostępna <strong>TYLKO W NASZYM BIURZE</strong> i została dokładnie sprawdzona pod względem formalno-prawnym.<br><br><strong>Przytulne mieszkanie z kominkiem w Miastku - po remoncie na ul. Szewskiej</strong><br><br>Zapraszam do zapoznania się z ofertą mieszkania m3 o powierzchni 44,97 m², znajdującego w bloku mieszkalnym na czwartym piętrze, w atrakcyjnej lokalizacji w Miastku, zaledwie 3 min od centrum miasta.<br><br><strong>Atuty tego mieszkania:</strong><br><br/>\r\n<ul><br/>\r\n<li>Atrakcyjna lokalizacja: Nieruchomość położona jest zaledwie 3 minuty od ścisłego centrum, co gwarantuje błyskawiczny dostęp do pełnej infrastruktury miejskiej przy zachowaniu wygody codziennych dojazdów.</li><br/>\r\n<li>Funkcjonalny rozkład: Na powierzchni 44,97 m² zaprojektowano dwa ustawne pokoje, odrębną kuchnię, łazienkę oraz przedpokój, co zapewnia domownikom pełną swobodę i wygodny podział stref.</li><br/>\r\n<li>Dodatkowe udogodnienia: Klimat wnętrza podkreśla przepiękny kominek dekoracyjny. Do lokalu przynależy piwnica, a nowoczesna infrastruktura budynku umożliwia przyłączenie szybkiego Internetu.</li><br/>\r\n<li>Niskie koszty stałe: Czynsz za niezamieszkałe mieszkanie wynosi jedynie 294,54 zł. Dodatkowym atutem jest przejrzysty system ogrzewania, rozliczany bezpośrednio od metrażu lokalu.</li><br/>\r\n</ul><br/>\r\nMieszkanie własnościowe z odrębną KW.<br><br>Wnętrze mieszkania jest estetyczne. Ściany pomalowane w stonowanych kolorach, podłogi pokryte płytkami i panelami. Nieruchomość jest bardzo ciepła, przyłączona do miejskiej sieci ciepłowniczej. Ciepła woda pochodzi z bojlera elektrycznego. Łazienka wyposażona wannę. Kuchnia jest w pełni wyposażona.<br><br><strong>Budynek</strong><br>Budynek jest czteropiętrowym blokiem mieszkalnym, zarządzanym przez wspólnotę mieszkaniową dzięki czemu mieszkanie nie generuje dużych kosztów stałych. Klatka schodowa jest w dobrym stanie. Budynek ocieplony z wyremontowanych dachem.<br>Wejście do budynku zabezpieczone domofonem.<br><br><strong>Lokalizacja</strong><br>Mieszkanie zlokalizowane jest w Miastku, na ulicy Szewskiej. To niezwykle atrakcyjna część miasta, dobrze skomunikowana z centrum. Pod blokiem dostępne są liczne miejsca parkingowe. W pobliżu znajduje się duży sklep wielkopowierzchniowy, a także kilka mniejszych sklepów, co zwiększa komfort codziennych zakupów.<br><br><strong>Opłaty</strong><br>Stały miesięczny 294,54 czynsz wynosi jedynie. W przypadku gdy mieszkanie zamieszkałe jest przez jedną osobę czynsz wynosi 371,82 zł<br><br><strong>Świadectwo charakterystyki energetycznej:</strong><br><br/>\r\n<ul><br/>\r\n<li>Wskaźnik rocznego zapotrzebowania na energię użytkową (EU): 185.76 kWh/(m2 · rok).</li><br/>\r\n<li>Wskaźnik rocznego zapotrzebowania na energię końcową (EK): 263.21 kWh/(m2 · rok).</li><br/>\r\n<li>Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną (EP): 499.94 kWh/(m2 · rok).</li><br/>\r\n<li>Jednostkowa wielkość emisji CO2 (E CO2): 0.09 t CO2/(m2 · rok).</li><br/>\r\n<li>Udział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową (U OZE): 0 %.</li><br/>\r\n</ul><br/>\r\nSerdecznie zachęcam i zapraszam na prezentację. <strong>Nie zwlekaj, ta nieruchomość szybko znajdzie swojego nowego nabywcę!.</strong><br><br><br><strong>Chcesz poznać więcej szczegółów tej oferty? A może chcesz negocjować cenę?</strong><br><strong>Skontaktuj się z nami.</strong>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:49.090Z"
+}

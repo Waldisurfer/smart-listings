@@ -1,0 +1,162 @@
+{
+  "id": 68069136,
+  "title": "Stylowy apartament w kompleksie Bohema na Pradze",
+  "slug": "stylowy-apartament-w-kompleksie-bohema-na-pradze-ID4BBTi",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Szwedzka",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc",
+          "fullName": "Praga-Północ, Warszawa, mazowieckie",
+          "name": "Praga-Północ",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc/nowa-praga",
+          "fullName": "Nowa Praga, Praga-Północ, Warszawa, mazowieckie",
+          "name": "Nowa Praga",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im82ejRiZGx1aTFtcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xy6lqb_vH6RZxWcLALYgZK12uDItyTDfduOIyjf0iJQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im82ejRiZGx1aTFtcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xy6lqb_vH6RZxWcLALYgZK12uDItyTDfduOIyjf0iJQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtlaW1lcjczNXc5bjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6vzBg3_NtZzcEABPk-GzazLHbXPURm4HGnhF7WkgSPI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtlaW1lcjczNXc5bjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6vzBg3_NtZzcEABPk-GzazLHbXPURm4HGnhF7WkgSPI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im95cndsZ2Excmg2djItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lBr5CnPa0QxPAdHpPqL1Li9njCeCC3u3Q5D5smyzEZI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im95cndsZ2Excmg2djItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lBr5CnPa0QxPAdHpPqL1Li9njCeCC3u3Q5D5smyzEZI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 10578105,
+    "name": "Wellhome Real Estate ",
+    "slug": "wellhome-real-estate-ID10578105",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBmYW9sdDYza3lhay1BUEwifQ.4tcgiQow-XT9D2UBfX6TQeYCivELjRMah6wiTEA6Ass/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 4250,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 950,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 94.44,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 45,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:19:16",
+  "createdAtFirst": "2026-06-02T11:14:13Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:19:16+02:00",
+  "specialOffer": null,
+  "shortDescription": "Mamy przyjemność zaprezentować Państwu nowoczesne, stylowe i przestronne mieszkanie znajdujące się na Pradze-Północ w Warszawie, ul. Szwedzka 22C. Budynek z 2023r., osiedle zamknięte, ochrona\r\nENGLISH...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Oleh Bezrukavyi",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/stylowy-apartament-w-kompleksie-bohema-na-pradze-ID4BBTi",
+  "description": "<p><strong>Mamy przyjemność zaprezentować Państwu nowoczesne, stylowe i przestronne mieszkanie znajdujące się na Pradze-Północ w Warszawie, ul. Szwedzka 22C. <br></strong><strong>Budynek z 2023r., osiedle zamknięte, ochrona</strong></p><br/>\r\n<p><br><strong>ENGLISH DESCRIPTION BELOW</strong><br><br><strong>• UKŁAD</strong><br>Apartament o powierzchni 45 m², położony na 2. piętrze. Mieszkanie w pełni umeblowane i wyposażone, gotowe do zamieszkania. Składa się z przestronnego salonu, wydzielonej strefy do pracy z biurkiem, w pełni wyposażonej kuchni, łazienki oraz dużego balkonu.<br><br><strong>• LOKALIZACJA</strong><br>Nieruchomość znajduje się w nowoczesnym kompleksie Bohema (2023 r.), na zamkniętym osiedlu z ochroną. Doskonała lokalizacja - zaledwie 300 m od stacji metra Szwedzka. Szybki dojazd do centrum (ok. 10 minut) oraz Starego Miasta i Uniwersytetu (ok. 8 minut metrem).<br><br><strong>UDOGODNIENIA</strong><br> • duży balkon<br> • telewizor 65”<br> • bardzo szybki internet do 1 Gb<br> • dedykowane miejsce do pracy<br> • w pełni wyposażona kuchnia (płyta, piekarnik, zmywarka, lodówka, czajnik)<br> • pralka<br> • pojemne szafy w zabudowie<br> • osiedle zamknięte, ochrona<br> • miejsce postojowe w garażu (opcjonalnie)<br><br><strong>• CENA</strong><br>Koszt wynajmu 4250 zł <br>czynsz administracyjny i internet w wysokości 950 zł. Prąd według licznika.<br>Kaucja 5500 zł<br><br>Miejsce postojowe w garażu (opcjonalnie): 300 zł<br><br>Numer oferty: 782058<br><br><strong>We speak PL/UKR/EN/RU</strong><br><strong>Zapraszamy do kontaktu z naszym biurem!</strong><br><br>⸻<br><br><strong>We are pleased to present a modern, stylish, and spacious apartment located in Praga-Północ, Warsaw, at Szwedzka 22C. Available from April 30.<br>Building from 2023, gated community with security</strong><br><br><strong>• LAYOUT</strong><br>The apartment has an area of 45 m² and is located on the 2nd floor. Fully furnished and equipped, ready to move in. It consists of a spacious living area, a dedicated workspace with a desk, a fully equipped kitchen, a bathroom, and a large balcony.<br><br><strong>• LOCATION</strong><br>The property is located in the modern Bohema complex (built in 2023), within a gated community with security. Excellent location - only 300 meters from Szwedzka metro station. Quick access to the city center (approx. 10 minutes) and Old Town/University (approx. 8 minutes by metro).<br><br><strong>• AMENITIES</strong><br> • large balcony<br> • 65-inch TV<br> • high-speed internet up to 1 Gb<br> • dedicated workspace<br> • fully equipped kitchen (hob, oven, dishwasher, fridge, kettle)<br> • washing machine<br> • built-in wardrobes<br> • gated community with security<br> • parking space in underground garage (optional)<br><br><strong>• PRICE</strong><br>Monthly rent: 4250 PLN<br>Administrative fee and internet: 950 PLN<br>Electricity charged according to usage<br>Security deposit: 5500 PLN</p><br/>\r\n<p>Parking space in underground garage (optional): 300 PLN<br><br><strong>Offer number: 782058</strong><br><br><strong>We speak PL/UKR/EN/RU</strong><br><strong>Feel free to contact our office!</strong></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:24.695Z"
+}

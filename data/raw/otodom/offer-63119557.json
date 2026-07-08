@@ -1,0 +1,153 @@
+{
+  "id": 63119557,
+  "title": "kawalerka od właściciela na ul.Sołtysowickiej",
+  "slug": "kawalerka-od-wlasciciela-na-ul-soltysowickiej-ID4gQhn",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Sołtysowicka",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Wrocław",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw",
+          "fullName": "Wrocław, dolnośląskie",
+          "name": "Wrocław",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/psie-pole",
+          "fullName": "Psie Pole, Wrocław, dolnośląskie",
+          "name": "Psie Pole",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/psie-pole/soltysowice",
+          "fullName": "Sołtysowice, Psie Pole, Wrocław, dolnośląskie",
+          "name": "Sołtysowice",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc4aTl6dDNscWd5cS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S44QuoFhYeQqXovZEZ-qan6krlWrzDcCHEHh0qr3ZvE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc4aTl6dDNscWd5cS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S44QuoFhYeQqXovZEZ-qan6krlWrzDcCHEHh0qr3ZvE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNmaXJiYWN0NDhsMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.aj4L8i1t2gOhm8Ddx7sweW-fE4nbvRSLecrjPDepyBk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNmaXJiYWN0NDhsMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.aj4L8i1t2gOhm8Ddx7sweW-fE4nbvRSLecrjPDepyBk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlwbm5vZDBnZXhsODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rbSGLsz6ZeB_6c1M01Nk7_sI29p4BxQhL-YoWVDHSGU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlwbm5vZDBnZXhsODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rbSGLsz6ZeB_6c1M01Nk7_sI29p4BxQhL-YoWVDHSGU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 19,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 90,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 20,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:27:55",
+  "createdAtFirst": "2022-05-24T13:13:50Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:27:55+02:00",
+  "specialOffer": null,
+  "shortDescription": "NA ULICY SOŁTYSOWICKIEJ 21c . OBOK SZPITALA WOJEWÓDZKIEGO I UNIWERSYTETU WROCŁAWSKIEGO NOWA ,KOMFORTOWA KAWALERKA W PEŁNI WYKOŃCZONA I WYPOSAŻONA (PEŁNE WYPOSAŻENIE KUCHNI ŁACZNIE ZE ZMYWARKĄ I SPRZĘT...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Mirek",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/kawalerka-od-wlasciciela-na-ul-soltysowickiej-ID4gQhn",
+  "description": "<p>NA ULICY SOŁTYSOWICKIEJ 21c . OBOK SZPITALA WOJEWÓDZKIEGO I UNIWERSYTETU WROCŁAWSKIEGO NOWA ,KOMFORTOWA KAWALERKA W PEŁNI WYKOŃCZONA I WYPOSAŻONA (PEŁNE WYPOSAŻENIE KUCHNI ŁACZNIE ZE ZMYWARKĄ I SPRZĘTAMI) W APARTAMENTOWCU Z 2022R NA UL.SOŁTYSOWICKIEJ 21C. BARDZO DOBRA KOMUNIKACJA MIEJSKA Z CENTRUM WROCŁAWIA. LOKAL POSIADA DUŻĄ SZAFĘ WNĘKOWĄ ORAZ PEŁNOFUNCYJNĄ ŁAZIENKĘ Z PRALKĄ I KABINĄ PRYSZNICOWĄ .DODATKOWO MOŻLIWE MIEJSCE POSTOJOWE W GARAŻU PODZIEMNYM (PROMOCYJNIE ZA 100 ZŁ). OPŁATY OBEJMUJĄ :1800 ZŁ + 550 ZŁ CZYNSZ +150ZŁ PRĄD. Całość opłat : 2500 zł.</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:11.377Z"
+}

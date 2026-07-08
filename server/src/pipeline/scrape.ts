@@ -17,18 +17,24 @@ const RAW_DIR = join(REPO_ROOT, 'data', 'raw', 'otodom');
 const FAILED_DIR = join(REPO_ROOT, 'data', 'raw', 'failed');
 
 const BASE_URL = 'https://www.otodom.pl';
-// Kraków for demo density (Example A journey) + Warszawa for filter variety.
-const CITIES: Record<string, string> = {
-  krakow: 'malopolskie/krakow/krakow/krakow',
-  warszawa: 'mazowieckie/warszawa/warszawa/warszawa',
-};
+// Scope: the whole country. Random page offsets across the national result set
+// (thousands of pages) return offers from random cities — that is how "random
+// ~100" is met. Each offer's city comes from its own payload, so no city is
+// fixed here; the committed snapshot spans ~40 cities nationwide.
+//
+// The ONE dimension deliberately held even is offer type: otodom's national
+// inventory is ~6× more sale than rent, so a proportional draw would leave a
+// dozen rentals and a lopsided filter. Collecting TARGET_PER_TYPE of each keeps
+// both sides of the sale/rent filter well-populated. Cities stay fully random.
+const SCOPE = 'cala-polska';
 const OFFER_TYPES = [
   { path: 'sprzedaz', offerType: 'sale' },
   { path: 'wynajem', offerType: 'rent' },
 ] as const;
 
-const TARGET_PER_COMBO = 27; // 2 cities × 2 types × 27 ≈ 108 → ≥100 after failures
-const MAX_SEARCH_PAGES = 4;
+const TARGET_PER_TYPE = 54; // balanced by design: 2 offer types × 54 ≈ 108 → ≥100 after failures
+const SAMPLE_PAGES = 8; // random page offsets pooled per type, then shuffled
+const OVER_COLLECT = TARGET_PER_TYPE * 2; // stop early once there is plenty to shuffle from
 
 const HEADERS = {
   'User-Agent':
@@ -70,22 +76,56 @@ function extractPageProps(html: string): Record<string, any> {
   return JSON.parse(match[1]).props.pageProps;
 }
 
-/** Paginate one city×type search until we have TARGET_PER_COMBO unique offers. */
-async function collectSearchItems(cityPath: string, typePath: string): Promise<SearchItem[]> {
+/**
+ * `count` distinct random page numbers in [2, totalPages]. Page 1 is excluded
+ * on purpose: it is the promoted, top-of-list block and is fetched separately
+ * only as a size probe, so it must never re-enter the random sample.
+ */
+function randomPages(totalPages: number, count: number): number[] {
+  if (totalPages < 2) return []; // only page 1 exists — nothing to sample past the promoted block
+  const span = totalPages - 1; // pages 2..totalPages
+  const picked = new Set<number>();
+  const cap = Math.min(count, span);
+  while (picked.size < cap) picked.add(2 + Math.floor(Math.random() * span));
+  return [...picked];
+}
+
+/** Fisher-Yates shuffle in place. */
+function shuffle<T>(arr: T[]): T[] {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j]!, arr[i]!];
+  }
+  return arr;
+}
+
+/**
+ * Random sampling for one offer type at the given scope. Page 1 reveals the
+ * result size; we then pool items from SAMPLE_PAGES RANDOM offsets across pages
+ * 2..totalPages and shuffle. "random ~100" means the sample must not be the
+ * first (promoted-heavy) results — random page offsets over the national range
+ * spread it across the whole country. Page 1 is never sampled, so the promoted
+ * block never biases the set.
+ */
+async function collectSearchItems(scopePath: string, typePath: string): Promise<SearchItem[]> {
+  const pageUrl = (p: number) =>
+    `${BASE_URL}/pl/wyniki/${typePath}/mieszkanie/${scopePath}?page=${p}`;
+
+  const firstSa = extractPageProps(await fetchHtml(pageUrl(1)))?.data?.searchAds;
+  const totalPages = Math.max(1, firstSa?.pagination?.totalPages ?? 1);
+  await sleep();
+
   const byId = new Map<number, SearchItem>(); // promoted offers repeat across pages — dedupe by id
-  for (let page = 1; page <= MAX_SEARCH_PAGES && byId.size < TARGET_PER_COMBO; page++) {
-    const url = `${BASE_URL}/pl/wyniki/${typePath}/mieszkanie/${cityPath}?page=${page}`;
+  for (const page of randomPages(totalPages, SAMPLE_PAGES)) {
+    if (byId.size >= OVER_COLLECT) break;
     const items: SearchItem[] =
-      extractPageProps(await fetchHtml(url))?.data?.searchAds?.items ?? [];
-    if (items.length === 0) break; // ran out of results
-    for (const item of items) {
-      if (byId.size >= TARGET_PER_COMBO) break;
-      if (item?.id && item?.slug) byId.set(item.id, item);
-    }
-    console.log(`  page ${page}: +${items.length} items (${byId.size} unique)`);
+      extractPageProps(await fetchHtml(pageUrl(page)))?.data?.searchAds?.items ?? [];
+    for (const item of items) if (item?.id && item?.slug) byId.set(item.id, item);
+    console.log(`  page ${page}/${totalPages}: +${items.length} items (${byId.size} unique)`);
     await sleep();
   }
-  return [...byId.values()];
+
+  return shuffle([...byId.values()]).slice(0, TARGET_PER_TYPE);
 }
 
 /** Detail page visit — ONLY for the full description (search items carry the rest). */
@@ -116,34 +156,31 @@ async function main() {
   let skipped = 0;
   let noDescription = 0;
 
-  for (const [city, cityPath] of Object.entries(CITIES)) {
-    for (const { path, offerType } of OFFER_TYPES) {
-      const combo = `${city}/${path}`;
-      console.log(`\n▶ ${combo}`);
-      const items = await collectSearchItems(cityPath, path);
-      counts[combo] = 0;
+  for (const { path, offerType } of OFFER_TYPES) {
+    console.log(`\n▶ ${offerType} (nationwide)`);
+    const items = await collectSearchItems(SCOPE, path);
+    counts[offerType] = 0;
 
-      for (const item of items) {
-        const file = join(RAW_DIR, `offer-${item.id}.json`);
-        if (existsSync(file)) {
-          skipped++; // resume-safe: re-runs only fetch what's missing
-          continue;
-        }
-        const description = await fetchDescription(item);
-        if (description === null) noDescription++;
-        writeFileSync(
-          file,
-          JSON.stringify(
-            { ...item, description, offerType, city, scrapedAt: new Date().toISOString() },
-            null,
-            2,
-          ),
-        );
-        counts[combo]++;
-        await sleep();
+    for (const item of items) {
+      const file = join(RAW_DIR, `offer-${item.id}.json`);
+      if (existsSync(file)) {
+        skipped++; // resume-safe: re-runs only fetch what's missing
+        continue;
       }
-      console.log(`  saved ${counts[combo]} offers`);
+      const description = await fetchDescription(item);
+      if (description === null) noDescription++;
+      writeFileSync(
+        file,
+        JSON.stringify(
+          { ...item, description, offerType, scrapedAt: new Date().toISOString() },
+          null,
+          2,
+        ),
+      );
+      counts[offerType]++;
+      await sleep();
     }
+    console.log(`  saved ${counts[offerType]} offers`);
   }
 
   const total = Object.values(counts).reduce((sum, n) => sum + n, 0);

@@ -1,0 +1,183 @@
+{
+  "id": 68156804,
+  "title": "Premium Apartament | Wyjątkowy Taras | Klimatyzacj",
+  "slug": "premium-apartament-wyjatkowy-taras-klimatyzacj-ID4BYHi",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Długa",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Wrocław",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw",
+          "fullName": "Wrocław, dolnośląskie",
+          "name": "Wrocław",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/stare-miasto",
+          "fullName": "Stare Miasto, Wrocław, dolnośląskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/stare-miasto/szczepin",
+          "fullName": "Szczepin, Stare Miasto, Wrocław, dolnośląskie",
+          "name": "Szczepin",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY2d2ZjMnMzeDhxOTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oak8LS76J9waVBgTSPHscPumlh3_BZlqkU9A80KNvYk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY2d2ZjMnMzeDhxOTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oak8LS76J9waVBgTSPHscPumlh3_BZlqkU9A80KNvYk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNwdnoxa3Axamh5bTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vMDC8bJihq-mKhIPbR5b_aCdR59m4ZZCLrLosADOP_U/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNwdnoxa3Axamh5bTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vMDC8bJihq-mKhIPbR5b_aCdR59m4ZZCLrLosADOP_U/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVxMzFmOWkzb21yYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0BzcKoQowMGNI8fdDeOf0_V8TLkgsszuXjKzzh4kzGo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVxMzFmOWkzb21yYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0BzcKoQowMGNI8fdDeOf0_V8TLkgsszuXjKzzh4kzGo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 12,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 2324434,
+    "name": "KONCEPT Nieruchomości",
+    "slug": "koncept-nieruchomosci-ID2324434",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNsOGczbTU5N2NtYS1BUEwifQ.iMaEG3KxVLkXhrd-yQTw25uwMpkKqBNohg1a-aUXToo/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 5500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 78.57,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 70,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "EIGHTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:25:26",
+  "createdAtFirst": "2026-06-30T12:25:20Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia Apartament 2-pokojowy, blisko ścisłego centrum, 15 min pieszo od Rynku. Prestiżowe osiedle Odra House przy ul. Długiej jest monitorowane i chronione 24h/7 z portierem oraz strefą fitness....",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Darya Kravchenko",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI3MWt4cGRudm80eTEtQVBMIn0.ggVale0fDGwGrmzZCyeu0iuP5qHfepDFnoWZLOwiJZY/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/premium-apartament-wyjatkowy-taras-klimatyzacj-ID4BYHi",
+  "description": "<p>Do wynajęcia Apartament 2-pokojowy, blisko ścisłego centrum, 15 min pieszo od Rynku. Prestiżowe osiedle Odra House przy ul. Długiej jest monitorowane i chronione 24h/7 z portierem oraz strefą fitness. Apartament usytuowany na najwyższym piętrze w apartamentowcu. W pobliżu wszystkie niezbędne punkty usługowo-handlowe oraz przystanki komunikacji miejskiej.</p><p>UKŁAD POMIESZCZEŃ:<br/>Apartament o powierzchni 70 m2:<br/>- przedpokój,<br/>- salon z aneksem kuchennym,<br/>- sypialnia,<br/>- łazienka z toaletą.</p><p>Do apartamentu przynależy taras, komórka lokatorska oraz miejsce w garażu podziemnym.</p><p>STANDARD I WYPOSAŻENIE:<br/>Apartament w pełni umeblowany i wyposażony. W środku znajdziesz wszystkie niezbędne meble oraz sprzęty: pralkę, suszarkę do ubrań, zmywarkę, lodówkę, kuchenkę, piekarnik i telewizor.<br/>Budynek z własną siłownią, portiernią i ochroną.</p><p>OPŁATY:<br/>Czynsz najmu: 5500 zł<br/>Opłaty eksploatacyjne: ok. 1250 zł (w tym zaliczki na media)<br/>Miejsce postojowe: W CENIE!<br/>Wymagana kaucja: 8000 zł</p><p>Zapraszam na prezentację.<br/>Apartament dostępny od zaraz!</p><p>tel: 514-622-081<br/>Darya Kravchenko<br/>KONCEPT Nieruchomości</p><p>Ogłoszenie nie stanowi oferty w rozumieniu przepisów kodeksu cywilnego, a dane w nim zawarte mogą podlegać aktualizacji.</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:27.252Z"
+}

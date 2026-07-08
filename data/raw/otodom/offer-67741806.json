@@ -1,0 +1,175 @@
+{
+  "id": 67741806,
+  "title": "Czteropokojowe z garażem i ogródkiem.",
+  "slug": "czteropokojowe-z-garazem-i-ogrodkiem-ID4AeJM",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Klimontowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wawer",
+          "fullName": "Wawer, Warszawa, mazowieckie",
+          "name": "Wawer",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wawer/wawer",
+          "fullName": "Wawer, Wawer, Warszawa, mazowieckie",
+          "name": "Wawer",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA0cWxjdjl2eWNtYy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.RwOuph-mcVovOM5zJkjwCvER-0nSVUewEDXu1wuwwoo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA0cWxjdjl2eWNtYy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.RwOuph-mcVovOM5zJkjwCvER-0nSVUewEDXu1wuwwoo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVncnNzdjl0dDB6ajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Bh9wFNbbykVcNcVy_thm-aDIZHY41kqQO35ZnmuKvhU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVncnNzdjl0dDB6ajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Bh9wFNbbykVcNcVy_thm-aDIZHY41kqQO35ZnmuKvhU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI4MGZzNXg3bjBzZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1WKy280frat7CW7z5z2JYJsx-D-fPulDkBg0kD2mbBs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI4MGZzNXg3bjBzZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1WKy280frat7CW7z5z2JYJsx-D-fPulDkBg0kD2mbBs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 16,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 4441600,
+    "name": "MAXON Nieruchomości",
+    "slug": "maxon-nieruchomosci-ID4441600",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InliZG5xeHJtZWQ4cDMtQVBMIn0.E0ERYShMTu3Eg2yCN0M5GDUAcjtDwYs9Vx6EUabTucI/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 7500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 76.27,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 98.34,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-23 16:37:01",
+  "createdAtFirst": "2026-02-23T16:36:50Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Polecam szczeg&oacute;lnie, starannie urządzone mieszkanie z ogr&oacute;dkiem w willowej dzielnicy Wawra. Mieszkanie w kameralnym budynku - por&oacute;wnywalne z małym domkiem lub segmentem. Powierzch...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Marek Karolak",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpjaDd3dDIyeWM2bzEtQVBMIn0.vUTwOcteUADx6qlvfdDv6nATx1h13nH22ZE8H6_xrtg/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/czteropokojowe-z-garazem-i-ogrodkiem-ID4AeJM",
+  "description": "<p><p>Polecam szczeg&oacute;lnie, <strong>starannie urządzone </strong>mieszkanie<strong> z ogr&oacute;dkiem</strong> w willowej dzielnicy Wawra. Mieszkanie w kameralnym budynku - <strong>por&oacute;wnywalne z małym domkiem</strong> lub segmentem. </p><p>Powierzchnie odpowiednio:</p><ul><li><strong>przestronny pok&oacute;j dzienny</strong> z kominkiem i w pełni wyposażoną kuchnią - 50,4 mkw</li><li>sypialnia - 12,15 mkw</li><li>sypialnia - 11,39 mkw</li><li>gabinet (mogący pełnić r&oacute;wnież funkcję sypialni) - 8,91 mkw</li><li>łazienka z wanną - 4,95 mkw</li><li>łazienka z prysznicem - 1,8 mkw</li><li>pomieszczenie gospodarcze mieszczące piec CO - 4,01 mkw</li><li>holl z zabudowana szafą - 2,75 mkw</li><li>korytarz - 1,98 mkw</li><li><strong>garaż </strong>- 15,12 mkw</li></ul><p><strong>Na podjeździe</strong> przed garażem <strong>miejsce na drugie auto</strong>. <br/></p><br/><strong>Budynek:</strong><br/><p>Kameralny budynek. W sąsiedztwie przeważa niska zabudowa oraz domy jednorodzinne.&nbsp;<br/></p><br/><strong>Lokalizacja:</strong><br/><p>Willowa, cicha część Wawra. Blisko przystanki komunikacji miejskiej: autobusy, SKM i KM.</p><p>Polecam i zapraszam do kontaktu.</p><br/><strong>English description:</strong><br/><p>I highly recommend this <strong>carefully decorated</strong> apartment <strong>with a garden</strong> in the residential district of Wawer. The apartment is located in an intimate building - <strong>comparable to a small house</strong> or a semi-detached house. </p><p>The areas are as follows:</p><ul><li><strong>spacious living room</strong> with a fireplace and a fully equipped kitchen - 50.4 sq. m.>sq m</li><li>bedroom - 12.15 msq m</li><li>bedroom - 11.39 msq m</li><li>study (can also be used as a bedroom) - 8.91 sq msq m</li><li>bathroom with bathtub - 4.95 sq msq m</li><li>bathroom with shower - 1.8 sq msq m</li><li>utility room with central heating boiler - 4.01 sq msq m</li><li>hall with built-in wardrobe - 2.75 sq msq m</li><li>corridor - 1.98 sq. m. sq. m.</li><li><strong>garage </strong>- 15.12 sq. m. sq. m.</li></ul><p><strong>In the driveway</strong> in front of the garage <strong>there is space for a second car</strong>. <br/></p><br/><br/><strong>Building:</strong><br/><p>An intimate building. The neighborhood is dominated by low-rise buildings and single-family houses. <br/></p><br/><strong>Location:</strong><p>A quiet, residential area of Wawer. Close to public transport stops: buses, SKM and KM trains.</p><p>I highly recommend it and invite you to contact me.</p><strong>Struktura kosztów</strong><br/>Czynsz administracyjny: <strong></strong><br/>Ogrzewanie: <strong>Indywidualna umowa</strong><br/>Woda: <strong>Dodatkowo płatny</strong><br/>Prąd: <strong>Indywidualna umowa</strong><br/>Gaz: <strong>Indywidualna umowa</strong><br/>Internet: <strong>Indywidualna umowa</strong><br/>TV kablowa/sat.: <strong>Indywidualna umowa</strong><br/>Miejsce postojowe: <strong>W czynszu najmu</strong><br/><br/><strong>Podstawowe</strong><br/>Czynsz najmu : <strong> 7 500 PLN</strong><br/>Powierzchnia : <strong> 98,34 mkw.</strong><br/>Liczba pokoi : <strong>4</strong><br/>Piętro : <strong>0</strong><br/><br/><strong>Opłaty</strong><br/>Kaucja : <strong>15000</strong><br/>Czynsz adm. : <strong>Brak</strong><br/>Woda : <strong>Dodatkowo płatny</strong><br/>Prąd : <strong>Indywidualna umowa</strong><br/>Ogrzewanie : <strong>Indywidualna umowa</strong><br/>Gaz : <strong>Indywidualna umowa</strong><br/>Internet : <strong>Indywidualna umowa</strong><br/>TV Kablowa / sat. : <strong>Indywidualna umowa</strong><br/>Miejsce postojowe : <strong>W czynszu najmu</strong><br/><br/><strong>Podstawowe informacje</strong><br/>Rodzaj : <strong>Rozkładowe</strong><br/>Stan lokalu : <strong>Bardzo dobry</strong><br/>Umeblowanie : <strong>Tak</strong><br/>Salon : <strong>30 mkw.</strong><br/>Kuchnia : <strong>Aneks</strong><br/>Liczba łazienek : <strong>2</strong><br/><br/><strong>Budynek</strong><br/>Rok budowy : <strong>2002</strong><br/>Stan budynku : <strong>Bardzo dobry</strong><br/>Winda : <strong>Nie</strong><br/>Udog. dla niepełnosprawnych : <strong>Tak</strong><br/>Teren ogrodzony : <strong>Tak</strong><br/>Ochrona : <strong>Nie</strong><br/><br/><strong>Powierzchnia dodatkowa</strong><br/>Balkon : <strong>Taras, </strong><br/>Liczba tarasów : <strong>1</strong><br/>Piwnica : <strong>Nie</strong><br/>Komórka : <strong>Tak</strong><br/>Ogród : <strong>Tak</strong><br/><br/><strong>Media i wyposażenie</strong><br/>Klimatyzacja : <strong>Nie</strong><br/>Ogrzewanie : <strong>Gazowe, </strong><br/>Ciepła woda : <strong>Piec gazowy, </strong><br/>Gaz : <strong>Tak</strong><br/>Wyposażenie łazienek : <strong>Grzejnik drabinkowy, Pralka, Prysznic, Wanna, WC, </strong><br/>Wyposażenie kuchni : <strong>Lodówka, Meble, Mikrofalówka, Okap, Piekarnik, Płyta grzewcza gazowa, Zmywarka, </strong><br/><br/><strong>Miejsca parkingowe</strong><br/>Garaż : <strong>1</strong><br/>Parking naziemny : <strong>1</strong><br/><br/><strong>Infrastruktura</strong><br/>Dostępne w okolicy : <strong>Las, Restauracja, Rzeka, </strong><br/><br/><strong>Komunikacja</strong><br/>Transport publiczny : <strong>Autobus, Kolej, </strong><br/><strong>Świadectwo charakterystyki energetycznej</strong><br/>Wskaźnik rocznego zapotrzebowania na energię użytkową: <strong> 153,0500 kWh/(m2 rok)</strong><br/>Wskaźnik rocznego zapotrzebowania na energię końcową: <strong> 205,2200 kWh/(m2 rok)</strong><br/>Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną: <strong> 226,6200 kWh/(m2 rok)</strong><br/>Jednostkowa wielkość emisji CO2 : <strong> 0,0400 t CO2/(m2 rok)</strong><br/>Udział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową: <strong> 0,0000 %</strong><br/><br/>Nasze usługi świadczymy w oparciu o umowę pośrednictwa, która gwarantuje Państwu <strong>bezpieczeństwo transakcji oraz pełną opiekę naszego doradcy przez cały okres trwania współpracy</strong>. Za wykonaną usługę pobieramy wynagrodzenie zgodnie z warunkami uzgodnionymi w zawartej umowie (za wyjątkiem umów zawartych w programie 0%).<br/>Prezentowane oferty nie stanowią oferty w rozumieniu Kodeksu Cywilnego. Staramy się, aby informacje dotyczące oferowanych obiektów były możliwie dokładne, kompletne i aktualne. Ze względu na okoliczności, iż informacje te pochodzą od osób trzecich i część z nich nie zawsze daje się zweryfikować, MAXON Nieruchomości Sp. z o.o. nie ponosi odpowiedzialności za ich dokładność, kompletność i aktualność</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:05.505Z"
+}

@@ -1,0 +1,142 @@
+{
+  "id": 68177339,
+  "title": "Duże, Ustawne Mieszkanie, 3 pokoje -75 m2, Centrum Gdańska - od zaraz!",
+  "slug": "duze-ustawne-mieszkanie-3-pokoje-75-m2-centrum-gdanska-od-zaraz-ID4C42w",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Tarasy",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Gdańsk",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "pomorskie",
+          "fullName": "pomorskie",
+          "name": "pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/gdansk/gdansk/gdansk",
+          "fullName": "Gdańsk, pomorskie",
+          "name": "Gdańsk",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/gdansk/gdansk/gdansk/siedlce",
+          "fullName": "Siedlce, Gdańsk, pomorskie",
+          "name": "Siedlce",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImExN2Z0bGM1MXU3czMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oSaaXJaf42rz2x3ZCE1wEFtKAuQewmle0M-w06RWJi0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImExN2Z0bGM1MXU3czMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oSaaXJaf42rz2x3ZCE1wEFtKAuQewmle0M-w06RWJi0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoyZ3NkbTVkczM3eTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bRdEg0Lzts-MTDb0f4Zk_DPv9LBheaqCpJBdLW0Ej0w/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoyZ3NkbTVkczM3eTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bRdEg0Lzts-MTDb0f4Zk_DPv9LBheaqCpJBdLW0Ej0w/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZlbjR0bzc3ZjN3cDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vyeiizw4Lc_OvmCh-8C85WOFNjSTADtU2RyslMqb598/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZlbjR0bzc3ZjN3cDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vyeiizw4Lc_OvmCh-8C85WOFNjSTADtU2RyslMqb598/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 6,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 835000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 11091.92,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 75.28,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:33:13",
+  "createdAtFirst": "2026-07-06T15:31:26Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Szukasz idealnego miejsca do zamieszkania lub inwestycji? Mam dla Ciebie coś wyjątkowego!Na sprzedaż! Gotowe do zamieszkania, Mieszkania w pięknej kamienicy, Centrum Gdańska Mieszkanie - 75.28 m2 , 3 ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Szafran Nieruchomości",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/duze-ustawne-mieszkanie-3-pokoje-75-m2-centrum-gdanska-od-zaraz-ID4C42w",
+  "description": "<p><b>Szukasz idealnego miejsca do zamieszkania lub inwestycji? Mam dla Ciebie coś wyjątkowego!</b></p><p><b>Na sprzedaż! Gotowe do zamieszkania, Mieszkania w pięknej kamienicy, Centrum Gdańska </b></p><p><b>Mieszkanie</b> - <b>75.28 m2 , 3 pokoje , osobna duża kuchnia z oknem - Gdańsk - ul . Tarasy </b></p><p>Świetnie skomunikowane, blisko <b>Starego Miasta i Centrum Gdańska, </b> pełna infrastruktura handlowo - usługowa, szkoły, przedszkola </p><ul><li>Przestronny, ustawny salon - <b>22,5 m2</b></li><li>Przestronna, ustawna sypialnia - <b>16,5 m2</b></li><li>Przestronna, ustawna sypialnia - <b>12,5 m2</b></li><li>Przestronna, ustawna z dużym oknem kuchnia - <b>1</b><b>0 m2</b></li><li>Łazienka z oknem - <b>4,5</b><b> m2</b></li><li>Przedpokój z miejscem na dużą szafę - <b>9</b><b> m2</b></li></ul><p>Do mieszkania przynależy duża - <b>1</b><b>1m2 - sucha, ciepła piwnica </b></p><p>Mieszkanie Idealne dla, par, rodzin z dziećmi, biuro , kancelaria jak i inwestorów szukających pewnej lokaty kapitału.</p><p>Nie przegap tej okazji! Umów się na prezentację .</p><p></p><p>Karol Szafraniec</p><p>Zapraszam na Prezentację</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:08.771Z"
+}

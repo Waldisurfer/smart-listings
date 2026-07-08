@@ -1,0 +1,167 @@
+{
+  "id": 68066901,
+  "title": "Młyny Mogilska | Wykończona kawalerka premium",
+  "slug": "mlyny-mogilska-wykonczona-kawalerka-premium-ID4BBjf",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Mogilska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+          "fullName": "Grzegórzki, Kraków, małopolskie",
+          "name": "Grzegórzki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki/osiedle-oficerskie",
+          "fullName": "Osiedle Oficerskie, Grzegórzki, Kraków, małopolskie",
+          "name": "Osiedle Oficerskie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYwbHRleDc0c29pczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.01_Xsljsy7b1nCN6mkW9Pdx69kapeCcKrHbXLAzoNHA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYwbHRleDc0c29pczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.01_Xsljsy7b1nCN6mkW9Pdx69kapeCcKrHbXLAzoNHA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFlcG0yeWVzd2RsNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qYdqjnJNCqZPRdkZ-wAQHlUpQLHAbIlgEERXGZblJiM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFlcG0yeWVzd2RsNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qYdqjnJNCqZPRdkZ-wAQHlUpQLHAbIlgEERXGZblJiM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVqNHVwN3lpZWwwazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6WCCT4g7-2-0_Pm8n3HR7_KIuS3fFgypMyFHLBNEZ9Y/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVqNHVwN3lpZWwwazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6WCCT4g7-2-0_Pm8n3HR7_KIuS3fFgypMyFHLBNEZ9Y/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 8855274,
+    "name": "MB ESTATES",
+    "slug": "mb-estates-ID8855274",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQxdHA2MzZ4dDFmdDMtQVBMIn0.005vhBYPUwCP1s-YDZ9xsTv98IH26zdONJPifMilDx4/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 799000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 987,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 26456.95,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 30.2,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 13:00:13",
+  "createdAtFirst": "2026-06-01T17:04:56Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T13:00:21+02:00",
+  "specialOffer": null,
+  "shortDescription": "MB Estates przedstawia, na sprzedaż stylowe mieszkanie o powierzchni 30,20 m² położone na 3. piętrze prestiżowej inwestycji Młyny Mogilska przy ul. Mogilskiej.Lokal został wykończony w wysokim standar...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Beata",
+    "lastName": "Dybus Grzech",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Beata Chwastek",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mlyny-mogilska-wykonczona-kawalerka-premium-ID4BBjf",
+  "description": "MB Estates przedstawia, na sprzedaż stylowe mieszkanie o powierzchni <strong>30,20 m² </strong>położone na 3. piętrze prestiżowej inwestycji Młyny Mogilska przy ul. Mogilskiej.<br>Lokal został wykończony w wysokim standardzie i jest gotowy do zamieszkania od zaraz. <br>Funkcjonalny układ pozwolił wydzielić komfortową strefę do spania, dzięki czemu mieszkanie jest znacznie bardziej praktyczne niż klasyczna kawalerka.<br><br><strong>W skład mieszkania wchodzą:</strong><br>• pokój dzienny z aneksem kuchennym,<br>• strefa sypialniana,<br>• łazienka,<br>• przestronny balkon&nbsp;<br>Dodatkowym atutem jest miejsce postojowe w garażu podziemnym (dodatkowo płatne 110 000 zł).<br><br><strong>Młyny Mogilska</strong> to jedna z najbardziej pożądanych inwestycji w Krakowie, oferująca mieszkańcom m.in. salę kinową, fitness, coworking, klub mieszkańca, pokój gier, rowerownię oraz strefy relaksu.<br><br><strong>Świetna lokalizacja</strong> – tuż przy komunikacji miejskiej, w sąsiedztwie Parku Lotników, Tauron Areny i zaledwie kilka minut od centrum miasta.<br>Idealna propozycja dla singla, pary lub inwestora szukającego gotowego mieszkania w topowej lokalizacji.<br><br>Zapraszam do kontaktu i na prezentację.<br><br>\"Opis oferty zawarty na stronie internetowej sporządzany jest na podstawie oględzin nieruchomości oraz informacji uzyskanych od właściciela, może podlegać aktualizacji i nie stanowi oferty określonej w art. 66 i następnych K.C\"<br><br>mieszkanie na sprzedaż Kraków, mieszkanie inwestycyjne, nieruchomość Grzegórzki, balkon, dobra lokalizacja, blisko komunikacji, mieszkanie pod wynajem, okazja<br/>\n<br/>\nMB Estates presents a stylish <strong>30.20 m²</strong> apartment for sale, located on the 3rd floor of the prestigious Młyny Mogilska investment at Mogilska Street.<br>The property has been finished to a high standard and is ready for immediate occupancy.<br>The functional layout allows for the creation of a comfortable sleeping area, making the apartment much more practical than a classic studio apartment.<br><br><strong>The apartment includes:</strong><br>• living room with kitchenette,<br>• bedroom area,<br>• bathroom,<br>• spacious balcony<br>An additional advantage is a parking space in the underground garage (additional fee: PLN 110,000).<br><br><strong>Młyny Mogilska</strong> is one of the most desirable developments in Krakow, offering residents a cinema, fitness center, coworking space, a residents' club, games room, bicycle storage, and relaxation areas, among other amenities.<br><br><strong>Great location</strong> – right next to public transport, near Park Lotników, Tauron Arena and just a few minutes from the city center.<br>An ideal proposition for a single person, a couple or an investor looking for a ready-made apartment in a top location.<br><br>Please contact me and arrange a presentation.<br><br>\"The description of the offer contained on the website is prepared based on the inspection of the property and information obtained from the owner, may be updated and does not constitute an offer specified in Article 66 et seq. of the Civil Code\"<br><br>apartment for sale Krakow, investment apartment, real estate Grzegórzki, balcony, good location, close to public transport, apartment for rent, opportunity<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:03.101Z"
+}

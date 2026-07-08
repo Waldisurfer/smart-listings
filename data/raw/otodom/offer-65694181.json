@@ -1,0 +1,151 @@
+{
+  "id": 65694181,
+  "title": "Duża kawalerka ul.Krakowska Co miejskie",
+  "slug": "duza-kawalerka-ul-krakowska-co-miejskie-ID4rE3z",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Krakowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Bytom",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/bytom/bytom/bytom",
+          "fullName": "Bytom, śląskie",
+          "name": "Bytom",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/bytom/bytom/bytom/srodmiescie",
+          "fullName": "Śródmieście, Bytom, śląskie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Indlb2ptc21jMmh6OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qGd8cRL9C6GLfpczuXCABxUcBvVMYIdwVn9t6JGaqWw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Indlb2ptc21jMmh6OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qGd8cRL9C6GLfpczuXCABxUcBvVMYIdwVn9t6JGaqWw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im01Zjl2djN5bnZibi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rZ4cjkK-gi5Uu_LbcRJPxfM9lMpv_nQydUKx45x4BR4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im01Zjl2djN5bnZibi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rZ4cjkK-gi5Uu_LbcRJPxfM9lMpv_nQydUKx45x4BR4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxtdGFmaTMyOW1qaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bbD9ONZhAKgGI78amRAuCFlHJ67vZEm0HZ4vz2n8vXk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxtdGFmaTMyOW1qaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bbD9ONZhAKgGI78amRAuCFlHJ67vZEm0HZ4vz2n8vXk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 14,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 798687,
+    "name": "Biuro Nieruchomości Sonia Sonia Sprot",
+    "slug": "biuro-nieruchomosci-sonia-sonia-sprot-ID798687",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml4Nnk0bnh5Z3FmYTEtQVBMIn0.ctzbsECsEt-c2PE4xlu9qEJ7-AcSEyuuSAEb96dXozY/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1450,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 36.79,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 39.41,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-02 07:08:36",
+  "createdAtFirst": "2024-07-20T11:25:22Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-02T07:08:37+02:00",
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia oferujemy Państwu mieszkanie typu kawalerka znajdujące się na drugim piętrze trzypiętrowego budynku w ścisłym centrum Bytomia przy ulicy Krakowskiej obok Rynku.Mieszkanie o powierzchni uż...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Sonia Sprot",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIzYXI2OG5oOXhibjEtQVBMIn0.nb8-QcQlgsYl9vC_vf4p0ZWCwi3X6pgkI9Ey1yb0lo0/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/duza-kawalerka-ul-krakowska-co-miejskie-ID4rE3z",
+  "description": "<p>Do wynajęcia oferujemy Państwu mieszkanie typu kawalerka znajdujące się na drugim piętrze trzypiętrowego budynku w ścisłym centrum Bytomia przy ulicy Krakowskiej obok Rynku.<br/>Mieszkanie o powierzchni użytkowej o powierzchni 39,41m2 składa się z jednego dużego pokoju, przedpokoju, widnej kuchni oraz łazienki razem z WC.<br/>Ogrzewanie z zasilania miejskiego, ciepła woda z piecyka gazowego, wyposażenie widoczne na zdjęciach pozostaje w mieszkaniu do dyspozycji najemcy.Czynsz najmu 1400zł zawiera odstępne i opłaty związane z czynszem za fundusz remontowy i eksploatacyjny.Dodatkowe opłaty to zużycie wody, opłata za wywóz nieczystości oraz prąd i gaz.Najem wyłącznie w formie okazjonalnej.Opłaty dodatkowe to połowa wynagrodzenia u notariusza ok 260 zł oraz prowizja biura 1500zł.Zapraszamy na prezentację nieruchomości. </p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:25.634Z"
+}

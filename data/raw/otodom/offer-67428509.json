@@ -1,0 +1,172 @@
+{
+  "id": 67428509,
+  "title": "Ogródek | Strzeżone osiedle | Pet-friendly",
+  "slug": "ogrodek-strzezone-osiedle-pet-friendly-ID4yWeB",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Poetów",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka",
+          "fullName": "Białołęka, Warszawa, mazowieckie",
+          "name": "Białołęka",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka/nowodwory",
+          "fullName": "Nowodwory, Białołęka, Warszawa, mazowieckie",
+          "name": "Nowodwory",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ino0MXFqYnBtdW9veS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QqMK_VF9lVNmeVPZFQZ0R2lzJk01E0sIr_p5Y9i4k7A/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ino0MXFqYnBtdW9veS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QqMK_VF9lVNmeVPZFQZ0R2lzJk01E0sIr_p5Y9i4k7A/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndsZWM0ODk2YmVkYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.j94xM4bW-_gM_ToGforS5RIg4OUKs9fGo4JMIb7Avb0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndsZWM0ODk2YmVkYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.j94xM4bW-_gM_ToGforS5RIg4OUKs9fGo4JMIb7Avb0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im92YnQ5YTF6ZDVhaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.BKRs9_U_J1Ii0eVQey7t_q36XxqA44jtiArQEn18fj4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im92YnQ5YTF6ZDVhaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.BKRs9_U_J1Ii0eVQey7t_q36XxqA44jtiArQEn18fj4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 9,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 9354236,
+    "name": "Lares Estates",
+    "slug": "lares-estates-ID9354236",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imwyb2VxYm1uZGh0aDItQVBMIn0.E7GOWesl2mqDfKCuh28cqJbhWJUgkWoDoxeQ2FG_aYo/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 55.32,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 47,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-20 17:39:37",
+  "createdAtFirst": "2025-11-08T10:58:14Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-02-20T17:39:37+01:00",
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia przestronne, dwupokojowe mieszkanie na Białołęce o powierzchni 47m² na parterze w bloku przy ul. Poetów 10 G.Rozkład i wyposażenie:\n\nSalon: kanapa rozkładana, stół z krzesłami.\nPokój: łóż...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Ioanna Yaskych",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlvMmI3MTJteDNpbS1BUEwifQ.nTwDdmYqcZ6Q2HsY6GHOA1anNl3MEkLty5DWa3KHfow/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/ogrodek-strzezone-osiedle-pet-friendly-ID4yWeB",
+  "description": "Do wynajęcia przestronne, <strong>dwupokojowe</strong> mieszkanie na<strong> Białołęce</strong> o powierzchni <strong>47m²</strong> na parterze w bloku przy <strong>ul. Poetów 10 G.</strong><br><br><strong>Rozkład i wyposażenie:</strong><br><br/>\n<ul><br/>\n<li>Salon: kanapa rozkładana, stół z krzesłami.</li><br/>\n<li>Pokój: łóżko, szafa.</li><br/>\n<li>Kuchnia: kuchenka indukcyjna, piekarnik, zmywarka, czajnik, okap, sztućce, talerze, garnki, kubki.</li><br/>\n<li>Łazienka: pralka, wanna.</li><br/>\n<li>WC.</li><br/>\n<li>Przedpokój: przestronna szafa.</li><br/>\n</ul><br/>\n<strong>Dodatkowe informacje:</strong><br><br/>\n<ul><br/>\n<li>Strefa <strong>bezpłatnego</strong> parkowania</li><br/>\n<li>Strzeżone, zamknięte osiedle,</li><br/>\n<li>Ogródek z tarasem</li><br/>\n<li>Przyjazne zwierzętom</li><br/>\n</ul><br/>\n<strong>Standard:</strong><br>Przytulne, zadbane mieszkanie, w którym każdy element został starannie przemyślany, aby zapewnić wygodę codziennego życia.<br><br><strong>Opłaty:</strong><br>Czynsz najmu: <strong>2600 zł</strong> +<strong> 1000 zł</strong> czynsz administracyjny + media<br><br>Mieszkanie wolne od zaraz.<br>Zapraszam na prezentację!",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:11.522Z"
+}

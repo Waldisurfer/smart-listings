@@ -1,0 +1,173 @@
+{
+  "id": 67736822,
+  "title": "Czteropokojowe mieszkanie 80m2 z loggią",
+  "slug": "czteropokojowe-mieszkanie-80m2-z-loggia-ID4Adro",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Toruń",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "kujawsko-pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "kujawsko--pomorskie",
+          "fullName": "kujawsko-pomorskie",
+          "name": "kujawsko-pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/torun/torun/torun",
+          "fullName": "Toruń, kujawsko-pomorskie",
+          "name": "Toruń",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/torun/torun/torun/bielany",
+          "fullName": "Bielany, Toruń, kujawsko-pomorskie",
+          "name": "Bielany",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN4eHI5YzYyb2NvZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KM0KnI2GyBGCMGXzwULyW1i1_65b3WXh2i3Zt4KtKPI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN4eHI5YzYyb2NvZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KM0KnI2GyBGCMGXzwULyW1i1_65b3WXh2i3Zt4KtKPI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVubTZkd20yZm1maDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0-cHBEJ-ZhwYaH6hDliEtdSxTRaT2i1T-0QrjI_S0d4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVubTZkd20yZm1maDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0-cHBEJ-ZhwYaH6hDliEtdSxTRaT2i1T-0QrjI_S0d4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12aWRqemQyYnBhbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.n1pOjHRHAuC6BG3id6IVg5ZyxtOTTLQLpcFlOyFM-Oo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12aWRqemQyYnBhbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.n1pOjHRHAuC6BG3id6IVg5ZyxtOTTLQLpcFlOyFM-Oo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 10,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 9835581,
+    "name": "Grupa Simple Toruń",
+    "slug": "grupa-simple-torun-ID9835581",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 43.75,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 80,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-22 11:26:24",
+  "createdAtFirst": "2026-02-22T11:25:37Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Na wynajem przestronne i funkcjonalne mieszkanie czteropokojowe o powierzchni 80 m², idealne dla rodziny lub osób poszukujących komfortowej przestrzeni do życia. Lokal wyróżnia się czytelnym i wygodny...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Klaudia",
+    "lastName": "Przybylska",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Dagna Szczechowiak ",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/czteropokojowe-mieszkanie-80m2-z-loggia-ID4Adro",
+  "description": "Na wynajem przestronne i funkcjonalne mieszkanie czteropokojowe o powierzchni 80 m², idealne dla rodziny lub osób poszukujących komfortowej przestrzeni do życia. Lokal wyróżnia się czytelnym i wygodnym układem pomieszczeń, zapewniającym swobodę oraz prywatność domownikom.<br><br>  Mieszkanie składa się z przestronnego salonu z wyjściem na loggię, sypialni z dostępem do kameralnego balkonu, dwóch dodatkowych pokoi, które mogą pełnić funkcję sypialni, gabinetu lub pokoju dziecięcego, a także dużej, oddzielnej kuchni, łazienki oraz przedpokoju wyposażonego w praktyczne szafki do przechowywania. Lokal jest częściowo umeblowany.&nbsp;<br><br>  Nieruchomość zlokalizowana jest na spokojnym osiedlu Bielany, w otoczeniu zieleni oraz niskiej zabudowy. Teren wokół budynku jest częściowo ogrodzony, co zwiększa poczucie prywatności i bezpieczeństwa. Do dyspozycji mieszkańców pozostają miejsca parkingowe usytuowane bezpośrednio przed budynkiem.<br><br>  W najbliższej okolicy znajdują się sklepy, przystanki komunikacji miejskiej oraz punkty gastronomiczne, co zapewnia wygodę codziennego funkcjonowania oraz szybki dostęp do infrastruktury miejskiej.<br><br>  Warunki najmu:<br> Czynsz najmu: 3 500 zł<br> Czynsz administracyjny: 900 zł<br> Opłaty za media: według zużycia<br> Kaucja: 5 000 zł<br>  &nbsp;<br>  Jeśli jesteście Państwo zainteresowani tą ofertą, proszę o kontakt w celu umówienia się na obejrzenie nieruchomości oraz uzyskania dodatkowych informacji.<br> <br> Z poważaniem,<br> Klaudia Przybylska Grupa Simple&nbsp;<br> 578077607<br> <br><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:12.867Z"
+}

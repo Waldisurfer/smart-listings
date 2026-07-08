@@ -1,0 +1,156 @@
+{
+  "id": 67867786,
+  "title": "Na wynajem, ładne 2 pokoje Mokre",
+  "slug": "na-wynajem-ladne-2-pokoje-mokre-ID4ALwI",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Toruń",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "kujawsko-pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "kujawsko--pomorskie",
+          "fullName": "kujawsko-pomorskie",
+          "name": "kujawsko-pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/torun/torun/torun",
+          "fullName": "Toruń, kujawsko-pomorskie",
+          "name": "Toruń",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/torun/torun/torun/mokre",
+          "fullName": "Mokre, Toruń, kujawsko-pomorskie",
+          "name": "Mokre",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNiamlqbW51c25jMDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SNbS6rHiIvDihe7HmwP-tGajXVsc1Aj-HGC-92LspXw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNiamlqbW51c25jMDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SNbS6rHiIvDihe7HmwP-tGajXVsc1Aj-HGC-92LspXw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrYzVlbDRmMGNpOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.aOCQiudLeHFqIPqaLsEGmzt26bd4Oxf8wloQ5_Boeac/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrYzVlbDRmMGNpOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.aOCQiudLeHFqIPqaLsEGmzt26bd4Oxf8wloQ5_Boeac/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM2OG51ZG04eXMzYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pKDLVca2MIFIZi4LJav6M3dxYyAYm7GzsO2tOx1dUjc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM2OG51ZG04eXMzYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pKDLVca2MIFIZi4LJav6M3dxYyAYm7GzsO2tOx1dUjc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 7,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 177307,
+    "name": "Copernicus Nieruchomości",
+    "slug": "copernicus-nieruchomosci-ID177307",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZjYXlqdXJ5NDg3czItQVBMIn0.Qv_y9YzS_YxfBdQyl5s8Z4DSa-WUgUBuy5cvo-Trouc/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 770,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 48.48,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 33,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-01 16:50:45",
+  "createdAtFirst": "2026-04-01T16:50:33Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "     MOKRE UL. ŚWIĘTOPEŁKA, W PEŁNI UMEBLOWANE I WYPOSAŻONE, OD ZARAZ  Polecam bardzo ładne, przytulne mieszkanie w znakomitej lokalizacji. Wcześniej mieszkali tu właściciele, którzy dbali o mieszkani...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Krzysztof",
+    "lastName": "Kicerman",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/na-wynajem-ladne-2-pokoje-mokre-ID4ALwI",
+  "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <strong>&nbsp; &nbsp;MOKRE UL. ŚWIĘTOPEŁKA, W PEŁNI UMEBLOWANE I WYPOSAŻONE, OD ZARAZ<br/><br/>&nbsp;</strong><strong> &nbsp;&nbsp; Polecam bardzo</strong> ładne, przytulne mieszkanie w znakomitej lokalizacji. Wcześniej mieszkali tu właściciele, którzy dbali o mieszkanie i robili tu wszystko dla własnej wygody. Nie dawno się wyprowadzili i zrobili&nbsp; w mieszkaniu remont łazienki, odmalowali wszystkie ściany, zrobili wielkie sprzątanie i dokupili kilka nowych sprzętów: mikrofala i lodówka, pralka. Jest funkcjonalnie, pachnąco i wygodnie aż chce się tu mieszkać!&nbsp; Wszystko to do dyspozycji NAJEMCY od ZARAZ. Mieszkanie już stoi puste i być może czeka na Ciebie!&nbsp;<br/><br/>&nbsp; <strong>&nbsp; &nbsp;Taka lokalizacja to chyba marzenie każdego Najemcy</strong><br/>&nbsp; Każdy najemca wie, że najistotniejsza jest lokalizacja, bo jak już można sobie wybrać to tak, żeby było wygodnie i komfortowo. Czyli blisko sklepy, kilka kotków do tramwaju, żeby było gdzie wyjść na kawę lub najlepiej dojść pieszo na Starówkę, no i żeby mieć jeszcze gdzie odpocząć czyli wyjść na spacer, pobiegać oraz żeby mieć gdzie zaparkować auto......Wszystko to masz w tej jednej ofercie! A nawet masz więcej niż byś oczekiwał, bo blisko jest basen, korty tenisowe, siłownia, banki i co tylko zapragniesz- to znajdziesz w tym miejscu lub w pobliżu.<br/><br/>&nbsp; &nbsp; <strong>Mieszkanie wyposażone i umeblowane</strong><br/>Jest wysprzątane i pachnące. W skład swojej całej powierzchni 33m2 wchodzą:<ul><li>pokój większy ok 15m2</li><li>mniejszy pokój ok 9m2</li><li>przedpokój,</li><li>łazienka z WC</li></ul>&nbsp; Mieszkanie nie posiada balkonu. Wyposażone jest w 2 duże pojemne szafy- w przedpokoju i w mniejszym pokoju. Posiada też dużo szafek podręcznych i dwie kanapy do spania. Praktycznie można się wprowadzać zaraz po podpisaniu umowy.<br/>&nbsp;<br/>&nbsp; &nbsp; &nbsp;<strong>Opłaty związane z najmem mieszkania</strong><br/>Miesięczny czynsz do spółdzielni na chwilę <strong>obecną to 770zł </strong>z wszystkimi zaliczkami, odstępne dla właściciela: <strong>1600</strong> <strong>zł/m-c,</strong> do tego należy doliczyć prąd co 2 m-ce i gaz oraz ewentualnie kablówkę. Właściciele przy podpisaniu umowy wymagają też kaucji zwrotnej w wysokości: <strong>2000 zł.&nbsp;<br/><br/>&nbsp; &nbsp;Bardzo polecam- bo patrząc przez pryzmat swojego doświadczenia na rynku nieruchomość-&nbsp;</strong><strong>rzadko&nbsp; trafia się&nbsp; taka oferta i zazwyczaj szybko znika...<br/>Zapraszam po więcej informacji oraz prezentację nieruchomość: Krzysztof Kicerman tel: 791-812-340</strong><br/>&nbsp;<br/><strong>Czynność Pośrednictwa w najmie nieruchomości jest usługą odpłatną w sytuacji zawarcia umowy. Prezentacje nieruchomości są bezpłatne.&nbsp;</strong><br/>&nbsp;<br/>&nbsp;-Nota prawnaOpis oferty zawarty na stronie internetowej sporządzany jest na podstawie oględzin nieruchomości oraz informacji uzyskanych od właściciela, może podlegać aktualizacji i nie stanowi oferty określonej w art. 66 i następnych K.C.  </p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:29.642Z"
+}

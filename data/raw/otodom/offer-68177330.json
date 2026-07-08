@@ -1,0 +1,150 @@
+{
+  "id": 68177330,
+  "title": "Kielce apartament 70,84 z tarasem widokowym",
+  "slug": "kielce-apartament-70-84-z-tarasem-widokowym-ID4C42m",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Wojska Polskiego 106C",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kielce",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "świętokrzyskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "swietokrzyskie",
+          "fullName": "świętokrzyskie",
+          "name": "świętokrzyskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "swietokrzyskie/kielce/kielce/kielce",
+          "fullName": "Kielce, świętokrzyskie",
+          "name": "Kielce",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "swietokrzyskie/kielce/kielce/kielce/wietrznia",
+          "fullName": "Wietrznia, Kielce, świętokrzyskie",
+          "name": "Wietrznia",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRrNG11ejdmbWxqbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b1z3-ul3gTj9abhkSyKDxAPaXvPtBvPa_Qch-JJiV9c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRrNG11ejdmbWxqbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b1z3-ul3gTj9abhkSyKDxAPaXvPtBvPa_Qch-JJiV9c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IncxOTVhdGt3dGszLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.h4pNbtOyeLNxPrp_tQuCLEFp-akD_6OvO9nRGJjXNxQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IncxOTVhdGt3dGszLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.h4pNbtOyeLNxPrp_tQuCLEFp-akD_6OvO9nRGJjXNxQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlva3FpMDhvODZxaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Bzkv2WI-sNYIzrk_AStdstiW4r-ccCQZ-JNBF3Fk7ao/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlva3FpMDhvODZxaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Bzkv2WI-sNYIzrk_AStdstiW4r-ccCQZ-JNBF3Fk7ao/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 18,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:propertly-io",
+  "agency": {
+    "id": 5613644,
+    "name": "CKDOM Prime Real Estate",
+    "slug": "ckdom-prime-real-estate-ID5613644",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZwZDE0MnRoYjcweDEtQVBMIn0.r04SGLnVx7Lkw2BoS7kJNgohQZf0y1vTBDqGPJOxIAU/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 919000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 12972.9,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 70.84,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:29:42",
+  "createdAtFirst": "2026-07-06T15:29:34Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "CKDOM prezentuje 4-pokojowe mieszkanie z garażem i tarasem – Wietrznia – ul. Wojska Polskiego – 70,84 m2 Biuro Nieruchomości CKDOM ma przyjemność zaprezentować komfortowe, 4-pokojowe mieszkanie zlokal...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Katarzyna Bujak",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImplZGoxM2o1aGUyZTEtQVBMIn0.SL7ga-HdcFheaEjfyTOnLbi3dNUdk7IOVqfTmp7_anw/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/kielce-apartament-70-84-z-tarasem-widokowym-ID4C42m",
+  "description": "CKDOM prezentuje 4-pokojowe mieszkanie z garażem i tarasem – Wietrznia – ul. Wojska Polskiego – 70,84 m2<br/> Biuro Nieruchomości CKDOM ma przyjemność zaprezentować komfortowe, 4-pokojowe mieszkanie zlokalizowane na nowoczesnym i kameralnym osiedlu Wietrznia, przy ul. Wojska Polskiego w Kielcach<br/> Powierzchnia mieszkania – 70,84 m2 – w skład lokalu wchodzą<br/> – przestronny salon z aneksem kuchennym<br/> – duża sypialnia<br/> – dwa niezależne pokoje<br/> – łazienka<br/> – oddzielne wc<br/> – hol<br/> – korytarz<br/> Dodatkowe przestrzenie<br/> – duży taras – idealny na relaks i wypoczynek<br/> – indywidualny garaż w budynku – 80 000 zł<br/> – możliwość parkowania drugiego auta przed garażem<br/> – garaż może pełnić także funkcję komórki lokatorskiej<br/> Standard wykończenia – wysoki poziom i dbałość o każdy detal<br/> – mieszkanie nowe – nigdy niezamieszkałe<br/> – urządzone z myślą o własnych potrzebach właścicieli<br/> – wszystko widoczne na zdjęciach jest w cenie<br/> – blaty kuchenne i łazienkowe wykonane z kamienia<br/> – drewniane podłogi<br/> – sprzęt AGD marki Samsung – piekarnik – zmywarka – płyta indukcyjna – pralka<br/> Bezpieczeństwo i komfort<br/> – nowoczesna, cichobieżna winda<br/> – wideodomofon z systemem monitoringu<br/> – kontrola dostępu<br/> – estetyczne i oryginalne części wspólne<br/> – wjazd na osiedle zabezpieczony szlabanem sterowanym pilotem<br/> Ogrzewanie<br/> – indywidualne – piec gazowy dwufunkcyjny<br/> – czynsz – 500 zł<br/> Lokalizacja – Osiedle Wietrznia – ul. Wojska Polskiego<br/> – spokojna okolica z szybkim dojazdem do centrum<br/> – w pobliżu sklepy – punkty usługowe – przychodnie – przedszkola<br/> – doskonała infrastruktura do życia codziennego<br/> Bliskość natury<br/> – w sąsiedztwie Rezerwat Przyrody Wietrznia<br/> – 18 ha terenów spacerowych i widokowych<br/> – Jezioro Szmaragdowe – idealne miejsce na relaks<br/> – połączenie życia miejskiego z bliskością przyrody<br/> Dla kogo<br/> – idealne dla rodziny<br/> – dla osób ceniących wysoki standard i spokój<br/> – dla klientów premium szukających gotowego mieszkania<br/> Nie zwlekaj – to wyjątkowa oferta<br/> – opiekun oferty – Katarzyna Bujak – tel 720 703 150<br/> – numer licencji pośrednika odpowiedzialnego zawodowo – 29909<br/> – zadzwoń i umów się na prezentację<br/><br><br>Oferta dodana z propertly.io<br>Nr oferty w biurze: 21/18696/OMS/2/12",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:12.166Z"
+}

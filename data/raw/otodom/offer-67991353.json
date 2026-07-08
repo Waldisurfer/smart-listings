@@ -1,0 +1,158 @@
+{
+  "id": 67991353,
+  "title": "Kawalerka gotowa do zamieszkania | ul. Wyspiańskiego Brzeg Dolny",
+  "slug": "kawalerka-gotowa-do-zamieszkania-ul-wyspianskiego-brzeg-dolny-ID4BhEJ",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Stanisława Wyspiańskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Brzeg Dolny",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wolowski",
+          "fullName": "wołowski, dolnośląskie",
+          "name": "wołowski",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wolowski/brzeg-dolny",
+          "fullName": "Brzeg Dolny, wołowski, dolnośląskie",
+          "name": "Brzeg Dolny",
+          "locationLevel": "commune",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wolowski/brzeg-dolny/brzeg-dolny",
+          "fullName": "Brzeg Dolny, Brzeg Dolny, wołowski, dolnośląskie",
+          "name": "Brzeg Dolny",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRzYTVidHNtd2g1dTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q28G6_o1BkHjtDQ-8VcqQtvtcM7T_xiQmlUXJAgVpoI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRzYTVidHNtd2g1dTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q28G6_o1BkHjtDQ-8VcqQtvtcM7T_xiQmlUXJAgVpoI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZqZnBjbWZmNXFtcTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bTcw2fdXfyG1Xi_PcT5_3IgXQIjziHCNTix0piUaIa0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZqZnBjbWZmNXFtcTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bTcw2fdXfyG1Xi_PcT5_3IgXQIjziHCNTix0piUaIa0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJndDk3Z2EzM2o4YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kaiJXXXKfaqyrAR6GRQnEDofIgncpFJailRu750l2fw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJndDk3Z2EzM2o4YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kaiJXXXKfaqyrAR6GRQnEDofIgncpFJailRu750l2fw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 14,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 207000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 420,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 8625,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 24,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:37:52",
+  "createdAtFirst": "2026-05-11T11:36:00Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż zadbana i w pełni umeblowana kawalerka o powierzchni ok. 24,2m², położona na 4. piętrze ocieplonego bloku w Brzegu Dolnym przy ul. Wyspiańskiego.Mieszkanie składa się z:-przestronnego poko...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Aleksandra Jania",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/kawalerka-gotowa-do-zamieszkania-ul-wyspianskiego-brzeg-dolny-ID4BhEJ",
+  "description": "<p>Na sprzedaż zadbana i w pełni umeblowana kawalerka o powierzchni ok. 24,2m², położona na 4. piętrze ocieplonego bloku w Brzegu Dolnym przy ul. Wyspiańskiego.</p><p>Mieszkanie składa się z:</p><p>-przestronnego pokoju,</p><p>- osobnej kuchni,</p><p>- łazienki,</p><p>- przedpokoju.</p><p>Do mieszkania przynależy również piwnica.</p><p>Lokal przeszedł generalny remont w 2018 roku i jest gotowy do zamieszkania bez dodatkowych nakładów finansowych. Mieszkanie jest bardzo zadbane, czyste i schludne – nikt w nim nie palił ani nie było zwierząt.</p><p>W cenie mieszkania pozostaje pełne wyposażenie:</p><p>- meble,</p><p>- lodówka,</p><p>- kuchenka,</p><p>- pralka.</p><p>Dodatkowe informacje:</p><p>- czynsz ok. 400 zł/miesiąc,</p><p>- podłączony internet kablowy,</p><p>- blok po termomodernizacji,</p><p>- mieszkanie dostępne od sierpnia 2026 r.</p><p>Świetna propozycja zarówno do zamieszkania, jak i pod inwestycję lub wynajem.</p><p>Cena: 245 000 zł (do rozsądnej negocjacji)</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:19.725Z"
+}

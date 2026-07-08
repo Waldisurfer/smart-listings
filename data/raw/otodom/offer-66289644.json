@@ -1,0 +1,378 @@
+{
+  "id": 66289644,
+  "title": "2-pokojowe mieszkanie 43m2 + ogródek",
+  "slug": "2-pokojowe-mieszkanie-43m2-ogrodek-ID4u8XO",
+  "estate": "FLAT",
+  "development": {
+    "id": 66289237,
+    "title": "Osiedle Józefowska",
+    "slug": "osiedle-jozefowska-ID4u8Rf",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "Józefowska 23",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Katowice",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "śląskie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "slaskie",
+            "fullName": "śląskie",
+            "name": "śląskie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "slaskie/katowice/katowice/katowice",
+            "fullName": "Katowice, śląskie",
+            "name": "Katowice",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "slaskie/katowice/katowice/katowice/welnowiec--jozefowiec",
+            "fullName": "Wełnowiec-Józefowiec, Katowice, śląskie",
+            "name": "Wełnowiec-Józefowiec",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJncTZqbGtkNWFuOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._eG-y1fCTZlz_jfC9JKI1Ii-kz7mEkmRDdawnjT_rco/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJncTZqbGtkNWFuOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._eG-y1fCTZlz_jfC9JKI1Ii-kz7mEkmRDdawnjT_rco/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIweG15NGt3eGFqaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nOwVlpffFVtO0yAQxcZfRhvaTdmpyAfSDTagWrrJhe0/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIweG15NGt3eGFqaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nOwVlpffFVtO0yAQxcZfRhvaTdmpyAfSDTagWrrJhe0/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdwemJzNHB4N3J3azMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d-T7e4AnXLW_peo3jASQ-8JGBfgx_oQMs-3zfQBT_j0/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdwemJzNHB4N3J3azMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d-T7e4AnXLW_peo3jASQ-8JGBfgx_oQMs-3zfQBT_j0/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjczOWg3NDM5dDg2NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.255NVZcwF7Rg6EtzRmkE68l_QAnSm3fezH57EqquMfQ/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjczOWg3NDM5dDg2NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.255NVZcwF7Rg6EtzRmkE68l_QAnSm3fezH57EqquMfQ/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZnZTNmNmZkMHU5cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y34ljmw9YXG1Kol5YLD3mdO1-6XtBS9gVDdNn3_F2Gc/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZnZTNmNmZkMHU5cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y34ljmw9YXG1Kol5YLD3mdO1-6XtBS9gVDdNn3_F2Gc/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIybjh0emlyMTg5aDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dLu2F3Pb2VXYrS_2I5b7nh0mKUxRs0oDziMv5iXuhGo/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIybjh0emlyMTg5aDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dLu2F3Pb2VXYrS_2I5b7nh0mKUxRs0oDziMv5iXuhGo/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InIxcnlmeWx6aWJiOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.innoui9KsTeQXK1HsR0lqUoBm4QdDQ-B0VmyKDgca5s/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InIxcnlmeWx6aWJiOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.innoui9KsTeQXK1HsR0lqUoBm4QdDQ-B0VmyKDgca5s/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRwbTZtZmttc2twNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._IBaVdMjGV94Y5_sHHmsLBytjOVeyoeTaikutiq_DxM/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRwbTZtZmttc2twNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._IBaVdMjGV94Y5_sHHmsLBytjOVeyoeTaikutiq_DxM/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrNGQyY2t0aTNzbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vylQVbGjaZ8J1ohw7frKZ62L9waedWrO4_9Alt7lj8E/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrNGQyY2t0aTNzbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vylQVbGjaZ8J1ohw7frKZ62L9waedWrO4_9Alt7lj8E/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9rbzZuZ2w1MDZyYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SE2crMaKKbDCC2DlO0i4i40w8QcY1pCxTXiyNGU2t2o/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9rbzZuZ2w1MDZyYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SE2crMaKKbDCC2DlO0i4i40w8QcY1pCxTXiyNGU2t2o/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJwYXMwbzI5Z2tueDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5j7iNwO21OkgQIMmvn_urZfgb0hUfGJxMypHZGa6eWM/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJwYXMwbzI5Z2tueDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5j7iNwO21OkgQIMmvn_urZfgb0hUfGJxMypHZGa6eWM/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl3b3Q5ZTc1ZmhqMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.u6Hn_hFoeyQOqdMQ7xWyGWKYuEJflfQ94n5NVZoEpV0/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl3b3Q5ZTc1ZmhqMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.u6Hn_hFoeyQOqdMQ7xWyGWKYuEJflfQ94n5NVZoEpV0/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhzbmxiYmlpMmdmeC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.mONsthEWvuvv3PXI5ShU7JOmzfrdUpdPQl5xwgLyeS4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhzbmxiYmlpMmdmeC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.mONsthEWvuvv3PXI5ShU7JOmzfrdUpdPQl5xwgLyeS4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEzZzQ0MzBqbHBtOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TVpQezHeyMQg_uOU_7fSvqlHyXx5Hy7eNOccepCdjE4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEzZzQ0MzBqbHBtOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TVpQezHeyMQg_uOU_7fSvqlHyXx5Hy7eNOccepCdjE4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ing1Z3JhbHozNDU5YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rdYRGXWPhkNPDRfafHolReRU1uOFdXQYUR4EtAzG1Hg/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ing1Z3JhbHozNDU5YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rdYRGXWPhkNPDRfafHolReRU1uOFdXQYUR4EtAzG1Hg/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNlMzMxamIzZHVieDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6d3DygeOBsjbJ2mbpAr1IUuXfK3xLPvz6Yu9TN0yEfU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNlMzMxamIzZHVieDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6d3DygeOBsjbJ2mbpAr1IUuXfK3xLPvz6Yu9TN0yEfU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNudmlmYmN5b3d6NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hxzxCs9FPMY-XFnXjclTT8qWbrWPd3YPs2LniZEaUzI/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNudmlmYmN5b3d6NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hxzxCs9FPMY-XFnXjclTT8qWbrWPd3YPs2LniZEaUzI/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYwbnE3bTd6dDFwNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mqLaN3R4aVrfPuCktqsFYjxry-wV94Bn5Lgi9gQmiFA/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYwbnE3bTd6dDFwNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mqLaN3R4aVrfPuCktqsFYjxry-wV94Bn5Lgi9gQmiFA/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 18,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 10538803,
+      "name": "Grimbud",
+      "slug": "grimbud-ID10538803",
+      "imageUrl": null,
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 10300,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "IN_BUILDING",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 33,
+      "to": 123,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2025-01-07 15:57:55",
+    "createdAtFirst": "2025-01-07T15:50:22Z",
+    "investmentUnitsNumber": 229,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "TENTH",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "ONE",
+      "max": "FIVE",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 1,
+      "year": 2027,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "1, 2, 3, 4 i 5-pokojowe mieszkania od33m2 do123m2 w cenie od 382356 zł od dewelopera GrimbudPonadstandardowa wysokość pomieszczeńPark Wełnowiecki (12 minut spacerem)Park Śląski, Śląski Ogród Zoologicz...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 66289237,
+  "developmentTitle": "Osiedle Józefowska",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/osiedle-jozefowska-ID4u8Rf",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Józefowska 23",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Katowice",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/katowice/katowice/katowice",
+          "fullName": "Katowice, śląskie",
+          "name": "Katowice",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/katowice/katowice/katowice/welnowiec--jozefowiec",
+          "fullName": "Wełnowiec-Józefowiec, Katowice, śląskie",
+          "name": "Wełnowiec-Józefowiec",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEzZzQ0MzBqbHBtOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TVpQezHeyMQg_uOU_7fSvqlHyXx5Hy7eNOccepCdjE4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEzZzQ0MzBqbHBtOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TVpQezHeyMQg_uOU_7fSvqlHyXx5Hy7eNOccepCdjE4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml3dWJzdWVtbm9hcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RhFLGOiNx1Lsn0zVzsy1G-9h_2F7R3-uuUwMIETtH9c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml3dWJzdWVtbm9hcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RhFLGOiNx1Lsn0zVzsy1G-9h_2F7R3-uuUwMIETtH9c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN2YThucWJmMm1sMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lE6Nt5hy0x8KscCwZCw6xyzwBefm_50kHclnDwJROVA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN2YThucWJmMm1sMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lE6Nt5hy0x8KscCwZCw6xyzwBefm_50kHclnDwJROVA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 9,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 10538803,
+    "name": "Grimbud",
+    "slug": "grimbud-ID10538803",
+    "imageUrl": null,
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 474695,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 10900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 43.55,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-27 11:07:08",
+  "createdAtFirst": "2025-01-07T16:19:11Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-27T11:07:08+02:00",
+  "specialOffer": null,
+  "shortDescription": "2-pokojowe mieszkanie numer B04  na parterze w budynku B w Inwestycji Osiedle Józefowska Dewelopera GrimbudPonadstandardowa wysokość pomieszczeńPark Wełnowiecki (12 minut spacerem)Park Śląski, Śląski ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Monika Jendrzejewska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpleWt5ajR4MW52ZDMtQVBMIn0.EZ3vZVH5FTB-VcTnrMzos9StG8XdHHx25eeFWeg5fXk/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/2-pokojowe-mieszkanie-43m2-ogrodek-ID4u8XO",
+  "description": "<ul><li>2-pokojowe mieszkanie<strong> numer B04</strong>  na parterze w budynku B w Inwestycji Osiedle Józefowska Dewelopera Grimbud</li><li>Ponadstandardowa wysokość pomieszczeń</li><li>Park Wełnowiecki (12 minut spacerem)</li><li>Park Śląski, Śląski Ogród Zoologiczny (20 minut spacerem)</li><li>Przystanek autobusowy (3 minuty spacerem)</li><li>Przystanek tramwajowy (7 minut spacerem)</li><li>Lidl (3 minuty spacerem), Biedronka (12 minut spacerem)</li><li>Silesia City Center, Cinema City (6 minut samochodem)</li></ul><br/><strong>Osiedle Józefowska - poznaj inwestycję</strong><br/><p>Osiedle Józefowska to nowoczesna inwestycja, która zachwyca swoją estetyką i funkcjonalnością. Zlokalizowane <strong>przy ulicy Józefowskiej 23</strong>, osiedle składa się z czterech eleganckich budynków: A, B, C oraz D. W ramach inwestycji dostępnych jest 273 przestronnych mieszkań oraz 7 lokali usługowych, a także <strong>dwupoziomowy garaż podziemny</strong> z 358 miejscami postojowymi, co gwarantuje wygodne parkowanie dla każdego mieszkańca.</p><p>Mieszkania o powierzchni<strong> od 33 do 116</strong> <strong>m²</strong> oferują dostęp do <strong>prywatnych ogródków, przeszklonych balkonów lub tarasów</strong>, idealnych do relaksu na świeżym powietrzu. Dodatkowym atutem wybranych mieszkań są <strong>łazienki z oknami</strong>. Mieszkania dostępne są w standardzie deweloperskim, <strong>z możliwością wykończenia pod klucz</strong>.</p><p>Osiedle Józefowska to nie tylko funkcjonalne mieszkania, ale także<strong> liczne udogodnienia na terenie osiedla</strong>, które podnoszą komfort życia mieszkańców:</p><ul><li><strong>alejki spacerowe</strong>,</li><li>plac zabaw,</li><li><strong>tężnia solankowa</strong>,&nbsp;</li><li>siłownia zewnętrzna,</li><li>strefa workout,</li><li><strong>strefa gier plenerowych</strong>,</li><li><strong>rowerownia, wózkownia oraz rowerowa stacja serwisowa,</strong></li><li>monitoring,</li><li>wideodomofony.</li></ul><p>W pobliżu osiedla znajdują się malownicze tereny zielone, takie jak <strong>park Śląski i Park Wełnowiecki,</strong> idealne na spacery i aktywny wypoczynek. Lokalizacja osiedla zapewnia również doskonałą infrastrukturę – w sąsiedztwie znajdują się <strong>przystanki komunikacji miejskiej</strong>, supermarkety, żłobki, przedszkola, szkoły oraz inne punkty usługowe.</p><br/><strong>Osiedle Józefowska - lokalizacja</strong><br/><br/>Józefowiec, ul. Józefowska 23<br/><ul><li>2,0 km do centrum</li><li>3 min. spacerem do przystanku autobusowego</li><li>8 min. spacerem do przystanku tramwajowego</li><li>dojazd do centrum: 10 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Restauracja (112 m, 2 minuty spacerem)</li><li>Przystanek autobusowy (201 m, 3 minuty spacerem)</li><li>Sklep: Lidl (232 m, 4 minuty spacerem)</li><li>Weterynarz (307 m, 5 minut spacerem)</li><li>Piekarnia (390 m, 6 minut spacerem)</li><li>Siłownia (391 m, 6 minut spacerem)</li><li>Przedszkole (391 m, 6 minut spacerem)</li><li>Przystanek tramwajowy (525 m, 8 minut spacerem)</li><li>Poczta (552 m, 8 minut spacerem)</li><li>Apteka (607 m, 9 minut spacerem)</li><li>Szkoła Podstawowa (826 m, 12 minut spacerem)</li><li>Sklep: Biedronka (917 m, 13 minut spacerem)</li><li>Lekarz (928 m, 13 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:43.444Z"
+}

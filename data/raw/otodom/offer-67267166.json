@@ -1,0 +1,146 @@
+{
+  "id": 67267166,
+  "title": "Mieszkanie na wynajem",
+  "slug": "mieszkanie-na-wynajem-ID4yfgi",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Bronisława Dembińskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Gdynia",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "pomorskie",
+          "fullName": "pomorskie",
+          "name": "pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/gdynia/gdynia/gdynia",
+          "fullName": "Gdynia, pomorskie",
+          "name": "Gdynia",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/gdynia/gdynia/gdynia/leszczynki",
+          "fullName": "Leszczynki, Gdynia, pomorskie",
+          "name": "Leszczynki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB1MTMxeXB5bGd1cTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MPBAQ954z8f9dXiUQWQcVoouy9KgL98tIIDDStXbWC8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB1MTMxeXB5bGd1cTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MPBAQ954z8f9dXiUQWQcVoouy9KgL98tIIDDStXbWC8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImMzOGhvMjFwOXRwNC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yXzjlliy4PwnME9JVPkEdycsUEVpO9mT0YZt-bwMtc8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImMzOGhvMjFwOXRwNC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yXzjlliy4PwnME9JVPkEdycsUEVpO9mT0YZt-bwMtc8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN2empvYWg0eWV1ODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d9n8WY6TssjLv9bJQPgDf4zlGHl7CEwKgcUxJj7GxTc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN2empvYWg0eWV1ODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d9n8WY6TssjLv9bJQPgDf4zlGHl7CEwKgcUxJj7GxTc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 9,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 2700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 64.29,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 42,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:16:07",
+  "createdAtFirst": "2025-09-22T13:48:11Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:16:07+02:00",
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia mieszkanie 2-pokojowe w Gdyni!Mam przyjemność zaoferować Państwu komfortowe mieszkanie do wynajęcia wraz z podziemnym miejscem garażowym, położone w doskonałej lokalizacji w Gdyni.Opis mi...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Joanna Konkel",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-na-wynajem-ID4yfgi",
+  "description": "<p><b>Do wynajęcia mieszkanie 2-pokojowe w Gdyni!</b></p><p>Mam przyjemność zaoferować Państwu komfortowe mieszkanie do wynajęcia wraz z podziemnym miejscem garażowym, położone w doskonałej lokalizacji w Gdyni.</p><p><b>Opis mieszkania:</b></p><ul><li><b>Rozkład:</b></li><li>Przestronny pokój dzienny z aneksem kuchennym</li><li>Oddzielna sypialnia</li><li>Łazienka z kabiną prysznicową i pralką</li><li>Funkcjonalny przedpokój</li><li>Balkon</li></ul><p>Do mieszkania przynależy również miejsce postojowe w garażu podziemnym.</p><p><b>Lokalizacja:</b></p><p>Mieszkanie znajduje się na cichym i nowym osiedlu, zaledwie kilka minut od centrum Gdyni oraz morza. W pobliżu znajdują się:</p><ul><li>Przystanek autobusowy</li><li>Sklep Lidl</li><li>Sklep Żabka</li><li>Piekarnia</li></ul><p><b>Dodatkowe informacje:</b></p><p>Mieszkanie idealne dla singla lub pary.</p><p><b>Cena:</b> 2700 zł</p><p><b>Czynsz:</b> 700</p><p><b>Kaucja:</b> 2700</p><p><b>Zapraszam do kontaktu telefonicznego w celu umówienia się na prezentację!</b></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:34.257Z"
+}

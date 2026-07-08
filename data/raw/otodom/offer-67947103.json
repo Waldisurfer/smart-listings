@@ -1,0 +1,157 @@
+{
+  "id": 67947103,
+  "title": "Mieszkanie na Ursusie, 19 m², blisko WKD",
+  "slug": "mieszkanie-na-ursusie-19-m-blisko-wkd-ID4B691",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Piastowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/ursus",
+          "fullName": "Ursus, Warszawa, mazowieckie",
+          "name": "Ursus",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/ursus/czechowice",
+          "fullName": "Czechowice, Ursus, Warszawa, mazowieckie",
+          "name": "Czechowice",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp5aGwzZHhnOHBscDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q_5Y7DVQ9TnHS-IMfipC5cCkWeydgAJvFgqcF8VU7xM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp5aGwzZHhnOHBscDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q_5Y7DVQ9TnHS-IMfipC5cCkWeydgAJvFgqcF8VU7xM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 1,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 7340557,
+    "name": "United Capital Partners",
+    "slug": "united-capital-partners-ID7340557",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFnYXczcXI2Y2J5ZDMtQVBMIn0.T9axJHuJPeRYMNlCd1Zi5JC2jO89uSy2a9ZaAZOZQpI/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 219000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 350,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 11496.06,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 19.05,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-27 11:06:45",
+  "createdAtFirst": "2026-04-27T11:06:27Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Sprzedam lokal o powierzchni 19,05 m² na pierwszym piętrze w bloku z cegły. Ogrzewanie gazowe. komfort przez cały rok. Mieszkanie posiada osobną łazienkę.Lokalizacja w Ursusie to doskonały wybór. W ok...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Anna",
+    "lastName": "Krzęczko",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-na-ursusie-19-m-blisko-wkd-ID4B691",
+  "description": "<p>Sprzedam lokal o powierzchni 19,05 m² na pierwszym piętrze w bloku z cegły. Ogrzewanie gazowe. komfort przez cały rok. Mieszkanie posiada osobną łazienkę.</p><p>Lokalizacja w Ursusie to doskonały wybór. W okolicy znajdziesz:</p><ul><li>sklepy spożywcze (m.in. Lewiatan, API Market)</li><li>restauracje i kawiarnie (np. Bar Statek Food, Przy Kawie i Herbacie)</li><li>parki (Zieleniec przy Zagłoby, Park Hassów)</li><li>szkoły i przedszkola dla dzieci</li><li>przystanki komunikacji miejskiej oraz stację kolejową.</li></ul><p>To idealna propozycja dla singli lub jako inwestycja pod wynajem. Zadzwoń, aby umówić się na prezentację!</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:35.749Z"
+}

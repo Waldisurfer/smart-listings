@@ -1,0 +1,179 @@
+{
+  "id": 67865377,
+  "title": "Mieszkanie w Angel Plaza na wynajem",
+  "slug": "mieszkanie-w-angel-plaza-na-wynajem-ID4AKSR",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Zwierzyniecka",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto",
+          "fullName": "Stare Miasto, Kraków, małopolskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto/nowy-swiat",
+          "fullName": "Nowy Świat, Stare Miasto, Kraków, małopolskie",
+          "name": "Nowy Świat",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imc2dXl2b2wxMDIwbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CZWd0Plib2Ap-L0w9FrNVMnbIEiFd9_68RFv3OkGnkE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imc2dXl2b2wxMDIwbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CZWd0Plib2Ap-L0w9FrNVMnbIEiFd9_68RFv3OkGnkE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB5dzBlZmU4bjB2eTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-FuXOo380rDCHSrNd9TZKyvjw-520QyILUnmyn9fjs0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB5dzBlZmU4bjB2eTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-FuXOo380rDCHSrNd9TZKyvjw-520QyILUnmyn9fjs0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhlYmhydXBlb2U2di1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ABLrO-ag6aC3rDhPjHzKQwUPuhrA6Xr2lYxXfBAh4tw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhlYmhydXBlb2U2di1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ABLrO-ag6aC3rDhPjHzKQwUPuhrA6Xr2lYxXfBAh4tw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:imo-qa",
+  "agency": {
+    "id": 5340896,
+    "name": "Leach and Lang Property Consultants",
+    "slug": "leach-and-lang-property-consultants-ID5340896",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZtNjVlMHFxcGdjbi1BUEwifQ.97wgaGvN0ZBO6TS62S4eicdf_fHwskZbJaPh2ISWj8g/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1250,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 67.3,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 57.95,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SIXTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-01 10:50:27",
+  "createdAtFirst": "2026-04-01T10:50:22Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Prezentujemy nowoczesne widokowe mieszkanie o powierzchni ok. 58 m2 zlokalizowane w prestiżowym apartamentowcu Angel Plaza przy ulicy Zwierzynieckiej, w sercu Starego Miasta.Mieszkanie jest klimatyzow...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Leach & Lang (S6)",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-w-angel-plaza-na-wynajem-ID4AKSR",
+  "description": "Prezentujemy nowoczesne widokowe mieszkanie o powierzchni ok. 58 m2 zlokalizowane w prestiżowym apartamentowcu Angel Plaza przy ulicy Zwierzynieckiej, w sercu Starego Miasta.<br/><br/>Mieszkanie jest klimatyzowane i składa się z salonu z aneksem kuchennym, sypialni, łazienki z WC, przedpokoju i garderoby. Do lokalu przynależą balkon oraz loggia.  Nad bezpieczeństwem w budynku czuwa recepcja z ochroną 24h. <br/><br/>Wraz z mieszkaniem wynajmowane jest miejsce parkingowe w garażu podziemnym oraz komórka lokatorska.<br/><br/>Cena wynajmu to 3900 PLN + czynsz1250 PLN + prąd i internet. Miejsce postojowe dodatkowo płatne w kwocie 500 PLN miesięcznie.<br/><br/>Zapraszamy na prezentację nieruchomości.<br><br>Niniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w rozumieniu  art. 66 Kodeksu Cywilnego.<br/>\n<br/>\nWięcej podobnych ofert na stronie internetowej  - zapraszamy!",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:30.620Z"
+}

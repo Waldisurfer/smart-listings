@@ -1,0 +1,327 @@
+{
+  "id": 66374391,
+  "title": "2-pokojowe mieszkanie 39m2 + balkon Bez Prowizji",
+  "slug": "2-pokojowe-mieszkanie-39m2-balkon-bez-prowizji-ID4uw0H",
+  "estate": "FLAT",
+  "development": {
+    "id": 66297745,
+    "title": "Miasteczko Brzeziny II",
+    "slug": "miasteczko-brzeziny-ii-ID4ub4t",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "ul. Mariana Hemara",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Warszawa",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "mazowieckie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "mazowieckie",
+            "fullName": "mazowieckie",
+            "name": "mazowieckie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa",
+            "fullName": "Warszawa, mazowieckie",
+            "name": "Warszawa",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka",
+            "fullName": "Białołęka, Warszawa, mazowieckie",
+            "name": "Białołęka",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka/brzeziny",
+            "fullName": "Brzeziny, Białołęka, Warszawa, mazowieckie",
+            "name": "Brzeziny",
+            "locationLevel": "residential",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY3cHFwdHF6YWRucC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.d6dfP_nneuNj_tmYYFrUicBqWFRqR894hStqfT-iEHk/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY3cHFwdHF6YWRucC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.d6dfP_nneuNj_tmYYFrUicBqWFRqR894hStqfT-iEHk/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml6aXd5eXp1MWZyMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.uvCVnEyEilJlfIKb2Qx_Bx_fpuyyNyyy7IAbQRWCYKw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml6aXd5eXp1MWZyMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.uvCVnEyEilJlfIKb2Qx_Bx_fpuyyNyyy7IAbQRWCYKw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlzZXllbHhpZWI5NjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qXSvxp5Alrioz1xwB2ulWoM3-L-O8aJRTguyhF4WiQ4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlzZXllbHhpZWI5NjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qXSvxp5Alrioz1xwB2ulWoM3-L-O8aJRTguyhF4WiQ4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVpa3VwMnV6bmpmMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.L4ZxY69Qmaf7cxGXI2oy_sKcTGwa7W_ypfqWzj8tZsE/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVpa3VwMnV6bmpmMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.L4ZxY69Qmaf7cxGXI2oy_sKcTGwa7W_ypfqWzj8tZsE/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMyNzcyNmFzZzc5cS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.YPAPFGDXry5CvZzlIzK3t4HFjQljK8BqQtttMfWN8xY/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMyNzcyNmFzZzc5cS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.YPAPFGDXry5CvZzlIzK3t4HFjQljK8BqQtttMfWN8xY/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlkNHA1YW1qdTk1MTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TjaO8gh-1st-BD4UeJ26nnD8r5M6rywQyT-mmQH-k4o/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlkNHA1YW1qdTk1MTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TjaO8gh-1st-BD4UeJ26nnD8r5M6rywQyT-mmQH-k4o/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 6,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 10541103,
+      "name": "NAPOLLO",
+      "slug": "napollo-ID10541103",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUwZGR3djVxcjZ0bDEtQVBMIn0.K7BebID6-RzqDFBj31m6002DKLhND-7M8UnQBElYvow/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 12339,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "IN_BUILDING",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 38,
+      "to": 59,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2025-01-08 11:51:04",
+    "createdAtFirst": "2025-01-08T11:48:49Z",
+    "investmentUnitsNumber": 44,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "SECOND",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "TWO",
+      "max": "THREE",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 4,
+      "year": 2026,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "2 i 3-pokojowe mieszkania od38m2 do59m2 w cenie od 535584 zł od dewelopera NAPOLLOTrasa rowerowa wzdłuż Kanału Żerańskiego (3 minuty rowerem)Lasy Mareckie (8 minut samochodem)Przystanek autobusowy (2 ...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 66297745,
+  "developmentTitle": "Miasteczko Brzeziny II",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/miasteczko-brzeziny-ii-ID4ub4t",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Mariana Hemara",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka",
+          "fullName": "Białołęka, Warszawa, mazowieckie",
+          "name": "Białołęka",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka/brzeziny",
+          "fullName": "Brzeziny, Białołęka, Warszawa, mazowieckie",
+          "name": "Brzeziny",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY3cHFwdHF6YWRucC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.d6dfP_nneuNj_tmYYFrUicBqWFRqR894hStqfT-iEHk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY3cHFwdHF6YWRucC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.d6dfP_nneuNj_tmYYFrUicBqWFRqR894hStqfT-iEHk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpwdWRsN21vbXlmaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q5nju3lAAJ031EnP5MiSeQ0hvNFcjoL5Rm_g-N3OEiM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpwdWRsN21vbXlmaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q5nju3lAAJ031EnP5MiSeQ0hvNFcjoL5Rm_g-N3OEiM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im11djcyemV2cDNiai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zl0USlKNIfRwFFslsQyKnzgfo1dGz7TFq4ZA0mgHWAY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im11djcyemV2cDNiai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zl0USlKNIfRwFFslsQyKnzgfo1dGz7TFq4ZA0mgHWAY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 10541103,
+    "name": "NAPOLLO",
+    "slug": "napollo-ID10541103",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUwZGR3djVxcjZ0bDEtQVBMIn0.K7BebID6-RzqDFBj31m6002DKLhND-7M8UnQBElYvow/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 547695,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 13799.32,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 39.69,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:55:31",
+  "createdAtFirst": "2025-01-20T16:16:00Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T12:55:32+02:00",
+  "specialOffer": null,
+  "shortDescription": "2-pokojowe mieszkanie numer C2.29  na 2. piętrze w budynku C2 w Inwestycji Miasteczko Brzeziny II Dewelopera NAPOLLOTrasa rowerowa wzdłuż Kanału Żerańskiego (3 minuty rowerem)Lasy Mareckie (8 minut sa...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Beata Ziemba",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpyZTkxeHowd2ZscDItQVBMIn0.H1SDC4HreXOSpRuuBs2G7YWZ17hJdeuyVMtposxuu8c/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/2-pokojowe-mieszkanie-39m2-balkon-bez-prowizji-ID4uw0H",
+  "description": "<ul><li>2-pokojowe mieszkanie<strong> numer C2.29</strong>  na 2. piętrze w budynku C2 w Inwestycji Miasteczko Brzeziny II Dewelopera NAPOLLO</li><li>Trasa rowerowa wzdłuż Kanału Żerańskiego (3 minuty rowerem)</li><li>Lasy Mareckie (8 minut samochodem)</li><li>Przystanek autobusowy (2 minuty spacerem)</li><li>Biedronka (12 minut spacerem), Lidl (3 minuty samochodem)</li><li>CH Targówek, Multikino (10 minut samochodem)</li></ul><br/><strong>Miasteczko Brzeziny II - poznaj inwestycję</strong><br/><p><strong>Miasteczko Brzeziny </strong>to niezwykłe, kameralne osiedle, które oferuje mieszkańcom zaciszną atmosferę, dbając o ich <strong>bezpieczeństwo i komfort</strong>. To miejsce wyróżnia się starannie zaplanowaną architekturą oraz przyjaznymi przestrzeniami, budowanymi w trzech etapach.</p><p><strong>Zakończony etap I</strong></p><p>Pierwszy zrealizowany etap obejmuje cztery budynki, w których znajduje się łącznie<strong> 134 mieszkania</strong>. Lokale te są przestronne i posiadają funkcjonalne balkony lub ogrody, idealne do odpoczynku na świeżym powietrzu. Budynki wykonane są z wyselekcjonowanych materiałów, zapewniających niezawodność i estetykę.</p><p><strong>Aktualnie realizowany etap II</strong></p><p>W drugim etapie powstanie sześć trzykondygnacyjnych budynków z <strong>209 mieszkaniami</strong>, które odpowiedzą na potrzeby zarówno rodzin, jak i młodych par. Te mieszkania charakteryzują się wysokimi sufitami i dużymi oknami, które zapewniają dużo naturalnego światła. Mieszkania na parterze będą wyposażone w przestronne ogrody, a te na wyższych poziomach w balkony. Osiedle będzie wypełnione placami zabaw, strefami relaksu oraz bujną roślinnością, złożoną z ponad 100 drzew i 2200 krzewów, co dodaje mu zielonego charakteru.</p><p>Projekt osiedla jest <strong>zgodny z zasadami zrównoważonego rozwoju.</strong> Nowoczesne udogodnienia obejmują systemy monitoringu, ekologiczne oświetlenie, a także <strong>niezależne miejsca parkingowe</strong>, komórki lokatorskie oraz stojaki i boksy rowerowe. Dostęp do budynków umożliwiają <strong>wewnętrzne dziedzińce z kontrolą dostępu</strong>, a przestrzenie te są wyposażone w małe place zabaw i zielone oazy z elementami architektury. Główną atrakcją osiedla będzie <strong>przestronny plac zabaw</strong> <strong>o powierzchni ponad 300 m²</strong>, otoczony ławkami i zielenią, zaprojektowany z myślą o starszych dzieciach i lokalnej społeczności.</p><p>Dzięki <strong>bliskości ścieżek rowerowych i tras spacerowych</strong>, osiedle stanowi idealne miejsce dla osób ceniących aktywność fizyczną. Dobra infrastruktura komunikacyjna zapewnia<strong> szybki dostęp do centrum miasta</strong> i innych atrakcji. Ważnym atutem jest również bliskie <strong>sąsiedztwo renomowanej szkoły podstawowej</strong>, znajdującej się naprzeciwko osiedla.</p><br/><strong>Miasteczko Brzeziny II - lokalizacja</strong><br/><br/>Białołęka, ul. Hemara 9<br/><ul><li>10,9 km do centrum</li><li>2 min. spacerem do przystanku autobusowego</li><li>7 min. samochodem do przystanku tramwajowego</li><li>dojazd do centrum: 11 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (135 m, 2 minuty spacerem)</li><li>Szkoła Podstawowa (298 m, 5 minut spacerem)</li><li>Przedszkole (366 m, 5 minut spacerem)</li><li>Park (585 m, 8 minut spacerem)</li><li>Sklep: Biedronka (877 m, 12 minut spacerem)</li><li>Weterynarz (934 m, 13 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:06.831Z"
+}

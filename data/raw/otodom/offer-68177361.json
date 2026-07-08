@@ -1,0 +1,144 @@
+{
+  "id": 68177361,
+  "title": "Dwupoziomowe mieszkanie Kielce Stok piwnica 40 m2",
+  "slug": "dwupoziomowe-mieszkanie-kielce-stok-piwnica-40-m2-ID4C42R",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Osiedle Na Stoku 72h",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kielce",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "świętokrzyskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "swietokrzyskie",
+          "fullName": "świętokrzyskie",
+          "name": "świętokrzyskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "swietokrzyskie/kielce/kielce/kielce",
+          "fullName": "Kielce, świętokrzyskie",
+          "name": "Kielce",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "swietokrzyskie/kielce/kielce/kielce/osiedle-na-stoku",
+          "fullName": "Osiedle Na Stoku, Kielce, świętokrzyskie",
+          "name": "Osiedle Na Stoku",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndubnI4cWM1dWdodDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uy7_md3QLt-yyVghLavjLLBcCJd2W53nWbYcV0woPNs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndubnI4cWM1dWdodDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uy7_md3QLt-yyVghLavjLLBcCJd2W53nWbYcV0woPNs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhub2E4dnYxc3pndy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.GyjKX19J8XP-Ua-eGMHBl4f-9utM4QrG9EsPSB2gPD8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhub2E4dnYxc3pndy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.GyjKX19J8XP-Ua-eGMHBl4f-9utM4QrG9EsPSB2gPD8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFmZzZ0cm1maGIxOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.PuiHNm46imSB0vIbnnMvINQHwm3Flo15LB5IIyzDS8g/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFmZzZ0cm1maGIxOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.PuiHNm46imSB0vIbnnMvINQHwm3Flo15LB5IIyzDS8g/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:propertly-io",
+  "agency": {
+    "id": 5613644,
+    "name": "CKDOM Prime Real Estate",
+    "slug": "ckdom-prime-real-estate-ID5613644",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZwZDE0MnRoYjcweDEtQVBMIn0.r04SGLnVx7Lkw2BoS7kJNgohQZf0y1vTBDqGPJOxIAU/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1199000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1200,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 8443.66,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 142,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FIVE",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:34:27",
+  "createdAtFirst": "2026-07-06T15:34:15Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Przestrzeń, która zaskakuje – ponad 200 m2 komfortu w sercu miasta Szukasz nietuzinkowego mieszkania, które zapewni Ci wygodę domu, ale zlokalizowane będzie w centrum miasta? Ta oferta może być właśni...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Katarzyna Bujak",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImplZGoxM2o1aGUyZTEtQVBMIn0.SL7ga-HdcFheaEjfyTOnLbi3dNUdk7IOVqfTmp7_anw/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/dwupoziomowe-mieszkanie-kielce-stok-piwnica-40-m2-ID4C42R",
+  "description": "Przestrzeń, która zaskakuje – ponad 200 m2 komfortu w sercu miasta<br/> Szukasz nietuzinkowego mieszkania, które zapewni Ci wygodę domu, ale zlokalizowane będzie w centrum miasta? Ta oferta może być właśnie dla Ciebie.<br/> Na sprzedaż dwupoziomowy apartament o powierzchni użytkowej 139,34 m2, położony na 3. i 4. piętrze kameralnego budynku z 2008 roku. Wyróżnia się nowoczesną formą architektoniczną – płaski dach pozwolił maksymalnie wykorzystać przestrzeń bez skosów, co oznacza, że każdy metr kwadratowy jest w pełni funkcjonalny.<br/> Do mieszkania przynależy:<br/> ogromny taras o powierzchni ok. 70 m2 – idealny do wypoczynku, spotkań z bliskimi czy zielonych aranżacji, indywidualne miejsce postojowe w garażu podziemnym, imponujące pomieszczenie gospodarcze/piwnica o powierzchni aż 38,72 m2.<br/><br/> Całkowita powierzchnia użytkowa wszystkich przestrzeni wynosi ponad 200 m2.<br/><br/> Cena dotyczy samego mieszkania – miejsce w garażu i przestronna komórka prawie 40 m2 (38,72 m2) są dodatkowo płatne: 100 000 zł.<br/> Układ pomieszczeń:<br/> Poziom I:<br/> - przestronny salon<br/>- otwarta kuchnia z jadalnią, <br/>- łazienka.<br/><br/> Poziom II:<br/> - dwie niezależne sypialnie,<br/>- łazienka,<br/>- praktyczna garderoba/schowek, <br/>- część prywatna: sypialnia główna z własną łazienką, garderobą oraz gabinetem, bezpośrednie wyjście na taras.<br/> Poziomy łączy solidna drewniana klatka schodowa, która nadaje wnętrzu przytulności i charakteru. Kuchnia pozostaje umeblowana i wyposażona w sprzęty – to część oferty.<br/> To propozycja dla osób, które poszukują przestrzeni, funkcjonalności i prywatności, ale nie chcą rezygnować z miejskich udogodnień.<br/> Zainteresowany? Skontaktuj się z nami, by umówić się na prezentację i poczuć ten wyjątkowy klimat na własnej skórze.<br/> <br/>Opiekun oferty : Katarzyna Bujak 720703150 <br/>Numer licencji pośrednika odpowiedzialnego zawodowo za wykonanie umowy pośrednictwa: 29909<br/><br><br>Oferta dodana z propertly.io<br>Nr oferty w biurze: 33/18696/OMS/2/12",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:58.811Z"
+}

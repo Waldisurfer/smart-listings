@@ -1,0 +1,146 @@
+{
+  "id": 68132236,
+  "title": "Świetne 3pokoje, 2/4 w centrum os. Staszica",
+  "slug": "swietne-3pokoje-2-4-w-centrum-os-staszica-ID4BSj2",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Helenowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Pruszków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/pruszkowski",
+          "fullName": "pruszkowski, mazowieckie",
+          "name": "pruszkowski",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/pruszkowski/pruszkow/pruszkow",
+          "fullName": "Pruszków, pruszkowski, mazowieckie",
+          "name": "Pruszków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ6dHV1N2tkaWQ2bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kXSfd4jN3J0Rl2Tq_hhgyYUu7u9DLu6078JmBX4KcZc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ6dHV1N2tkaWQ2bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kXSfd4jN3J0Rl2Tq_hhgyYUu7u9DLu6078JmBX4KcZc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBpMDhtOXQ1djVkNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._WKpyR_ln7IxwOlG2tRXLipJDUwE_RrQqatC2uOTGJw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBpMDhtOXQ1djVkNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._WKpyR_ln7IxwOlG2tRXLipJDUwE_RrQqatC2uOTGJw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVvMGh0cXd2dW43cTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qNcI4uqev0k9g9-e6M7v4v70JZ8NWRYu5LdOXJZqDaQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVvMGh0cXd2dW43cTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qNcI4uqev0k9g9-e6M7v4v70JZ8NWRYu5LdOXJZqDaQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 865412,
+    "name": "Akcent Nieruchomości",
+    "slug": "akcent-nieruchomosci-ID865412",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 744000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 12400,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 60,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:59:38",
+  "createdAtFirst": "2026-06-22T16:35:06Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T12:59:38+02:00",
+  "specialOffer": null,
+  "shortDescription": "Trzy pokojowe mieszkanie na drugim piętrze czteropiętrowego bloku w samym sercu osiedla Staszica, w niedalekiej odległości od szkoły, placu zabaw, boiska, przychodni, kościoła, sklepów, komunikacji i ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Irena Kochanowska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhsc2M1NDR2cnB5YjItQVBMIn0.xKMwuuhNv7svMDaj9EhG0wQmCO_RT5nC8u4QgeiE_jo/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/swietne-3pokoje-2-4-w-centrum-os-staszica-ID4BSj2",
+  "description": "<p>Trzy pokojowe mieszkanie na drugim piętrze czteropiętrowego bloku w samym sercu osiedla Staszica, w niedalekiej odległości od szkoły, placu zabaw, boiska, przychodni, kościoła, sklepów, komunikacji i w otocznie zieleni. <br/>Nie dość, że okolica idealna dla dzieci to i samo mieszkanie stanowi fantastyczną ofertę dla rodziny z dziećmi. Trzy rozkładowe pokoje, czyli, przestronny salon z balkonem wśród zieleni i dwie sypialnie po ok. 10 i 14 m, widna i kompletnie wyposażona kuchnia, osobna łazienka i toaleta, garderoba w przestronnym holu, pozwalają wygodnie funkcjonować cztero, a nawet pięcioosobowej rodzinie. Wszystko zadbane i remontowane w ostatnich latach z dbałością o jakość i estetykę, nie wymaga specjalnych nakładów finansowych, tym bardziej, że właściciele rozważają pozostawienie większości wyposażenia, a jasna i ciepła kolorystyka wnętrz pozwoli się odnaleźć wielu szukającym nowego lokum na etap życia, w którym rodzina potrzebuje przestrzeni i łatwego dostępu do szkoły przedszkola i wygodnej codzienności, Mieszkanie może być również świetną inwestycją pod wynajem gdyż zainteresowanie dużymi mieszkaniami na wynajem nie słabnie. <br/>Zainteresowanych zapraszam do kontaktu i na prezentację oferta na wyłączność, agent prowadzący Irena Kochanowska 506 01 02 01<br/>Treść niniejszego ogłoszenia nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego, <br/>lecz ma charakter informacyjny.</p><p></p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:10.829Z"
+}

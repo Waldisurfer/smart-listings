@@ -1,0 +1,169 @@
+{
+  "id": 67725130,
+  "title": "MIESZKANIE NA WYNAJEM DZIEWIN OBOK BOCHNII (MOŻLIWOŚĆ DZIAŁALNOŚCI)",
+  "slug": "mieszkanie-na-wynajem-dziewin-obok-bochnii-mozliwosc-dzialalnosci-ID4AaoO",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 500,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Dziewin",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/bochenski",
+          "fullName": "bocheński, małopolskie",
+          "name": "bocheński",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/bochenski/drwinia",
+          "fullName": "Drwinia, bocheński, małopolskie",
+          "name": "Drwinia",
+          "locationLevel": "commune",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/bochenski/drwinia/dziewin",
+          "fullName": "Dziewin, Drwinia, bocheński, małopolskie",
+          "name": "Dziewin",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InloOHI4cWU0OWRnOTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hgxTVykKiQO5gnr5V-NwGUIOPamAwPaPmINr4ai7zSo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InloOHI4cWU0OWRnOTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hgxTVykKiQO5gnr5V-NwGUIOPamAwPaPmINr4ai7zSo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV4NWtxY2N2MTQ1MjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8dEqdSqJDOk4RzSI6zQwC_wLLvT3f9fhZlTj6DN2FmE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV4NWtxY2N2MTQ1MjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8dEqdSqJDOk4RzSI6zQwC_wLLvT3f9fhZlTj6DN2FmE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1pOXl6bW9sdXh2ODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZicDSrO2VoDUSPrJSXYq-ivo0_Ts0O0gqAPB_c_EmAM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1pOXl6bW9sdXh2ODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZicDSrO2VoDUSPrJSXYq-ivo0_Ts0O0gqAPB_c_EmAM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 7687935,
+    "name": "ALOKUM Nieruchomości",
+    "slug": "alokum-nieruchomosci-ID7687935",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFsbHhhZng5bDY0bTEtQVBMIn0.lf4_Gabm6F0SlH2HUtERpzOrhbHYUonfO3dAW4mM1Fo/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 35,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 100,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-02 07:06:50",
+  "createdAtFirst": "2026-02-18T12:49:49Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-02T07:06:50+02:00",
+  "specialOffer": null,
+  "shortDescription": "Mieszkanie na wynajem – Dziewin | 10 km od Bochni | Przy Puszczy NiepołomickiejDo wynajęcia przestronne mieszkanie z ogródkiem w miejscowości Dziewin, zaledwie 10 km od Bochnii, w bezpośrednim sąsiedz...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Joanna",
+    "lastName": "Tymczyszyn",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Kinga Gałecka",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-na-wynajem-dziewin-obok-bochnii-mozliwosc-dzialalnosci-ID4AaoO",
+  "description": "<p>Mieszkanie na wynajem – Dziewin | 10 km od Bochni | Przy Puszczy Niepołomickiej</p><p>Do wynajęcia przestronne mieszkanie z ogródkiem w miejscowości Dziewin, zaledwie 10 km od Bochnii, w bezpośrednim sąsiedztwie Puszczy Niepołomickiej.</p><p><b>Lokal położony jest przy sklepie spożywczym, w spokojnej okolicy z bardzo dobrym dojazdem do Bochni. To atrakcyjna propozycja zarówno do zamieszkania, jak i pod prowadzenie działalności gospodarczej.</b></p><p>Najważniejsze atuty nieruchomości:</p><ul><li>ogródek przy mieszkaniu</li><li>balkon</li><li>możliwość prowadzenia działalności gospodarczej – w celu omówienia szczegółów zapraszamy do kontaktu</li><li>możliwość wykonania ścianek działowych i dostosowania przestrzeni do własnych potrzeb</li><li><b>nowoczesne i ekonomiczne ogrzewanie: pompa ciepła oraz instalacja fotowoltaiczna, co przekłada się na niskie koszty eksploatacyjne</b></li></ul><p>Układ mieszkania:</p><ul><li>duża łazienka</li><li>kuchnia</li><li>salon</li><li>duże pomieszczenie typu open space</li><li>sypialnia</li><li>garderoba</li><li>pomieszczenie gospodarcze</li><li>balkon</li></ul><p>Dodatkowym atutem jest wydzielona sypialnia z garderobą oraz dodatkową przestrzenią do przechowywania. Obszerne pomieszczenie open space daje szerokie możliwości aranżacyjne – zarówno w celach mieszkalnych, jak i usługowych.</p><p>Dziewin to spokojna miejscowość położona blisko Bochni, w otoczeniu terenów zielonych. Bliskość Puszczy Niepołomickiej sprzyja rekreacji i aktywnemu wypoczynkowi. To idealne miejsce dla osób ceniących ciszę, naturę i jednocześnie szybki dojazd do miasta.</p><p>Zapraszamy do kontaktu w celu uzyskania szczegółowych informacji oraz umówienia prezentacji.</p><p> </p><p>OFERTA NA WYŁĄCZNOŚĆ</p><p>KONTAKT W SPRAWIE OFERTY:</p><p>ALOKUM Nieruchomości</p><p>Joanna Tymczyszyn</p><p>Ｄｏśｗｉａｄｃｚｅｎｉｅ， Ｚａｕｆａｎｉｅ， Ｐｒｏｆｅｓｊｏｎａｌｉｚｍ</p><p></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:02.603Z"
+}

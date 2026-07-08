@@ -1,0 +1,153 @@
+{
+  "id": 68001457,
+  "title": "Mieszkanie, 47 m², Warszawa",
+  "slug": "mieszkanie-47-m-warszawa-ID4BkhH",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Przedpole",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+          "fullName": "Włochy, Warszawa, mazowieckie",
+          "name": "Włochy",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+          "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+          "name": "Raków",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJyY3NneHZ0OGlxczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sS0pFzclh6vhSOeUoF2Xsbt7oPG5xIqMx3xcY1LJz1E/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJyY3NneHZ0OGlxczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sS0pFzclh6vhSOeUoF2Xsbt7oPG5xIqMx3xcY1LJz1E/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRxM3gyaXc4OWt4eC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.hb8hKeaNjdwZcGxJXvcqwLIt8H6SoLjMas3T1vmfMPk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRxM3gyaXc4OWt4eC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.hb8hKeaNjdwZcGxJXvcqwLIt8H6SoLjMas3T1vmfMPk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsyZHN3YWR1cXdzaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8DYP5FCNLJuiHzJdkPqC-Cnzztx2LY5RPqsMhji8acM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsyZHN3YWR1cXdzaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8DYP5FCNLJuiHzJdkPqC-Cnzztx2LY5RPqsMhji8acM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 7,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 4100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 990,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 87.23,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 47,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:19:53",
+  "createdAtFirst": "2026-05-13T15:39:01Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:19:53+02:00",
+  "specialOffer": null,
+  "shortDescription": "Biurom nieruchomości oraz pośrednikom dziękujemy i prosimy o niekontaktowanie się.Do wynajęcia nowe, w pełni umeblowane mieszkanie o powierzchni 47,34 m², zlokalizowane przy ul. Przedpole 8 w dzielnic...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Rafał",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-47-m-warszawa-ID4BkhH",
+  "description": "<p>Biurom nieruchomości oraz pośrednikom dziękujemy i prosimy o niekontaktowanie się.</p><p></p><p>Do wynajęcia nowe, w pełni umeblowane mieszkanie o powierzchni 47,34 m², zlokalizowane przy ul. Przedpole 8 w dzielnicy Warszawa Włochy.</p><p>Lokal znajduje się na 2 piętrze nowoczesnego budynku z 2025 roku. Mieszkanie jest świeżo wykończone i czeka na pierwszego najemcę.</p><p>To idealna propozycja dla pary lub rodziny 2+1, która szuka komfortowego mieszkania w bardzo dobrze skomunikowanej części miasta.</p><p>Układ mieszkania</p><p>Mieszkanie ma przejrzysty i funkcjonalny układ, dzięki czemu jest wygodne w codziennym użytkowaniu. Lokal jest ustawny i dobrze doświetlony.</p><p>Mieszkanie składa się z:</p><ul><li>salonu z aneksem kuchennym i wyjściem na loggię</li><li>oddzielnej sypialni z łóżkiem oraz dużą szafą</li><li>łazienki</li><li>przedpokoju z pojemną szafą w zabudowie</li></ul><p>Wyposażenie</p><p>Mieszkanie jest w pełni umeblowane i wyposażone w sprzęt AGD, w tym:</p><ul><li>lodówkę</li><li>płytę indukcyjną</li><li>piekarnik</li><li>zmywarkę</li><li>okap</li><li>pralkę</li></ul><p>W salonie znajduje się wygodna sofa, a w sypialni pełnowymiarowe łóżko.</p><p>Budynek i osiedle</p><p>Nowoczesny budynek z 2025 roku oferuje komfort i bezpieczeństwo:</p><ul><li>winda</li><li>monitoring</li><li>ochrona</li><li>zamknięte osiedle</li></ul><p>Lokalizacja</p><p>Mieszkanie znajduje się w bardzo dobrze skomunikowanej części Warszawy. W bezpośredniej okolicy znajdują się przystanki komunikacji miejskiej oraz główne węzły komunikacyjne miasta. W odległości ok. 700 metrów znajduje się przystanek WKD Raków.</p><p>W pobliżu dostępna jest pełna infrastruktura handlowo-usługowa, m.in. sklepy, piekarnie oraz Centrum Handlowe Łopuszańska 22.</p><p>Warunki najmu</p><ul><li>czynsz najmu: 4100 zł</li><li>czynsz administracyjny: ok. 990 zł zawierający zaliczki na wodę i ogrzewanie</li><li>dodatkowo płatne: prąd oraz woda (tylko jeśli zużycie będzie ponad wysokość zaliczek)</li><li>kaucja: 5000 zł</li></ul><p>W cenie najmu zawarte jest:</p><ul><li><b>miejsce postojowe w garażu podziemnym</b></li><li><b>komórka lokatorska</b></li></ul><p>Umowa najmu okazjonalnego na minimum 12 miesięcy.</p><p>Mieszkanie dla osób niepalących.</p><p>Dostępność</p><p>Mieszkanie jest dostępne od zaraz.</p><p>Możliwość obejrzenia po wcześniejszym umówieniu.</p><p>Biurom nieruchomości oraz pośrednikom dziękujemy i prosimy o niekontaktowanie się.</p><p>51</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:32.024Z"
+}

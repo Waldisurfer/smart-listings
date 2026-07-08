@@ -1,0 +1,158 @@
+{
+  "id": 68156738,
+  "title": "Jasny i Funkcjonalny Apartament | Mokotów Wierzbno",
+  "slug": "jasny-i-funkcjonalny-apartament-mokotow-wierzbno-ID4BYGe",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Adama Naruszewicza",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/wierzbno",
+          "fullName": "Wierzbno, Mokotów, Warszawa, mazowieckie",
+          "name": "Wierzbno",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRrY2lsM2ZyZDJxbjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.W3_lSuRytvXSduDa848MCDHQkQkl4H5f4Fk-oFI0VXw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRrY2lsM2ZyZDJxbjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.W3_lSuRytvXSduDa848MCDHQkQkl4H5f4Fk-oFI0VXw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJnMGRsdDlmdTBnNjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M6wkHlPTKG8qAMJD42r2RgloB3bdgFdA9hD0Xa_Fed4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJnMGRsdDlmdTBnNjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M6wkHlPTKG8qAMJD42r2RgloB3bdgFdA9hD0Xa_Fed4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdkNnVhZDg1ajNhczEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dnCRZfrR0N3EQM3T8Id_y7XmK6J-ql6Dtv-4FnlxIk0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdkNnVhZDg1ajNhczEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dnCRZfrR0N3EQM3T8Id_y7XmK6J-ql6Dtv-4FnlxIk0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 5100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 108.51,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 47,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIFTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:15:28",
+  "createdAtFirst": "2026-06-30T12:13:03Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Apartament z przestrzenią i światłem - przemyślana biel i wygoda | Mokotów | ul. NaruszewiczaZamieszkaj w miejscu, gdzie estetyka spotyka się z funkcjonalnością, a codzienność nabiera lekkości. Ten ja...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Teresa",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/jasny-i-funkcjonalny-apartament-mokotow-wierzbno-ID4BYGe",
+  "description": "<p><b>Apartament z przestrzenią i światłem - przemyślana biel i wygoda | Mokotów | ul. Naruszewicza</b></p><p>Zamieszkaj w miejscu, gdzie estetyka spotyka się z funkcjonalnością, a codzienność nabiera lekkości. Ten jasny i przytulny, w pełni wyposażony 2-pokojowy apartament (47 m²) przy metrze Wierzbno, z miejscem parkingowym w garażu podziemnym, to propozycja dla osób ceniących uporządkowaną, spokojną przestrzeń i wygodę.</p><p>Apartament położony jest na 5 piętrze w budynku \"Rezydencja Mokotów\" – eleganckim, kameralnym apartamentowcu z całodobową ochroną, monitoringiem oraz reprezentacyjną recepcją. Mieszkańcy mają dostęp do stylowego meeting roomu oraz wewnętrznego starannie zaprojektowanego patio z zadbaną zielenią. Klatki schodowe i garaż są jasne, przestronne i utrzymane w wysokim standardzie.</p><p><b>Lokalizacja, która ułatwia codzienność</b></p><p>Bezpośrednie wejście do stacji metra tuż przy budynku. Doskonałe połączenia z centrum miasta, oraz biznesową częścią Mokotowa (Marynarska, Domaniewska), szybki dojazd do lotniska. W budynku: kawiarnia, apteka, sklep, fryzjer. W okolicy pełna infrastruktura, tereny zielone (park Królikarnia), lokalny bazarek, cukiernia, Galeria Mokotów, przystanki tramwajowe i autobusowe – wszystko w zasięgu krótkiego spaceru.</p><p><b>Przemyślane wnętrze - aranżacja, funkcjonalny układ i detale, które cieszą oko.</b></p><ul><li><b>Salon </b>połączony z aneksem kuchennym i przedpokojem tworzy otwartą, funkcjonalną przestrzeń dzienną. Wygodna sofa, stolik kawowy i strefa jadalniana przy oknie sprawiają, że wnętrze sprzyja odpoczynkowi i codziennemu rytmowi.</li><li><b>Aneks kuchenny</b> z pełnym wyposażeniem AGD w zabudowie: zmywarka, piekarnik z funkcją pary, płyta indukcyjna, wbudowany okap, lodówka No Frost oraz pralko-suszarka. W zabudowie przewidziano również wysuwany blat roboczy, ukryty pod opuszczaną roletą, oraz praktyczne miejsce na drobne sprzęty codziennego użytku. Bielone szkło między szafkami podkreśla spójność i jasność tej przestrzeni.</li><li><b>Sypialnia</b> z dużym łóżkiem kontynentalnym, wygodnym materacem premium i podświetlaną zabudowaną szafą. Przesuwne drzwi pomiędzy salonem a sypialnią ukrywane w ścianie pozwalają dowolnie łączyć lub oddzielać przestrzeń dzienną i nocną.</li><li><b>Loggia</b> biegnąca wzdłuż całego apartamentu, z wyjściem zarówno z salonu, jak i z sypialni. Wyposażona w bezramowe przeszklenia Lumon oraz szklane balustrady, stanowi dodatkową przestrzeń do wypoczynku przez większą część roku. Znajdują się tu również: podwieszany fotel, zestaw wypoczynkowy. biała podświetlana donica oraz zabudowana szafa gospodarcza.</li><li><b>Łazienka</b> z prysznicem typu walk-in i deszczownicą, elegancką armaturą, dużym lustrem, wbudowanym radiem GIRA i bidetką – wszystko starannie zintegrowane i wygodne w codziennym użytkowaniu.</li><li><b>Przedpokój</b> z lustrzaną ścianą i pojemną zabudową optycznie powiększa przestrzeń już od progu.</li></ul><p>W całym mieszkaniu zastosowano energooszczędne oświetlenie LED, duże drewniane okna z drewnianymi żaluzjami listwowymi, dwa niezależne systemy klimatyzacji oraz <b>białą podłogę,</b> która wprowadza spójność i lekkość do wnętrza. Całość zaprojektowana w spokojnej, nowoczesnej estetyce.</p><p>Zarówno salon, jak i sypialnia wychodzą na stronę zachodnią, co sprawia, że wnętrze przez większą część dnia wypełnia przyjemne, naturalne światło.</p><p><b>Dodatkowe wyposażenie: </b>TV, ekspres do kawy, czajnik, odkurzacz, żelazko, deska do prasowania, garnki, sztućce, wieszaki do szafy.</p><p><b>Koszt najmu:</b> 5100 zł + czynsz administracyjny (ok. 800 zł) + opłaty licznikowe. Kaucja zwrotna w wysokości 9000zł.</p><p>Możliwość podłączenia TV i internetu u dowolnego operatora.</p><p>Opcjonalnie miejsce parkingowe w garażu podziemnym płatne dodatkowo 400zł miesięcznie.</p><p><b>Wynajem bezpośredni, dostępność od 02.08.2026.</b></p><p>Apartament dostępny w ramach najmu okazjonalnego (z oświadczeniem notarialnym).</p><p>Szukam osób, które chcą się związać z tym miejscem na dłużej – preferowany czas najmu to minimum rok.</p><p>Ze względu na charakter wykończenia mieszkania, mile widziany najem bez zwierząt.</p><p><b>Zachęcam do kontaktu i obejrzenia nieruchomości — to przestrzeń, którą warto zobaczyć na żywo.</b></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:19.504Z"
+}

@@ -1,0 +1,164 @@
+{
+  "id": 67991051,
+  "title": "Penthouse w nowoczesnym apartamentowcu nad brzegiem rzeki Węgorapy",
+  "slug": "penthouse-w-nowoczesnym-apartamentowcu-nad-brzegiem-rzeki-wegorapy-ID4BhzR",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Zamkowa",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Węgorzewo",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "warmińsko-mazurskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "warminsko--mazurskie",
+          "fullName": "warmińsko-mazurskie",
+          "name": "warmińsko-mazurskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "warminsko--mazurskie/wegorzewski",
+          "fullName": "węgorzewski, warmińsko-mazurskie",
+          "name": "węgorzewski",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "warminsko--mazurskie/wegorzewski/wegorzewo",
+          "fullName": "Węgorzewo, węgorzewski, warmińsko-mazurskie",
+          "name": "Węgorzewo",
+          "locationLevel": "commune",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "warminsko--mazurskie/wegorzewski/wegorzewo/wegorzewo",
+          "fullName": "Węgorzewo, Węgorzewo, węgorzewski, warmińsko-mazurskie",
+          "name": "Węgorzewo",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpqcGs0bXBxZDB2Ny1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vMaOCh2h53rSqYtH0VVNGSfzptstnQ8SnttIop9TYBs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpqcGs0bXBxZDB2Ny1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vMaOCh2h53rSqYtH0VVNGSfzptstnQ8SnttIop9TYBs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJiOGc3bGhjemQ0NjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.k5RzI1ncK9T3VZLkBVdjTE02etfBpCbRJiYgYvmeqXs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJiOGc3bGhjemQ0NjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.k5RzI1ncK9T3VZLkBVdjTE02etfBpCbRJiYgYvmeqXs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5bWgxb2NwNWw0NDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ml5mwbMIjqAe3Regxhod9HZHObmm0nkpbDBzeSembbw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5bWgxb2NwNWw0NDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ml5mwbMIjqAe3Regxhod9HZHObmm0nkpbDBzeSembbw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1390000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 13652.88,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 101.81,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:03:19",
+  "createdAtFirst": "2026-05-11T10:46:22Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Sprzedam penthouse w nowoczesnym apartamentowcu nad brzegiem rzeki Węgorapy w Węgorzewie.Spokojna okolica z widokiem na rzekę, port i zamek z XIV w. Wieczorami można słuchać szumu wody i podziwiać zac...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Halina",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/penthouse-w-nowoczesnym-apartamentowcu-nad-brzegiem-rzeki-wegorapy-ID4BhzR",
+  "description": "<p>Sprzedam penthouse w nowoczesnym apartamentowcu nad brzegiem rzeki Węgorapy w Węgorzewie.</p><p>Spokojna okolica z widokiem na rzekę, port i zamek z XIV w. Wieczorami można słuchać szumu wody i podziwiać zachód słońca.</p><p>Komfortowe warunki mieszkania w wygodnym, klimatyzowanym i ciepłym zimą apartamencie. Duży taras do spotkań w gronie znajomych. Blisko do portu jachtowego i na spacery nad Mamry. Stąd zaczyna się Szlak Wielkich Jezior.</p><p><b>Cena 1 390 000 zł  (</b>13 653 zł/m²)</p><p>Powierzchnia: 101,81 m2</p><p>Taras 69 m2</p><p>Salon</p><p>Kuchnia z jadalnią,</p><p>3 sypialnie</p><p>2 łazienki</p><p>Piętro: 3/3 (tylko 2 apartamenty na piętrze), winda</p><p>Stan wykończenia: do zamieszkania</p><p>Forma własności: pełna własność</p><p>Rok budowy: 2022</p><p>Rodzaj zabudowy: apartamentowiec</p><p>Materiał budynku: cegła</p><p>Okna: plastikowe</p><p>Bezpieczeństwo: monitoring</p><p>Ogrzewanie: miejskie</p><p>Wyposażenie: meble pralka zmywarka lodówka kuchenka piekarnik telewizor klimatyzacja</p><p>Zabezpieczenia: drzwi / okna antywłamaniowe domofon / wideofon</p><p>Wykończony w standardzie Premium. W każdym pokoju zamontowana jest klimatyzacja.</p><p>Dodatkowo miejsce parkingowe z komórką lokatorską w podziemnym garażu w cenie 30 tys. zł.</p><p>Apartament typu penthouse, położony na trzecim (ostatnim) piętrze budynku Zamkowa Park w Węgorzewie.</p><p>Zamieszkały tylko w okresie wakacyjnym od 2024 roku.</p><p>Odległość do portu z którego można wyruszyć na szlak Wielkich Jezior Mazurskich to jedyne 200 m.</p><p>Apartament jest dobrą inwestycją mogącą przynosić zyski z wynajmu, jak również doskonałym miejscem na spędzenie czasu z rodziną lub przyjaciółmi, z dala od miejskich aglomeracji w naprawdę wyjątkowym miejscu.</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:15.990Z"
+}

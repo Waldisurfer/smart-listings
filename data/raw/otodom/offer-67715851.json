@@ -1,0 +1,182 @@
+{
+  "id": 67715851,
+  "title": "* Komfortowe z ogródkiem blisko Metra Ursynów *",
+  "slug": "komfortowe-z-ogrodkiem-blisko-metra-ursynow-ID4A7Z9",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Wiolinowa",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/ursynow",
+          "fullName": "Ursynów, Warszawa, mazowieckie",
+          "name": "Ursynów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/ursynow/ursynow-polnocny",
+          "fullName": "Ursynów Północny, Ursynów, Warszawa, mazowieckie",
+          "name": "Ursynów Północny",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjA3MTQ1ZXp4cnp3ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.juVg4rLjOPj_uchNI72CVv_zKNoOpl_9D4KpRT07RJU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjA3MTQ1ZXp4cnp3ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.juVg4rLjOPj_uchNI72CVv_zKNoOpl_9D4KpRT07RJU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp6MGdicGNiN3ZlcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MX313u7y8sP4f0TfVrfFd5oD_NGtbwn03tjAvieUEDs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp6MGdicGNiN3ZlcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MX313u7y8sP4f0TfVrfFd5oD_NGtbwn03tjAvieUEDs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVtejdlYmo0aG9nei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CrLcdSq4rU9z7r7Y5t4QtuYEmdTCZqy3ccy2K5j21K4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVtejdlYmo0aG9nei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CrLcdSq4rU9z7r7Y5t4QtuYEmdTCZqy3ccy2K5j21K4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 5156252,
+    "name": "Propertica",
+    "slug": "propertica-ID5156252",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB6cGtuazA4aGN1ay1BUEwifQ.EbzKFrPHovyumry8Nv_KNqgZRwuIB3kqXqBvvB3_8TY/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2650,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 58.89,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 45,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-24 13:41:42",
+  "createdAtFirst": "2026-02-16T09:22:32Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-02-24T13:41:43+01:00",
+  "specialOffer": null,
+  "shortDescription": "Mam przyjemność zaprezentować ofertę na wyłączność.Nietuzinkowe mieszkanie w zacisznej lokalizacji, a jednocześnie rewelacyjnie skomunikowane.Układ pomieszczeń:- salon ( 16 m2 ) z wyjściem na duży bal...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Kamil Wolfram-Jaroszyński",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ5MGdpZDVqbnI2Ni1BUEwifQ.goT2yCxX6f1IexfjXFISOfADkV7cD3h-bfIHiHsIAXQ/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/komfortowe-z-ogrodkiem-blisko-metra-ursynow-ID4A7Z9",
+  "description": "Mam przyjemność zaprezentować ofertę na wyłączność.<br><br>Nietuzinkowe mieszkanie w zacisznej lokalizacji, a jednocześnie rewelacyjnie skomunikowane.<br><br>Układ pomieszczeń:<br>- salon ( 16 m2 ) z wyjściem na duży balkon<br>- kuchnia (8,87 m²)<br>- sypialnia  (10,26 m²)<br>- łazienka z WC ( 4,7 m² )<br>- przedpokój ( 8 m² )<br>- Balkon ( 6.52 m2 )<br><br>Opis mieszkania:<br>Mieszkanie znajduje się na cichym, zielonym i monitorowanym osiedlu, co gwarantuje spokój i bezpieczeństwo. Jest to lokal mieszkalny o powierzchni użytkowej pozwalającej na komfortowe zamieszkanie zarówno dla rodzin, jak i osób poszukujących przestrzeni do pracy zdalnej.<br><br>Dodatkowe Informacje:<br>- Park Romana Kozłowskiego w bezpośrednim sąsiedztwie osiedla plenerowe siłownie oraz dużo terenu do aktywnego wypoczynku.<br>- Bliskość Lasu Kabackiego (największego rezerwatu województwa Mazowieckiego) idealne miejsce na spacery, bieganie czy wycieczki rowerowe.<br><br>Komunikacja:<br>Wejście do stacji metra Ursynów w zasięgu kilku minut spacerem, co zapewnia szybki dojazd do centrum Warszawy oraz ogromny potencjał inwestycyjny tej lokalizacji.<br><br>Infrastruktura:<br>Wszelkie niezbędne w życiu codziennym punkty usługowo-handlowe w najbliższej okolicy, szkoła oraz przedszkole bezpośrednio pod budynkiem.<br><br>Mieszkanie jest idealne zarówno dla rodzin z dziećmi, jak i dla osób aktywnych, które cenią sobie bliskość natury oraz dobrą komunikację.<br>Mieszkanie dwustronne wschód-zachód co gwarantuje dobrą cyrkulację powietrza.<br><br>Koszty : <br><br>Koszt wynajmu 2800 PLN + 700 PLN czynsz administracyjny<br>Kaucja 3500 PLN<br><br><br>Polecam szczególnie i zapraszam do kontaktu.<br><br>Posiadam klucze do lokalu i jestem dyspozycyjny 7 dni w tygodniu w godzinach 08.00 - 22.00.<br><br>Kamil Wolfram-Jaroszyński <br>Ekspert ds. nieruchomości Propertica<br>500-251-136<br><br>Niniejsze ogłoszenie ma charakter informacyjny i nie stanowi oferty w rozumieniu Kodeksu cywilnego.<br>Przedstawione wizualizacje i grafiki mają charakter poglądowy.",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:40.575Z"
+}

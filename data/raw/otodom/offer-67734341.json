@@ -1,0 +1,165 @@
+{
+  "id": 67734341,
+  "title": "Warszawa Powiśle 115 m2 na biuro hostel mieszkanie",
+  "slug": "warszawa-powisle-115-m2-na-biuro-hostel-mieszkanie-ID4AcNn",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Oboźna",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie",
+          "fullName": "Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie/srodmiescie-polnocne",
+          "fullName": "Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście Północne",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVsZHhqYXJpdTRmMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KY1YcLnPRp7sjvXGDpDE2FYoI5cUut3gbRs31zLlgFY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVsZHhqYXJpdTRmMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KY1YcLnPRp7sjvXGDpDE2FYoI5cUut3gbRs31zLlgFY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inhyc3J5eWUycnVicDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q1AbeUrbN4lAkXn1Q4dqiw4ayj_OYLGWaTWPWvP2Uvs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inhyc3J5eWUycnVicDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q1AbeUrbN4lAkXn1Q4dqiw4ayj_OYLGWaTWPWvP2Uvs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Impmd3hzMW9ob2M0bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-rQrhjlZ7FU6_XZCDkGEiEAalxdosyURjhgmvRqJU7E/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Impmd3hzMW9ob2M0bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-rQrhjlZ7FU6_XZCDkGEiEAalxdosyURjhgmvRqJU7E/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 10519231,
+    "name": "Grupa Simple ",
+    "slug": "grupa-simple-ID10519231",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InphM2lnaHEzZ2Jtdi1BUEwifQ.h0F5Y1uEh4Oa6V-ckcFmIsAID3Jmg-gWA7VaR1mr7Y8/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 8000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 69.57,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 115,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "FIFTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-20 19:08:41",
+  "createdAtFirst": "2026-02-20T19:08:37Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia lokal biurowy, może być również mieszkalny, o powierzchni 115 m2, zlokalizowane w centrum Warszawy na Powiślu.W pobliżu popularnego teatru, uniwersytetów i starego miasta.Idealne dla firm...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Rafał",
+    "lastName": "Pluciński",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF3NHU0YWFmbmdmYzEtQVBMIn0.v9OSys3atzBHHpQFFVuVjEBY_AuY8BF3ZTEdAGKDR6I/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Rafał Pluciński",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRjdTB0dXB6OTk2MTMtQVBMIn0.OEaNMLSAU-tzeSz1ZeTZIIfLcxdECYBmRwBnrpyg4QQ/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/warszawa-powisle-115-m2-na-biuro-hostel-mieszkanie-ID4AcNn",
+  "description": "Do wynajęcia lokal biurowy, może być również mieszkalny, o powierzchni 115 m2, zlokalizowane w centrum Warszawy na Powiślu.<br>&nbsp;W pobliżu popularnego teatru, uniwersytetów i starego miasta.<br>&nbsp;Idealne dla firm szukających atrakcyjnej lokalizacji, możliwość przekształcenia pod Hostel.<br>&nbsp;Biuro wyposażone w:<br><br><ul><li>4 duże pokoje, z możliwością podziału</li><li>lokal dwustronny&nbsp;</li><li>Duża przestrzeń otwarta</li><li>łazienka</li><li>prysznic</li><li>toaleta</li><li>Dostęp do Internetu</li><li>Parking (opcjonalnie)</li><li>Internet</li><br></ul>Czynsz: do uzgodnienia<br>Media: opłaty dodatkowe<br><br>Świetna lokalizacja, blisko transportu publicznego. Dostępne od zaraz!&nbsp;&nbsp;<br><br>Zawarte powyżej informacje mają charakter wyłącznie informacyjny i nie stanowią oferty handlowej w rozumieniu obowiązujących przepisów prawa. W  Sp. z o.o. dbamy o to, aby treści prezentowane w naszych ofertach były aktualne i rzetelne. Informacje dotyczące ofert pochodzą z oświadczeń sprzedających, a my dokładamy wszelkich starań, aby były one jak najbardziej wiarygodne.<br><br><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:44.579Z"
+}

@@ -1,0 +1,164 @@
+{
+  "id": 67734490,
+  "title": "Przytulne, ciche na Placu Unii Lubelskiej!",
+  "slug": "przytulne-ciche-na-placu-unii-lubelskiej-ID4AcPM",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Chocimska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/stary-mokotow",
+          "fullName": "Stary Mokotów, Mokotów, Warszawa, mazowieckie",
+          "name": "Stary Mokotów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI4aXY4bWZ6MHRhNjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._n-s2eza4worOHKPYch2iCNBGZMG3m8419WBFIfcDNc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI4aXY4bWZ6MHRhNjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._n-s2eza4worOHKPYch2iCNBGZMG3m8419WBFIfcDNc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM0cGZwNzVhZDUwYjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UkkZAf9E-pYHtoYIko005ZaZ5OXPxqmoawS5Q9sxIy0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM0cGZwNzVhZDUwYjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UkkZAf9E-pYHtoYIko005ZaZ5OXPxqmoawS5Q9sxIy0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrMnVxaWFocWR4YTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nHnw1A072PfDf0hAxNSzNc4JwBM-PK40EFCm8jYMprU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrMnVxaWFocWR4YTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nHnw1A072PfDf0hAxNSzNc4JwBM-PK40EFCm8jYMprU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 2406336,
+    "name": "Khan Rea",
+    "slug": "khan-rea-ID2406336",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB2dmVpMXRkazdqbDItQVBMIn0.xudpGFsVzp_5VZNYFfBvnELZb3-7L_pl7qev1dBhdxk/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3320,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 70.64,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 47,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-20 20:15:27",
+  "createdAtFirst": "2026-02-20T20:15:04Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "WYNAJMUJEMY – wyjątkowe mieszkanie w sercu zielonego Mokotowa!Zamieszkaj w jednej z najbardziej prestiżowych i klimatycznych części Warszawy – tuż przy Placu Unii Lubelskiej, blisko Łazienek oraz nied...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "MIROSŁAWA",
+    "lastName": "KENNEDY",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Mirosława Kennedy",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/przytulne-ciche-na-placu-unii-lubelskiej-ID4AcPM",
+  "description": "<p>WYNAJMUJEMY – wyjątkowe mieszkanie w sercu zielonego Mokotowa!<br/><br/>Zamieszkaj w jednej z najbardziej prestiżowych i klimatycznych części Warszawy – tuż przy Placu Unii Lubelskiej, blisko Łazienek oraz niedaleko Parku Morskie Oko. W sąsiedztwie ambasad, restauracji, teatrów i galerii – w miejscu, które łączy elegancję, spokój i miejski styl życia.<br/><br/>Mieszkanie mieści się w zabytkowej kamienicy Zygmunta (Zelmana) Nissona przy ul. Chocimskiej 31 – budynku z lat 30. XX wieku, który zachwyca architekturą i klimatem przedwojennej Warszawy.<br/><br/>POD LUPĄ <br/>Lokal znajduje się na 1. piętrze (bez windy) w pięciopiętrowej, starannie odrestaurowanej kamienicy. Jest bardzo cichy i funkcjonalnie zaprojektowany.<br/>W skład mieszkania wchodzą:<br/><ul><li>salon,<br/></li><li>przytulna sypialnia z dużą szafą,<br/></li><li>oddzielna, w pełni wyposażona kuchnia,<br/></li><li>łazienka,<br/></li><li>osobne WC</li></ul><br/>PO SĄSIEDZKU <br/>Lokalizacja pomiędzy Łazienkami a Parkiem Morskie Oko to gwarancja codziennego kontaktu z zielenią i przestrzenią. Doskonała komunikacja (tramwaje, autobusy, bliskość metra) zapewnia szybki dojazd do centrum oraz w okolice Placu Zbawiciela – jednego z najbardziej tętniących życiem punktów miasta. To idealne miejsce dla osób, które chcą mieć Warszawę na wyciągnięcie ręki.<br/><br/> INNY NIŻ INNE<br/>To mieszkanie łączy:<br/><ul><li>prestiżową lokalizację,<br/></li><li>przedwojenny klimat,<br/></li><li>ciszę i komfort życia,<br/></li><li>bogatą infrastrukturę handlową i gastronomiczną.<br/></li></ul> Tu możesz rozpocząć dzień spacerem po parku, pracować w centrum miasta, a wieczorem spotkać się ze znajomymi w jednej z pobliskich kawiarni.<br/><br/>  IDEALNE DLA<ul><li>studentów SGH i Politechniki Warszawskiej,<br/></li><li>pracowników pobliskich biurowców i instytucji,<br/></li><li>osób ceniących kulturę, architekturę i miejski styl życia w najlepszym wydaniu.</li></ul><br/>WARTO, BO… <br/>To połączenie doskonałej lokalizacji, świetnej komunikacji i wyjątkowego klimatu przedwojennej Warszawy. Mieszkanie daje komfort codziennego życia i dostęp do wszystkiego, co stolica ma najlepszego do zaoferowania.<br/><br/><br/>Zapraszamy na prezentację!<br/><br/><br/>FOR RENT – an unique apartment in the heart of green Mokotów!<br/><br/>Live in one of the most prestigious and atmospheric parts of Warsaw – right next to Unii Lubelskiej Square, close to Łazienki Park, and near Morskie Oko Park. Nestled near embassies, restaurants, theaters, and galleries – in a place that combines elegance, tranquility, and urban lifestyle.<br/><br/>The apartment is located in the historic Zygmunt (Zelman) Nisson tenement house at 31 Chocimska Street – a building from the 1930s that captivates with its architecture and the atmosphere of pre-war Warsaw.<br/><br/>UNDER THE MAGNIFYING GLASS<br/>The apartment is located on the first floor (no elevator) of a five-story, carefully restored tenement building. It is very quiet and functionally designed.<br/>The apartment includes:<br/><ul><li>living room,<br/></li><li>cozy bedroom with a large wardrobe,<br/></li><li>separate, fully equipped kitchen,<br/></li><li>bathroom,<br/></li><li>separate toilet,</li></ul><br/>IN THE VICINITY<br/>The location between Łazienki Park and Morskie Oko Park guarantees daily contact with greenery and open spaces. Excellent public transport (trams, buses, and a nearby metro station Politechnika) provides quick access to the city center and the area around Plac Zbawiciela – one of the city's most vibrant spots. This is an ideal location for those who want to have Warsaw at their fingertips.<br/><br/>DIFFERENT THAN OTHER<br/>This apartment combines:<br/><ul><li>prestigious location,<br/></li><li>pre-war atmosphere,<br/></li><li>peace and comfort of life,<br/></li><li>rich commercial and gastronomic infrastructure.<br/></li></ul>Here you can start your day with a walk in the park, work in the city center, and in the evening meet friends at one of the nearby cafes.<br/><br/>IDEAL FOR<ul><li>students of the Warsaw School of Economics and the Warsaw University of Technology,<br/></li><li>employees of nearby office buildings and institutions,<br/></li><li>people who value culture, architecture and urban lifestyle at its best.</li></ul><br/>IT'S WORTH IT BECAUSE...<br/>This combination of an excellent location, excellent transport links, and the unique atmosphere of pre-war Warsaw offers the comfort of everyday life and access to all the best the capital has to offer.<br/><br/><br/>Feel free to contact us for a viewing!</p><p></p><p>Oferta wysłana z programu dla biur nieruchomości ASARI CRM ()</p><p></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:00.321Z"
+}

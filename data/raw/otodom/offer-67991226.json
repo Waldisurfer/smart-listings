@@ -1,0 +1,154 @@
+{
+  "id": 67991226,
+  "title": "3 pokoje w świetnej cenie! Możliwość zakupu garażu",
+  "slug": "3-pokoje-w-swietnej-cenie-mozliwosc-zakupu-garazu-ID4BhCG",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Stargard",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "zachodniopomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "zachodniopomorskie",
+          "fullName": "zachodniopomorskie",
+          "name": "zachodniopomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "zachodniopomorskie/stargardzki",
+          "fullName": "stargardzki, zachodniopomorskie",
+          "name": "stargardzki",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "zachodniopomorskie/stargardzki/gmina-miejska--stargard/stargard",
+          "fullName": "Stargard, stargardzki, zachodniopomorskie",
+          "name": "Stargard",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InduM2Z6YXAxaGgxdDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.igooYqHSHSmaaXNdl67NPhXkKzR8AxyRNllllTihuQc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InduM2Z6YXAxaGgxdDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.igooYqHSHSmaaXNdl67NPhXkKzR8AxyRNllllTihuQc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNyOWZkN2JpM3R0NDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yZyTUGvem4_9rNgdRYYbnlSHIblYwsS3g7INSi2Gv3A/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNyOWZkN2JpM3R0NDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yZyTUGvem4_9rNgdRYYbnlSHIblYwsS3g7INSi2Gv3A/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im10Nnd0cHpvN2RpdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f6It7SSgcZHhA6WK2lo0BNUYFVvgtY3W3Dld1UApDpY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im10Nnd0cHpvN2RpdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f6It7SSgcZHhA6WK2lo0BNUYFVvgtY3W3Dld1UApDpY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 10,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 704269,
+    "name": "Hestia Nieruchomości",
+    "slug": "hestia-nieruchomosci-ID704269",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN3bzNjenh6aHRyYTItQVBMIn0._zCJBihHasu8C5zswhzxrp5POz3DAWqikGNDkEn4SuY/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": false,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 375000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 7482.04,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 50.12,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:18:01",
+  "createdAtFirst": "2026-05-11T11:17:48Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż jasne, 3-pokojowe mieszkanie o powierzchni 50,12 m², zlokalizowane na pierwszym piętrze.Kluczowe informacje:Powierzchnia: 50,12 m²Piętro: 1Liczba pokoi: 3Czynsz: ok 500 zł (w zależności od...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Marta Polberk",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/3-pokoje-w-swietnej-cenie-mozliwosc-zakupu-garazu-ID4BhCG",
+  "description": "<strong>Na sprzedaż jasne, 3-pokojowe mieszkanie o powierzchni 50,12 m², zlokalizowane na pierwszym piętrze.<br></strong><br>&nbsp;Kluczowe informacje:<ul><li><strong>Powierzchnia:</strong> 50,12 m²<br></li><li><strong>Piętro:</strong> 1&nbsp;<br></li><li><strong>Liczba pokoi:</strong> 3<br></li><li><strong>Czynsz:</strong> ok 500 zł (w zależności od liczby osób )<br></li><li><strong>do mieszkania przynależy piwnica</strong>&nbsp;</li></ul><br><br>Mieszkanie jest idealne zarówno dla rodziny, jak i pod inwestycję na wynajem. Dzięki ekspozycji na wschód i&nbsp; zachód wnętrza są dobrze doświetlone. Pierwsze piętro zapewnia komfort na co dzień – zapomnij o męczącym wnoszeniu zakupów czy wózka.<br><br>&nbsp;Dodatkowy atut – Garaż Do mieszkania można dokupić <strong>prywatny garaż murowany&nbsp; w cenie 50 000 zł</strong>. W dzisiejszych czasach to ogromna wygoda i gwarancja bezpieczeństwa dla Twojego samochodu, a także dodatkowe miejsce do przechowywania.<br><br>&nbsp;W najbliższej okolicy:<br><ul><li>Sklepy spożywcze i punkty usługowe,<br></li><li>Przystanek komunikacji miejskiej,<br></li><li>Szkoła, przedszkole oraz place zabaw,<br></li><li>Tereny zielone sprzyjające spacerom.<br></li></ul><br><strong>Zapraszam do kontaktu i na prezentację!</strong><br><br/>\n<br/>\nDziałamy na terenie całego województwa zachodniopomorskiego. Posiadamy <strong>oddziały - w Szczecinie, Stargardzie i Szczecinku</strong>. Nasi Doradcy bezpłatnie dojeżdżają do Klientów.<br/>\n<br/>\n<strong>W naszym biurze możesz skorzystać z następujących usług:</strong><br/>\n- pośrednictwo w kupnie i najmie nieruchomości,<br/>\n- pośrednictwo w sprzedaży i wynajmie nieruchomości,<br/>\n- doradztwo finansowe,<br/>\n- zarządzanie najmem,<br/>\n- skup nieruchomości<br/>\n- kompleksowa obsługa deweloperów.<br/>\n<br/>\nJesteś zainteresowany naszą ofertą? Zadzwoń do nas już dziś lub odwiedź naszą stronę <strong> </strong><br/>\n<br/>\nTreść niniejszego ogłoszenia nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego. Treść ma charakter informacyjny i zalecamy ich osobistą weryfikację. Kontaktując się z biurem Klient wyraża zgodę na przetwarzanie danych osobowych zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 roku o ochronie danych osobowych / Dz.U.Nr. 133 poz. 883/. Klientowi przysługuje prawo do wglądu do swoich danych osobowych i ich aktualizacji.<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:40.176Z"
+}

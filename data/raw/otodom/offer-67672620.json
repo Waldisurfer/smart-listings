@@ -1,0 +1,179 @@
+{
+  "id": 67672620,
+  "title": "Przestronne 4 pokoje w domu na Oporowie",
+  "slug": "przestronne-4-pokoje-w-domu-na-oporowie-ID4zVJS",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Tadeusza Mikulskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Wrocław",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw",
+          "fullName": "Wrocław, dolnośląskie",
+          "name": "Wrocław",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/fabryczna",
+          "fullName": "Fabryczna, Wrocław, dolnośląskie",
+          "name": "Fabryczna",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/fabryczna/oporow",
+          "fullName": "Oporów, Fabryczna, Wrocław, dolnośląskie",
+          "name": "Oporów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRqZG1lbWRuZ3g2ZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cmFMOEHcSdp1hHGVSam5Ziyq9CFuX5SVkDKMuYnKU8c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRqZG1lbWRuZ3g2ZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cmFMOEHcSdp1hHGVSam5Ziyq9CFuX5SVkDKMuYnKU8c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYyMmEwMTMwejd1eTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b7DQtTcryKUfMfngRbnVdGqqyANpP6a2qZe0C7kINQ4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYyMmEwMTMwejd1eTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.b7DQtTcryKUfMfngRbnVdGqqyANpP6a2qZe0C7kINQ4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImduYzJmMTVkNzJtZjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Mr4is-HLPNOp6mABD73b_HRjCrzzOc4QuXoWTWxo8Q0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImduYzJmMTVkNzJtZjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Mr4is-HLPNOp6mABD73b_HRjCrzzOc4QuXoWTWxo8Q0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 15,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 458013,
+    "name": "homfi sp. z o.o.",
+    "slug": "homfi-sp-z-o-o-ID458013",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdoOTU1eWs1NXB6bC1BUEwifQ.fJ42BJ9orx41HciqBlX-MF2SBV9wngOFMiCaMlQaQTc/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 30.61,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 98,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-23 18:00:20",
+  "createdAtFirst": "2026-02-03T11:25:08Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-02-23T18:00:20+01:00",
+  "specialOffer": null,
+  "shortDescription": "homfi ma przyjemność zaprezentować mieszkanie w domu zlokalizowanym na wrocławskim OporowieLOKALIZACJA:Nieruchomość położona jest przy ulicy Mikulskiego. Okolica jest cicha, spokojna - w otoczeniu zab...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Roksana Mrozik",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhoNXA3ZWMweGwxMjEtQVBMIn0.i1Nw9CahBfrfynu_wyZW5WuKUgWEagbu9a3QmslHMXs/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/przestronne-4-pokoje-w-domu-na-oporowie-ID4zVJS",
+  "description": "<p>homfi ma przyjemność zaprezentować mieszkanie w domu zlokalizowanym na wrocławskim Oporowie</p><p>LOKALIZACJA:</p><p>Nieruchomość położona jest przy ulicy Mikulskiego. Okolica jest cicha, spokojna - w otoczeniu zabudowa jednorodzinna. W niedalekiej odległości pętla Oporów oraz liczne przystanki autobusowe. </p><p><br/>NIERUCHOMOŚĆ:</p><p>Powierzchnia użytkowa:  98 m2 <br/>W skład mieszkania wchodzą 4 pokoje, oddzielna kuchnia, 2 łazienki i korytarz. Do mieszkania przynależy loggia. Możliwe wynajęcie miejsca postojowego w garażu oraz dostęp do miejsca pod budynkiem na ogrodzonej posesji. </p><p>FINANSE:</p><p>Czynsz najmu 3000 PLN<br/>Miejsce postojowe w garażu 200 PLN<br/>Opłaty 1100 PLN</p><p>4000 PLN - kaucja</p><p>Zainteresowany? Skontaktuj się z nami pod numerem +48 734 827 199 lub napisz nam maila poprzez formularz kontaktowy dostępny w ogłoszeniu.</p><p></p><p>homfi is pleased to present an apartment in a house located in the Oporów district of Wrocław. LOCATION: The property is located on Mikulskiego Street. The neighborhood is quiet and peaceful, surrounded by single-family homes. The Oporów bus terminus and numerous bus stops are nearby. PROPERTY: Usable area: 98 m². The apartment comprises 4 rooms, a separate kitchen, 2 bathrooms, and a hallway. The apartment includes a loggia. It is possible to rent a parking space in the garage, and access to a space under the building on the fenced property is also available. FINANCE: Rent: PLN 3150. Garage parking space: PLN 200. Utilities: PLN 1100. PLN 4000 security deposit. Interested? Contact us at +48 734 827 199 or send us an email using the contact form in the ad.</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:09.557Z"
+}

@@ -1,0 +1,140 @@
+{
+  "id": 65909804,
+  "title": "Wyposażone, dwupokojowe na os Zastalowskim",
+  "slug": "wyposazone-dwupokojowe-na-os-zastalowskim-ID4sy9m",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Zielona Góra",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "lubuskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "lubuskie",
+          "fullName": "lubuskie",
+          "name": "lubuskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lubuskie/zielona-gora/zielona-gora/zielona-gora",
+          "fullName": "Zielona Góra, lubuskie",
+          "name": "Zielona Góra",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lubuskie/zielona-gora/zielona-gora/zielona-gora/centrum",
+          "fullName": "Centrum, Zielona Góra, lubuskie",
+          "name": "Centrum",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNqeG56cG0wcHU4bzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jS4nbtE0OU5YgJBrPf_2QQJ86Jddy9fSdU7HQZqtW5c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNqeG56cG0wcHU4bzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jS4nbtE0OU5YgJBrPf_2QQJ86Jddy9fSdU7HQZqtW5c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdpd2hzaXdpa3Bmbi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qIYiQ9EuCjmEdLwMADJ2bVC70fOymeMxL0kF_VYMfyY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdpd2hzaXdpa3Bmbi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qIYiQ9EuCjmEdLwMADJ2bVC70fOymeMxL0kF_VYMfyY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJud2ZrMHp4M250MDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mK0j_4Gi19KvhRW1zDKdV7cVxouP0xHFbbeWG0Y4OFo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJud2ZrMHp4M250MDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mK0j_4Gi19KvhRW1zDKdV7cVxouP0xHFbbeWG0Y4OFo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 7037506,
+    "name": "RUN NIERUCHOMOŚCI NIKOLAY STAYKOV",
+    "slug": "run-nieruchomosci-nikolay-staykov-ID7037506",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJqdXY4Z3lhMDB0ejItQVBMIn0.rsFWk4vUbapmdw_NVJl6IKWlvUj5dW-zCBze7ajkYuc/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2150,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 51.68,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 41.6,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:23:10",
+  "createdAtFirst": "2024-09-18T16:55:11Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:23:10+02:00",
+  "specialOffer": null,
+  "shortDescription": "Na wynajem wyposażone, dwupokojowe mieszkanie na osiedlu Zastalowskim w Zielonej G&oacute;rze, gotowe do wprowadzenia od zaraz. Dogodna lokalizacja przy Trasie P&oacute;łnocnej oraz rondzie Stefana Ba...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Nikolay Staykov",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9zcXZubmd0cWV3cjEtQVBMIn0.hRNN7OLbn40cMbPY_px6gtBFmgxo4YenMngej8u1h2s/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/wyposazone-dwupokojowe-na-os-zastalowskim-ID4sy9m",
+  "description": "<p>Na wynajem wyposażone, dwupokojowe mieszkanie na osiedlu Zastalowskim w Zielonej G&oacute;rze, gotowe do wprowadzenia od zaraz. Dogodna lokalizacja przy Trasie P&oacute;łnocnej oraz rondzie Stefana Batorego.</p><p>Na mieszkanie o powierzchni 41,6 m2 składają się:</p><p>&middot; Przestronny, narożnikowy aneks kuchenny w dobrym stanie z wysokim stołem jadalnym oddzielającym kuchnię od salonu,</p><p>&middot; Salon z widokiem na osiedle,</p><p>&middot; Łazienka z WC i kabiną prysznicową,</p><p>&middot; Oddzielny pok&oacute;j z dużym oknem.</p><p>Pięciokondygnacyjny budynek znajduje się bezpośrednio za ekranami akustycznymi, a w dodatku mieszkanie jest usytuowane na trzecim piętrze od wewnętrznej części osiedla, dzięki czemu wewnątrz nie słychać dźwięku samochod&oacute;w z Trasy P&oacute;łnocnej.</p><p>W ramach wyposażenia mieszkania do dyspozycji lokatora/&oacute;w są kuchenka z piekarnikiem, lod&oacute;wka oraz pralka. W każdym z pokoi znajduje się za to rozkładana sofa.</p><p>Do lokalu przynależy r&oacute;wnież piwnica, z kt&oacute;rej najemcy mogą korzystać wedle własnych potrzeb. Z pewnością miejsca wystarczy na rowery i dodatkowe bagaże. Bezpośrednio przed budynkiem znajduje się og&oacute;lnodostępny, bezpłatny parking dla mieszkańc&oacute;w osiedla.</p><p>Warto wspomnieć, że mieszkanie znajduje się w dogodnej lokalizacji dla os&oacute;b bez samochodu. Komunikacją miejską dotrzemy do centrum miasta w 8 min, a przystanek znajduje się kilka minut od budynku. Po przeciwległej stronie ronda mamy pasaż handlowy Auchan, a w sąsiednim budynku znajdziemy aptekę. W pobliżu r&oacute;wnież Brico Marche, sklepy i stacja benzynowa.</p><p>Ku uciesze os&oacute;b lubiących aktywny tryb życia, w okolicy do dyspozycji mamy pełno teren&oacute;w leśnych, a dodatkowo sieć ścieżek rowerowych prowadzących do najważniejszych punkt&oacute;w w Zielonej G&oacute;rze.</p><p>Lokal gotowy do zamieszkania i dostępny od zaraz. Mieszkanie komfortowe i przystosowane dla pary, singla, a także student&oacute;w. Dodatkowy pok&oacute;j można przystosować jako biuro do pracy zdalnej, bądź może być to osobny prywatny pok&oacute;j dla drugiego lokatora.</p><p>Opłaty związane z najmem: odstępne &ndash; 2150,00 zł., dodatkowo czynsz w tym zaliczki za wodę i CO &ndash; 600,00 zł., opłaty za gaz i prąd według zużycia, kaucja w wysokości 2250,00 zł. Istnieje możliwość negocjacji.</p><p>Zapraszam, spotkajmy się. Zadzwoń i um&oacute;w się na prezentację mieszkania!</p><p>Kontakt w sprawie oferty:</p><p>Mikołaj Staykov</p><p>Tel. 660 730 754</p><p>Licencja pośrednika nr. 22648</p><p>Powyższy opis ma charakter informacyjny i nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego, a dane w nim podane mogą ulec zmianie.<br/>::LINK DO STRONY  </p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:41:54.919Z"
+}

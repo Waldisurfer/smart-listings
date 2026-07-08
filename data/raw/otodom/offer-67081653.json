@@ -1,0 +1,167 @@
+{
+  "id": 67081653,
+  "title": "Designerski apartament na Bernardyńskiej",
+  "slug": "designerski-apartament-na-bernardynskiej-ID4xt09",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Bernardyńska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Wrocław",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw",
+          "fullName": "Wrocław, dolnośląskie",
+          "name": "Wrocław",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/stare-miasto",
+          "fullName": "Stare Miasto, Wrocław, dolnośląskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/stare-miasto/stare-miasto",
+          "fullName": "Stare Miasto, Stare Miasto, Wrocław, dolnośląskie",
+          "name": "Stare Miasto",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5yYmU1dXM0NHlmNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.8Vhy3xCNUrBfy6dfmw-GZ5dy7NMNaaO-Im3BH8WX3Ss/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5yYmU1dXM0NHlmNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.8Vhy3xCNUrBfy6dfmw-GZ5dy7NMNaaO-Im3BH8WX3Ss/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ0cXJiY2s3NGs3OTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GxWaMKoECiwGkO_JMcOdJgh9M_ByYJtkhDDrhr2l5sw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ0cXJiY2s3NGs3OTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GxWaMKoECiwGkO_JMcOdJgh9M_ByYJtkhDDrhr2l5sw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB0b29tZXhvdnB1bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ti6Eyc2KGbSOZAYoiJVUS86jUK146MdsnYrOl97ZV2o/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB0b29tZXhvdnB1bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ti6Eyc2KGbSOZAYoiJVUS86jUK146MdsnYrOl97ZV2o/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 1123721,
+    "name": "INCOME PROPERTY",
+    "slug": "income-property-ID1123721",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR1bmE2Z3hmeGluNjMtQVBMIn0.Ur79a1w-OX2bgIslkxgazAba-1oREBFWRwxfJfirgJI/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 750,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 35,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-02 07:06:27",
+  "createdAtFirst": "2025-07-29T13:16:49Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-02T07:06:28+02:00",
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia nowy apartament w jednym z najbardziej rozpoznawalnych budynków premium we Wrocławiu- Bernardyńska 4.LOKALIZACJA:Apartament mieści się w odległości kilkuminutowego spaceru od wrocławskieg...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Aleksandra Oleszek",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/designerski-apartament-na-bernardynskiej-ID4xt09",
+  "description": "Do wynajęcia nowy apartament w jednym z najbardziej rozpoznawalnych budynków premium we Wrocławiu- Bernardyńska 4.<br><br>&nbsp;<br>LOKALIZACJA:<br>Apartament mieści się w odległości kilkuminutowego spaceru od wrocławskiego Rynku, nieopodal rzeki Odry oraz zrewitalizowanego deptaka na Bulwarze Xawerego Dunikowskiego, w sąsiedztwie parku Juliusza Słowackiego oraz Panoramy Racławickiej. Jest to idealne miejsce dla osób, które chcą mieszkać w sercu miasta a jednocześnie cieszyć się bliskością parku ze starodrzewem i spacerami przy rzece. W najbliższym sąsiedztwie Galeria Dominikańska z całym zapleczem handlowym, w odległości kilkuminutowego spaceru Hala Targowa.<br>&nbsp;<br>APARTAMENT:<br>Apartament o powierzchni ok. 35 m2 znajduje się na pierwszym piętrze budynku. Ogromnym atutem są duże, drewniane okna, które gwarantują piękny widok na starannie zaprojektowaną zieleń oraz idealnie doświetlają wnętrze. Apartament jest w klimatyzowany.<br>Budynek wybudowany został w nowoczesnej technologii, staranie zaprojektowana bryła oraz reprezentacyjna elewacja nawiązują do historycznego otoczenia. Części wspólne budynku wykończone ze szczególną starannością z materiałów wysokiej klasy.<br>W budynku zaprojektowano szereg udogodnień:<br>- dobrze wyposażona siłownia<br>- stanowisko pilatesu<br>- pokój do masażu oraz medytacji<br>- sala do squash’a<br>- sala fitness<br>- sala do koszykówki<br>- dwie sauny oraz balia lodowa<br>- strefa co-workingowa<br>Ponadto w reprezentacyjnym lobby można skorzystać z usług concierge.<br>&nbsp;<br>Apartament jest nowocześnie urządzony i kompleksowo wyposażony w sprzęt AGD/RTV. Składa się z:<br>&nbsp;<br>- przestronnego salonu, w którym znajdują się eleganckie meble: wygodna sofa, stolik kawowy, szafka RTV<br>- jasnej sypialni z dużym łóżkiem typu king size oraz pojemną szafą,<br>- aneksu kuchennego zabudowanego meblami na wymiar, wyposażonego w niezbędne sprzęty AGD i akcesoria kuchenne, stół z krzesłami<br>- łazienki z wygodną kabiną prysznicową, umywalką, pralko-suszarką oraz pojemnymi szafkami łazienkowymi<br>&nbsp;<br>Wnętrze apartamentu doskonale uzupełnia bardzo duży balkon z którego można podziwiać starannie zaprojektowaną i pięknie utrzymaną zieleń.<br>&nbsp;<br>Koszty wynajmu:<br>- 3 500 złotych- miesięczny czynsz najmu<br>- 950 złotych- czynsz administracyjny z zaliczkami na media, które będą rozliczane wg wskazań licznika<br>- prąd wg bieżącego zużycia<br>&nbsp;<br>Możliwość wynajęcia miejsca postojowego podziemnego.<br>&nbsp;<br>Możliwość wystawienia faktury VAT za wynajem.<br>&nbsp;<br>Zapraszam na prezentację!<br>&nbsp;<br>Treść niniejszego ogłoszenia nie stanowi oferty w rozumieniu Kodeksu Cywilnego.<br><br><br><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:33.726Z"
+}

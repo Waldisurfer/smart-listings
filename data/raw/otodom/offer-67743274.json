@@ -1,0 +1,173 @@
+{
+  "id": 67743274,
+  "title": "Na wynajem mieszkanie 2 pokoje/ 33m2, ul.Bełzy 7",
+  "slug": "na-wynajem-mieszkanie-2-pokoje-33m2-ul-belzy-7-ID4Af7s",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Białystok",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "podlaskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "podlaskie",
+          "fullName": "podlaskie",
+          "name": "podlaskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "podlaskie/bialystok/bialystok/bialystok",
+          "fullName": "Białystok, podlaskie",
+          "name": "Białystok",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "podlaskie/bialystok/bialystok/bialystok/bialostoczek",
+          "fullName": "Białostoczek, Białystok, podlaskie",
+          "name": "Białostoczek",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlnMnllYzRkd3UydDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-AyolZGPQ7ulR-6EDR-r3f0hor2XFEdp14vYrfl_B8U/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlnMnllYzRkd3UydDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-AyolZGPQ7ulR-6EDR-r3f0hor2XFEdp14vYrfl_B8U/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind0NTI3MzJjdGg2azMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2TIj5QwvzxiNUzvTBezhBwBoiZ2gWbXjc8LnWvEwnE8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind0NTI3MzJjdGg2azMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2TIj5QwvzxiNUzvTBezhBwBoiZ2gWbXjc8LnWvEwnE8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5YmkxNGx3anU0OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7vQxSQGyyK2aEL6mKWGcqUbyb38yap7bvge-nTCKIKA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5YmkxNGx3anU0OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7vQxSQGyyK2aEL6mKWGcqUbyb38yap7bvge-nTCKIKA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 445364,
+    "name": "Express House Real Estate",
+    "slug": "express-house-real-estate-ID445364",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE2enRnN2Q2NTFkZTMtQVBMIn0.MNiVRIc1p9OAXuj2L-rXlUxVXQr804-tfCinTo83At0/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2200,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 66.67,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 33,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "EIGHTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-24 09:31:13",
+  "createdAtFirst": "2026-02-24T09:31:06Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Na wynajem funkcjonalne mieszkanie 2 pokojowe o powierzchni 33 m2, z komórką lokatorską, osiedle Białostoczek ul. Bełzy 7, BiałystokLokalizacja:- osiedle Białostoczek, ul. Bełzy 7,- widok z okien/balk...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Anna",
+    "lastName": "Ładna",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/na-wynajem-mieszkanie-2-pokoje-33m2-ul-belzy-7-ID4Af7s",
+  "description": "<strong>Na wynajem funkcjonalne mieszkanie 2 pokojowe o powierzchni 33 m2, z komórką lokatorską, osiedle Białostoczek ul. Bełzy 7, Białystok<br></strong><br><strong>Lokalizacja</strong>:<br>- osiedle Białostoczek, ul. Bełzy 7,<br>- widok z okien/balkonu na budynki mieszkalne, plac zabaw, panoramę miasta,<br>- szybki i dogodny dojazd do centrum miasta,&nbsp;<br><br><strong>Opis nieruchomości:</strong><br>- funkcjonalne, przestronne mieszkanie dwupokojowe,<br>- powierzchnia mieszkania<strong>&nbsp;33</strong>&nbsp;<strong>m2,</strong><br>- położenie mieszkanie na ostatnim 8 piętrze wysokiego bloku z windą&nbsp; ( 8/8),<strong><br></strong>- mieszkanie posiada balkon, dużą komórkę lokatorską,<br>- nowoczesny apartamentowiec wybudowany w 2024,<br>- bezpieczna i spokojna&nbsp; część osiedla,<br><br><strong>Pomieszczenia:</strong><br>- salon z aneksem kuchennym,<br>- sypialnia,<br>- łazienka z wc,<br>- hall,<br>- balkon,<br>- duża komórka lokatorska do dyspozycji najemcy w cenie najmu.<br><br><strong>Standard wykończenia</strong>:<br>- ściany: gładzie gipsowe, tynki ozdobne, tapety, glazura,<br>- podłogi: panel, terakota,&nbsp;<br>- okna: pcv.<br><strong><br>Wyposażenie</strong>&nbsp;<strong>oferowane w cenie</strong>:&nbsp;<br>&nbsp;-Kuchnia:: piekarnik elektryczny, płyta elektryczna, okap, zmywarka, zlewozmywak,&nbsp;lodówka, meble w zabudowie stałej, krzesła, stół,<br>- Łazienka: prysznic, wc, umywalka, pralka,&nbsp;<br>- Pokoje i hall : meble ruchome, łóżko dwuosobowe, szafa, kanapa, telewizor, szafka rtv, stół, stoliki kawowe, krzesła.<br><br><strong>Komunikacja</strong>:<br>- linie autobusowe,<br>- rowery i hulajnogi miejskie.<br><br><strong>Rekreacja</strong>:<br>- plac zabaw,<br>- ścieżki rowerowe,<br>- tereny zielone, las,<br>- hulajnoga i rower miejski.<br><br><strong>Usługi</strong>:<br>- bank, poczta,<br>- fryzjer, gabinet kosmetyczny, spa, siłownia,<br>- pizzeria, restauracja, bar,<br>- przychodnia, apteka,&nbsp;<br>- szkoła, przedszkole, żłobek<br>- galeria handlowa.<br><br><strong>Opłaty</strong>:<br>- czynsz najmu<strong> 2200</strong>&nbsp;<strong>PLN,<br></strong>- czynsz administracyjny ok <strong>500</strong>&nbsp;<strong>PLN,<br></strong>- opłaty licznikowe:&nbsp; prąd wg faktur i&nbsp; zużycia,<br>- wysokość kaucji zabezpieczającej<strong>&nbsp;</strong>/zwrotnej<strong>&nbsp; 2700</strong>&nbsp;<strong>PLN.<br></strong><br><strong>Umowa:</strong><br>- umowa na&nbsp;<strong>minimum 1 rok,</strong><br><br><strong>Dodatkowe informacje:<br></strong>- preferencje najmu: pary, single,,<br>- opcjonalnie akceptacja zwierząt,<br><br>Zapraszam do kontaktu w celu uzyskania dodatkowych informacji oraz umówienia się na prezentację. <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br/>\n<br/>\nNumer oferty w biurze nieruchomości: 3240/4158/OMW<br><br><strong>- Zadzwoń już dziś i umów się na bezpłatną prezentację -</strong><br><br><strong>- Wynajmuj bezpiecznie z Express House -</strong><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:14.215Z"
+}

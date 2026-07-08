@@ -1,0 +1,139 @@
+{
+  "id": 68105609,
+  "title": "Nowe, 2-pokojowe mieszkanie z aneksem kuchennym ul. Paczkowska/Hubska",
+  "slug": "nowe-2-pokojowe-mieszkanie-z-aneksem-kuchennym-ul-paczkowska-hubska-ID4BLnz",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Wrocław",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw",
+          "fullName": "Wrocław, dolnośląskie",
+          "name": "Wrocław",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/krzyki",
+          "fullName": "Krzyki, Wrocław, dolnośląskie",
+          "name": "Krzyki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/krzyki/huby",
+          "fullName": "Huby, Krzyki, Wrocław, dolnośląskie",
+          "name": "Huby",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYWtkcnNhM2E1NTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmoEiHHXy2pbYa4h7d1QiQPKSVhCJB6tHZgxd2vd53s/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYWtkcnNhM2E1NTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmoEiHHXy2pbYa4h7d1QiQPKSVhCJB6tHZgxd2vd53s/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBpMno1aGJxbDZodi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.R81T9CSm9L4_sRjvogKllUS_Ha0SQq6CxFNW1teYMUc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBpMno1aGJxbDZodi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.R81T9CSm9L4_sRjvogKllUS_Ha0SQq6CxFNW1teYMUc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM0dGxiN3puMm1pcy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ytFaacBxuObUxDBNYJk44ScwnQNO7QzLdwuV7aSldhM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM0dGxiN3puMm1pcy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ytFaacBxuObUxDBNYJk44ScwnQNO7QzLdwuV7aSldhM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 679000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 480,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 19400,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 35,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:30:32",
+  "createdAtFirst": "2026-06-14T14:35:51Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-06T15:30:32+02:00",
+  "specialOffer": null,
+  "shortDescription": "Ogłoszenie prywatne.Sprzedam nowe, dwupokojowe mieszkanie o powierzchni 34,17 m² przy ulicy Paczkowskiej 11 (inwestycja Hubska 100). Lokal znajduje się na 3. piętrze w nowym bloku z windą, oddanym do ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Marcin Górecki",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/nowe-2-pokojowe-mieszkanie-z-aneksem-kuchennym-ul-paczkowska-hubska-ID4BLnz",
+  "description": "<p>Ogłoszenie prywatne.</p><p>Sprzedam nowe, dwupokojowe mieszkanie o powierzchni 34,17 m² przy ulicy Paczkowskiej 11 (inwestycja Hubska 100). Lokal znajduje się na 3. piętrze w nowym bloku z windą, oddanym do użytku w tym roku.</p><p>Mieszkanie nigdy niezamieszkane. Wykończone pod klucz w wysokim standardzie.</p><p>Układ mieszkania:</p><p>• Salon z aneksem kuchennym (21,9 m²) + balkon – jasna i otwarta przestrzeń. Kuchnia (aneks) zrobiona na wymiar przez stolarza. W cenie jest nowy sprzęt AGD na gwarancji (płyta indukcyjna, piekarnik, zmywarka i lodówka).</p><p>• Osobny pokój / sypialnia (8,6 m²) – ustawny pokój z oknem.</p><p>• Łazienka: Całkowicie wykończona i gotowa do użytku (płytki, armatura, strefa prysznicowa, umywalka i WC) (3,7 m²).</p><p>Budynek i części wspólne</p><p>Sam blok oraz jego otoczenie są wykonane w nowoczesnym, wysokim standardzie. Klatki schodowe i korytarze są przestronne i wykończone z dbałością o detale. W budynku działa cichobieżna winda. Podwórko wokół bloku zostało ładnie zagospodarowane – zadbano o zieleń, nasadzenia, oraz plac zabaw dla dzieci.</p><p>Lokalizacja:</p><p>• Kilka minut pieszo do przystanków tramwajowych i autobusowych (świetny dojazd do centrum i na uczelnie).</p><p>• Około 15 minut spacerem do Dworca Głównego i CH Wroclavia.</p><p>• W okolicy pełna infrastruktura: Biedronka, Lidl, Żabki, restauracje i punkty usługowe.</p><p>Informacje formalne:</p><p>• Forma własności: Pełna własność (czysta księga wieczysta, bez obciążeń).</p><p>• Opłaty: Czynsz administracyjny wynosi ok. 480 zł. </p><p>Więcej szczegółów pod numerem telefonu dostępnym w ogłoszeniu.</p><p>(nie wyrażam zgodny na kopiowanie treści ogłoszenia w całości lub w części w szczególności zdjęć).</p><p>Przedstawiona oferta ma tylko charakter informacyjny i nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego.</p><p>Pośredników zapraszam TYLKO I WYŁĄCZNIE z zainteresowanym klientem. Nie wyrażam zgody na zamieszczanie tej oferty w Internecie na innych portalach.</p><p>Możliwość obejrzenia mieszkania w dowolnym terminie po umówieniu się na spotkanie</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:13.324Z"
+}

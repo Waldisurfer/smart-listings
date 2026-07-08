@@ -1,0 +1,160 @@
+{
+  "id": 67991202,
+  "title": "/OMS",
+  "slug": "oms-ID4BhCi",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Aleja Adama Mickiewicza",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Osielsko",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "kujawsko-pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "kujawsko--pomorskie",
+          "fullName": "kujawsko-pomorskie",
+          "name": "kujawsko-pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoski",
+          "fullName": "bydgoski, kujawsko-pomorskie",
+          "name": "bydgoski",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoski/osielsko",
+          "fullName": "Osielsko, bydgoski, kujawsko-pomorskie",
+          "name": "Osielsko",
+          "locationLevel": "commune",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoski/osielsko/osielsko",
+          "fullName": "Osielsko, Osielsko, bydgoski, kujawsko-pomorskie",
+          "name": "Osielsko",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNoZHJlamVuOXducjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UV8wt-vLtXE90LTFRRt3qJrS-ldn0_QrjZIrELa8b8A/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNoZHJlamVuOXducjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UV8wt-vLtXE90LTFRRt3qJrS-ldn0_QrjZIrELa8b8A/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngzdjVqMWIwcWZxbDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._J9aopcL_cVT4FPHtOdhDIBypuzKG108xAc2oAesGdY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngzdjVqMWIwcWZxbDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._J9aopcL_cVT4FPHtOdhDIBypuzKG108xAc2oAesGdY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl4Mmg0aGxoZ2ltNzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fI5EphUcMxeG7bIJX93Rnx9fBmksu64kvPfNtn3PqF4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl4Mmg0aGxoZ2ltNzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fI5EphUcMxeG7bIJX93Rnx9fBmksu64kvPfNtn3PqF4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 5,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 4785764,
+    "name": "Simple ",
+    "slug": "simple-ID4785764",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRubWhiaDVkazh1eTItQVBMIn0.zwZ-zZ9173v08dYm8RbdZ4m-3QKCshdF0bAdhW2vBGk/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 564794,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 8900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 63.46,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:13:51",
+  "createdAtFirst": "2026-05-11T11:13:48Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Odkryj Aleję Mickiewicza – wyjątkową inwestycję mieszkaniową w zielonej i spokojnej części Osielska, stworzoną z myślą o codziennym komforcie i stylowym życiu blisko natury. To tu nowoczesna architekt...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Patrycja",
+    "lastName": "Korzeniewska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo5OWw4dG8wajMxeTItQVBMIn0.BZ2dEtqbMXQPGVXBQdCGTUNZ7xaCNWOHxKkXrkpCKzY/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Patrycja Korzeniewska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNoaWwzaXo4Z20wbzMtQVBMIn0.tUHIKqQIWFQTU1aofkswyNFQJfOej3R84XfCuQ2ZYlg/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/oms-ID4BhCi",
+  "description": "Odkryj Aleję Mickiewicza – wyjątkową inwestycję mieszkaniową w zielonej i spokojnej części Osielska, stworzoną z myślą o codziennym komforcie i stylowym życiu blisko natury. To tu nowoczesna architektura spotyka się z przyjazną, rodzinną atmosferą, oferując mieszkania idealne zarówno na start, jak i na lata pełne wspomnień. Zamieszkaj tam, gdzie spokój pod Bydgoszczą łączy się z wygodą życia blisko wszystkiego, co najważniejsze.<br><br>Atuty inwestycji:<ul><li>Różnorodne metraże mieszkań – od kompaktowych kawalerek po przestronne mieszkania 4-pokojowe, dopasowane do różnych potrzeb.</li><li>Zielone otoczenie i kameralna atmosfera Osielska – idealne miejsce na relaks i rodzinne spacery.&nbsp;</li><li>Komfort mieszkańców – naziemna hala garażowa oraz liczne miejsca postojowe.</li><li>Funkcjonalne układy i balkony w większości lokali zapewniają wygodę i swobodę aranżacji.</li><li>&nbsp;Przyjazne rodzinom – blisko żłobków, przedszkoli i innych usług codziennych.</li><li>Rekreacja na wyciągnięcie ręki – ścieżki rowerowe i natury parkowe tereny wokół Osielska.</li></ul><br><br>Lokalizacja:<ul><li>Zielona i spokojna część Osielska, z łatwym dostępem do Bydgoszczy – dynamiczne połączenia komunikacyjne.</li><li>W zasięgu krótkiego spaceru pełna infrastruktura – sklepy, piekarnia, restauracje i Galeria Osielsko.</li><li>Blisko placówek edukacyjnych – żłobki, przedszkola i szkoły.</li><li>Sąsiedztwo terenów zielonych i ścieżek rekreacyjnych sprzyja aktywnemu stylowi życia.</li><li>Usługi i instytucje w pobliżu – Urząd Gminy i punkty usługowe ułatwiają załatwianie codziennych spraw.</li></ul><br>Dodatkowe informacje:<ul><li>termin zakończenia prac budowlanych - II kwartał 2027r</li><li>miejsce postojowe w hali garażowej od 39 tys zł</li><li>komórka lokatorska - 5 tys zł za m2</li></ul><br><br>Informacje zamieszczone w niniejszej publikacji mają charakter wyłącznie informacyjny i nie stanowią oferty handlowej w rozumieniu art. 66 § 1 Kodeksu cywilnego. Materiały, opisy, dane techniczne, ilustracje oraz wszelkie przykłady przedstawione w tekście służą jedynie celom poglądowym i mogą różnić się od rzeczywistego stanu, aktualnych warunków lub dostępności produktów i usług.<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:33.802Z"
+}
