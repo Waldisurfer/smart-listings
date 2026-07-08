@@ -46,6 +46,7 @@ test('re-seeding is idempotent — same rows, same flags', async () => {
 });
 
 test('a seeded offer round-trips with a valid offer type', async () => {
+  await seed(); // self-contained: establish the dataset here, don't rely on test order
   const [[row]] = (await pool.query(
     "SELECT offer_type FROM listings WHERE source = 'otodom' LIMIT 1",
   )) as unknown as [Array<{ offer_type: string }>];
