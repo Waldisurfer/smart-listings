@@ -22,7 +22,7 @@ searchRouter.post('/search/parse-intent', async (req, res) => {
   if (!intent) {
     res.json({
       filters: { q: parsed.data.query },
-      interpretation: 'AI unavailable — using plain text search.',
+      interpretation: 'AI niedostępne — używam zwykłego wyszukiwania.',
       degraded: true,
     });
     return;

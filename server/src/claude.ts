@@ -91,7 +91,7 @@ export async function parseSearchIntent(query: string): Promise<SearchIntent | n
         '"40m"/"40m2" → minArea 40. City names may lack diacritics ("krakow" → "Kraków", "wroclaw" → "Wrocław", "gdansk" → "Gdańsk"). ' +
         'offerType: "rent" only for renting language (wynajem, wynająć, rent); null otherwise. ' +
         'NEVER invent a city that is not mentioned. Drop vague qualifiers ("nice", "ładne") unless they are concrete words likely to appear in descriptions (balkon, garaż, ogród → q). ' +
-        'interpretation: ONE short English sentence stating the filters you chose, e.g. "Searching Kraków sale listings, ≥40 m², under 650 000 zł."',
+        'interpretation: ONE short sentence IN POLISH stating the filters you chose, e.g. "Szukam ofert sprzedaży w Krakowie, ≥40 m², poniżej 650 000 zł."',
       messages: [{ role: 'user', content: query.slice(0, 300) }],
       output_config: { format: zodOutputFormat(SearchIntentSchema) },
     });
@@ -110,11 +110,11 @@ export async function summarizeListing(l: NormalizedListing): Promise<string | n
   if (!c) return null;
   const facts = [
     l.title,
-    l.offer_type === 'rent' ? `rent ${l.price ?? '?'} PLN/month` : `price ${l.price ?? '?'} PLN`,
+    l.offer_type === 'rent' ? `najem ${l.price ?? '?'} PLN/mies.` : `cena ${l.price ?? '?'} PLN`,
     l.monthly_fee ? `czynsz ${l.monthly_fee} PLN` : null,
     l.area_m2 ? `${l.area_m2} m²` : null,
-    l.rooms ? `${l.rooms} rooms` : null,
-    l.floor !== null ? `floor ${l.floor}` : null,
+    l.rooms ? `${l.rooms} pok.` : null,
+    l.floor !== null ? `piętro ${l.floor}` : null,
     [l.city, l.district].filter(Boolean).join(', '),
   ].filter(Boolean).join(' · ');
   try {
@@ -122,9 +122,9 @@ export async function summarizeListing(l: NormalizedListing): Promise<string | n
       model: MODEL,
       max_tokens: 200,
       system:
-        'Write a 1–2 sentence factual summary of a real-estate listing for a card UI, in English. ' +
-        'State only facts from the input. Mention price per m² only if it stands out. ' +
-        'No marketing superlatives (no "stunning", "perfect", "dream"). No preamble.',
+        'Napisz 1–2 zdaniowe, rzeczowe streszczenie ogłoszenia nieruchomości do karty w UI — po polsku. ' +
+        'Podawaj wyłącznie fakty z wejścia. Cenę za m² wspomnij tylko, jeśli się wyróżnia. ' +
+        'Bez marketingowych superlatyw („wymarzone", „idealne", „przepiękne"). Bez wstępu.',
       messages: [{
         role: 'user',
         content: `${facts}\n\nDescription:\n${(l.description ?? '').slice(0, 4000)}`,
