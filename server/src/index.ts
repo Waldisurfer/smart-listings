@@ -12,7 +12,15 @@ import express, { type Express, type NextFunction, type Request, type Response }
 const REPO_ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 loadEnv({ path: join(REPO_ROOT, '.env'), quiet: true });
 
-export async function createApp(): Promise<Express> {
+const WEB_DIST = join(REPO_ROOT, 'web', 'dist');
+
+interface AppOptions {
+  /** Serve the built Vue SPA from web/dist so the whole app runs on one port.
+   *  Off by default (and in tests) — the API is exercised standalone there. */
+  serveStatic?: boolean;
+}
+
+export async function createApp({ serveStatic = false }: AppOptions = {}): Promise<Express> {
   const { listingsRouter } = await import('./routes/listings.js');
   const { searchRouter } = await import('./routes/search.js');
 
@@ -24,6 +32,22 @@ export async function createApp(): Promise<Express> {
   });
   app.use('/api', listingsRouter);
   app.use('/api', searchRouter);
+
+  // Unmatched API paths get the shaped JSON 404 — never the SPA fallback below.
+  app.use('/api', (_req, res) => {
+    res.status(404).json({ error: { message: 'Not found' } });
+  });
+
+  if (serveStatic) {
+    // Single-port demo: static assets first, then the SPA fallback for client
+    // routes (history mode) — any non-API GET returns index.html. Express 5 has
+    // no '*' route, so this is a terminal middleware, not app.get('*').
+    app.use(express.static(WEB_DIST));
+    app.use((req, res, next) => {
+      if (req.method !== 'GET') return next();
+      res.sendFile(join(WEB_DIST, 'index.html'));
+    });
+  }
 
   app.use((_req, res) => {
     res.status(404).json({ error: { message: 'Not found' } });
@@ -42,7 +66,7 @@ export async function createApp(): Promise<Express> {
 if (import.meta.url === pathToFileURL(process.argv[1]!).href) {
   const { ensureSchema } = await import('./db.js');
   const PORT = Number(process.env.PORT ?? 3004);
-  const app = await createApp();
+  const app = await createApp({ serveStatic: true });
   await ensureSchema();
-  app.listen(PORT, () => console.log(`API listening on http://localhost:${PORT}`));
+  app.listen(PORT, () => console.log(`App listening on http://localhost:${PORT}`));
 }

@@ -11,6 +11,8 @@
   "scripts": {
     "dev": "concurrently -n api,web -c blue,green \"npm --workspace server run dev\" \"npm --workspace web run dev\"",
     "build": "npm --workspace web run build",
+    "start": "npm run seed && npm run build && npm --workspace server run start",
+    "serve": "npm --workspace server run start",
     "typecheck": "npm --workspace server run typecheck",
     "test": "npm --workspace server run test",
     "test:integration": "npm --workspace server run test:integration",
