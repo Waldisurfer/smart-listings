@@ -13,6 +13,7 @@
     "test": "npm --workspace server run test",
     "test:integration": "npm --workspace server run test:integration",
     "seed": "npm --workspace server run seed",
-    "scrape": "npm --workspace server run scrape"
+    "scrape": "npm --workspace server run scrape",
+    "ingest": "npm --workspace server run ingest"
   }
 }
