@@ -1,0 +1,1007 @@
+{
+  "id": 67501256,
+  "title": "River Park",
+  "slug": "river-park-ID4ze9V",
+  "estate": "INVESTMENT",
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Trzuszkowskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/bronowice",
+          "fullName": "Bronowice, Kraków, małopolskie",
+          "name": "Bronowice",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/bronowice/bronowice-male",
+          "fullName": "Bronowice Małe, Bronowice, Kraków, małopolskie",
+          "name": "Bronowice Małe",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrY3I2aDh1MjZwOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5DL5IitOmGfJ5O0Bs-TJhqytS94YV4HOLK3YABqgjKA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrY3I2aDh1MjZwOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5DL5IitOmGfJ5O0Bs-TJhqytS94YV4HOLK3YABqgjKA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJpeHUycHljemk2bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tdhMcubzIL9PegPOi1Hv99lg_rfry7mx7ZNBrr1mgV4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJpeHUycHljemk2bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tdhMcubzIL9PegPOi1Hv99lg_rfry7mx7ZNBrr1mgV4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcycGN3dW04bm5tei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CS634m2I1XJTnSNG-mFKZsHh9U6uZwMv-HlsDnuGh10/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcycGN3dW04bm5tei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CS634m2I1XJTnSNG-mFKZsHh9U6uZwMv-HlsDnuGh10/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhyMzhjbDBnbG9rMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sqe5QXazN0E1ZoNs-4Z6-OeXtf35i326QVqqQ5NL4EM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhyMzhjbDBnbG9rMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sqe5QXazN0E1ZoNs-4Z6-OeXtf35i326QVqqQ5NL4EM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUya2F6NG41MjNwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7kabG5CDr5j-wGBJmZRl2wFym-agGuYPcP5iJCQLmro/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUya2F6NG41MjNwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7kabG5CDr5j-wGBJmZRl2wFym-agGuYPcP5iJCQLmro/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5anQ1ODNpYmc2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.55SyKkAsSoLKTE0uoYNQvnYSQf9Os80scSvHWD1DSrw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5anQ1ODNpYmc2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.55SyKkAsSoLKTE0uoYNQvnYSQf9Os80scSvHWD1DSrw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlmc3c4dmttODlqZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NT-Uo0KyWm7eBAcYqG18MClSAIOzXesdElhCBE_76Cs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlmc3c4dmttODlqZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NT-Uo0KyWm7eBAcYqG18MClSAIOzXesdElhCBE_76Cs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5pbDlsaWNnZmRhcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps6yo3udHyr9D_Patil6Ojb1OepA8ollHJDGNX-ZEmk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5pbDlsaWNnZmRhcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps6yo3udHyr9D_Patil6Ojb1OepA8ollHJDGNX-ZEmk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoMjc1d2k0cGZvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F8sMpOF8x2GQJsHbFF9B7R-3HLbaDnMc1Te4SV8SPJs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoMjc1d2k0cGZvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F8sMpOF8x2GQJsHbFF9B7R-3HLbaDnMc1Te4SV8SPJs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhbjZrMHhuYnNmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sq1IzJIOD-TFJDi-yjQ7jz2pjU39XgNS4QWE015YN6w/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhbjZrMHhuYnNmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sq1IzJIOD-TFJDi-yjQ7jz2pjU39XgNS4QWE015YN6w/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhaGIwOGVneW56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N3vyUC_fH-vpDMZLT7rurPFc8xV5EFe9NkGbvgx3Cmk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhaGIwOGVneW56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N3vyUC_fH-vpDMZLT7rurPFc8xV5EFe9NkGbvgx3Cmk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4a3pwOHloeDJ5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEGYev8hr1n3IZ_PSOuvwTzWh5NqwZrVVIcU83381RA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4a3pwOHloeDJ5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEGYev8hr1n3IZ_PSOuvwTzWh5NqwZrVVIcU83381RA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrb2hwdmg0ZDE4YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WuYKL1MxhdJtE-Io7sCJ8L4kvCvoXbVSkYGQMmCO04M/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrb2hwdmg0ZDE4YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WuYKL1MxhdJtE-Io7sCJ8L4kvCvoXbVSkYGQMmCO04M/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2NGU4aXhiYnU3ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.T1Brxz7jq084s9J0ju3eOxkbkq-qQF-R7SETAl9vzbo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2NGU4aXhiYnU3ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.T1Brxz7jq084s9J0ju3eOxkbkq-qQF-R7SETAl9vzbo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtMWxsOTcyc3FidjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vm3N8nJE7SBZX_AVaXDSZnjSV6KLiUEYLK-xmkqxBto/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtMWxsOTcyc3FidjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vm3N8nJE7SBZX_AVaXDSZnjSV6KLiUEYLK-xmkqxBto/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJieGQ2M2F2cTc3dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fUBqheQW5nCea4SVBQ2NI6uDe6KatbeC8fMh5dfgSQQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJieGQ2M2F2cTc3dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fUBqheQW5nCea4SVBQ2NI6uDe6KatbeC8fMh5dfgSQQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdwb21wMmk4cTB5cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xFDs93DB-8orVMueihLWGWJ8Z1chmrVo5XMTt6idaN8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdwb21wMmk4cTB5cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xFDs93DB-8orVMueihLWGWJ8Z1chmrVo5XMTt6idaN8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlyb2VxaTE0bGhlZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0FY7pE_wuxW5kWTkP1U9d_Is0blFQbtpBQxwLNkMhos/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlyb2VxaTE0bGhlZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0FY7pE_wuxW5kWTkP1U9d_Is0blFQbtpBQxwLNkMhos/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhocXk2ZGZ2a3V5NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HfYzP0Zmw8dDOpvQ-u9Ky5Z_-Yo7gZdx8yW9Bxj2KPw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhocXk2ZGZ2a3V5NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HfYzP0Zmw8dDOpvQ-u9Ky5Z_-Yo7gZdx8yW9Bxj2KPw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "agency": {
+    "id": 10554081,
+    "name": "Imperial Capital",
+    "slug": "imperial-capital-ID10554081",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJlcmdmODF0ZDFzZDMtQVBMIn0.cWVmphby-jYqxKsyY5cj5e-wC4uXc1xQ6j0rqecM4Fs/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": null,
+  "rentPrice": null,
+  "priceFromPerSquareMeter": {
+    "value": 13064,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "pricePerSquareMeter": null,
+  "areaInSquareMeters": null,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": null,
+  "hidePrice": false,
+  "floorNumber": null,
+  "investmentState": "IN_BUILDING",
+  "investmentUnitsAreaInSquareMeters": {
+    "from": 71,
+    "to": 100,
+    "__typename": "InvestmentUnitsArea"
+  },
+  "peoplePerRoom": null,
+  "dateCreated": "2025-12-02 15:07:05",
+  "createdAtFirst": "2025-12-02T15:06:52Z",
+  "investmentUnitsNumber": 61,
+  "investmentUnitsFloorsRange": {
+    "min": "GROUND",
+    "max": "FIRST",
+    "__typename": "InvestmentUnitsFloorsRange"
+  },
+  "investmentUnitsRoomsNumber": {
+    "min": "FOUR",
+    "max": "SIX",
+    "__typename": "InvestmentUnitsRoomsNumber"
+  },
+  "investmentEstimatedDelivery": {
+    "quarter": 2,
+    "year": 2027,
+    "__typename": "InvestmentEstimatedDelivery"
+  },
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "4, 5 i 6-pokojowe mieszkania od71m2 do100m2 w cenie od 976676 zł od dewelopera Imperial CapitalPark Tetmajera (5 minut spacerem)Przystanek autobusowy (6 minut spacerem)Stacja kolejowa Kraków Mydlniki ...",
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "relatedAds": [
+    {
+      "id": 67501282,
+      "title": "4-pokojowe mieszkanie 71m2 Bezpośrednio",
+      "slug": "4-pokojowe-mieszkanie-71m2-bezposrednio-ID4zeam",
+      "estate": "FLAT",
+      "development": {
+        "id": 67501256,
+        "title": "River Park",
+        "slug": "river-park-ID4ze9V",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Trzuszkowskiego",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/bronowice",
+                "fullName": "Bronowice, Kraków, małopolskie",
+                "name": "Bronowice",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/bronowice/bronowice-male",
+                "fullName": "Bronowice Małe, Bronowice, Kraków, małopolskie",
+                "name": "Bronowice Małe",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrY3I2aDh1MjZwOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5DL5IitOmGfJ5O0Bs-TJhqytS94YV4HOLK3YABqgjKA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrY3I2aDh1MjZwOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5DL5IitOmGfJ5O0Bs-TJhqytS94YV4HOLK3YABqgjKA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJpeHUycHljemk2bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tdhMcubzIL9PegPOi1Hv99lg_rfry7mx7ZNBrr1mgV4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJpeHUycHljemk2bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tdhMcubzIL9PegPOi1Hv99lg_rfry7mx7ZNBrr1mgV4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcycGN3dW04bm5tei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CS634m2I1XJTnSNG-mFKZsHh9U6uZwMv-HlsDnuGh10/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcycGN3dW04bm5tei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CS634m2I1XJTnSNG-mFKZsHh9U6uZwMv-HlsDnuGh10/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhyMzhjbDBnbG9rMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sqe5QXazN0E1ZoNs-4Z6-OeXtf35i326QVqqQ5NL4EM/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhyMzhjbDBnbG9rMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sqe5QXazN0E1ZoNs-4Z6-OeXtf35i326QVqqQ5NL4EM/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUya2F6NG41MjNwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7kabG5CDr5j-wGBJmZRl2wFym-agGuYPcP5iJCQLmro/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUya2F6NG41MjNwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7kabG5CDr5j-wGBJmZRl2wFym-agGuYPcP5iJCQLmro/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5anQ1ODNpYmc2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.55SyKkAsSoLKTE0uoYNQvnYSQf9Os80scSvHWD1DSrw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5anQ1ODNpYmc2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.55SyKkAsSoLKTE0uoYNQvnYSQf9Os80scSvHWD1DSrw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlmc3c4dmttODlqZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NT-Uo0KyWm7eBAcYqG18MClSAIOzXesdElhCBE_76Cs/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlmc3c4dmttODlqZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NT-Uo0KyWm7eBAcYqG18MClSAIOzXesdElhCBE_76Cs/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5pbDlsaWNnZmRhcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps6yo3udHyr9D_Patil6Ojb1OepA8ollHJDGNX-ZEmk/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5pbDlsaWNnZmRhcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps6yo3udHyr9D_Patil6Ojb1OepA8ollHJDGNX-ZEmk/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoMjc1d2k0cGZvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F8sMpOF8x2GQJsHbFF9B7R-3HLbaDnMc1Te4SV8SPJs/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoMjc1d2k0cGZvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F8sMpOF8x2GQJsHbFF9B7R-3HLbaDnMc1Te4SV8SPJs/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhbjZrMHhuYnNmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sq1IzJIOD-TFJDi-yjQ7jz2pjU39XgNS4QWE015YN6w/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhbjZrMHhuYnNmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sq1IzJIOD-TFJDi-yjQ7jz2pjU39XgNS4QWE015YN6w/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhaGIwOGVneW56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N3vyUC_fH-vpDMZLT7rurPFc8xV5EFe9NkGbvgx3Cmk/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhaGIwOGVneW56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N3vyUC_fH-vpDMZLT7rurPFc8xV5EFe9NkGbvgx3Cmk/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4a3pwOHloeDJ5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEGYev8hr1n3IZ_PSOuvwTzWh5NqwZrVVIcU83381RA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4a3pwOHloeDJ5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEGYev8hr1n3IZ_PSOuvwTzWh5NqwZrVVIcU83381RA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrb2hwdmg0ZDE4YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WuYKL1MxhdJtE-Io7sCJ8L4kvCvoXbVSkYGQMmCO04M/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrb2hwdmg0ZDE4YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WuYKL1MxhdJtE-Io7sCJ8L4kvCvoXbVSkYGQMmCO04M/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2NGU4aXhiYnU3ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.T1Brxz7jq084s9J0ju3eOxkbkq-qQF-R7SETAl9vzbo/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2NGU4aXhiYnU3ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.T1Brxz7jq084s9J0ju3eOxkbkq-qQF-R7SETAl9vzbo/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtMWxsOTcyc3FidjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vm3N8nJE7SBZX_AVaXDSZnjSV6KLiUEYLK-xmkqxBto/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtMWxsOTcyc3FidjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vm3N8nJE7SBZX_AVaXDSZnjSV6KLiUEYLK-xmkqxBto/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJieGQ2M2F2cTc3dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fUBqheQW5nCea4SVBQ2NI6uDe6KatbeC8fMh5dfgSQQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJieGQ2M2F2cTc3dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fUBqheQW5nCea4SVBQ2NI6uDe6KatbeC8fMh5dfgSQQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdwb21wMmk4cTB5cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xFDs93DB-8orVMueihLWGWJ8Z1chmrVo5XMTt6idaN8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdwb21wMmk4cTB5cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xFDs93DB-8orVMueihLWGWJ8Z1chmrVo5XMTt6idaN8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlyb2VxaTE0bGhlZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0FY7pE_wuxW5kWTkP1U9d_Is0blFQbtpBQxwLNkMhos/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlyb2VxaTE0bGhlZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0FY7pE_wuxW5kWTkP1U9d_Is0blFQbtpBQxwLNkMhos/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhocXk2ZGZ2a3V5NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HfYzP0Zmw8dDOpvQ-u9Ky5Z_-Yo7gZdx8yW9Bxj2KPw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhocXk2ZGZ2a3V5NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HfYzP0Zmw8dDOpvQ-u9Ky5Z_-Yo7gZdx8yW9Bxj2KPw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 20,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 10554081,
+          "name": "Imperial Capital",
+          "slug": "imperial-capital-ID10554081",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJlcmdmODF0ZDFzZDMtQVBMIn0.cWVmphby-jYqxKsyY5cj5e-wC4uXc1xQ6j0rqecM4Fs/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 13064,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 71,
+          "to": 100,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2025-12-02 15:07:05",
+        "createdAtFirst": "2025-12-02T15:06:52Z",
+        "investmentUnitsNumber": 61,
+        "investmentUnitsFloorsRange": {
+          "min": "GROUND",
+          "max": "FIRST",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "FOUR",
+          "max": "SIX",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 2,
+          "year": 2027,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "4, 5 i 6-pokojowe mieszkania od71m2 do100m2 w cenie od 976676 zł od dewelopera Imperial CapitalPark Tetmajera (5 minut spacerem)Przystanek autobusowy (6 minut spacerem)Stacja kolejowa Kraków Mydlniki ...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 67501256,
+      "developmentTitle": "River Park",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/river-park-ID4ze9V",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Trzuszkowskiego",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/bronowice",
+              "fullName": "Bronowice, Kraków, małopolskie",
+              "name": "Bronowice",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/bronowice/bronowice-male",
+              "fullName": "Bronowice Małe, Bronowice, Kraków, małopolskie",
+              "name": "Bronowice Małe",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ5ZGNmcmt3Y2l4dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ouquCbb94bVtCGezBUlR3BGoxZSF-Ruf3EWRvdHTAUM/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ5ZGNmcmt3Y2l4dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ouquCbb94bVtCGezBUlR3BGoxZSF-Ruf3EWRvdHTAUM/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoMHJoMWY2bmVpbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.oLc4K0V3utBstp7GtxygNcDsBpt_IDDjW3YETQmXw1g/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoMHJoMWY2bmVpbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.oLc4K0V3utBstp7GtxygNcDsBpt_IDDjW3YETQmXw1g/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpvZDB4NHp6cm01ejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3OFSIcBeBOnXxIMrgedjEKMz2fhEaKN-JU_OSXrPt_o/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpvZDB4NHp6cm01ejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3OFSIcBeBOnXxIMrgedjEKMz2fhEaKN-JU_OSXrPt_o/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 9,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 10554081,
+        "name": "Imperial Capital",
+        "slug": "imperial-capital-ID10554081",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJlcmdmODF0ZDFzZDMtQVBMIn0.cWVmphby-jYqxKsyY5cj5e-wC4uXc1xQ6j0rqecM4Fs/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 1054204,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 14800,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 71.23,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "FOUR",
+      "hidePrice": false,
+      "floorNumber": "FIRST",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:45:36",
+      "createdAtFirst": "2025-12-02T15:08:27Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:45:36+02:00",
+      "specialOffer": null,
+      "shortDescription": "4-pokojowe mieszkanie numer 12_2  na 1. piętrze w budynku 12 w Inwestycji River Park Dewelopera Imperial CapitalPark Tetmajera (5 minut spacerem)Przystanek autobusowy (6 minut spacerem)Stacja kolejowa...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Katarzyna Zebranowicz",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh2eGpmMDl5eW1iZzItQVBMIn0.gR51Yg7snIBhJ0HA6vBjooc9R5ra9WadQMmngy6deQ8/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "TOP_FLOOR",
+          "weight": 20,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/4-pokojowe-mieszkanie-71m2-bezposrednio-ID4zeam"
+    },
+    {
+      "id": 67501314,
+      "title": "5-pokojowe mieszkanie 95m2 Bez Prowizji",
+      "slug": "5-pokojowe-mieszkanie-95m2-bez-prowizji-ID4zeaS",
+      "estate": "FLAT",
+      "development": {
+        "id": 67501256,
+        "title": "River Park",
+        "slug": "river-park-ID4ze9V",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Trzuszkowskiego",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/bronowice",
+                "fullName": "Bronowice, Kraków, małopolskie",
+                "name": "Bronowice",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/bronowice/bronowice-male",
+                "fullName": "Bronowice Małe, Bronowice, Kraków, małopolskie",
+                "name": "Bronowice Małe",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrY3I2aDh1MjZwOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5DL5IitOmGfJ5O0Bs-TJhqytS94YV4HOLK3YABqgjKA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdrY3I2aDh1MjZwOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5DL5IitOmGfJ5O0Bs-TJhqytS94YV4HOLK3YABqgjKA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJpeHUycHljemk2bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tdhMcubzIL9PegPOi1Hv99lg_rfry7mx7ZNBrr1mgV4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJpeHUycHljemk2bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tdhMcubzIL9PegPOi1Hv99lg_rfry7mx7ZNBrr1mgV4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcycGN3dW04bm5tei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CS634m2I1XJTnSNG-mFKZsHh9U6uZwMv-HlsDnuGh10/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcycGN3dW04bm5tei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CS634m2I1XJTnSNG-mFKZsHh9U6uZwMv-HlsDnuGh10/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhyMzhjbDBnbG9rMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sqe5QXazN0E1ZoNs-4Z6-OeXtf35i326QVqqQ5NL4EM/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhyMzhjbDBnbG9rMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sqe5QXazN0E1ZoNs-4Z6-OeXtf35i326QVqqQ5NL4EM/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUya2F6NG41MjNwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7kabG5CDr5j-wGBJmZRl2wFym-agGuYPcP5iJCQLmro/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUya2F6NG41MjNwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7kabG5CDr5j-wGBJmZRl2wFym-agGuYPcP5iJCQLmro/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5anQ1ODNpYmc2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.55SyKkAsSoLKTE0uoYNQvnYSQf9Os80scSvHWD1DSrw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5anQ1ODNpYmc2ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.55SyKkAsSoLKTE0uoYNQvnYSQf9Os80scSvHWD1DSrw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlmc3c4dmttODlqZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NT-Uo0KyWm7eBAcYqG18MClSAIOzXesdElhCBE_76Cs/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inlmc3c4dmttODlqZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NT-Uo0KyWm7eBAcYqG18MClSAIOzXesdElhCBE_76Cs/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5pbDlsaWNnZmRhcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps6yo3udHyr9D_Patil6Ojb1OepA8ollHJDGNX-ZEmk/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5pbDlsaWNnZmRhcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ps6yo3udHyr9D_Patil6Ojb1OepA8ollHJDGNX-ZEmk/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoMjc1d2k0cGZvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F8sMpOF8x2GQJsHbFF9B7R-3HLbaDnMc1Te4SV8SPJs/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpoMjc1d2k0cGZvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F8sMpOF8x2GQJsHbFF9B7R-3HLbaDnMc1Te4SV8SPJs/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhbjZrMHhuYnNmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sq1IzJIOD-TFJDi-yjQ7jz2pjU39XgNS4QWE015YN6w/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhbjZrMHhuYnNmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sq1IzJIOD-TFJDi-yjQ7jz2pjU39XgNS4QWE015YN6w/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhaGIwOGVneW56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N3vyUC_fH-vpDMZLT7rurPFc8xV5EFe9NkGbvgx3Cmk/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdhaGIwOGVneW56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N3vyUC_fH-vpDMZLT7rurPFc8xV5EFe9NkGbvgx3Cmk/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4a3pwOHloeDJ5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEGYev8hr1n3IZ_PSOuvwTzWh5NqwZrVVIcU83381RA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4a3pwOHloeDJ5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pEGYev8hr1n3IZ_PSOuvwTzWh5NqwZrVVIcU83381RA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrb2hwdmg0ZDE4YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WuYKL1MxhdJtE-Io7sCJ8L4kvCvoXbVSkYGQMmCO04M/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrb2hwdmg0ZDE4YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WuYKL1MxhdJtE-Io7sCJ8L4kvCvoXbVSkYGQMmCO04M/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2NGU4aXhiYnU3ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.T1Brxz7jq084s9J0ju3eOxkbkq-qQF-R7SETAl9vzbo/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2NGU4aXhiYnU3ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.T1Brxz7jq084s9J0ju3eOxkbkq-qQF-R7SETAl9vzbo/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtMWxsOTcyc3FidjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vm3N8nJE7SBZX_AVaXDSZnjSV6KLiUEYLK-xmkqxBto/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtMWxsOTcyc3FidjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vm3N8nJE7SBZX_AVaXDSZnjSV6KLiUEYLK-xmkqxBto/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJieGQ2M2F2cTc3dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fUBqheQW5nCea4SVBQ2NI6uDe6KatbeC8fMh5dfgSQQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJieGQ2M2F2cTc3dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.fUBqheQW5nCea4SVBQ2NI6uDe6KatbeC8fMh5dfgSQQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdwb21wMmk4cTB5cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xFDs93DB-8orVMueihLWGWJ8Z1chmrVo5XMTt6idaN8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijdwb21wMmk4cTB5cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xFDs93DB-8orVMueihLWGWJ8Z1chmrVo5XMTt6idaN8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlyb2VxaTE0bGhlZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0FY7pE_wuxW5kWTkP1U9d_Is0blFQbtpBQxwLNkMhos/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imlyb2VxaTE0bGhlZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0FY7pE_wuxW5kWTkP1U9d_Is0blFQbtpBQxwLNkMhos/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhocXk2ZGZ2a3V5NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HfYzP0Zmw8dDOpvQ-u9Ky5Z_-Yo7gZdx8yW9Bxj2KPw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhocXk2ZGZ2a3V5NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HfYzP0Zmw8dDOpvQ-u9Ky5Z_-Yo7gZdx8yW9Bxj2KPw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 20,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 10554081,
+          "name": "Imperial Capital",
+          "slug": "imperial-capital-ID10554081",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJlcmdmODF0ZDFzZDMtQVBMIn0.cWVmphby-jYqxKsyY5cj5e-wC4uXc1xQ6j0rqecM4Fs/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 13064,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 71,
+          "to": 100,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2025-12-02 15:07:05",
+        "createdAtFirst": "2025-12-02T15:06:52Z",
+        "investmentUnitsNumber": 61,
+        "investmentUnitsFloorsRange": {
+          "min": "GROUND",
+          "max": "FIRST",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "FOUR",
+          "max": "SIX",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 2,
+          "year": 2027,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "4, 5 i 6-pokojowe mieszkania od71m2 do100m2 w cenie od 976676 zł od dewelopera Imperial CapitalPark Tetmajera (5 minut spacerem)Przystanek autobusowy (6 minut spacerem)Stacja kolejowa Kraków Mydlniki ...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 67501256,
+      "developmentTitle": "River Park",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/river-park-ID4ze9V",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Trzuszkowskiego",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/bronowice",
+              "fullName": "Bronowice, Kraków, małopolskie",
+              "name": "Bronowice",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/bronowice/bronowice-male",
+              "fullName": "Bronowice Małe, Bronowice, Kraków, małopolskie",
+              "name": "Bronowice Małe",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgzY2xtOXRraHMyNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wFjXVLiOUYJlT7mag1rLlMgZZ7GLTzLJyzUiSKBHOUg/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd1M2R0bXBxdnJmay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.chWcgTZRaQLdAy36QoFT-prUoOoM6AQimqrE1kukJC0/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd1M2R0bXBxdnJmay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.chWcgTZRaQLdAy36QoFT-prUoOoM6AQimqrE1kukJC0/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0a2Q1NXVtOHdqdDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MaW3lT4Z6DT5rm7po1VeLwPmz6-FfoKf-ywI4nQC-Fo/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0a2Q1NXVtOHdqdDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MaW3lT4Z6DT5rm7po1VeLwPmz6-FfoKf-ywI4nQC-Fo/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 9,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 10554081,
+        "name": "Imperial Capital",
+        "slug": "imperial-capital-ID10554081",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJlcmdmODF0ZDFzZDMtQVBMIn0.cWVmphby-jYqxKsyY5cj5e-wC4uXc1xQ6j0rqecM4Fs/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 1385910,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 14500,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 95.58,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "FIVE",
+      "hidePrice": false,
+      "floorNumber": "GROUND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:45:35",
+      "createdAtFirst": "2025-12-02T15:08:35Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:45:36+02:00",
+      "specialOffer": null,
+      "shortDescription": "5-pokojowe mieszkanie numer 24_1  na parterze w budynku 24 w Inwestycji River Park Dewelopera Imperial CapitalPark Tetmajera (5 minut spacerem)Przystanek autobusowy (6 minut spacerem)Stacja kolejowa K...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Katarzyna Zebranowicz",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh2eGpmMDl5eW1iZzItQVBMIn0.gR51Yg7snIBhJ0HA6vBjooc9R5ra9WadQMmngy6deQ8/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "GROUND_FLOOR",
+          "weight": 5,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/5-pokojowe-mieszkanie-95m2-bez-prowizji-ID4zeaS"
+    }
+  ],
+  "description": "<ul><li><strong>4, 5 i 6-pokojowe</strong> mieszkania <strong>od&nbsp;71&nbsp;m2 do&nbsp;100&nbsp;m2</strong> w cenie <strong>od 976&nbsp;676 zł</strong> od dewelopera <strong>Imperial Capital</strong></li><li>Park Tetmajera (5 minut spacerem)</li><li>Przystanek autobusowy (6 minut spacerem)</li><li>Stacja kolejowa Kraków Mydlniki (4 minuty samochodem)</li><li>Biedronka (5 minut samochodem)</li><li>Galeria Bronowice (7 minut samochodem)</li></ul><br/><strong>River Park - poznaj inwestycję</strong><br/><p><strong>River Park Tetmajera</strong> to wyjątkowe osiedle, które powstało z myślą o osobach ceniących&nbsp;<strong>zieleń, spokój i atmosferę</strong> krakowskich Bronowic. Położone wzdłuż ulicy Truszkowskiego, w sąsiedztwie urokliwej ulicy Tetmajera, osiedle oferuje&nbsp;<strong>idealne połączenie kameralności z dogodnym dostępem do miejskich udogodnień.</strong> To tutaj historia spotyka się z nowoczesnością, a wszystko to możesz chłonąć z własnego tarasu lub ogródka.</p><p><strong>Funkcjonalność, przestrzeń i niebanalna architektura</strong></p><p>River Park Tetmajera to kilkanaście piętrowych domów, rozstawionych szeroko między sobą, co zapewnia poczucie&nbsp;<strong>swobody i prywatności</strong>.</p><p><strong>Przestronne, dwupoziomowe mieszkania:</strong></p><ul><li>Powierzchnie powyżej&nbsp;<strong>70 m²</strong>, zapewniające komfort i przestrzeń dla każdego.</li><li>Do mieszkań przynależą&nbsp;<strong>ogródki, przestronne tarasy lub balkony</strong>, które stanowią idealne miejsce do relaksu i kontaktu z naturą.</li><li><strong>Duże przeszklenia</strong> sprawiają, że wnętrza są jasne i doświetlone, pozwalając cieszyć się widokiem otaczającej zieleni.</li></ul><p><strong>Nowoczesne rozwiązania dla Twojej wygody:</strong></p><ul><li><strong>Miejsca parkingowe</strong> zlokalizowane tuż przy każdym domu.</li><li>Odległość między budynkami pozwala poczuć się swobodnie, z dala od zgiełku wielkiego miasta.</li></ul><p><strong>Komunikacja:</strong></p><p>Bronowice są dobrze skomunikowane z resztą Krakowa, co zapewnia łatwy dojazd do pracy, szkoły czy centrum miasta.</p><ul><li>Stacja kolejki SKA – rozbudowana sieć komunikacji miejskiej zapewnia regularne połączenia.</li><li>Najbliższy przystanek&nbsp;– Truszkowskiego 01</li><li>Droga krajowa nr 7 – przy zachodniej granicy dzielnicy biegnie droga krajowa nr 7, która znacząco ułatwia podróże poza miasto.</li></ul><p><strong>Edukacja:</strong></p><p>Mieszkańcy mogą korzystać z bogatej oferty edukacyjnej.&nbsp;</p><ul><li><p>Przedszkole Gwiazdeczka – 600 m</p></li><li><p>Szkoła Podstawowa nr 50&nbsp;– 900 m</p></li><li><p>Przedszkole Niepubliczne Pluszowy Miś&nbsp;– 1,2 km</p></li><li><p>Zespół Szkół Ogólnokształcących nr 53&nbsp;oraz Szkoła Podstawowa nr 51 im. S. Wyspiańskiego – 5 minut autem</p></li><li><p>Publiczne Przedszkole Stacyjkowo&nbsp;– 6 minut autem</p></li></ul><p><strong>Opieka medyczna:</strong></p><ul><li><p>Centrum Medyczne Nido&nbsp;– 700 m&nbsp;</p></li><li><p>Centrum Medyczne Medicover – 7 minut autem</p></li></ul><p><strong>Sklepy i usługi:</strong></p><p>Jak daleko jest do najbliższego sklepu?</p><ul><li><p>Easy Auchan – 700 m</p></li><li><p>Lewiatan – 2 minuty autem</p></li><li><p>Delikatesy Włoskie – 4 minuty autem</p></li><li><p>Biedronka – 5 minut autem</p></li></ul><p><strong>Sport:</strong></p><p>Bliskość terenów rekreacyjnych oraz obiektów sportowych to mocna strona tej lokalizacji.&nbsp;</p><ul><li><p>Siłownia na świeżym powietrzu – 500 m od inwestycji</p></li><li><p>Park Tetmajera – 5 minut pieszo</p></li><li><p>Park Uroczysko Gaik – 9 minut autem</p></li><li><p>Park Młynówka Królewska – 7 minut autem</p></li></ul><br/><strong>River Park - lokalizacja</strong><br/><br/>Bronowice, ul. Truszkowskiego<br/><ul><li>6,3 km do centrum</li><li>14 min. spacerem do przystanku autobusowego</li><li>6 min. samochodem do przystanku tramwajowego</li><li>dojazd do centrum: 22 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (962 m, 14 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:03.755Z"
+}

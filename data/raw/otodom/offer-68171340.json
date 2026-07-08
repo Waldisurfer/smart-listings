@@ -1,0 +1,173 @@
+{
+  "id": 68171340,
+  "title": "Kawalerka z oddzielną sypialnią | balkon | piwnica",
+  "slug": "kawalerka-z-oddzielna-sypialnia-balkon-piwnica-ID4C2tK",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Wołomińska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc",
+          "fullName": "Praga-Północ, Warszawa, mazowieckie",
+          "name": "Praga-Północ",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc/szmulowizna",
+          "fullName": "Szmulowizna, Praga-Północ, Warszawa, mazowieckie",
+          "name": "Szmulowizna",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndlbXhtMzYzczJmZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.eUPWq1U0vRTl8jYZuNvFEFQV2tpbpZMNXdUjUZLPLx0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndlbXhtMzYzczJmZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.eUPWq1U0vRTl8jYZuNvFEFQV2tpbpZMNXdUjUZLPLx0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFzb2lyenN4a2dkdjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZS1es3UvYrGfXJ2fUOvNcHx9eKba2PbSW5ASXoSYzEg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFzb2lyenN4a2dkdjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZS1es3UvYrGfXJ2fUOvNcHx9eKba2PbSW5ASXoSYzEg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5NDFveThyaXRuYy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UwP78ohWGaTtJofpzTHL0zOhfZY0yLyLO0lndBpzDZw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5NDFveThyaXRuYy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UwP78ohWGaTtJofpzTHL0zOhfZY0yLyLO0lndBpzDZw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 19,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 10293798,
+    "name": "Open Estate Nieruchomości",
+    "slug": "open-estate-nieruchomosci-ID10293798",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inh6YzNmcDg0dDRnOTMtQVBMIn0.d3OSh_5hjB-p_z2Mbm7I8qhXG-nF10SAC0XduHNZemw/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 430000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 693,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 14285.71,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 30.1,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "EIGHTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:32:07",
+  "createdAtFirst": "2026-07-03T21:31:59Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Kawalerka z oddzielną sypialnią | 30,1 m² | balkon | piwnica | Praga-Północ | ul. WołomińskaNa sprzedaż funkcjonalne mieszkanie o powierzchni 30,1 m², położone na 8 piętrze w 10-piętrowym budynku przy...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Monika Pietrusińska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InN3dmx0cGE1NHA3czEtQVBMIn0.p7WFvWW7vHe5kr-6iTwd5zpAdA9tY0kG1kLPJFZM4MQ/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/kawalerka-z-oddzielna-sypialnia-balkon-piwnica-ID4C2tK",
+  "description": "<strong>Kawalerka z oddzielną sypialnią | 30,1 m² | balkon | piwnica | Praga-Północ | ul. Wołomińska</strong><br><br>Na sprzedaż funkcjonalne mieszkanie o powierzchni <strong>30,1 m²</strong>, położone na <strong>8 piętrze </strong>w 10-piętrowym budynku przy ul. Wołomińskiej 19 na warszawskiej Pradze-Północ.<br><br><strong>Rozkład pomieszczeń (metraż podany na grafice z rzutem mieszkania)</strong><ul><li>przestronny pokój dzienny,</li><li><strong>wydzielona sypialnia z oknem</strong>,</li><li>kuchnia,</li><li>łazienka,</li><li>przedpokój.</li></ul>Dodatkowo do mieszkania przynależą:<ul><li>balkon (około 3 m2),</li><li>piwnica (2 m2).</li></ul>Okna mieszkania wychodzą na <strong>zachód i częściowo na południe</strong>, dzięki czemu wnętrza są bardzo dobrze doświetlone przez większą część dnia.<br><br><strong>Stan techniczny</strong><br>Lokal został <strong>świeżo odmalowany</strong>, do własnej aranżacji. Wymaga umeblowania lub dostosowania do indywidualnych potrzeb i gustu nowego właściciela.<br><br><strong>Budynek</strong><ul><li>rok budowy: 1974,</li><li>10 pięter,</li><li>mieszkanie na 8 piętrze,</li><li><strong>2 windy – osobowa i towarowa</strong>,</li><li>zadbany budynek zarządzany przez spółdzielnię.</li></ul><strong>Stan prawny</strong><br>Spółdzielcze własnościowe prawo do lokalu, grunty nie są uregulowane. (nie ma założonej Księgi Wieczystej).<br><br><strong>Lokalizacja</strong><br>Dużym atutem nieruchomości jest jej lokalizacja. Ulica Wołomińska znajduje się na warszawskiej Pradze-Północ – w miejscu, które zapewnia szybki dojazd do centrum oraz pełną infrastrukturę miejską.<br>W pobliżu znajdują się:<ul><li>stacja <strong>metra Szwedzka</strong> (kilka minut spacerem),</li><li>przystanki <strong>autobusowe </strong>i <strong>tramwajowe</strong>,</li><li><strong>Dworzec Warszawa Wschodnia</strong>,</li><li><strong>Centrum Praskie Koneser</strong>,</li><li><strong>Galeria Wileńska,</strong></li><li>liczne sklepy, restauracje, punkty usługowe, szkoły i przedszkola,</li><li>tereny zielone oraz ścieżki rowerowe.</li></ul><strong>Świetna komunikacja</strong> sprawia, że dojazd do centrum Warszawy zajmuje zaledwie <strong>kilkanaście minut</strong>, a rozwijająca się okolica od lat cieszy się dużym zainteresowaniem zarówno mieszkańców, jak i inwestorów.<br><br><strong>Najważniejsze atuty</strong><ul><li>30,1 m²,</li><li>wydzielona sypialnia z oknem,</li><li>balkon,</li><li>piwnica,</li><li>dwie windy (osobowa i towarowa),</li><li>świeżo odmalowane mieszkanie,</li><li>doskonała komunikacja – metro, tramwaje i autobusy w zasięgu krótkiego spaceru.</li></ul>To doskonała propozycja dla singla, pary oraz inwestora poszukującego mieszkania pod wynajem w świetnie skomunikowanej części Warszawy.",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:36.568Z"
+}

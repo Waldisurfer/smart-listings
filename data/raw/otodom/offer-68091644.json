@@ -1,0 +1,164 @@
+{
+  "id": 68091644,
+  "title": "3 pokoje 62 m² balkon 20 m² Włochy – Nowa Ochota 2 miejsca parkingowe",
+  "slug": "3-pokoje-62-m-balkon-20-m-wlochy-nowa-ochota-2-miejsca-parkingowe-ID4BHKk",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Przedpole",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+          "fullName": "Włochy, Warszawa, mazowieckie",
+          "name": "Włochy",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+          "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+          "name": "Raków",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUxNWZ6cWRsZm5mczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vNXJdRvkzzOGggcyqF9gpZNIDAe9wkcXjliLfUg89Sk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUxNWZ6cWRsZm5mczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vNXJdRvkzzOGggcyqF9gpZNIDAe9wkcXjliLfUg89Sk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkZnBoODVib3N1ajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6DQrkv-Shu1-ho9M7V6Rgza3y23nqSozkMSdk2-VBr0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkZnBoODVib3N1ajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6DQrkv-Shu1-ho9M7V6Rgza3y23nqSozkMSdk2-VBr0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI4bHBwOTkyc3B0ODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UdO5Eg1J1ZIhKf0xzL7NquxYGQqxWSorKoDj2g21Xzc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InI4bHBwOTkyc3B0ODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UdO5Eg1J1ZIhKf0xzL7NquxYGQqxWSorKoDj2g21Xzc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 16,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1022380,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 16490,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 62,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:09:16",
+  "createdAtFirst": "2026-06-09T22:06:17Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T22:09:16+02:00",
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż komfortowe narożne mieszkanie 3‑pokojowe o pow. 62,04 m², położone na 4 piętrze w inwestycji Miasteczko Nova Ochota. Stan deweloperski – pełna swoboda aranżacji wnętrza bez konieczności wy...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Artur Legięć",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/3-pokoje-62-m-balkon-20-m-wlochy-nowa-ochota-2-miejsca-parkingowe-ID4BHKk",
+  "description": "<p>Na sprzedaż komfortowe narożne mieszkanie 3‑pokojowe o pow. <b>62,04 m²</b>, położone na <b>4 piętrze</b> w inwestycji Miasteczko Nova Ochota. <b>Stan deweloperski</b> – pełna swoboda aranżacji wnętrza bez konieczności wyburzeń i kosztownych przeróbek.</p><p><b>Najważniejsze informacje:</b></p><ul><li>3 ustawne pokoje</li><li>osobna kuchnia</li><li>łazienka + oddzielne WC</li><li>duży balkon: <b>aż 20 m²</b></li><li>funkcjonalny rozkład</li><li><b>2 miejsca parkingowe</b></li></ul><p><b>Układ:</b></p><ul><li>salon – 16,45 m²</li><li>pokoje – 9,94 m² i 8,70 m²</li><li>kuchnia – 8,71 m²</li><li>łazienka – 4,65 m² + WC 1,57 m²</li><li>hol – 9,05 m²</li></ul><p><b> Lokalizacja:</b></p><ul><li>Ochota – świetna komunikacja z centrum</li><li>blisko sklepy, szkoły, tereny zielone</li></ul><p>idealne dla rodziny lub jako inwestycja</p><p>możliwość własnej aranżacji od podstaw</p><p></p><p>Podwójne Miejsce parkingowe płatne dodatkowo 69 000 PLN</p>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:15.936Z"
+}

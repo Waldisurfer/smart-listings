@@ -1,0 +1,847 @@
+{
+  "id": 67605084,
+  "title": "Mogilska 31",
+  "slug": "mogilska-31-ID4zFaA",
+  "estate": "INVESTMENT",
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Mogilska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+          "fullName": "Grzegórzki, Kraków, małopolskie",
+          "name": "Grzegórzki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki/grzegorzki-polnoc",
+          "fullName": "Grzegórzki Północ, Grzegórzki, Kraków, małopolskie",
+          "name": "Grzegórzki Północ",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpdzJsZHlvc2cyYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pxSAh2G0hDUubSgXCPgGnTRWrAdWbO_OHCkj1SUNW2w/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpdzJsZHlvc2cyYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pxSAh2G0hDUubSgXCPgGnTRWrAdWbO_OHCkj1SUNW2w/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxYTRsNmxyMzlpeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c6y3Owz1LMfCkmYrY8CjSp-tNYgzSnyVubHFGIT5Hho/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxYTRsNmxyMzlpeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c6y3Owz1LMfCkmYrY8CjSp-tNYgzSnyVubHFGIT5Hho/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNucWJ1d2F5Mm9tcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.betZ5hDwwYJf5clHIk07g1Qrg1JoBZj4tAOLkmxU89c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNucWJ1d2F5Mm9tcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.betZ5hDwwYJf5clHIk07g1Qrg1JoBZj4tAOLkmxU89c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4YTNpZ2c5eTcydDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDa74klkh5jcCyQKPCJDSoMChOc6dOsfdWN3AI-jDgA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4YTNpZ2c5eTcydDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDa74klkh5jcCyQKPCJDSoMChOc6dOsfdWN3AI-jDgA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1wc3Rtc2o4a3ZpaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y4c5TexWKSefTuw9jQEQex6VGsbwwSyA9KWxoV-AvYw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1wc3Rtc2o4a3ZpaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y4c5TexWKSefTuw9jQEQex6VGsbwwSyA9KWxoV-AvYw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 6,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "agency": {
+    "id": 11495264,
+    "name": "Mogilska 31",
+    "slug": "mogilska-31-ID11495264",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFmYnd6YTV0MWtydi1BUEwifQ.dE4wHlfVdfmEdpbtB7z_M6wYq2sGrwiZJ9OcV4PENHQ/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": null,
+  "rentPrice": null,
+  "priceFromPerSquareMeter": {
+    "value": 17238,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "pricePerSquareMeter": null,
+  "areaInSquareMeters": null,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": null,
+  "hidePrice": false,
+  "floorNumber": null,
+  "investmentState": "IN_BUILDING",
+  "investmentUnitsAreaInSquareMeters": {
+    "from": 34,
+    "to": 101,
+    "__typename": "InvestmentUnitsArea"
+  },
+  "peoplePerRoom": null,
+  "dateCreated": "2026-01-13 13:27:12",
+  "createdAtFirst": "2026-01-13T13:27:04Z",
+  "investmentUnitsNumber": 86,
+  "investmentUnitsFloorsRange": {
+    "min": "FIRST",
+    "max": "TENTH",
+    "__typename": "InvestmentUnitsFloorsRange"
+  },
+  "investmentUnitsRoomsNumber": {
+    "min": "ONE",
+    "max": "FOUR",
+    "__typename": "InvestmentUnitsRoomsNumber"
+  },
+  "investmentEstimatedDelivery": {
+    "quarter": 4,
+    "year": 2028,
+    "__typename": "InvestmentEstimatedDelivery"
+  },
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "1, 2, 3 i 4-pokojowe mieszkania od34m2 do101m2 w cenie od 637225 zł od dewelopera Mogilska 31Eleganckie lobby, club lounge, siłownia, strefa fitness, patio do wypoczynkuPark Lotników Polskich (6 minut...",
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "relatedAds": [
+    {
+      "id": 67607560,
+      "title": "3-pokojowe mieszkanie 63m2 + taras Bezpośrednio",
+      "slug": "3-pokojowe-mieszkanie-63m2-taras-bezposrednio-ID4zFOv",
+      "estate": "FLAT",
+      "development": {
+        "id": 67605084,
+        "title": "Mogilska 31",
+        "slug": "mogilska-31-ID4zFaA",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Mogilska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+                "fullName": "Grzegórzki, Kraków, małopolskie",
+                "name": "Grzegórzki",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/grzegorzki/grzegorzki-polnoc",
+                "fullName": "Grzegórzki Północ, Grzegórzki, Kraków, małopolskie",
+                "name": "Grzegórzki Północ",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpdzJsZHlvc2cyYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pxSAh2G0hDUubSgXCPgGnTRWrAdWbO_OHCkj1SUNW2w/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpdzJsZHlvc2cyYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pxSAh2G0hDUubSgXCPgGnTRWrAdWbO_OHCkj1SUNW2w/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxYTRsNmxyMzlpeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c6y3Owz1LMfCkmYrY8CjSp-tNYgzSnyVubHFGIT5Hho/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxYTRsNmxyMzlpeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c6y3Owz1LMfCkmYrY8CjSp-tNYgzSnyVubHFGIT5Hho/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNucWJ1d2F5Mm9tcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.betZ5hDwwYJf5clHIk07g1Qrg1JoBZj4tAOLkmxU89c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNucWJ1d2F5Mm9tcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.betZ5hDwwYJf5clHIk07g1Qrg1JoBZj4tAOLkmxU89c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4YTNpZ2c5eTcydDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDa74klkh5jcCyQKPCJDSoMChOc6dOsfdWN3AI-jDgA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4YTNpZ2c5eTcydDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDa74klkh5jcCyQKPCJDSoMChOc6dOsfdWN3AI-jDgA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1wc3Rtc2o4a3ZpaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y4c5TexWKSefTuw9jQEQex6VGsbwwSyA9KWxoV-AvYw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1wc3Rtc2o4a3ZpaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y4c5TexWKSefTuw9jQEQex6VGsbwwSyA9KWxoV-AvYw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 6,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11495264,
+          "name": "Mogilska 31",
+          "slug": "mogilska-31-ID11495264",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFmYnd6YTV0MWtydi1BUEwifQ.dE4wHlfVdfmEdpbtB7z_M6wYq2sGrwiZJ9OcV4PENHQ/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 17238,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 34,
+          "to": 101,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-01-13 13:27:12",
+        "createdAtFirst": "2026-01-13T13:27:04Z",
+        "investmentUnitsNumber": 86,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "TENTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 4,
+          "year": 2028,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "1, 2, 3 i 4-pokojowe mieszkania od34m2 do101m2 w cenie od 637225 zł od dewelopera Mogilska 31Eleganckie lobby, club lounge, siłownia, strefa fitness, patio do wypoczynkuPark Lotników Polskich (6 minut...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 67605084,
+      "developmentTitle": "Mogilska 31",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/mogilska-31-ID4zFaA",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Mogilska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+              "fullName": "Grzegórzki, Kraków, małopolskie",
+              "name": "Grzegórzki",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/grzegorzki/grzegorzki-polnoc",
+              "fullName": "Grzegórzki Północ, Grzegórzki, Kraków, małopolskie",
+              "name": "Grzegórzki Północ",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2YjcxNmdtbDY5MTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.X3cXGQ5BhWphl1MOwQekN4DQOOW30NItX2E3G8JKZzM/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2YjcxNmdtbDY5MTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.X3cXGQ5BhWphl1MOwQekN4DQOOW30NItX2E3G8JKZzM/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InMxN3V6Mmp5cnZoaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5H56tqLrsQbg3yzeBy7Gt7CQlaAtFGF9zTA3RvVRzuA/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InMxN3V6Mmp5cnZoaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5H56tqLrsQbg3yzeBy7Gt7CQlaAtFGF9zTA3RvVRzuA/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh3eTlmNnlqcGN1ei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ADpXQL0V5ocfgUFINNUczcEMuTnvhaF8H2guix4JDR8/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh3eTlmNnlqcGN1ei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ADpXQL0V5ocfgUFINNUczcEMuTnvhaF8H2guix4JDR8/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 9,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 11495264,
+        "name": "Mogilska 31",
+        "slug": "mogilska-31-ID11495264",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFmYnd6YTV0MWtydi1BUEwifQ.dE4wHlfVdfmEdpbtB7z_M6wYq2sGrwiZJ9OcV4PENHQ/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 1232538,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 19523.81,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 63.13,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "THREE",
+      "hidePrice": false,
+      "floorNumber": "FIRST",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:45:36",
+      "createdAtFirst": "2026-01-14T10:08:21Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:45:37+02:00",
+      "specialOffer": null,
+      "shortDescription": "3-pokojowe mieszkanie numer M65  na 1. piętrze w Inwestycji Mogilska 31 Dewelopera Mogilska 31Eleganckie lobby, club lounge, siłownia, strefa fitness, patio do wypoczynkuPark Lotników Polskich (6 minu...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Weronika Bieniewicz",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9kZmd1anZzZjhxMS1BUEwifQ.mFv_4OQhk4xSVYKUa4MQDqM01XjtqdKG7ljgHvc44F0/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "GARDEN",
+          "weight": 45,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "TERRACE",
+          "weight": 40,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "STORAGE_ROOM",
+          "weight": 30,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/3-pokojowe-mieszkanie-63m2-taras-bezposrednio-ID4zFOv"
+    },
+    {
+      "id": 67607576,
+      "title": "2-pokojowe mieszkanie 43m2 + balkon Bez Prowizji",
+      "slug": "2-pokojowe-mieszkanie-43m2-balkon-bez-prowizji-ID4zFOM",
+      "estate": "FLAT",
+      "development": {
+        "id": 67605084,
+        "title": "Mogilska 31",
+        "slug": "mogilska-31-ID4zFaA",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Mogilska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+                "fullName": "Grzegórzki, Kraków, małopolskie",
+                "name": "Grzegórzki",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/grzegorzki/grzegorzki-polnoc",
+                "fullName": "Grzegórzki Północ, Grzegórzki, Kraków, małopolskie",
+                "name": "Grzegórzki Północ",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpdzJsZHlvc2cyYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pxSAh2G0hDUubSgXCPgGnTRWrAdWbO_OHCkj1SUNW2w/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpdzJsZHlvc2cyYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pxSAh2G0hDUubSgXCPgGnTRWrAdWbO_OHCkj1SUNW2w/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxYTRsNmxyMzlpeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c6y3Owz1LMfCkmYrY8CjSp-tNYgzSnyVubHFGIT5Hho/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxYTRsNmxyMzlpeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c6y3Owz1LMfCkmYrY8CjSp-tNYgzSnyVubHFGIT5Hho/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNucWJ1d2F5Mm9tcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.betZ5hDwwYJf5clHIk07g1Qrg1JoBZj4tAOLkmxU89c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNucWJ1d2F5Mm9tcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.betZ5hDwwYJf5clHIk07g1Qrg1JoBZj4tAOLkmxU89c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4YTNpZ2c5eTcydDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDa74klkh5jcCyQKPCJDSoMChOc6dOsfdWN3AI-jDgA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4YTNpZ2c5eTcydDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDa74klkh5jcCyQKPCJDSoMChOc6dOsfdWN3AI-jDgA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1wc3Rtc2o4a3ZpaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y4c5TexWKSefTuw9jQEQex6VGsbwwSyA9KWxoV-AvYw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1wc3Rtc2o4a3ZpaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Y4c5TexWKSefTuw9jQEQex6VGsbwwSyA9KWxoV-AvYw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 6,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11495264,
+          "name": "Mogilska 31",
+          "slug": "mogilska-31-ID11495264",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFmYnd6YTV0MWtydi1BUEwifQ.dE4wHlfVdfmEdpbtB7z_M6wYq2sGrwiZJ9OcV4PENHQ/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 17238,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 34,
+          "to": 101,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-01-13 13:27:12",
+        "createdAtFirst": "2026-01-13T13:27:04Z",
+        "investmentUnitsNumber": 86,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "TENTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 4,
+          "year": 2028,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "1, 2, 3 i 4-pokojowe mieszkania od34m2 do101m2 w cenie od 637225 zł od dewelopera Mogilska 31Eleganckie lobby, club lounge, siłownia, strefa fitness, patio do wypoczynkuPark Lotników Polskich (6 minut...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 67605084,
+      "developmentTitle": "Mogilska 31",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/mogilska-31-ID4zFaA",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Mogilska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+              "fullName": "Grzegórzki, Kraków, małopolskie",
+              "name": "Grzegórzki",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/grzegorzki/grzegorzki-polnoc",
+              "fullName": "Grzegórzki Północ, Grzegórzki, Kraków, małopolskie",
+              "name": "Grzegórzki Północ",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp2ZXdraGY1OWd6bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.v_AUPv_GW0VlZpXf6PDY_hiYad5PuHJjSyaCH-iy3S4/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1ancwdG85cWh0YjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ePYEZHEGxldLAgkd9Q-jLlZtpmND5nDyxXN73YXLn9I/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1ancwdG85cWh0YjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ePYEZHEGxldLAgkd9Q-jLlZtpmND5nDyxXN73YXLn9I/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5ZGxrNjU4NGp3cy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ZwGBpKCLlTANHB_AeZbUgY5xeDY5dtMQ7Yj7DSCpq14/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5ZGxrNjU4NGp3cy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ZwGBpKCLlTANHB_AeZbUgY5xeDY5dtMQ7Yj7DSCpq14/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 9,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 11495264,
+        "name": "Mogilska 31",
+        "slug": "mogilska-31-ID11495264",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFmYnd6YTV0MWtydi1BUEwifQ.dE4wHlfVdfmEdpbtB7z_M6wYq2sGrwiZJ9OcV4PENHQ/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 862680,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 19750,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 43.68,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "TWO",
+      "hidePrice": false,
+      "floorNumber": "THIRD",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:45:16",
+      "createdAtFirst": "2026-01-14T10:08:38Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:45:24+02:00",
+      "specialOffer": null,
+      "shortDescription": "2-pokojowe mieszkanie numer M113  na 3. piętrze w Inwestycji Mogilska 31 Dewelopera Mogilska 31Eleganckie lobby, club lounge, siłownia, strefa fitness, patio do wypoczynkuPark Lotników Polskich (6 min...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Weronika Bieniewicz",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9kZmd1anZzZjhxMS1BUEwifQ.mFv_4OQhk4xSVYKUa4MQDqM01XjtqdKG7ljgHvc44F0/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "GARDEN",
+          "weight": 45,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "TERRACE",
+          "weight": 40,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "STORAGE_ROOM",
+          "weight": 30,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/2-pokojowe-mieszkanie-43m2-balkon-bez-prowizji-ID4zFOM"
+    }
+  ],
+  "description": "<ul><li><strong>1, 2, 3 i 4-pokojowe</strong> mieszkania <strong>od&nbsp;34&nbsp;m2 do&nbsp;101&nbsp;m2</strong> w cenie <strong>od 637&nbsp;225 zł</strong> od dewelopera <strong>Mogilska 31</strong></li><li>Eleganckie lobby, club lounge, siłownia, strefa fitness, patio do wypoczynku</li><li>Park Lotników Polskich (6 minut rowerem)</li><li>Przystanki tramwajowe i autobusowe (5 minut spacerem)</li><li>Tauron Arena Kraków (7 minut rowerem)</li><li>Galeria Krakowska (10 minut rowerem)</li><li>Uniwersytet Ekonomiczny (12 minut spacerem)</li></ul><br/><strong>Mogilska 31 - poznaj inwestycję</strong><br/><p><strong>Mogilska 31</strong> łączy funkcje mieszkaniowe, usługowe i biurowe. Doskonała lokalizacja oraz wysoki standard gwarantują atrakcyjność inwestycyjną na lata.&nbsp;</p><p><strong>Mieszkania</strong></p><p>145 mieszkań – wszystkie wyróżniają się funkcjonalnymi układami, dużymi przeszkleniami i ponadstandardową wysokością. To przestrzenie, które oferują komfort, światło, wysoką jakość wykonania oraz piękne widoki na panoramę Krakowa.&nbsp;</p><p><strong>Udogodnienia</strong></p><p>Club lounge, miejsca parkingowe, eleganckie lobby, siłownia, strefa fitness, rowerownia oraz patio do wypoczynku. To rozwiązania, które warto mieć na co dzień.&nbsp;</p><p><strong>Lokalizacja&nbsp;</strong></p><p>Serce Krakowa, z doskonałym dostępem do komunikacji, usług i terenów zielonych. To adres, który zapewnia wygodę codziennych wyborów, komfort funkcjonowania i oszczędność czasu, które docenisz każdego dnia.&nbsp;</p><br/><strong>Mogilska 31 - lokalizacja</strong><br/><br/>Grzegórzki, Mogilska 31<br/><ul><li>1,8 km do centrum</li><li>5 min. spacerem do przystanku tramwajowego</li><li>8 min. spacerem do przystanku autobusowego</li><li>dojazd do centrum: 13 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek tramwajowy (306 m, 5 minut spacerem)</li><li>Przystanek autobusowy (511 m, 8 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:06.049Z"
+}

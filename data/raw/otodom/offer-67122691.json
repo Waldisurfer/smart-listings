@@ -1,0 +1,154 @@
+{
+  "id": 67122691,
+  "title": "3 pokoje | Wola | Kolska 9 | Wyposażone",
+  "slug": "3-pokoje-wola-kolska-9-wyposazone-ID4xDG3",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Kolska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola",
+          "fullName": "Wola, Warszawa, mazowieckie",
+          "name": "Wola",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola/powazki",
+          "fullName": "Powązki, Wola, Warszawa, mazowieckie",
+          "name": "Powązki",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxY2N5eHVlM213bTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TIMzAZuzuU6iGcrVQnMGBrvFRwlmwa8XIriAMEP44l8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxY2N5eHVlM213bTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.TIMzAZuzuU6iGcrVQnMGBrvFRwlmwa8XIriAMEP44l8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVwczNpM3hlZXFrdjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Cy3zMLLf9Niu_Ma7xtS35mNLIGD0ISHGTxZwdSQcLTc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVwczNpM3hlZXFrdjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Cy3zMLLf9Niu_Ma7xtS35mNLIGD0ISHGTxZwdSQcLTc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3eDNvcHp6MXM1aDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oWKhGXP4qjPISJJI_N4iRFC1b1LwXBoO3fXOeiQhZlg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3eDNvcHp6MXM1aDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oWKhGXP4qjPISJJI_N4iRFC1b1LwXBoO3fXOeiQhZlg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 12,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 6200,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 101.64,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 61,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:54:42",
+  "createdAtFirst": "2025-08-10T19:08:18Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:54:42+02:00",
+  "specialOffer": null,
+  "shortDescription": "English below.Wynajem bezpośrednio od właściciela.Agencje nieruchomości proszę o kontakt TYLKO I WYŁĄCZNIE w sytuacji posiadania poważnie zainteresowanego najemcy. Jeśli widzisz to ogłoszenie to znacz...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Martyna",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/3-pokoje-wola-kolska-9-wyposazone-ID4xDG3",
+  "description": "<p>English below.</p><p>Wynajem bezpośrednio od właściciela.</p><p>Agencje nieruchomości proszę o kontakt <u>TYLKO I WYŁĄCZNIE</u> w sytuacji posiadania poważnie zainteresowanego najemcy. Jeśli widzisz to ogłoszenie to znaczy że jest aktualne.</p><p>Widne, nowoczesne mieszkanie w pełni umeblowane i wyposażone o powierzchni 61 m2. znajduje się przy ul. Kolskiej 9. Przyjazne dla rodzin jak i dla osób zapracowanych, wygodne do pracy zdalnej.</p><p>W skład mieszkania wchodzi:</p><p>- widny i przestronny salon połączony z aneksem kuchennym i z wyjściem na loggię</p><p>- sypialnia nr 1 z pojemną szafą</p><p>- sypialnia nr 2 z szafą i biurkiem do pracy</p><p>- łazienka z prysznicem</p><p>- duża garderoba</p><p>Wszystkie pomieszczenia są wyposażone w meble, pojemne szafy i niezbędny sprzęt (lodówka, pralka, piekarnik z opcją mikrofali, płyta indukcyjna, okap, zmywarka, telewizor itp.).</p><p>Osiedle strzeżone, pokój dzienny i balkon wychodzi na zielone i ciche patio, plac zabaw dla dzieci jest na skraju osiedla.</p><p></p><p><b>LOKALIZACJA</b></p><p>Mieszkanie znajduje się na nowoczesnym i bezpiecznym osiedlu z własnym parkiem.</p><p>Miejsce bardzo dobrze skomunikowane:</p><p>6 minut pieszo do przystanku tramwajowego \"Niska\"</p><p>8 minut pieszo do CH Arkadia-Westfield i CH Klif</p><p>6 min dojazd tramwajem do stacji Dworzec Gdański</p><p>10 - 15 min dojazd tramwajem do Ronda Daszyńskiego - wieżowca Spire, Warszaw HUB, Skyliner, Stryker, Placu Zawiszy i wielu innych strategicznych puntów śródmieścia Warszawy.</p><p>Na osiedlu znajduje się sklep Żabka i Włoska Pizzeria , sklep Biedronka - 4 min. pieszo. Inne sklepy, siłownia, restauracje, przedszkola i szkoły - wszystko w zasięgu kilku minut.</p><p></p><p><b>CENA</b></p><p>Czynsz najmu: 6200 PLN</p><p>Opłaty administracyjne: 1000 PLN</p><p>Zaliczka na energię elektryczną: 300 PLN</p><p><b>Miesięczna kwota najmu: 7 500 PLN</b></p><p></p><p>Depozyt: 7500 PLN</p><p></p><p><b>DODATKOWE INFORMACJE</b></p><p>Miejsce postojowe w garażu podziemnym – w cenie najmu.</p><p>Dodatkowo płatny prąd według zużycia oraz nadwyżki wynikające z czynszu.</p><p>Najemca podpisuje umowę na usługi telekomunikacyjne we własnym zakresie.</p><p>Apartament gotowy do zamieszkania od 1 lipca.</p><p>Umowa na minimum 12 miesięcy.</p><p>Oferta dla osób nie palących i bez zwierząt.</p><p></p><p>Serdecznie polecam i zapraszam na prezentację.</p><p></p><p>English</p><p>Rent directly from the owner without additional commission.</p><p>The apartament of 61 m2 is located on 2nd out of 4 floors. There are: two bedrooms, living room with kitchen, bathroom and wardrobe. From living room is an exit to the nice loggia.</p><p>Quiet and peaceful surroundings, despite the proximity to the city center and shopping areas.</p><p>The apartment is finished to a modern design and high standard, high quality wooden floor, two big comforlable beds and a lot of space in wardrobes, a fully equipped kitchen and bathroom with shower.</p><p>The apartment includes a parking places in the underground garage.</p><p></p><p>Very well-connected:</p><p>6-minute walk to the \"Niska\" tram stop</p><p>8-minute walk to the Arkadia-Westfield and Klif shopping centers</p><p>6-minute tram ride to the Dworzec Gdański station</p><p>10-15-minute tram ride to Rondo Daszyńskiego - Spire skyscraper, Warszawa HUB, Skyliner, Stryker, Zawiszy Square, and many other strategic points in downtown of Warsaw.</p><p>PRICE</p><p>Rent: 6200 zł</p><p>Administrative fees: 1000 zł</p><p>Deposit 7500 zł.</p><p>The total price is 7200 zloty /month including parking place.</p><p>Additionally paid only electricity (approximately PLN 100/person/month).</p><p>We do not accept pets.</p><p>The apatrment is ready for rent from now.</p><p>Contract for a minimum of 12 months</p><p></p><p>Prezentowana oferta ma charakter informacyjny i nie stanowi oferty handlowej w rozumieniu art. 66 Kodeksu Cywilnego</p>",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:08:05.391Z"
+}

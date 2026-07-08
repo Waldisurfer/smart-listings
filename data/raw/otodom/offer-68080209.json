@@ -1,0 +1,168 @@
+{
+  "id": 68080209,
+  "title": "Stylowy apartament w centrum Krakowa ul. Pędzichów/Długa 90m2/ 4pokoje",
+  "slug": "stylowy-apartament-w-centrum-krakowa-ul-pedzichow-dluga-90m2-4pokoje-ID4BELT",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "pędzichów 13",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto",
+          "fullName": "Stare Miasto, Kraków, małopolskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto/stare-miasto",
+          "fullName": "Stare Miasto, Stare Miasto, Kraków, małopolskie",
+          "name": "Stare Miasto",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU2azh2NXVtZ2JpcTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0O-ztn7x1xtqVNU9h0vY_U5ZQHEty432PeVakqSZ4mY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU2azh2NXVtZ2JpcTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0O-ztn7x1xtqVNU9h0vY_U5ZQHEty432PeVakqSZ4mY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw5a3hrY3gxY2w2ODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q_WLsiCCu-uyG65b_6OikulHqkFonHqUUss3hJKGF7Q/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw5a3hrY3gxY2w2ODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q_WLsiCCu-uyG65b_6OikulHqkFonHqUUss3hJKGF7Q/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5uNm9waGZwejVsOTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.p-kB2Ix5lmFd-bERBdW8KF8l0xMvW69Mzeu0_a3SSes/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5uNm9waGZwejVsOTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.p-kB2Ix5lmFd-bERBdW8KF8l0xMvW69Mzeu0_a3SSes/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 16,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 9124066,
+    "name": "Ewelina Dumała Smart Estate",
+    "slug": "ewelina-dumala-smart-estate-ID9124066",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx1eGRmY3ByNXJ1ZzEtQVBMIn0.Q60Vs17OyuDjFRcdRQicS5sJ8wxfUPSmmVtG0u0kqRo/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 4600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 51.11,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 90,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:15:59",
+  "createdAtFirst": "2026-06-05T22:43:32Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:15:59+02:00",
+  "specialOffer": null,
+  "shortDescription": "Biuro Nieruchomości Smart Estate ma przyjemność zaprezentować luksusowy dwupoziomowy apartament urządzony z myślą o najbardziej wymagających najemcach. Nieruchomość znajduje się w samym centrum Krakow...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Ewelina Dumała",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TWO_LEVEL",
+      "weight": 60,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/stylowy-apartament-w-centrum-krakowa-ul-pedzichow-dluga-90m2-4pokoje-ID4BELT",
+  "description": "<p>Biuro Nieruchomości Smart Estate ma przyjemność zaprezentować luksusowy dwupoziomowy apartament urządzony z myślą o najbardziej wymagających najemcach. Nieruchomość znajduje się w samym centrum Krakowa ul. Pędzichów/Długa dzielnica Stare Miasto, III piętro zabytkowej pięknej kamienicy.</p><p>Mieszkanie dwupoziomowe 90 m2 składa się z :</p><p>I poziom:</p><p>- kuchnia otwarta na duży salon</p><p>- gabinet/ biuro</p><p>- pokój</p><p>-łazienka,</p><p>-przedpokój</p><p>II poziom</p><p>- część sypialniana</p><p>- łazienka</p><p>Kuchnia; zabudowa kuchenna, duża lodówko-zamrażarka, dodatkowa zamrażarka, płyta indukcyjna, okap, piekarnik z funkcją mikrofali, zmywarka, ciśnieniowy ekspres do kawy, wyposażenie kuchenne ( talerze, kubki, sztućce, garnki) stół/wyspa, dwa hokery, podwieszany TV, Amplituner+streamery HiFi, Amplituner HiFi+CD, stolik kawowy, duża kanapa,</p><p>Gabinet; biurko, fotel, regał,</p><p>Pokój; 2 fotele z funkcja relaks, szafka, stolik, lampa,</p><p>łazienka: prysznic, pralko-suszarka,suszarka do włosów, żelazko, deska do prasowania lustro umywalka z szafką w zabudowie, wc,</p><p>Na piętrze duże łóżko małżeńskie, szafa w zabudowie, półki w zabudowie i dodatkowa łazienka z WC i bidetem,</p><p>Przedpokój; duża szafa w zabudowie,lustro, szafka na buty, wieszak</p><p>Wnętrze zachwyca nienaganną estetyką – stan faktyczny w pełni odzwierciedla wysoki standard widoczny na zdjęciach. Apartament jest całkowicie umeblowany oraz wyposażony w najwyższej klasy sprzęty AGD/RTV. To przestrzeń, która nie wymaga żadnych nakładów ani przygotowań – jest w pełni gotowa, by stać się Państwa nowym domem od zaraz.</p><p></p><p>W bezpośrednim sąsiedztwie komunikacja miejska: linie autobusowe i tramwajowe, dojazd do centrum w kilka min. W pobliżu wiele punktów handlowo- usługowych: Plac targowy Kleparz, Lewiatan, żabka, apteka, Lidl, Biedronka. W pobliżu uczelnie: Politechnika, Uniwersytet Ekonomiczny, Uniwersytet Pedagogiczny, AGH, Uniwersytet Rolniczy, Uniwersytet Jagieloński.</p><p></p><p>Do Galeri Krakowskiej 800m pieszo ok 10 min</p><p>Do Rynku Głównego 1 km pieszo ok 11 min</p><p></p><p>Opłaty: 4600 zł najem + czynsz administracyjny 500 zł + prąd</p><p></p><p>Przestrzeń, prestiż i absolutny komfort dostępny od zaraz!</p><p>Gorąco polecam i zapraszam do kontaktu!</p><p>Ewelina Dumała</p><p>SMART ESTATE</p>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:15.118Z"
+}

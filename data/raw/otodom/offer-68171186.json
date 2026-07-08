@@ -1,0 +1,162 @@
+{
+  "id": 68171186,
+  "title": "Apartamenty Ludwinów - 2 pokoje - Garaż",
+  "slug": "apartamenty-ludwinow-2-pokoje-garaz-ID4C2rg",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/debniki",
+          "fullName": "Dębniki, Kraków, małopolskie",
+          "name": "Dębniki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/debniki/ludwinow",
+          "fullName": "Ludwinów, Dębniki, Kraków, małopolskie",
+          "name": "Ludwinów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBvNGQ2bno4anh1YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7U2AI7Zuzue8FfiDw5jzTLeQHkvgBSwpZjv8t94Uxvs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBvNGQ2bno4anh1YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7U2AI7Zuzue8FfiDw5jzTLeQHkvgBSwpZjv8t94Uxvs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZyYnV1YzJodmZoNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vT07CS2HitQCg_0pyww_Naqk8J_EYOHmlJb5-2YdXEI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZyYnV1YzJodmZoNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vT07CS2HitQCg_0pyww_Naqk8J_EYOHmlJb5-2YdXEI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdmZXVkeWh2NTY5bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.SGIrslCZGtQh2k0Acm7kKp6p7-wKNhlKVXFjTv7SiWo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdmZXVkeWh2NTY5bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.SGIrslCZGtQh2k0Acm7kKp6p7-wKNhlKVXFjTv7SiWo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:virgo",
+  "agency": {
+    "id": 3838207,
+    "name": "Agnieszka Zinkiewicz-Blajda AZB NIERUCHOMOSCI",
+    "slug": "agnieszka-zinkiewicz-blajda-azb-nieruchomosci-ID3838207",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": false,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 4500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 62.5,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 72,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 20:04:37",
+  "createdAtFirst": "2026-07-03T20:04:28Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "| APARTAMENTY LUDWINÓW - BASEN , PLACE ZABAW , SIŁOWNIA2 POKOJE - 72 m2- GARAŻ [ ENG BELOW ] Do wynajęcia luksusowy apartamentzlokalizowany przy ulicy Ludwinowskiej 11 w pięknym i nowoczesnym kompleks...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Agnieszka Zinkiewicz-Blajda",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1rMzdqbGFycjduNi1BUEwifQ.Vo2KlRoB5dhnLemNjreoeGEnG4s8D2BJ3gqdUSyD_C8/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/apartamenty-ludwinow-2-pokoje-garaz-ID4C2rg",
+  "description": "| <strong>APARTAMENTY LUDWINÓW - BASEN , PLACE ZABAW , SIŁOWNIA&nbsp;<br/><br/>2 POKOJE - 72 m2&nbsp;- GARAŻ [ ENG BELOW ]</strong><strong> &nbsp;</strong><br/>Do wynajęcia luksusowy apartament&nbsp;zlokalizowany przy ulicy Ludwinowskiej 11 w pięknym i nowoczesnym kompleksie &quot;Apartamenty Ludwinów&quot; Budynek strzeżony , monitorowany z recepcją i całodobową ochroną , dwoma placami zabaw dla dzieci , wewnętrznym parkiem linowym , oświetlonym boiskiem do koszykówki/siatkówki i drugim &nbsp;osobnym do piłki nożnej . W budynku znajduje się klub Lemon Fitness z którego mieszkańcy korzystają gratis ( basen, sauna, jacuzzi , siłownia )<br/>Bardzo dobra lokalizacja&nbsp; gdyż kompleks znajduje się przy samych Bulwarach Wiślanych , bardzo blisko w odległości spacerowej Wawel ( 1000 m ) , zabytkowa dzielnica Kazimierz ( 1000 m ) , Stare Miasto ( 1300 m ) , największe centrum gastronomiczno-rozrywkowe &quot;Hotel Forum&quot; ( 200 m ) , skałki Twardowskiego z nowym kąpieliskiem &quot;Zakrzówek&quot; ( 1500 m ) oraz mnóstwo tras rowerowo-spacerowych.&nbsp;<br/><br/>Apartament mieści się na 3 pietrze ( jest winda ) , został ciepło zaprojektowany i wykończony zgodnie z projektem architekta w wysokim standardzie ( drewniane podłogi , w sypialni wykładzina dywanowa , baterie Hansgrohe , oświetlenia ledowe ) &nbsp;. Ma 72 m2 i składa się z hallu z szafami w zabudowie , przestronnego salonu z panoramicznymi dużymi oknami oraz wyjściem na taras , jasnej kuchni z oknem , &nbsp;sypialni z garderobą oraz prywatna łazienką w której znajduje się wanna i prysznic oraz osobnej toalety z pralnią. &nbsp;Jest kompletne umeblowany i wyposażony w wysokiej jakości sprzęt AGD , został ślicznie zaprojektowany przez znaną krakowską pracownie architektoniczną i przystosowany do wygodnego życia codziennego . Do mieszkania istnieje możliwość wynajęcia miejsca postojowego w garażu podziemnym w cenie 400 PLN.&nbsp;<br/><br/>Cena mieszkania to : 4500 &nbsp;PLN + 500 miejsce postojowe + 920 czynsz administracyjny + prąd<br/><br/>Zapraszam na prezentacje :&nbsp;<strong>Agnieszka Zinkiewicz-Blajda&nbsp; AZB NIERUCHOMOŚCI tel :+48 604 153 636</strong><br/>[ENGLISH]<br/>A luxurious apartment for rent located at 11 Ludwinowska Street in the beautiful and modern &quot;Apartamenty Ludwinów&quot; complex. The building is secure, monitored, with a reception and 24-hour security, two children&#39;s playgrounds, an indoor rope park, a floodlit basketball/volleyball court, and a separate football pitch. The building houses the Lemon Fitness club, which residents can use free of charge (swimming pool, sauna, jacuzzi, and gym). The location is excellent, as the complex is located right on the Vistula Boulevards, within walking distance of Wawel Castle (1000 m), the historic Kazimierz district (1000 m), the Old Town (1300 m), the largest dining and entertainment center &quot;Hotel Forum&quot; (200 m), Twardowski Rocks with the new &quot;Zakrzówek&quot; swimming pool (1500 m), and numerous cycling and walking trails.<br/><br/>The apartment is located on the third floor (there&#39;s an elevator), has been warmly designed and finished according to the architect&#39;s design to a high standard (wooden floors, carpet in the bedroom, Hansgrohe bathroom taps, LED lighting).&nbsp;It measures 72 sq m and comprises a hall with built-in wardrobes, a spacious living room with large panoramic windows and access to the terrace, a bright kitchen with a window, a bedroom with a walk-in closet, a private bathroom with a bathtub and shower, and a separate toilet with laundry facilities. It is fully furnished and equipped with high-quality appliances. It was beautifully designed by a renowned Krakow architectural studio and adapted for comfortable everyday living. It is possible to rent a parking space in the underground garage for PLN 400.<br/><br/>Apartment price: PLN 4,500 + approximately PLN 920 for administrative fees + electricity/internet/garage<br/><br/>I invite you to viewings: <strong>Maciej Blajda, AZB NIERUCHOMOŚCI, phone: +48 881 343 636</strong>::LINK DO STRONY | ::KONTAKT DO AGENTA | Agnieszka Zinkiewicz-Blajda | 604 153 636 | ::DANE BIURA | AZB NIERUCHOMOŚCI | Przedwiośnie  2c/LU1 | 30-502 Kraków | .azb-nieruchomosci.plPośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Agnieszka Zinkiewicz-Blajda (licencja nr: 7458) |",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:27.690Z"
+}

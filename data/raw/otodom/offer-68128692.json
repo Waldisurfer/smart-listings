@@ -1,0 +1,159 @@
+{
+  "id": 68128692,
+  "title": "Mieszkanie 3-pokojowe 56,8m2 - 6 min od metra - Sprzedaż bezpośrednia!",
+  "slug": "mieszkanie-3-pokojowe-56-8m2-6-min-od-metra-sprzedaz-bezposrednia-ID4BRnS",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "al. Aleja Wilanowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/ksawerow",
+          "fullName": "Ksawerów, Mokotów, Warszawa, mazowieckie",
+          "name": "Ksawerów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZlZnpxM2F4dXUwYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wXckhcK43yvwuRv_hrjqFyXt6YzAb2b22wzQMhP7YyI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZlZnpxM2F4dXUwYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wXckhcK43yvwuRv_hrjqFyXt6YzAb2b22wzQMhP7YyI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdsMG96bmF5enY2YjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JoB7cyuV1W6Sv_S7UzswQUVprAKU2dl6Qxc_UuHfyL0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdsMG96bmF5enY2YjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JoB7cyuV1W6Sv_S7UzswQUVprAKU2dl6Qxc_UuHfyL0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndpcWJrZnEzeTRxOTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MEJ3qc1PPICP9jG-z5VmjAbc2ZOYdUIZu5SWCyo8Ezw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndpcWJrZnEzeTRxOTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MEJ3qc1PPICP9jG-z5VmjAbc2ZOYdUIZu5SWCyo8Ezw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 910000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1200,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 16021.13,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 56.8,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "ABOVE_TENTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:31:19",
+  "createdAtFirst": "2026-06-21T21:27:44Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:31:20+02:00",
+  "specialOffer": null,
+  "shortDescription": "3-pokojowe mieszkanie o powierzchni 56,8 m2, położone przy Aleja Wilanowska na warszawskim Mokotowie — zaledwie ok. 6 minut spacerem od stacji Metro Wilanowska i z parkingiem pod blokiem.Mieszkanie sk...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Edyta",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-3-pokojowe-56-8m2-6-min-od-metra-sprzedaz-bezposrednia-ID4BRnS",
+  "description": "<p>3-pokojowe mieszkanie o powierzchni 56,8 m2, położone przy Aleja Wilanowska na warszawskim Mokotowie — zaledwie ok. 6 minut spacerem od stacji Metro Wilanowska i z parkingiem pod blokiem.</p><p><b>Mieszkanie składa się z:</b></p><ul><li>3 niezależnych pokoi (17,7m2 z wbudowaną 3 skrzydłową szafą z lustrami, 9,8m2, 9m2)</li><li>oddzielnej, widnej kuchni (7,8m2)</li><li>łazienki  (2,9m2)</li><li>osobnego WC (1,2m2)</li><li>funkcjonalnego przedpokoju z dwoma  szafami wnękowymi (7,4m2)</li></ul><p>Dodatkowo:</p><ul><li>balkon ok. 3,8 m²</li><li>piwnica 0,7 m²</li><li>2 schowki na piętrze</li></ul><p><b>Budynek zadbany i dobrze zarządzany</b></p><ul><li>13 piętro z 15</li><li>dwie windy (osobowa i towarowa) po modernizacji</li><li>budynek z 1981 roku po termomodernizacji</li><li>odnowiona elewacja i części wspólne</li><li>Czynsz administracyjny: ok. 1200 zł</li></ul><p><b>W najbliższym otoczeniu:</b></p><ul><li>metro, tramwaje i autobusy – szybki dojazd do centrum</li><li>sklepy, restauracje, punkty usługowe</li><li>Galeria Mokotów</li><li>szkoły, przedszkola i tereny zielone</li><li>zagłębie biurowe Mokotowa</li></ul><p>To jedna z najbardziej pożądanych lokalizacji zarówno do zamieszkania, jak i pod wynajem.</p><p><b>Idealne dla:</b></p><ul><li> osób, które chcą urządzić mieszkanie według własnego standardu</li><li>rodziny lub pary potrzebującej dodatkowego pokoju</li><li>inwestora szukającego nieruchomości z potencjałem wzrostu wartości</li><li>osób szukających mieszkania w świetnej lokalizacji blisko metra</li></ul><p><b>Stan prawny</b></p><ul><li>pełna własność z księgą wieczystą</li><li>uregulowane grunty</li><li>możliwość zakupu na kredyt</li></ul><p>Mieszkanie na sprzedaż bez pośredników !!</p><p><b>Do zamieszkania od zaraz!</b></p><p>Do obejrzenia po umówieniu spotkania. Zapraszam do kontaktu</p><p></p>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:38.598Z"
+}

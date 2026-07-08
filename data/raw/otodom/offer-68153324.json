@@ -1,0 +1,178 @@
+{
+  "id": 68153324,
+  "title": "Duże studio | Balkon | Pet friendly | Mozliwe bez kaucji | Internet",
+  "slug": "duze-studio-balkon-pet-friendly-mozliwe-bez-kaucji-internet-ID4BXNa",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "bokserska 54",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/sluzewiec",
+          "fullName": "Służewiec, Mokotów, Warszawa, mazowieckie",
+          "name": "Służewiec",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5lb3RjNDAybmszMDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y4c9kQIzHsOlDZwUhVW0YRl9qcA7NRg4Yxs58RiHSK0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5lb3RjNDAybmszMDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y4c9kQIzHsOlDZwUhVW0YRl9qcA7NRg4Yxs58RiHSK0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVja2dhaWpqbmIzcjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oU9ne6d4aa-UU83Yam0Sj-aGtuKVef-bsitZQlc1Fpk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVja2dhaWpqbmIzcjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oU9ne6d4aa-UU83Yam0Sj-aGtuKVef-bsitZQlc1Fpk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ2Zmp4dXU2c2dtZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.puWXzmEx_cw_-iOTi44TLBF-CLJnEH8aseDfTgwINKM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ2Zmp4dXU2c2dtZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.puWXzmEx_cw_-iOTi44TLBF-CLJnEH8aseDfTgwINKM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 16,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 10307050,
+    "name": "Heimstaden",
+    "slug": "heimstaden-ID10307050",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZtbzh1OXVkZzk1bDMtQVBMIn0.c407bzHssga6GaNyWwJRRA1kw7nyhohwHSi7dAVZqeI/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3978,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 338,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 123.62,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 32.18,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "EIGHTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:00:08",
+  "createdAtFirst": "2026-06-29T12:46:14Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T22:00:08+02:00",
+  "specialOffer": null,
+  "shortDescription": "Świetna okazja – Twoje idealne mieszkanie czeka! Tylko teraz możliwość najmu bez kaucji (przy pozytywnym wyniku pełnej weryfikacji).English belowOferujemy przestronne, jasne mieszkanie typu Studio o p...",
+  "showPremiumTile": true,
+  "organisationAssignedMember": {
+    "firstName": "Magdalena",
+    "lastName": "Czechowska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB5M2N3NTlwNzM4YTEtQVBMIn0.q3OK6zFp-jDRVU70ImWDYasb2WWH6fawVR0d7diHI6Y/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Monika Sołtysińska",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/duze-studio-balkon-pet-friendly-mozliwe-bez-kaucji-internet-ID4BXNa",
+  "description": "<p><b>Świetna okazja – Twoje idealne mieszkanie czeka! Tylko teraz możliwość najmu bez kaucji (przy pozytywnym wyniku pełnej weryfikacji).</b></p><p>English below</p><p>Oferujemy przestronne, jasne mieszkanie typu Studio o powierzchni 32.2 m², położone na ósmym piętrze nowoczesnej inwestycji z 2022 roku z windą. Mieszkanie znajduje się na atrakcyjnym osiedlu z bogatą infrastrukturą, obejmującą plac zabaw, siłownię plenerową oraz zadbane tereny zielone.</p><p>W pobliżu znajdują się wszystkie niezbędne punkty usługowe: Bierdronka, Rossman, placówki edukacyjne, restauracje oraz miejsca idealne do spacerów i aktywności sportowych. Ponadto, w odległości kilkunastu minut spacerem znajduje się Galeria Mokotów. </p><p><b>UKŁAD POMIESZCZEŃ:</b></p><ul><li>Salon: sofa, nowoczesna szafka RTV, stół z krzesłami</li><li>Aneks kuchenny: lodówka z zamrażarką, zmywarka, piekarnik, płyta indukcyjna, okap</li><li>Oddzielona sypialnia: łóżko z materacem 160x200 cm, szafki nocne</li><li>Szafy w zabudowie</li><li>Łazienka: wanna, umywalka z szafką, pralka</li><li>Przedpokój: zabudowana szafa</li><li>Balkon</li></ul><p>*Przedstawione zdjęcia są poglądowe.</p><p><b>OPŁATY:</b></p><ul><li>Czynsz najmu: 3978 PLN/miesięcznie</li><li>Opłata eksploatacyjna: 338 PLN/miesięcznie</li></ul><p>Razem: 4316 PLN/miesięcznie</p><p><b>Dodatkowo:</b></p><ul><li>Ubezpieczenie najmu: od 48 PLN/miesięcznie</li><li>Media (woda, prąd, ogrzewanie, śmieci) - wg zużycia na podstawie liczników</li><li>Ubezpieczenie OC Najemcy - 48 PLN/rok (płatne jednorazowo)</li><li>Kaucja: równowartość miesięcznego czynszu + średniomiesięczne zużycie mediów (przy pozytywnym wyniku pełnej weryfikacji)</li></ul><p>INTERNET w cenie najmu</p><p>Oferta przy wynajmie na 12 miesięcy.</p><p>Możliwość wynajęcia miejsca postojowego w garażu podziemnym za 250 zł/miesiąc.</p><p><b>ZALETY NAJMU OD HEIMSTADEN:</b></p><p>Heimstaden to wiodąca europejska firma zajmująca się nieruchomościami mieszkaniowymi. W Polsce działamy od 2022 roku, oferując przyjazne mieszkania, w których każdy klient może czuć się swobodnie i pewnie.</p><p>•    Wynajem bezpośrednio od właściciela – bez prowizji   </p><p>•    Bezpieczna i stabilna umowa z możliwością przedłużenia</p><p>•    Przejrzyste zasady najmu</p><p>•    Możliwość zameldowania na podstawie umowy najmu</p><p>•    Zwierzęta mile widziane</p><p>•    Internet w cenie najmu</p><p>SZCZEGÓŁY ŚWIADECTWA CHARAKTERYSTYKI ENERGETYCZNEJ:  </p><p>Certyfikaty energetyczne </p><p>•    Wskaźnik rocznego zapotrzebowania na energię użytkową EU = 46,48 kWh/(m2-rok) </p><p>•    Wskaźnik rocznego zapotrzebowania na energię końcową EK = 73,52 kWh/(m2-rok) </p><p>•    Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP = 70,38 kWh/(m2-rok) </p><p>•    Jednostkowa wielkość emisji CO2. ECO2 = 0,03 t CO2/(m2-rok) </p><p>•    Udział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową Uoze = 0,00 %</p><p>-----------------------------------------------------------------------</p><p>We offer a spacious, bright Studio apartment with an area of 32.2 m², located on the eighth floor of a modern development from 2022 with an elevator. The apartment is situated in an attractive residential estate with rich infrastructure, including a playground, an outdoor gym, and well-maintained green areas.</p><p>Nearby, you will find all necessary service points: Biedronka, Rossmann, educational institutions, restaurants, and places ideal for walks and sports activities. Furthermore, Galeria Mokotów is just a dozen or so minutes&#39; walk away. </p><p>ROOM LAYOUT:</p><ul><li>Living room: sofa, modern TV stand, table with chairs</li><li>Kitchenette: fridge-freezer, dishwasher, oven, induction hob, extractor hood</li><li>Separate bedroom: bed with a 160x200 cm mattress, bedside tables</li><li>Built-in wardrobes</li><li>Bathroom: bathtub, sink with cabinet, washing machine</li><li>Hallway: built-in wardrobe</li><li>Balcony</li></ul><p>*The photos shown are for illustrative purposes only. </p><p>FEES:</p><ul><li>Rent: 3978 PLN/month</li><li>Service charge: 338 PLN/month</li></ul><p>Total: 4316 PLN/month</p><p>Additionally:</p><ul><li>Rent insurance: from 48 PLN/month</li><li>Utilities (water, electricity, heating, waste disposal) - according to consumption based on meters</li><li>Tenant&#39;s liability insurance - 48 PLN/year (one-off payment)</li><li>Deposit: equivalent to one month&#39;s rent + average monthly utility consumption (subject to a positive full verification result)</li></ul><p>INTERNET included in the rent</p><p>Offer for a 12-month lease.</p><p>Possibility to rent a parking space in the underground garage for 250 PLN/month.</p><p>ADVANTAGES OF RENTING FROM HEIMSTADEN:</p><p>Heimstaden is a leading European residential real estate company. We have been operating in Poland since 2022, offering friendly apartments where every customer can feel comfortable and secure.</p><p>•    Rent directly from the owner – no commission   </p><p>•    Secure and stable contract with the possibility of extension</p><p>•    Transparent rental rules</p><p>•    Possibility of registration of residence based on the lease agreement</p><p>•    Pets welcome</p><p>•    Internet included in the rent</p><p>ENERGY PERFORMANCE CERTIFICATE DETAILS:  </p><p>Energy certificates </p><p>•    Annual useful energy demand indicator EU = 46.48 kWh/(m2-year) </p><p>•    Annual final energy demand indicator EK = 73.52 kWh/(m2-year) </p><p>•    Annual non-renewable primary energy demand indicator EP = 70.38 kWh/(m2-year) </p><p>•    Specific CO2 emission rate. ECO2 = 0.03 t CO2/(m2-year) </p><p>•    Share of renewable energy sources in the annual final energy demand Uoze = 0.00 %</p>",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:08:02.003Z"
+}

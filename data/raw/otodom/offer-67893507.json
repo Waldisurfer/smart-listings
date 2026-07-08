@@ -1,0 +1,178 @@
+{
+  "id": 67893507,
+  "title": "2 pokoje/ osobna kuchnia/ balkon/ wysoki standard",
+  "slug": "2-pokoje-osobna-kuchnia-balkon-wysoki-standard-ID4AScz",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Dobrego Pasterza",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony",
+          "fullName": "Prądnik Czerwony, Kraków, małopolskie",
+          "name": "Prądnik Czerwony",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony/pradnik-czerwony",
+          "fullName": "Prądnik Czerwony, Prądnik Czerwony, Kraków, małopolskie",
+          "name": "Prądnik Czerwony",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZmcGNxNjJuMnU0bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ivkb-25SyxHbhQ4rSzyIsNY6tVFIt5dKNnJ2XBVl_Ig/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZmcGNxNjJuMnU0bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ivkb-25SyxHbhQ4rSzyIsNY6tVFIt5dKNnJ2XBVl_Ig/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InllM20yaW16NnpudjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PhghE_c-u53DmFsg5Vbq3JX7zQpgDkuJ0_e2-fzV4GU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InllM20yaW16NnpudjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PhghE_c-u53DmFsg5Vbq3JX7zQpgDkuJ0_e2-fzV4GU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im83aW5kODB2ZzZjaDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kdTMm4KA_PpCiAPAr6FED2R0SDT43BFsrqOy6rtKXiw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im83aW5kODB2ZzZjaDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kdTMm4KA_PpCiAPAr6FED2R0SDT43BFsrqOy6rtKXiw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 10,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 10855968,
+    "name": "KG INVESTMENT",
+    "slug": "kg-investment-ID10855968",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImEzaTNqOXRxbjY4cS1BUEwifQ.g4cC3b8rYuQUiXoT2n6LgfMzZKsNvSXxW7jKVGh1pIA/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 61.62,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 56.8,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIFTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:46:52",
+  "createdAtFirst": "2026-04-10T13:05:47Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T22:46:52+02:00",
+  "specialOffer": null,
+  "shortDescription": "Na wynajem komfortowe, w pełni wyposażone mieszkanie 2-pokojowe o powierzchni 56,8 m² z dużym balkonem, położone przy ul. Dobrego Pasterza w Krakowie (Prądnik Czerwony).\nKwota wynajmu 3500 zł.Lokal zn...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Biuro Ii",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlsaXZpcm1pYWMydDEtQVBMIn0.0JOW28oVlESuoeJ2XI24DopFznPiaUzQeZZx9EcohYE/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/2-pokoje-osobna-kuchnia-balkon-wysoki-standard-ID4AScz",
+  "description": "<p>Na wynajem komfortowe, w pełni wyposażone mieszkanie 2-pokojowe o powierzchni 56,8 m² z dużym balkonem, położone przy ul. Dobrego Pasterza w Krakowie (Prądnik Czerwony).</p><br/>\n<p>Kwota wynajmu 3500 zł.<br><br>Lokal znajduje się w nowoczesnym budynku z 2020 roku, w bardzo dobrze skomunikowanej części miasta, w pobliżu licznych biurowców oraz centrów handlowych.<br><br>Budynek z 2020 roku <br>wyposażony w:<br> • windę<br> • wózkownię / rowerownię<br> • lokale usługowe na parterze<br><br>Mieszkanie<br> • powierzchnia: 56,8 m²<br> • balkon<br> • piętro: 5 z 8<br><br>Układ pomieszczeń:<br> • Pokój 1<br> • Pokój 2 z wyjściem na duży balkon<br> • łazienka z prysznicem<br>• Osobna kuchnia <br>• Przedpokój<br><br>Mieszkanie jest w pełni umeblowane i wyposażone.<br><br>Lokalizacja<br><br>Mieszkanie znajduje się w sąsiedztwie Quattro Business Park, Vinci i Capgemini, co czyni je świetną propozycją dla osób pracujących w tej części Krakowa. W najbliższej okolicy znajdują się również Galeria Serenada, Galeria Krokus, Park Wodny, Multikino, Auchan oraz Biedronka.<br><br>W pobliżu przystanki komunikacji miejskiej:<br>• Słoneckiego<br>• Rondo Barei<br>• Bora-Komorowskiego<br>Zapewniają szybki dojazd do centrum miasta i innych dzielnic.</p><br/>\n<p>Opłaty<br> • 3500 zł - czynsz najmu<br> • ok. 800 zł - opłaty administracyjne (ogrzewanie, woda ciepła i zimna, śmieci, utrzymanie części wspólnych, fundusz remontowy)<br> • prąd według zużycia<br><br>Dodatkowo:<br> • miejsce postojowe w garażu podziemnym - 300 zł/miesiąc<br> • kaucja zwrotna - 3500 zl <br><br>Dodatkowe informacje<br> • mieszkanie dostępne od zaraz<br> • ogrzewanie i ciepła woda z sieci miejskiej<br> • zwierzęta do uzgodnienia<br> • idealne dla pary lub osób pracujących<br>Zapraszam do kontaktu. </p>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:59.254Z"
+}

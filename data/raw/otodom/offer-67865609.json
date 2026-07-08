@@ -1,0 +1,348 @@
+{
+  "id": 67865609,
+  "title": "4-pokojowe mieszkanie 128m2 + taras",
+  "slug": "4-pokojowe-mieszkanie-128m2-taras-ID4AKVB",
+  "estate": "FLAT",
+  "development": {
+    "id": 67865604,
+    "title": "Flatta Wilanów",
+    "slug": "flatta-wilanow-ID4AKVv",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "ul. Flatta",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Warszawa",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "mazowieckie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "mazowieckie",
+            "fullName": "mazowieckie",
+            "name": "mazowieckie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa",
+            "fullName": "Warszawa, mazowieckie",
+            "name": "Warszawa",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa/wilanow",
+            "fullName": "Wilanów, Warszawa, mazowieckie",
+            "name": "Wilanów",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa/wilanow/blonia-wilanowskie",
+            "fullName": "Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",
+            "name": "Błonia Wilanowskie",
+            "locationLevel": "residential",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd2eG9xbDVzdmw0ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0l2Gpio4ZMm6EQUGTJldAsq43_oZ7-oeR0eKWsvF9nE/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd2eG9xbDVzdmw0ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0l2Gpio4ZMm6EQUGTJldAsq43_oZ7-oeR0eKWsvF9nE/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJzenh0anBxN2JqZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Kg2JUdwsrzAMgSXBwcR8oxeyc7DhGLteq3iexyRR45M/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJzenh0anBxN2JqZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Kg2JUdwsrzAMgSXBwcR8oxeyc7DhGLteq3iexyRR45M/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZlN214bXFpMDcxNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.-uT0OGCyBAysYJcsL7YveISyIYsLHtvHBQHtispQyTg/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZlN214bXFpMDcxNy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.-uT0OGCyBAysYJcsL7YveISyIYsLHtvHBQHtispQyTg/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6dWxtbWRmeWpwODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PYUgv4WH3yEn-CEI36qG0l7HT1KRr-fyCKAeDgmmOF4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6dWxtbWRmeWpwODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PYUgv4WH3yEn-CEI36qG0l7HT1KRr-fyCKAeDgmmOF4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZzMmE0aWYwYTVlbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lTt5MU1WAVOiTVyhZKmNnBHDvRqNBBCt-wWMXP2kV_E/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZzMmE0aWYwYTVlbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lTt5MU1WAVOiTVyhZKmNnBHDvRqNBBCt-wWMXP2kV_E/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE2d2lvNGdkeG00ZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xEJDwX23A6JXY08sG1jpSQPijSwQ3kQ5f0NqKgRJA-g/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE2d2lvNGdkeG00ZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xEJDwX23A6JXY08sG1jpSQPijSwQ3kQ5f0NqKgRJA-g/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhndXR2czhmdDhzZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gDgXoGVvzTG1P_lv_SuxrBQMBI2MznEBCzvwExbKTN4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhndXR2czhmdDhzZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gDgXoGVvzTG1P_lv_SuxrBQMBI2MznEBCzvwExbKTN4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBkNjlzZTk4bHd6aTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cQes3ucPpZhO53oouP8gmWObdlRXvRt31s1zx3wDwCs/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBkNjlzZTk4bHd6aTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cQes3ucPpZhO53oouP8gmWObdlRXvRt31s1zx3wDwCs/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 8,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 10554117,
+      "name": "CORDIA",
+      "slug": "cordia-ID10554117",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFiNXY4aG41dWF1azEtQVBMIn0.HolPUQe56UGQ_VAF7rBONViDmOn_lPkdv48dvAQ4huA/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 26000,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "IN_BUILDING",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 113,
+      "to": 134,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2026-04-01 11:28:28",
+    "createdAtFirst": "2026-04-01T11:28:22Z",
+    "investmentUnitsNumber": 8,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "FIRST",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "FOUR",
+      "max": "FOUR",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 3,
+      "year": 2026,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "4-pokojowe mieszkania od113m2 do134m2 w cenie od 2944760 zł od dewelopera CORDIASystem smart home w standardzieOgrzewanie podłogowe, klimatyzacja, panele fotowoltaiczneAutomatyczne żaluzje we wszystki...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 67865604,
+  "developmentTitle": "Flatta Wilanów",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/flatta-wilanow-ID4AKVv",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Flatta",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wilanow",
+          "fullName": "Wilanów, Warszawa, mazowieckie",
+          "name": "Wilanów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wilanow/blonia-wilanowskie",
+          "fullName": "Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",
+          "name": "Błonia Wilanowskie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJzenh0anBxN2JqZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Kg2JUdwsrzAMgSXBwcR8oxeyc7DhGLteq3iexyRR45M/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJzenh0anBxN2JqZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Kg2JUdwsrzAMgSXBwcR8oxeyc7DhGLteq3iexyRR45M/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpnOTJnNDRkM2dsYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JipuiOJ_MkbghyeZS_wCO36D4O9RGzNKRk5OaOV7rAc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpnOTJnNDRkM2dsYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JipuiOJ_MkbghyeZS_wCO36D4O9RGzNKRk5OaOV7rAc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV1c2VzM2ttYnByeS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pf0UEhT_Jo2jwoDcjkS3y7RDk7Baym5w8T1y-wNURWU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV1c2VzM2ttYnByeS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pf0UEhT_Jo2jwoDcjkS3y7RDk7Baym5w8T1y-wNURWU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 9,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 10554117,
+    "name": "CORDIA",
+    "slug": "cordia-ID10554117",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFiNXY4aG41dWF1azEtQVBMIn0.HolPUQe56UGQ_VAF7rBONViDmOn_lPkdv48dvAQ4huA/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3904576,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 30400,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 128.44,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:45:06",
+  "createdAtFirst": "2026-04-01T11:29:15Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:45:06+02:00",
+  "specialOffer": null,
+  "shortDescription": "4-pokojowe mieszkanie numer B1.02  na 1. piętrze w Inwestycji Flatta Wilanów Dewelopera CORDIASystem smart home w standardzieOgrzewanie podłogowe, klimatyzacja, panele fotowoltaiczneAutomatyczne żaluz...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Biuro Sprzedaży",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk1NDl3aWJlNzk1cDItQVBMIn0.Yfzw6mnn0YSOFGaG8THS2C7iefBdfUWaswdVNfN3_-Q/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/4-pokojowe-mieszkanie-128m2-taras-ID4AKVB",
+  "description": "<ul><li>4-pokojowe mieszkanie<strong> numer B1.02</strong>  na 1. piętrze w Inwestycji Flatta Wilanów Dewelopera CORDIA</li><li>System smart home w standardzie</li><li>Ogrzewanie podłogowe, klimatyzacja, panele fotowoltaiczne</li><li>Automatyczne żaluzje we wszystkich oknach</li><li>Osiedle monitorowane, ogrodzone i wyposażone w system w kontroli dostępu</li><li>Park Pokoleń (1 minuta pieszo)</li><li>Przystanek tramwajowy i autobusowy (10 minut pieszo)</li><li>Auchan Wilanów (10 minut pieszo)</li></ul><br/><strong>Flatta Wilanów - poznaj inwestycję</strong><br/><p><strong>Prestiżowa inwestycja stworzona dla osób, które poszukują komfortowego, przestronnego apartamentu o wysokim standardzie blisko szkół, przedszkoli i innych miejskich udogodnień.</strong></p><ul><li>VII dwukondygnacyjnych willi miejskich</li><li>XIV apartamentów o metrażach 113-134 m2</li><li>IV pokoje w każdym apartamencie</li></ul><p><strong>Unikatowy projekt architektoniczny</strong></p><p>Wille zostały umiejętnie rozlokowane – wyniesione na zielonej skarpie, z drogą dojazdową poprowadzoną w swoistym kanionie. W każdym z siedmiu budynków znajdą się dwa przestronne, jednopoziomowe apartamenty o metrażach od 113 do 134 m2, każdy z czterema pokojami i pięknym tarasem. Elegancko wykończone części wspólne, w tym reprezentacyjne klatki schodowe, garaże i windy, dopełniają perfekcyjnej całości. Osiedle będzie monitorowane, ogrodzone i wyposażone w system kontroli dostępu.</p><p><strong>Apartamenty</strong></p><p>Przemyślany układ pomieszczeń zapewnia harmonię pomiędzy przestronnością a intymnością. Apartamenty zachwycają dużymi salonami z panoramicznymi przeszkleniami, które otwierają wnętrza na otaczającą zieleń. Główne sypialnie „master bedroom” z garderobą i prywatnym wyjściem na taras podkreślają wyjątkowość tych przestrzeni. Komfort codziennego życia mieszkańców zapewni ogrzewanie podłogowe, doskonale sprawdzające się w chłodniejszych miesiącach.</p><p><strong>Inteligentny System Smart Home</strong></p><p>Każdy apartament został wyposażony w nowoczesny system Smart Home renomowanej firmy Grenton, zapewniający pełną kontrolę nad komfortem i bezpieczeństwem mieszkańców. System umożliwia:</p><ul><li>Wyłączenie prądu w całym lokalu poza lodówką, wentylacją ścienną i pompą ciepła – dla wygody i oszczędności energii.</li><li>Odcięcie dopływu zimnej wody za pomocą elektrozaworu, który w razie potrzeby natychmiast blokuje przepływ w całym mieszkaniu.</li><li>Zaawansowane sterowanie ogrzewaniem, z regulacją pracy pompy ciepła i czujnikiem umieszczonym w korytarzu, pozwalającym utrzymać idealny klimat wnętrz.</li></ul><p><strong>Wybrane udogodnienia</strong></p><ul><li><strong>Ogrzewanie podłogowe.</strong> Zapewnia równomierne rozprowadzanie ciepła w pomieszczeniu, co zwiększa komfort cieplny. Dodatkowo jest energooszczędne, ponieważ umożliwia utrzymanie przyjemnej temperatury przy niższym zużyciu energii.</li><li><strong>Smart Home. </strong>Każdy apartament jest wyposażony w nowoczesny system Smart Home, który zapewnia pełną kontrolę nad komfortem i bezpieczeństwem mieszkańców. System posiada możliwość rozbudowy o kolejne funkcje Smart Home, co pozwala dopasować go do indywidualnych potrzeb i stylu życia mieszkańców.</li><li><strong>Klimatyzacja. </strong>Zapewnia komfort w całym apartamencie. System działa cicho i wydajnie, tworząc idealne warunki do wypoczynku i pracy. Odprowadzenie skroplin odbywa się za pomocą specjalistycznych pompek, a wszystkie elementy instalacji zostały dyskretnie ukryte pod tynkiem.</li><li><strong>Żaluzje automatyczne.</strong> We wszystkich oknach zamontowano nowoczesne, zewnętrzne żaluzje automatyczne. Umożliwią one wygodne regulowanie dopływu światła za pomocą pilota lub systemu inteligentnego domu.</li><li><strong>Panele fotowoltaiczne. </strong>Po pięć modułów zamontowanych na dachu dla każdego mieszkania, zapewniających oszczędność energii i niższe rachunki za prąd, z możliwością rozbudowy instalacji o magazyn energii.</li><li><strong>Paczkoport.</strong> Umożliwia wygodny odbiór przesyłek o dowolnej porze, bez konieczności dostosowywania się do godzin pracy kuriera. Dzięki nim nie trzeba też prosić sąsiada o odebranie paczki podczas naszej nieobecności.</li></ul><p><strong>Ulica Flatta Oaza spokoju w sercu Wilanowa</strong></p><p>Flatta Wilanów to miejsce, które redefiniuje wygodę miejskiego życia. Położenie inwestycji oferuje idealne połączenie zielonej, cichej okolicy z bliskością prestiżowych placówek edukacyjnych, butikowych restauracji, stylowych kawiarni oraz nowoczesnych centrów fitness i handlowo-usługowych. W odległości 15-minut jazdy samochodem dostępne są także znane centra handlowe. W zaledwie 30 minut jazdy tramwajem można dotrzeć do centrum miasta.</p><p>Wyróżnikiem tej lokalizacji jest doskonałe skomunikowanie z pozostałymi częściami miasta. Bliskość Południowej Obwodnicy Warszawy oraz rozwinięta sieć komunikacji miejskiej, w tym autobusy, nowo powstałe linie tramwajowe i szybki dostęp do stacji metra, pozwala łatwo dotrzeć zarówno do centrum, jak i pozostałych dzielnic stolicy.</p><br/><strong>Flatta Wilanów - lokalizacja</strong><br/><br/>Wilanów,ul. Flatta<br/><ul><li>8,4 km do centrum</li><li>11 min. spacerem do przystanku autobusowego</li><li>9 min. samochodem do stacji metra</li><li>dojazd do centrum: 25 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (777 m, 11 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:29.599Z"
+}

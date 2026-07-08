@@ -1,0 +1,154 @@
+{
+  "id": 68006812,
+  "title": "Mieszkanie na sprzedaż – RONDO RADOSŁAWA",
+  "slug": "mieszkanie-na-sprzedaz-rondo-radoslawa-ID4BlG4",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Zygmunta Słomińskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie",
+          "fullName": "Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie/muranow",
+          "fullName": "Muranów, Śródmieście, Warszawa, mazowieckie",
+          "name": "Muranów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijg5bXo3bGQxYXcwbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Q2lRDaImCKlSzmqv1EDhUS9GLk0rn_LtuIQnvmB4hGo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijg5bXo3bGQxYXcwbS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Q2lRDaImCKlSzmqv1EDhUS9GLk0rn_LtuIQnvmB4hGo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVqMmdpZjNpazJjYzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WXXMoseyUJnc5LcTzZKD4LnkMuyfLUbPOFuCKTNdBUk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVqMmdpZjNpazJjYzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WXXMoseyUJnc5LcTzZKD4LnkMuyfLUbPOFuCKTNdBUk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlwdzExbzU3a2MzZi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WPaSWXMIc5urVh8JeSIYT-1dcPvQGDlauSFrjkIXyBs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlwdzExbzU3a2MzZi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WPaSWXMIc5urVh8JeSIYT-1dcPvQGDlauSFrjkIXyBs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1999999,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 2268,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 20408.15,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 98,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "TENTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:30:16",
+  "createdAtFirst": "2026-05-14T22:26:25Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T22:30:16+02:00",
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż jasne, bardzo słoneczne mieszkanie w doskonałej lokalizacji na Śródmieściu graniczącym z Żoliborzem – przy Rondzie Radosława, tuż przy Centrum Handlowym Arkadia.Lokalizacja, która sprzedaj...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Dominika Stecka",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-na-sprzedaz-rondo-radoslawa-ID4BlG4",
+  "description": "<p>Na sprzedaż jasne, bardzo słoneczne mieszkanie w doskonałej lokalizacji na Śródmieściu graniczącym z Żoliborzem – przy Rondzie Radosława, tuż przy Centrum Handlowym Arkadia.</p><p>Lokalizacja, która sprzedaje się sama:</p><ul><li>przystanki tramwajowe i autobusowe dosłownie pod budynkiem</li><li>metro Dworzec Gdański w zaledwie ok. 8 minut spacerem</li><li>błyskawiczny dojazd do centrum i świetne połączenia z każdą częścią miasta</li><li>wszystko, czego potrzebujesz na co dzień, znajduje się kilka kroków od mieszkania: Żabka w budynku, Biedronka, Rossmann, piekarnie, kwiaciarnia, apteki, warzywniaki, Lux Med, Enel Med, krawcowa oraz świetna włoska restauracja w bloku na dole oraz CH Arkadia po drugiej stronie ulicy</li></ul><p>Mieszkanie – gotowe, by od razu się wprowadzić</p><ul><li>lokal nie wymaga dodatkowych nakładów</li><li>bardzo słoneczne wnętrza i duże okna zapewniają wyjątkowy komfort oraz świetną energię przez cały dzień</li><li>przestronny salon z ekspozycją zachodnią z widokiem na Flagę na Rondzie Radosława</li><li>klimatyzacja w największej przestrzeni mieszkania (w kuchni połączonej z salonem)</li><li>kuchnia połączona z jadalnią i salonem, z kuchni oraz salonu można wyjść na loggię z dużymi, przesuwnymi oknami</li><li>dwie ustawne sypialnie od strony wschodniej – cichej, schowanej od ulicy Słomińskiego, wyposażone w zewnętrzne, elektryczne rolety zaciemniające</li><li>w jednej sypialni znajduje się pojemna garderoba typu walk-in</li><li>druga sypialnia / gabinet ma z widok na Pałac Kultury i Nauki i jest wyposażona w dużą, 5-drzwiową szafę</li><li>funkcjonalny przedpokój z bardzo dużą zabudową oraz osobną szafą na rowery</li><li>pomieszczenie gospodarcze z obecnym praznaczeniem na pralnie i przechowywanie butów i kurtek, ale pierwotnie była to toaleta</li></ul><p>Budynek</p><ul><li>całodobowa ochrona zapewniająca komfort i bezpieczeństwo mieszkańców</li></ul><p>Parking</p><ul><li>prywatne miejsce parkingowe w garażu podziemnym na poziomie –1, przynależne do mieszkania w cenie mieszkania</li></ul><p>To mieszkanie łączy świetny adres, funkcjonalny układ i wygodę codziennego życia — idealne zarówno dla rodziny, pary, jak i jako inwestycja pod wynajem.</p>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:06.109Z"
+}

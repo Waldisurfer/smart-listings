@@ -1,0 +1,154 @@
+{
+  "id": 68055842,
+  "title": "Gotowiec inwestycyjny premium | Airbnb/Booking | 8% ROI",
+  "slug": "gotowiec-inwestycyjny-premium-airbnb-booking-8-roi-ID4ByqS",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Strzelecka",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+          "fullName": "Grzegórzki, Kraków, małopolskie",
+          "name": "Grzegórzki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki/wesola-wschod",
+          "fullName": "Wesoła Wschód, Grzegórzki, Kraków, małopolskie",
+          "name": "Wesoła Wschód",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12anNubmNza3VzYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N4AOQI65Ljp2JQ6y9YFswzGVqlVSLnFBf5TaQ929xHM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im12anNubmNza3VzYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N4AOQI65Ljp2JQ6y9YFswzGVqlVSLnFBf5TaQ929xHM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhczBubWczODh2YzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OO5jHO48Kbsh2Poguaih-1uAHOj-s2b8y4r-Z3hcsag/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhczBubWczODh2YzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OO5jHO48Kbsh2Poguaih-1uAHOj-s2b8y4r-Z3hcsag/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhNG5zenp0cDNubjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FzI32yfceFEweM58qe31R_uLx8tWjAfBPdeRKD-EIPE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNhNG5zenp0cDNubjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FzI32yfceFEweM58qe31R_uLx8tWjAfBPdeRKD-EIPE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 15,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1585000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 830,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 24960.63,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 63.5,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 20:26:26",
+  "createdAtFirst": "2026-05-28T19:54:06Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T20:26:26+02:00",
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż pakiet 2 nowoczesnych apartamentów wykończonych w wysokim standardzie, w pełni przygotowanych pod najem krótkoterminowy. Nieruchomość jest już działającym produktem na Airbnb i Booking, ge...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Jakub Siry",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/gotowiec-inwestycyjny-premium-airbnb-booking-8-roi-ID4ByqS",
+  "description": "<p>Na sprzedaż pakiet 2 nowoczesnych apartamentów wykończonych w wysokim standardzie, w pełni przygotowanych pod najem krótkoterminowy. Nieruchomość jest już działającym produktem na Airbnb i Booking, generującym około 20 000 zł przychodu miesięcznie.</p><p>To oferta dla osób, które szukają nieruchomości ładnej, gotowej i rentownej — bez konieczności remontu, urządzania czy budowania oferty od zera.</p><p>Apartamenty wyróżniają się dopracowanym, spójnym designem: jasne wnętrza, eleganckie detale, nowoczesne oświetlenie, wysokiej jakości materiały oraz bardzo estetyczne łazienki. Całość prezentuje się premium i bardzo dobrze sprawdza się w najmie krótkoterminowym.</p><p>Najważniejsze informacje:</p><ul><li>cena: 1 585 000 zł</li><li>przychód: około 20 000 zł miesięcznie</li><li>przychód roczny: około 240 000 zł</li><li>zysk netto: około 9 000–11 000 zł miesięcznie</li><li>zysk netto roczny: około 108 000–132 000 zł</li><li>szacunkowa stopa zwrotu brutto: ok. 15,1% rocznie</li><li>szacunkowa stopa zwrotu netto: ok. 6,8–8,3% rocznie</li></ul><p>Dużym atutem tej oferty jest także możliwość podjęcia współpracy z operatorem, co pozwala na płynne przejęcie nieruchomości i dalsze prowadzenie najmu krótkoterminowego bez konieczności samodzielnego budowania całego procesu operacyjnego od podstaw.</p><p>To bardzo ciekawa propozycja nie tylko dla inwestora, ale również dla rodzica kupującego nieruchomość dla dziecka na studia. Jeden apartament może służyć jako komfortowe miejsce do zamieszkania, a drugi może pracować i pomagać spłacać kredyt. To połączenie bezpieczeństwa kapitału, wygody użytkowej i realnego dochodu.</p><p>Atuty nieruchomości:</p><ul><li>gotowy produkt inwestycyjny</li><li>wysoki standard wykończenia</li><li>atrakcyjny, ponadczasowy design</li><li>bardzo dobre wyniki na Airbnb i Booking</li><li>możliwość dalszego prowadzenia najmu od razu po zakupie</li><li>możliwość podjęcia współpracy z operatorem</li><li>idealna opcja dla inwestora lub rodzica kupującego dla dziecka</li></ul><p>To oferta dla osób, które chcą kupić nieruchomość, która nie tylko dobrze wygląda, ale realnie zarabia.</p>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:42.187Z"
+}

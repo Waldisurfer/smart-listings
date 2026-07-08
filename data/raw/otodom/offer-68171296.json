@@ -1,0 +1,180 @@
+{
+  "id": 68171296,
+  "title": "Elegancki Apartament | Browary Warszawskie | Garaż",
+  "slug": "elegancki-apartament-browary-warszawskie-garaz-ID4C2t2",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Krochmalna",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola",
+          "fullName": "Wola, Warszawa, mazowieckie",
+          "name": "Wola",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola/mirow",
+          "fullName": "Mirów, Wola, Warszawa, mazowieckie",
+          "name": "Mirów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl0cXh0bTJseGF2ZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kaBZiAFyX3t6CPlXfMcW3iCprFssHO7b4My5J7hWXb8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl0cXh0bTJseGF2ZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kaBZiAFyX3t6CPlXfMcW3iCprFssHO7b4My5J7hWXb8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtsZWUyOXh4NWpvYzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1YGmIdSGG0LxVkcIJ1X9hEPvDwiNsayrqqVpHmajazE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtsZWUyOXh4NWpvYzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1YGmIdSGG0LxVkcIJ1X9hEPvDwiNsayrqqVpHmajazE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxY2hreXl2NG1ydTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rKNq2iWORBDEGqnF2lFRZg9_VjaL6AKoYKVpwO9-XkE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxY2hreXl2NG1ydTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rKNq2iWORBDEGqnF2lFRZg9_VjaL6AKoYKVpwO9-XkE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 8377466,
+    "name": "Eastate Agency",
+    "slug": "eastate-agency-ID8377466",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhvcGhxcWpxN21hNi1BUEwifQ.HlntovKcAa0ec9IDttTgq7qqFPLuHg5yPNn6hMIzaiw/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 7500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1150,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 150,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 50,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:19:27",
+  "createdAtFirst": "2026-07-03T21:19:20Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Oferuję na wynajem luksusowy, dwupokojowy apartament o powierzchni 50 m² z balkonem i miejscem w garażu podziemnym, położony na 4. piętrze nowoczesnego budynku z 2020 roku przy ul. Krochmalnej, na pre...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Ewelina",
+    "lastName": "Kaźmierczak",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1ucGU0aGVwaDcyaC1BUEwifQ.-vawYriaZOtofyOwSNnhaxtI6QrPkkDafR0wjfzxP8A/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/elegancki-apartament-browary-warszawskie-garaz-ID4C2t2",
+  "description": "<strong>Oferuję na wynajem luksusowy, dwupokojowy apartament o powierzchni 50 m² z balkonem i miejscem w garażu podziemnym, położony na 4. piętrze nowoczesnego budynku z 2020 roku przy ul. Krochmalnej, na prestiżowym terenie Browarów Warszawskich.</strong><br><br>Apartament usytuowany jest od strony południowej, dzięki czemu wnętrza są doskonale doświetlone przez cały dzień. Dodatkowym atutem nieruchomości jest piękny widok na główny plac Browarów Warszawskich, który nadaje temu miejscu wyjątkowy, miejski charakter.<br><br><strong>Na lokal składają się:</strong><br>• przestronny salon z częścią wypoczynkową, telewizorem oraz otwartą, w pełni wyposażoną kuchnią,<br>• komfortowa sypialnia z miejscem do przechowywania,<br>• elegancka łazienka,<br>• funkcjonalny hol z dużą szafą,<br>• taras / balkon z widokiem na główny plac,<br>• miejsce postojowe w garażu podziemnym.<br><br><strong>Apartament został wykończony w wysokim standardzie i jest w pełni umeblowany oraz wyposażony, gotowy do natychmiastowego zamieszkania. W kuchni znajdują się wszystkie niezbędne sprzęty AGD.</strong><br><br><strong>Dodatkowo mieszkanie wyposażone jest w:</strong><br>• telewizor,<br>• pralkę,<br>• klimatyzację w każdym pokoju.<br><br><strong>BUDYNEK I STANDARD</strong><br>Nowoczesny apartamentowiec z windą został wybudowany w 2020 roku z wysokiej jakości materiałów. Budynek znajduje się na zamkniętym i monitorowanym osiedlu z całodobową ochroną, co zapewnia mieszkańcom prywatność i bezpieczeństwo.<br><br><strong>Dodatkowe udogodnienia:</strong><br>• winda,<br>• monitoring i ochrona,<br>• domofon / wideofon,<br>• teren zamknięty,<br>• drzwi i okna antywłamaniowe.<br>Budynek wykonany został w technologii tradycyjnej (cegła), a apartament wyposażono w eleganckie drewniane okna.<br><br><strong>LOKALIZACJA</strong><br>Browary Warszawskie to jedna z najbardziej prestiżowych i pożądanych lokalizacji w Warszawie. Kompleks łączy nowoczesną architekturę z klimatem historycznej zabudowy, oferując mieszkańcom dostęp do licznych restauracji, kawiarni, punktów usługowych oraz terenów rekreacyjnych.<br>Lokalizacja przy ul. Krochmalnej zapewnia doskonałą komunikację z centrum miasta, dzielnicą biznesową na Woli oraz innymi częściami Warszawy.<br><br><strong>KOSZTY</strong><br>• czynsz najmu:7500 zł / miesiąc,<br>• czynsz administracyjny: 1 150 zł / miesiąc,<br>• kaucja: 7 500 zł,<br>• miejsce postojowe w garażu podziemnym – w cenie najmu.<br><br><strong>Zapraszam do kontaktu oraz na prezentację tej wyjątkowej nieruchomości!</strong><br/>\n<br/>\n<strong>I am offering for rent a luxurious one-bedroom apartment (2-room layout) with a total area of 50 m², featuring a balcony and a parking space in the underground garage. The apartment is located on the 4th floor of a modern residential building completed in 2020, situated on Krochmalna Street in the prestigious Browary Warszawskie development.</strong><br><br>The apartment is south-facing, ensuring excellent natural light throughout the day. An additional advantage of this property is the beautiful view overlooking the main square of Browary Warszawskie, giving the apartment a unique and vibrant urban atmosphere.<br><br><strong>The apartment consists of:</strong><br>• a spacious living room with a lounge area, TV, and an open-plan fully equipped kitchen,<br>• a comfortable bedroom with storage space,<br>• an elegant bathroom,<br>• a functional hallway with a large built-in wardrobe,<br>• a terrace / balcony overlooking the main square,<br>• a parking space in the underground garage.<br><br><strong>The apartment has been finished to a high standard and is fully furnished and equipped, ready for immediate move-in. The kitchen comes with all essential household appliances.</strong><br><br><strong>Additionally, the apartment includes:</strong><br>• TV,<br>• washing machine,<br>• air conditioning in each room.<br><br><strong>BUILDING &amp; STANDARD</strong><br>This modern apartment building with an elevator was completed in 2020 using high-quality materials. The building is located within a gated and monitored residential complex with 24/7 security, ensuring privacy and safety for residents.<br><br><strong>Additional amenities include:</strong><br>• elevator,<br>• CCTV monitoring and security,<br>• intercom / video intercom,<br>• gated community,<br>• anti-burglary doors and windows.<br>The building was constructed using traditional brick technology, and the apartment features elegant wooden window frames.<br><br><strong>LOCATION</strong><br>Browary Warszawskie is one of the most prestigious and sought-after locations in Warsaw. The complex combines modern architecture with the charm of historic buildings, offering residents access to numerous restaurants, cafés, service points, and recreational areas.<br>Its location on Krochmalna Street provides excellent connectivity to Warsaw city center, the Wola business district, and other parts of the city.<br><br><strong>COSTS</strong><br>• monthly rent: 7,500 PLN / month,<br>• administrative fee: 1,150 PLN / month,<br>• security deposit: 7,500 PLN,<br>• underground parking space – included in the rent.<br><br><strong>Feel free to contact me for more information or to arrange a viewing of this exceptional property.</strong><br/>\n<br/>\nW Eastate Agency wspieramy klientów w sprzedaży, wynajmie i poszukiwaniach nieruchomości - zarówno na rynku wtórnym, pierwotnym, jak i komercyjnym.<br/>\n<br/>\nPomagamy także w wyborze nieruchomości inwestycyjnych - pod wynajem lub długoterminowe lokowanie kapitału. Zajmujemy się również zarządzaniem najmem, a klientom finansującym zakup kredytem umożliwiamy bezpłatny kontakt z doradcą kredytowym.",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:08:16.461Z"
+}

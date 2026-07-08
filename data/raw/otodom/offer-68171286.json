@@ -1,0 +1,168 @@
+{
+  "id": 68171286,
+  "title": "Ładne 2 Pokoje | Zakrzówek | Kameralna okolica",
+  "slug": "ladne-2-pokoje-zakrzowek-kameralna-okolica-ID4C2sS",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Filipa Pokutyńskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/debniki",
+          "fullName": "Dębniki, Kraków, małopolskie",
+          "name": "Dębniki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/debniki/pychowice",
+          "fullName": "Pychowice, Dębniki, Kraków, małopolskie",
+          "name": "Pychowice",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFiMmh3Mmd6Z2VudS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OaTjpRb0Ix9vqEASkeJxMck82Fh-7Ws-X7jw-1AI75s/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFiMmh3Mmd6Z2VudS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OaTjpRb0Ix9vqEASkeJxMck82Fh-7Ws-X7jw-1AI75s/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt4ZWt3c3hhZXpiajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qJC8vV6XQkILxWlmm8QcdNRy80j9etTvd4NXbs0CNig/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt4ZWt3c3hhZXpiajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qJC8vV6XQkILxWlmm8QcdNRy80j9etTvd4NXbs0CNig/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InoyMG41ZWxiZWRjdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GTQA-CgG9Q4jhs9Ka-t4hkSRURkVsrueqGglrq5rPzk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InoyMG41ZWxiZWRjdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GTQA-CgG9Q4jhs9Ka-t4hkSRURkVsrueqGglrq5rPzk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 10,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 8165611,
+    "name": "Sulma Real Estate",
+    "slug": "sulma-real-estate-ID8165611",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRoMjZzMGwyaTJwZDMtQVBMIn0.Sw3hj8nu_G6SaMU5g9isPW9VKNK5WhZiDXHmC3DqtO0/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 210,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 74.29,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 35,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:10:19",
+  "createdAtFirst": "2026-07-03T21:10:14Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Biuro nieruchomości Sulma Real Estate ma zaszczyt zaprezentować do wynajęcia 2-pokojowe mieszkanie o podwyższonym standardzie znajdujące się w nowoczesnym budynku z 2022 r. położonym przy ul. Filipa P...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Oskar",
+    "lastName": "Sułkowski",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBzc3I4dnBpeDB0OTMtQVBMIn0.KaEMoaK5AxKyMLqXPtSLzLsGnE_jYlmJvhHVjVJz7vw/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Kaja Szymańska",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/ladne-2-pokoje-zakrzowek-kameralna-okolica-ID4C2sS",
+  "description": "Biuro nieruchomości Sulma Real Estate ma zaszczyt zaprezentować do wynajęcia 2-pokojowe mieszkanie o podwyższonym standardzie znajdujące się w nowoczesnym budynku z 2022 r. położonym przy ul. Filipa Pokutyńskiego w Krakowie.&nbsp;<strong><br></strong><br><br><strong>MIESZKANIE</strong><br><strong>Prezentowane mieszkanie o powierzchni 35 m2 znajduję się na pierwszym piętrze 2-piętrowego apartamentowca. Nieruchomość składa się z:</strong><br>- Przestronnego i jasnego salonu połączonego z nowoczesnym aneksem kuchennym<br>- Aneksu Kuchennego, w pełni wyposażonego we wszystkie sprzęty AGD - lodówka z zamrażarką, zmywarka, piekarnik, płyta indukcyjna itd.<br>- Sypialni z dużym i komfortowym łóżkiem oraz TV<br>- Przedpokoju z pojemną zabudową szaf<br>- Łazienki, która została wyposażona w pralkę, szafkę z szufladami, lustro, oraz prysznic<br>&nbsp;<br>Nieruchomość została wykończona przez właściciela w wysokim standardzie z dbałością o każdy detal. Większość mebli została wykonana na zamówienie w zakładzie stolarskim.&nbsp;<strong>Posiada wszystkie niezbędne sprzęty AGD, RTV oraz podstawowe wyposażenie takie jak deska do prasowania, suszarka, żelazko, odkurzacz itp.</strong><br><br>Mieszkanie jest bardzo jasne, ze względu na duże okna, z których rozprzestrzenia się widok na cichą i kameralną część osiedla co jeszcze bardziej zwiększa atrakcyjność tej nieruchomości ze względu na ciszę i komfort osób mających tam zamieszkać.<br><strong>*</strong>Zdjęcia odzwierciedlają stan faktyczny nieruchomości.<br><br><br><strong>BUDYNEK</strong><br>Budynek, w którym znajduję się oferowane mieszkanie to nowoczesna i kameralna inwestycja należąca do jednego Właściciela, wszystkie mieszkania które się w nim znajdują przeznaczone są na wynajem długoterminowy. Nieruchomość posiada podziemny parking, jest monitorowana 24h/ na dobę oraz przy każdym wejściu do budynku znajduję się kontrola dostępu.<br><br><br><strong>LOKALIZACJA</strong><br>Nieruchomość znajduję się przy ulicy Filipa Pokutyńskiego, jest to obszar Pychowic należący do dzielnicy Dębniki. Jest to dynamicznie rozwijający się willowo - apartamentowy rejon Krakowa w połączeniu z cichą oraz spokojną dzielnicą w otulinie zieleni. W okolicy znajdziemy wiele mniejszych lub większych sklepów spożywczych, punktów handlowo-usługowych, restauracji itp. a dla osób aktywnych fizycznie wiele ośrodków sportowo-wypoczynkowych i tras rowerowych.&nbsp;<br>W bliskiej odległości znajdują się również przystanki autobusowe pozwalające na szybki dojazd do ścisłego centrum miasta. Dojazd do Rynku Głównego komunikacją miejską zajmuje około 25 minut.&nbsp;<br><br><br><strong>FINANSE</strong><br>- Czynsz najmu 2600 PLN<br>- Czynsz administracyjny 210 PLN&nbsp;+ Media według zużycia (tj. woda, ogrzewanie, prąd itd.)<br>- Kaucja zwrotna 2800 PLN<br>- Możliwość wynajmu miejsca postojowego w garażu podziemnym 300 PLN<br><br><br><strong>WYMAGANIA WOBEC NAJEMCY</strong><br>- Umowa najmu okazjonalnego,<br>- Minimalny okres najmu to 12 miesięcy,<br>- Wymagany udokumentowany dochód,<br>- Osoby niepalące,<br>- Zwierzęta do ustalenia,<br><br>Zapraszam do kontaktu!<br/>\n<br/>\n<strong>Oskar Sułkowski</strong><br>tel 518 108 406<br><br><br><br><br><br><br/>\n<br/>\nSulma Real Estate is proud to present a 2-room, high-standard apartment for rent in a modern building from 2022 located on Filipa Pokutyńskiego Street in Krakow.<strong><br></strong><br><br><strong>APARTMENT</strong><br><strong>This 35 sq m apartment is located on the first floor of a two-story apartment building. The property comprises:</strong><br>- Spacious and bright living room with a modern kitchenette<br>- Kitchenette, fully equipped with all household appliances - fridge with freezer, dishwasher, oven, induction hob, etc.<br>- Bedroom with a large and comfortable bed and TV<br>- Hallway with spacious built-in wardrobes<br>- Bathroom equipped with a washing machine, a cabinet with drawers, a mirror, and a shower<br><br>The property has been finished to a high standard by the owner, with meticulous attention to every detail. Most of the furniture was custom-made in a carpentry workshop. <strong>It is equipped with all necessary household appliances, electronics, and basic equipment such as an ironing board, hairdryer, iron, vacuum cleaner, etc.</strong><br><br>The apartment is very bright, thanks to large windows that overlook a quiet and intimate part of the estate, which further increases the attractiveness of this property due to the peace and comfort of the people who will live there.<br><strong>*</strong> The photos reflect the actual condition of the property.<br><br><br><strong>BUILDING</strong><br>The building in which the apartment is located is a modern and intimate development owned by a single owner. All apartments are designated for long-term rentals. The property has underground parking, 24/7 surveillance, and access control is installed at each entrance to the building.<br><br><br><strong>LOCATION</strong><br>The property is located on Filipa Pokutyńskiego Street, in the Pychowice area of the Dębniki district. It's a dynamically developing residential and apartment district of Krakow, combined with a quiet and peaceful neighborhood surrounded by greenery. The area boasts numerous small and large grocery stores, retail and service outlets, restaurants, and more, and for those who are physically active, there are numerous sports and recreation centers and cycling trails.<br>Bus stops are also nearby, providing quick access to the city center. The Main Market Square is approximately 25 minutes away by public transportation.<br><br><br><strong>FINANCES</strong><br>- Rent PLN 2,600<br>- Administrative rent PLN 210 + Utilities according to consumption (i.e. water, heating, electricity, etc.)<br>- Refundable deposit PLN 2,800<br>- Possibility to rent a parking space in the underground garage for PLN 300<br><br><br><strong>REQUIREMENTS FOR THE TENANT</strong><br>- Occasional lease agreement,<br>- The minimum rental period is 12 months,<br>- Documented income required,<br>- Non-smokers,<br>- Animals to be determined,<br><br>Feel free to contact me!<br/>\n<br/>\n<br><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:17.127Z"
+}

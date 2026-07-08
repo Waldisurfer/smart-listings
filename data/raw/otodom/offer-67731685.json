@@ -1,0 +1,814 @@
+{
+  "id": 67731685,
+  "title": "Plastyczna Kamienica przy Sympatycznej",
+  "slug": "plastyczna-kamienica-przy-sympatycznej-ID4Ac6x",
+  "estate": "INVESTMENT",
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Sympatyczna",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+          "fullName": "Włochy, Warszawa, mazowieckie",
+          "name": "Włochy",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/nowe-wlochy",
+          "fullName": "Nowe Włochy, Włochy, Warszawa, mazowieckie",
+          "name": "Nowe Włochy",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2Mm1zaDh6b2FrZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sv5f4sRMdahBcHy85ZDKr78v1f5cyzGdv4G2fvH0jmI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2Mm1zaDh6b2FrZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sv5f4sRMdahBcHy85ZDKr78v1f5cyzGdv4G2fvH0jmI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im14aGlta3h5OG1rZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VLo8_jk30fRY5hOpq5SgpVdHGtaH5QHVHTs5gPN0p8w/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im14aGlta3h5OG1rZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VLo8_jk30fRY5hOpq5SgpVdHGtaH5QHVHTs5gPN0p8w/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3dnVtMGttMmRzeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmpQ4KBUDcUf5pXNPkJyUIQUrTXp3snBE0ygmqQYOsk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3dnVtMGttMmRzeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmpQ4KBUDcUf5pXNPkJyUIQUrTXp3snBE0ygmqQYOsk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1NW5yaDMzYmt5Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WMsXkWwacvou1M0PV7dFQ-06Wa6unzcqRgZfCB-5jWg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1NW5yaDMzYmt5Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WMsXkWwacvou1M0PV7dFQ-06Wa6unzcqRgZfCB-5jWg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx6eGdtcHd4cWF0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uuzI4RE5tpswP4_WvQmPI7L4mITXYRKGYr1-DG59WJY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx6eGdtcHd4cWF0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uuzI4RE5tpswP4_WvQmPI7L4mITXYRKGYr1-DG59WJY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 6,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "agency": {
+    "id": 11592379,
+    "name": "Kompania Domowa",
+    "slug": "kompania-domowa-ID11592379",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2azlvMzh4Z2RmNDEtQVBMIn0.O7PfGSoBAjq8-P2ng549ZrDDdFPMi0Forza2ZCvTXCY/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": null,
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": null,
+  "areaInSquareMeters": null,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": null,
+  "hidePrice": true,
+  "floorNumber": null,
+  "investmentState": "IN_BUILDING",
+  "investmentUnitsAreaInSquareMeters": {
+    "from": 31,
+    "to": 96,
+    "__typename": "InvestmentUnitsArea"
+  },
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-20 10:23:06",
+  "createdAtFirst": "2026-02-20T10:22:53Z",
+  "investmentUnitsNumber": 22,
+  "investmentUnitsFloorsRange": {
+    "min": "FIRST",
+    "max": "FOURTH",
+    "__typename": "InvestmentUnitsFloorsRange"
+  },
+  "investmentUnitsRoomsNumber": {
+    "min": "ONE",
+    "max": "FOUR",
+    "__typename": "InvestmentUnitsRoomsNumber"
+  },
+  "investmentEstimatedDelivery": {
+    "quarter": 1,
+    "year": 2027,
+    "__typename": "InvestmentEstimatedDelivery"
+  },
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "1, 2, 3 i 4-pokojowe mieszkania od31m2 do96m2 od dewelopera Kompania DomowaDwustopniowy system kontroli dostępu, całodobowy monitoringFiltry antysmogowe, system oczyszczania powietrza z wirusów, bakte...",
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "relatedAds": [
+    {
+      "id": 67731694,
+      "title": "3-pokojowe mieszkanie 56m2 + balkon",
+      "slug": "3-pokojowe-mieszkanie-56m2-balkon-ID4Ac6G",
+      "estate": "FLAT",
+      "development": {
+        "id": 67731685,
+        "title": "Plastyczna Kamienica przy Sympatycznej",
+        "slug": "plastyczna-kamienica-przy-sympatycznej-ID4Ac6x",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Sympatyczna",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Warszawa",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "mazowieckie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "mazowieckie",
+                "fullName": "mazowieckie",
+                "name": "mazowieckie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa",
+                "fullName": "Warszawa, mazowieckie",
+                "name": "Warszawa",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+                "fullName": "Włochy, Warszawa, mazowieckie",
+                "name": "Włochy",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/nowe-wlochy",
+                "fullName": "Nowe Włochy, Włochy, Warszawa, mazowieckie",
+                "name": "Nowe Włochy",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2Mm1zaDh6b2FrZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sv5f4sRMdahBcHy85ZDKr78v1f5cyzGdv4G2fvH0jmI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2Mm1zaDh6b2FrZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sv5f4sRMdahBcHy85ZDKr78v1f5cyzGdv4G2fvH0jmI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im14aGlta3h5OG1rZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VLo8_jk30fRY5hOpq5SgpVdHGtaH5QHVHTs5gPN0p8w/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im14aGlta3h5OG1rZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VLo8_jk30fRY5hOpq5SgpVdHGtaH5QHVHTs5gPN0p8w/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3dnVtMGttMmRzeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmpQ4KBUDcUf5pXNPkJyUIQUrTXp3snBE0ygmqQYOsk/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3dnVtMGttMmRzeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmpQ4KBUDcUf5pXNPkJyUIQUrTXp3snBE0ygmqQYOsk/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1NW5yaDMzYmt5Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WMsXkWwacvou1M0PV7dFQ-06Wa6unzcqRgZfCB-5jWg/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1NW5yaDMzYmt5Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WMsXkWwacvou1M0PV7dFQ-06Wa6unzcqRgZfCB-5jWg/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx6eGdtcHd4cWF0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uuzI4RE5tpswP4_WvQmPI7L4mITXYRKGYr1-DG59WJY/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx6eGdtcHd4cWF0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uuzI4RE5tpswP4_WvQmPI7L4mITXYRKGYr1-DG59WJY/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 6,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11592379,
+          "name": "Kompania Domowa",
+          "slug": "kompania-domowa-ID11592379",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2azlvMzh4Z2RmNDEtQVBMIn0.O7PfGSoBAjq8-P2ng549ZrDDdFPMi0Forza2ZCvTXCY/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": null,
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": true,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 31,
+          "to": 96,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-02-20 10:23:06",
+        "createdAtFirst": "2026-02-20T10:22:53Z",
+        "investmentUnitsNumber": 22,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "FOURTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 1,
+          "year": 2027,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "1, 2, 3 i 4-pokojowe mieszkania od31m2 do96m2 od dewelopera Kompania DomowaDwustopniowy system kontroli dostępu, całodobowy monitoringFiltry antysmogowe, system oczyszczania powietrza z wirusów, bakte...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 67731685,
+      "developmentTitle": "Plastyczna Kamienica przy Sympatycznej",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/plastyczna-kamienica-przy-sympatycznej-ID4Ac6x",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Sympatyczna",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Warszawa",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "mazowieckie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "mazowieckie",
+              "fullName": "mazowieckie",
+              "name": "mazowieckie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa",
+              "fullName": "Warszawa, mazowieckie",
+              "name": "Warszawa",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+              "fullName": "Włochy, Warszawa, mazowieckie",
+              "name": "Włochy",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/nowe-wlochy",
+              "fullName": "Nowe Włochy, Włochy, Warszawa, mazowieckie",
+              "name": "Nowe Włochy",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5uYnRtbXB3Y3Q1bjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DhlcACGbRzFrSdchIYxz6ORZRfnC1TW_kSfFDKirYsQ/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5uYnRtbXB3Y3Q1bjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DhlcACGbRzFrSdchIYxz6ORZRfnC1TW_kSfFDKirYsQ/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlkZnZ5eDg5dm9rdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vhDd5P7ujZck9--x94I3HdqB43ZnY3OXylEdamzIQec/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlkZnZ5eDg5dm9rdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vhDd5P7ujZck9--x94I3HdqB43ZnY3OXylEdamzIQec/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 9,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 11592379,
+        "name": "Kompania Domowa",
+        "slug": "kompania-domowa-ID11592379",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2azlvMzh4Z2RmNDEtQVBMIn0.O7PfGSoBAjq8-P2ng549ZrDDdFPMi0Forza2ZCvTXCY/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": null,
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": null,
+      "areaInSquareMeters": 56.99,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "THREE",
+      "hidePrice": true,
+      "floorNumber": "FIRST",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:45:29",
+      "createdAtFirst": "2026-02-20T10:23:10Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:45:29+02:00",
+      "specialOffer": null,
+      "shortDescription": "3-pokojowe mieszkanie numer PK-LM-06  na 1. piętrze w Inwestycji Plastyczna Kamienica przy Sympatycznej Dewelopera Kompania DomowaDwustopniowy system kontroli dostępu, całodobowy monitoringFiltry anty...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Aneta Węska",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9mcml2ZjRhaTE0aTMtQVBMIn0.H433ink5QklG9iWp3dNuQH2uL47-7v_JQit1aw9qkT8/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "STORAGE_ROOM",
+          "weight": 30,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BASEMENT",
+          "weight": 25,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/3-pokojowe-mieszkanie-56m2-balkon-ID4Ac6G"
+    },
+    {
+      "id": 67731703,
+      "title": "2-pokojowe mieszkanie 46m2 + balkon",
+      "slug": "2-pokojowe-mieszkanie-46m2-balkon-ID4Ac6P",
+      "estate": "FLAT",
+      "development": {
+        "id": 67731685,
+        "title": "Plastyczna Kamienica przy Sympatycznej",
+        "slug": "plastyczna-kamienica-przy-sympatycznej-ID4Ac6x",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Sympatyczna",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Warszawa",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "mazowieckie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "mazowieckie",
+                "fullName": "mazowieckie",
+                "name": "mazowieckie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa",
+                "fullName": "Warszawa, mazowieckie",
+                "name": "Warszawa",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+                "fullName": "Włochy, Warszawa, mazowieckie",
+                "name": "Włochy",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/nowe-wlochy",
+                "fullName": "Nowe Włochy, Włochy, Warszawa, mazowieckie",
+                "name": "Nowe Włochy",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2Mm1zaDh6b2FrZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sv5f4sRMdahBcHy85ZDKr78v1f5cyzGdv4G2fvH0jmI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2Mm1zaDh6b2FrZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sv5f4sRMdahBcHy85ZDKr78v1f5cyzGdv4G2fvH0jmI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im14aGlta3h5OG1rZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VLo8_jk30fRY5hOpq5SgpVdHGtaH5QHVHTs5gPN0p8w/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im14aGlta3h5OG1rZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VLo8_jk30fRY5hOpq5SgpVdHGtaH5QHVHTs5gPN0p8w/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3dnVtMGttMmRzeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmpQ4KBUDcUf5pXNPkJyUIQUrTXp3snBE0ygmqQYOsk/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3dnVtMGttMmRzeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YmpQ4KBUDcUf5pXNPkJyUIQUrTXp3snBE0ygmqQYOsk/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1NW5yaDMzYmt5Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WMsXkWwacvou1M0PV7dFQ-06Wa6unzcqRgZfCB-5jWg/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1NW5yaDMzYmt5Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WMsXkWwacvou1M0PV7dFQ-06Wa6unzcqRgZfCB-5jWg/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx6eGdtcHd4cWF0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uuzI4RE5tpswP4_WvQmPI7L4mITXYRKGYr1-DG59WJY/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx6eGdtcHd4cWF0MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uuzI4RE5tpswP4_WvQmPI7L4mITXYRKGYr1-DG59WJY/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 6,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11592379,
+          "name": "Kompania Domowa",
+          "slug": "kompania-domowa-ID11592379",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2azlvMzh4Z2RmNDEtQVBMIn0.O7PfGSoBAjq8-P2ng549ZrDDdFPMi0Forza2ZCvTXCY/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": null,
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": true,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 31,
+          "to": 96,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-02-20 10:23:06",
+        "createdAtFirst": "2026-02-20T10:22:53Z",
+        "investmentUnitsNumber": 22,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "FOURTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 1,
+          "year": 2027,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "1, 2, 3 i 4-pokojowe mieszkania od31m2 do96m2 od dewelopera Kompania DomowaDwustopniowy system kontroli dostępu, całodobowy monitoringFiltry antysmogowe, system oczyszczania powietrza z wirusów, bakte...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 67731685,
+      "developmentTitle": "Plastyczna Kamienica przy Sympatycznej",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/plastyczna-kamienica-przy-sympatycznej-ID4Ac6x",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Sympatyczna",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Warszawa",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "mazowieckie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "mazowieckie",
+              "fullName": "mazowieckie",
+              "name": "mazowieckie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa",
+              "fullName": "Warszawa, mazowieckie",
+              "name": "Warszawa",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+              "fullName": "Włochy, Warszawa, mazowieckie",
+              "name": "Włochy",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/nowe-wlochy",
+              "fullName": "Nowe Włochy, Włochy, Warszawa, mazowieckie",
+              "name": "Nowe Włochy",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink4NHpkMGhnY2JmODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KsqjIMNDUC0ahQZmlhxghgBpuS0oUEife7ZvX7KTUc4/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB4dTk4ZnQ3aDJ1Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.skTfzJjE-oqebwXpmZ2jwpq69P_TVdqO1h-GxT7hlLM/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB4dTk4ZnQ3aDJ1Yi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.skTfzJjE-oqebwXpmZ2jwpq69P_TVdqO1h-GxT7hlLM/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZmOGxoN3FzZTZndzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.njfYl1EZ5Bi9DgNB-T0WjAGxf3QSuNDvhSSq3lBwZOI/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZmOGxoN3FzZTZndzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.njfYl1EZ5Bi9DgNB-T0WjAGxf3QSuNDvhSSq3lBwZOI/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 9,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 11592379,
+        "name": "Kompania Domowa",
+        "slug": "kompania-domowa-ID11592379",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2azlvMzh4Z2RmNDEtQVBMIn0.O7PfGSoBAjq8-P2ng549ZrDDdFPMi0Forza2ZCvTXCY/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": null,
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": null,
+      "areaInSquareMeters": 46.53,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "TWO",
+      "hidePrice": true,
+      "floorNumber": "FOURTH",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:45:29",
+      "createdAtFirst": "2026-02-20T10:23:12Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:45:35+02:00",
+      "specialOffer": null,
+      "shortDescription": "2-pokojowe mieszkanie numer PK-LM-33  na 4. piętrze w Inwestycji Plastyczna Kamienica przy Sympatycznej Dewelopera Kompania DomowaDwustopniowy system kontroli dostępu, całodobowy monitoringFiltry anty...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Aneta Węska",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9mcml2ZjRhaTE0aTMtQVBMIn0.H433ink5QklG9iWp3dNuQH2uL47-7v_JQit1aw9qkT8/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "STORAGE_ROOM",
+          "weight": 30,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BASEMENT",
+          "weight": 25,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "TOP_FLOOR",
+          "weight": 20,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/2-pokojowe-mieszkanie-46m2-balkon-ID4Ac6P"
+    }
+  ],
+  "description": "<ul><li><strong>1, 2, 3 i 4-pokojowe</strong> mieszkania <strong>od&nbsp;31&nbsp;m2 do&nbsp;96&nbsp;m2</strong> od dewelopera <strong>Kompania Domowa</strong></li><li>Dwustopniowy system kontroli dostępu, całodobowy monitoring</li><li>Filtry antysmogowe, system oczyszczania powietrza z wirusów, bakterii i grzybów</li><li>Energooszczędne oświetlenie w częściach wspólnych</li><li>Dwustopniowy system kontroli, możliwość ładowania samochodów elektrycznych Podgrzewana rampa zjazdowa do garażuostępu, całodobowy monitoring</li><li>Park Ogrody Kosmosu (1 minuta pieszo)</li><li>Przystanek autobusowy (1 minuta pieszo), stacja SKM (9 minut pieszo)</li></ul><br/><strong>Plastyczna Kamienica przy Sympatycznej - poznaj inwestycję</strong><br/><p><strong>Plastyczna Kamienica przy Sympatycznej</strong> to absolutnie nietuzinkowa inwestycja, która przenosi swoich mieszkańców w świat harmonii i elegancji. Położona w&nbsp;malowniczej strefie Miasto-Ogród-Włochy, inspirowanej wizją Ebenezera Howarda, oferuje zarówno wszystkie atuty wielkomiejskiego życia, jak i bliskości natury. „Miasto-ogród” Howarda miało być azylem od zgiełku, miejscem, gdzie człowiek mógł oddychać pełnią życia, unikając problemów wielkich metropolii – takie było też nasze założenie.</p><p>Inwestycja składa się z funkcjonalnych mieszkań o ciekawych rozkładach, oferujących przestrzenie od 2 do 4 pokoi. Monumentalna bryła budynku, z&nbsp;nowoczesną elewacją tworzy wyjątkowy pejzaż architektoniczny. Wnętrza Plastycznej Kamienicy zachwycają elegancją i dbałością o detale.</p><p><strong>Plastyczna Kamienica przy Sympatycznej to miejsce, gdzie komfort, estetyka i ekologia współtworzą przestrzeń idealną do życia.</strong></p><p><strong>Ekologia i bezpieczeństwo</strong></p><p>Bezpieczeństwo mieszkańców gwarantuje dwustopniowy system kontroli dostępu oraz całodobowy monitoring. System oczyszczania powietrza podnosi dbałość o zdrowie Mieszkańców.</p><p>Zadbaliśmy także o wygodę – projekt obejmuje wyjątkowo komfortowy garaż podziemny z podgrzewaną rampą, wieszaki na rowery, a prywatny teren, urozmaicony zostanie kreatywnym miejscem relaksu.</p><p>Z myślą o środowisku, zastosowaliśmy także ekologiczne farby, energooszczędne oświetlenie, jak i filtry antysmogowe oraz ładowarki do samochodów elektrycznych, które łącznie wypełniają ideę zrównoważonego rozwoju.</p><p><strong>Poznaj atuty</strong></p><ul><li>Lokalizacja w pobliżu SKM</li><li>Bezpośrednie sąsiedztwo Parku ogrody Kosmosu</li><li>Pełna infrastruktura miejska w bliskiej odległości</li><li>Dwustopniowy system kontroli dostępu</li><li>Całodobowy monitoring</li><li>System oczyszczania powietrza z wirusów, bakterii i grzybów</li><li>Energooszczędne oświetlenie w częściach wspólnych</li><li>Filtry antysmogowe</li><li>Możliwość ładowania samochodów elektrycznych</li><li>Podgrzewana rampa zjazdowa do garażu</li><li>Ekologiczne farby w częsciach wspólnych inwestycji</li><li>Wieszaki na rowery</li></ul><br/><strong>Plastyczna Kamienica przy Sympatycznej - lokalizacja</strong><br/><br/>Warszawa,  ul. Sympatyczna<br/><ul><li>6,6 km do centrum</li><li>1 min. spacerem do przystanku autobusowego</li><li>9 min. spacerem do stacji SKM</li><li>9 min. spacerem do stacji kolejowej</li><li>dojazd do centrum: 16 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (30 m, 1 minuta spacerem)</li><li>Stacja SKM (618 m, 9 minut spacerem)</li><li>Stacja kolejowa (618 m, 9 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:00.033Z"
+}

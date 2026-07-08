@@ -1,0 +1,164 @@
+{
+  "id": 68128699,
+  "title": "Mieszkanie dwupoziomowe, 4 pok. 89m w sąsiedztwie Zalewu Nowohuckiego",
+  "slug": "mieszkanie-dwupoziomowe-4-pok-89m-w-sasiedztwie-zalewu-nowohuckiego-ID4BRnZ",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Bulwarowa",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/bienczyce",
+          "fullName": "Bieńczyce, Kraków, małopolskie",
+          "name": "Bieńczyce",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/bienczyce/zalew-nowohucki",
+          "fullName": "Zalew Nowohucki, Bieńczyce, Kraków, małopolskie",
+          "name": "Zalew Nowohucki",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR0bGVzbjZhanF4My1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.iifOtzgMh_5NGf-sTZ-oEsX1XC905pDTEmsoRAtiGKA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR0bGVzbjZhanF4My1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.iifOtzgMh_5NGf-sTZ-oEsX1XC905pDTEmsoRAtiGKA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk0aHBzbnl1cTVibS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.mIjWd3L-qRSkehuDfYh4yUGVWfrihtn0CkK_FkVrXhk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk0aHBzbnl1cTVibS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.mIjWd3L-qRSkehuDfYh4yUGVWfrihtn0CkK_FkVrXhk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlzZ2phbHh2azJkYy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rA4dps9rOEHwKTs2cHcHf3s3uS6lOnOhbGE1udxcqGQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlzZ2phbHh2azJkYy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rA4dps9rOEHwKTs2cHcHf3s3uS6lOnOhbGE1udxcqGQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 18,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1599000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 17966.29,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 89,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:34:21",
+  "createdAtFirst": "2026-06-21T21:32:23Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:34:21+02:00",
+  "specialOffer": null,
+  "shortDescription": "Mieszkanie dwupoziomowe 89 m² – Nowa Huta, w sąsiedztwie Zalewu NowohuckiegoPrzestronne, dwupoziomowe mieszkanie o powierzchni 89 m², położone w spokojnej, zielonej części Nowej Huty, w sąsiedztwie Za...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Jakub",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TWO_LEVEL",
+      "weight": 60,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-dwupoziomowe-4-pok-89m-w-sasiedztwie-zalewu-nowohuckiego-ID4BRnZ",
+  "description": "<p>Mieszkanie dwupoziomowe 89 m² – Nowa Huta, w sąsiedztwie Zalewu Nowohuckiego</p><p>Przestronne, dwupoziomowe mieszkanie o powierzchni 89 m², położone w spokojnej, zielonej części Nowej Huty, w sąsiedztwie Zalewu Nowohuckiego. To idealna propozycja dla rodziny ceniącej komfort i ciszę, z dobrym dostępem do terenów rekreacyjnych, spacerowych i tras rowerowych.</p><p>Poziom parteru tworzy jasny salon połączony z kuchnią – serce mieszkania, gdzie naturalnie skupia się życie domowników i spotkania z gośćmi. Z tego poziomu można wyjść na duży balkon. Znajduje się tu również jedna z sypialni oraz osobna toaleta – wygodne rozwiązanie dla gości i codziennego funkcjonowania. Sprytnie zaaranżowana spiżarnia pod schodami zapewnia dodatkową przestrzeń do przechowywania, bez uszczerbku dla estetyki wnętrza.</p><p>Na piętrze mieści się strefa nocna z dwiema kolejnymi sypialniami oraz garderobą. Znajduje się tu również komfortowa łazienka wyposażona zarówno w wannę, jak i prysznic – idealna zarówno do codziennego relaksu, jak i szybkiej porannej kąpieli. Z tego poziomu wychodzi się na obszerny taras – doskonałe miejsce na wypoczynek, poranną kawę czy spotkania w gronie najbliższych.</p><p>Dodatkowo istnieje możliwość zakupu jednego lub dwóch miejsc postojowych w cenie 85 tys. zł za sztukę.</p><p>Atuty mieszkania:</p><ul><li>Spokojna, zielona lokalizacja w sąsiedztwie <b>Zalewu Nowohuckiego</b></li><li><b>Dwupoziomowy</b> układ z wygodnym podziałem na strefę dzienną i nocną</li><li>Obszerny <b>taras</b> na drugim poziomie i duży balkon na pierwszym</li><li>Sypialnia i osobna toaleta na parterze – elastyczne rozwiązanie funkcjonalne</li><li>Łazienka z <b>wanną i prysznicem</b> na piętrze</li><li>Drewniane podłogi nadające wnętrzu ciepły, naturalny charakter</li><li><b>Klimatyzacja</b> gwarantująca komfort przez cały rok</li><li><b>Garderoba i spiżarnia</b> – funkcjonalne przestrzenie do przechowywania</li><li>Możliwość dokupienia jednego lub dwóch <b>miejsc postojowych</b> (85 tys. zł/szt.)</li></ul><p>To mieszkanie łączy w sobie przestronność domu z wygodą mieszkania oraz atut spokojnej okolicy w obrębie miasta – świetna propozycja dla osób szukających gotowego, dobrze przemyślanego wnętrza.</p>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:24.345Z"
+}

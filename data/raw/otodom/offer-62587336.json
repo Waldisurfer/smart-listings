@@ -1,0 +1,154 @@
+{
+  "id": 62587336,
+  "title": "Słoneczny apartament na prestiżowym osiedlu",
+  "slug": "sloneczny-apartament-na-prestizowym-osiedlu-ID4eBPa",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Wyciszona",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/sielce",
+          "fullName": "Sielce, Mokotów, Warszawa, mazowieckie",
+          "name": "Sielce",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV4cDJkM2I5cjdwbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mB3dRuJKXdxRWDLnaXnc3MoOnMj4DoGWvvjVG7PvPUA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV4cDJkM2I5cjdwbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mB3dRuJKXdxRWDLnaXnc3MoOnMj4DoGWvvjVG7PvPUA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd2ZXg2ZzYyM2YwNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.2xhG6B1e7BPNRs9hQQ6wghHY0whf69R8TKPndIEZy9A/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd2ZXg2ZzYyM2YwNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.2xhG6B1e7BPNRs9hQQ6wghHY0whf69R8TKPndIEZy9A/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBnamFpYmIwNHZzai1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.M-bbKBhHAfcWyYfdb2caheqotd0xdXY-ObONpy8f_tY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBnamFpYmIwNHZzai1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.M-bbKBhHAfcWyYfdb2caheqotd0xdXY-ObONpy8f_tY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 6500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 0,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 91.55,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 71,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 23:01:49",
+  "createdAtFirst": "2021-12-15T19:40:26Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T23:01:49+02:00",
+  "specialOffer": null,
+  "shortDescription": "Wygodny i w pełni wyposażony apartament na nowym osiedlu z kameralną, niską zabudową.Mieszkanie wraz z miejscem postojowym w garażu podziemnym. Przytulny pokój dzienny z wyjściem na balkon oraz z częś...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Anna",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/sloneczny-apartament-na-prestizowym-osiedlu-ID4eBPa",
+  "description": "<p>Wygodny i w pełni wyposażony apartament na nowym osiedlu z kameralną, niską zabudową.</p><p>Mieszkanie wraz z miejscem postojowym w garażu podziemnym. Przytulny pokój dzienny z wyjściem na balkon oraz z częścią kuchenną. Oddzielna sypialnia z dużym łóżkiem i szafą, drugi pokój z biurkiem, półkami i szafą. Na wyposażeniu tv, zmywarka, piekarnik, pralko-suszarka, deska do prasowania, czajnik bezprzewodowy, odkurzacz i drabinka. W łazience wanna z prysznicem. Osobna toaleta.</p><p>Nowoczesny budynek 2-piętrowy. Biuro ochrony na przeciwko wejścia. W cenę wliczony jest już czynsz administracyjny. Dodatkowo co miesiąc płatna zaliczka na poczet opłat za energię, wodę i ogrzewanie; za 2 osoby 300 zł. Internet oraz tv - umowa własna.</p><p>W bezpośrednim otoczeniu tereny zielone idealne do jazdy rowerem i rekreacji, niewielki staw otoczony ścieżką z ławkami i terenem do odpoczynku. Stacja metra Wilanów oddalona o ok.20 minut piechotą, Galeria Mokotów 10 min autem, miasteczko Wilanów 10 min rowerem. W okolicy lokale usługowe, Żabka, Lidl, restauracja sushi, kawiarnia, przystanek autobusowy, prywatna przychodnia, myjnia samochodowa.</p><p></p><p>———————————————————————————</p><p>This fully equipped, modern &amp; neat apartment sits in a new and quiet residential area with low-rise 3-floor houses.</p><p>Cosy living room with balcony and flatscreen tv, kitchen with a kettle and a dishwasher, fridge, oven and a table.</p><p>1 bedroom with a double bed and a closet, second bedroom with a desk, shelves unit and a closet. Bathroom with a bathtub and washer-drier. Separate toilet. There is an iron board, a vacuum cleaner and a small ladder.</p><p>One parking space in a saft underground garage. We speak English and Russian.</p><p>Price includes administration rent. Additionally we ask for a monthly payment of 300 PLN for 2 people towards energy bills, water and heating ( subject to change). Internet and tv service to be arranged on your own.</p><p>About 20-minute walk to metro station Wilanowska, 10-minute drive to Galeria Mokotów (shopping gallery) and 10 minutes by bike to Wilanów. In the building next door there is Żabka, sushi restaurant and a café, nearby Lidl, bus stop etc.</p><p>50 meters away there is a recreational area perfect for cycling and walking, with a pond and benches to relax.</p><p></p><p></p>",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:43.150Z"
+}

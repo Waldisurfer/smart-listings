@@ -1,0 +1,169 @@
+{
+  "id": 68149230,
+  "title": "Komfortowe mieszkanie 56m² z dużym ogrodem (150m²) i tarasem",
+  "slug": "komfortowe-mieszkanie-56m-z-duzym-ogrodem-150m-i-tarasem-ID4BVJ8",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Skowronia",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze-duchackie",
+          "fullName": "Podgórze Duchackie, Kraków, małopolskie",
+          "name": "Podgórze Duchackie",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze-duchackie/wola-duchacka",
+          "fullName": "Wola Duchacka, Podgórze Duchackie, Kraków, małopolskie",
+          "name": "Wola Duchacka",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl0dXZrbWwxdXpwaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q4wgy0vpDHOkuIBizgERcFj8C4_IOvhB7oI8JzcOJRw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl0dXZrbWwxdXpwaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Q4wgy0vpDHOkuIBizgERcFj8C4_IOvhB7oI8JzcOJRw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5ZmkwYjg1dXg2aDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y-CTaORZuoX12Xq9Wvjz3OxxyMge1nutB5X2f7-oxMw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5ZmkwYjg1dXg2aDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y-CTaORZuoX12Xq9Wvjz3OxxyMge1nutB5X2f7-oxMw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVhazM3NTRld3I4Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QNXW_8mUK_JvK6F_EDKxVocW2m-Pq9NHwenvXLHnbTg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVhazM3NTRld3I4Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QNXW_8mUK_JvK6F_EDKxVocW2m-Pq9NHwenvXLHnbTg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1120000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 930,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 20000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 56,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:58:07",
+  "createdAtFirst": "2026-06-26T21:54:27Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:58:08+02:00",
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż funkcjonalne i stylowo zaprojektowane mieszkanie o powierzchni 56 m², idealne dla pary, rodziny z dzieckiem lub jako inwestycja. Nieruchomość położona jest w Krakowie, w dzielnicy Wola Duc...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Sławomir Zakrzewski",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/komfortowe-mieszkanie-56m-z-duzym-ogrodem-150m-i-tarasem-ID4BVJ8",
+  "description": "<p>Na sprzedaż funkcjonalne i stylowo zaprojektowane mieszkanie o powierzchni 56 m², idealne dla pary, rodziny z dzieckiem lub jako inwestycja. Nieruchomość położona jest w Krakowie, w dzielnicy Wola Duchacka.</p><p>Układ mieszkania:</p><ul><li>duży salon z jasną kuchnią</li><li>2 oddzielne pokoje: sypialnia z dużą szafą, pokój dziecięcy</li><li>przestronny korytarz z szafą wnękową</li><li>łazienka z wanną i dodatkową opcją prysznica</li><li>pomieszczenie gospodarcze (spiżarnia) z pralką oraz zabudową meblową</li></ul><p>Atuty nieruchomości:</p><ul><li>mieszkanie <b>w pełni umeblowane</b> – wszystkie meble wykonane na wymiar przez stolarza</li><li>projekt wnętrza przygotowany przez architekta – spójność kolorystyczna i wysoki standard</li><li><b>bardzo cicha i spokojna okolica</b></li><li>duży prywatny ogródek (150m2) z własnym placem zabaw, zaaranżowanym tarasem</li></ul><p>W pobliżu:</p><ul><li>centrum handlowe <b>Bonarka</b></li><li><b>Biedronka</b> oraz inne sklepy i usługi</li><li><b>Park Duchacki</b></li><li>przedszkola, żłobki i szkoła w pobliżu</li></ul><p>Świetne połączenie ciszy i dostępu do pełnej infrastruktury miejskiej</p><p>Dodatkowo:</p><ul><li>miejsce postojowe w garażu podziemnym (w cenie 75.000 PLN)</li><li>komórka lokatorska przy miejscu postojowym (w cenie 15.000 PLN)</li></ul><p>Informacja dotycząca wydania nieruchomości:</p><p><b>Mieszkanie wolne od hipoteki i innych zobowiązań.</b> </p><p>Zapraszam do kontaktu oraz na prezentację! Ogłoszenie prywatne, bez pośredników i dodatkowych kosztów.</p>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:19.367Z"
+}

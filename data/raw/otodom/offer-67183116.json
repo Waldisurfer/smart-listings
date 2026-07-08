@@ -1,0 +1,323 @@
+{
+  "id": 67183116,
+  "title": "3-pokojowe mieszkanie 53m2 + balkon",
+  "slug": "3-pokojowe-mieszkanie-53m2-balkon-ID4xToE",
+  "estate": "FLAT",
+  "development": {
+    "id": 67183104,
+    "title": "Kordiana 46",
+    "slug": "kordiana-46-ID4xTos",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "ul. Kordiana",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Kraków",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "małopolskie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "malopolskie",
+            "fullName": "małopolskie",
+            "name": "małopolskie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow",
+            "fullName": "Kraków, małopolskie",
+            "name": "Kraków",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow/podgorze-duchackie",
+            "fullName": "Podgórze Duchackie, Kraków, małopolskie",
+            "name": "Podgórze Duchackie",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow/podgorze-duchackie/kurdwanow",
+            "fullName": "Kurdwanów, Podgórze Duchackie, Kraków, małopolskie",
+            "name": "Kurdwanów",
+            "locationLevel": "residential",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inhtb2M4dHNmZ2JxcDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.I3C5t4NlvxI3YE7X68R_wXBIxcvdrykZMpfeoiJYCmE/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inhtb2M4dHNmZ2JxcDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.I3C5t4NlvxI3YE7X68R_wXBIxcvdrykZMpfeoiJYCmE/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMyOGRsbXl3eDgwNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FTgnNAiRSYhiTCZ42vWqAG5jQqeD5bN6Wn8cyteY5RY/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMyOGRsbXl3eDgwNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FTgnNAiRSYhiTCZ42vWqAG5jQqeD5bN6Wn8cyteY5RY/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF4ZG42MDA5eHA4cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Nl43zit0Bhhnvi2uweK1AUk5i-uPkk9baYA9X8Zfsiw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF4ZG42MDA5eHA4cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Nl43zit0Bhhnvi2uweK1AUk5i-uPkk9baYA9X8Zfsiw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwYThmMWx3bHZ4MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.P3Lyo2s-WXttRowyiKEWSA4L-YraautrDd1gdKord1U/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwYThmMWx3bHZ4MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.P3Lyo2s-WXttRowyiKEWSA4L-YraautrDd1gdKord1U/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 4,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 10556377,
+      "name": "Start",
+      "slug": "start-ID10556377",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFuZzhjc2d3aTR3ODItQVBMIn0.0H-Z0hvmP1cAHTXm44M1N6kUtwuQqQl7TbEtIrEJSlo/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 14300,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "READY",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 53,
+      "to": 70,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2025-08-29 11:12:48",
+    "createdAtFirst": "2025-08-29T11:12:16Z",
+    "investmentUnitsNumber": 5,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "SECOND",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "ONE",
+      "max": "FOUR",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 1,
+      "year": 2026,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "1, 3 i 4-pokojowe mieszkania od53m2 do70m2 w cenie od 824362 zł od dewelopera StartPrzystanek tramwajowy i autobusowy (4 min pieszo)Carrefour (5 min pieszo), Lidl (7 min pieszo), Biedronka (9 min pies...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 67183104,
+  "developmentTitle": "Kordiana 46",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/kordiana-46-ID4xTos",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Kordiana",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze-duchackie",
+          "fullName": "Podgórze Duchackie, Kraków, małopolskie",
+          "name": "Podgórze Duchackie",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze-duchackie/kurdwanow",
+          "fullName": "Kurdwanów, Podgórze Duchackie, Kraków, małopolskie",
+          "name": "Kurdwanów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwYThmMWx3bHZ4MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.P3Lyo2s-WXttRowyiKEWSA4L-YraautrDd1gdKord1U/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwYThmMWx3bHZ4MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.P3Lyo2s-WXttRowyiKEWSA4L-YraautrDd1gdKord1U/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3aWM5cXI3Z2g1ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0N3J25KL1gID2Hzht9UOcOahfDoBzhMxY6YFvooJlNo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3aWM5cXI3Z2g1ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0N3J25KL1gID2Hzht9UOcOahfDoBzhMxY6YFvooJlNo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBza3E0cWxhY3I0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.XFdt_YPEHjWO5ug7K4r5WmqDRJ-zXX1Ldubqjovqo0A/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBza3E0cWxhY3I0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.XFdt_YPEHjWO5ug7K4r5WmqDRJ-zXX1Ldubqjovqo0A/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": true,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 10556377,
+    "name": "Start",
+    "slug": "start-ID10556377",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFuZzhjc2d3aTR3ODItQVBMIn0.0H-Z0hvmP1cAHTXm44M1N6kUtwuQqQl7TbEtIrEJSlo/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 824362,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 15400,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 53.53,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:15:20",
+  "createdAtFirst": "2025-08-29T11:14:30Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:15:42+02:00",
+  "specialOffer": null,
+  "shortDescription": "3-pokojowe mieszkanie numer 46/15  na 1. piętrze w Inwestycji Kordiana 46 Dewelopera StartPrzystanek tramwajowy i autobusowy (4 min pieszo)Carrefour (5 min pieszo), Lidl (7 min pieszo), Biedronka (9 m...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Kinga Trąbińska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw3eWN0cTdybTJzaDEtQVBMIn0.YP6hxXNMTFGV8Ql12FAzxOdKd5X4h_V_0W_u7mZst1I/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/3-pokojowe-mieszkanie-53m2-balkon-ID4xToE",
+  "description": "<ul><li>3-pokojowe mieszkanie<strong> numer 46/15</strong>  na 1. piętrze w Inwestycji Kordiana 46 Dewelopera Start</li><li>Przystanek tramwajowy i autobusowy (4 min pieszo)</li><li>Carrefour (5 min pieszo), Lidl (7 min pieszo), Biedronka (9 min pieszo)</li><li>Park Kurdwanów (10 min pieszo), Park Duchacki (6 min rowerem)</li><li>Centrum Handlowe Bonarka (10 min samochodem), Park Handlowy Zakopianka (9 min samochodem), Centrum Handlowe Dekada (4 min samochodem)</li></ul><br/><strong>Kordiana 46 - poznaj inwestycję</strong><br/><p><strong>Inwestycja Kordiana 46 </strong>zlokalizowana przy ul. Kordiana 46 w Krakowie, to kameralny budynek, położony w jednej z większych sypialni Krakowa, jaką jest dzielnica Kurdwanów. Atutem tej lokalizacji jest niewątpliwie <strong>bliskość różnych placówek oświatowych</strong>, takich jak przedszkola, szkoły podstawowe, liceum oraz biblioteki miejskie. W centralnej części tego rejonu rozciąga się <strong>Park Kurdwanowski o powierzchni około 4,2 ha z placami zabaw dla dzieci.</strong> Mieszczą się tu także ośrodki rekreacyjno-sportowe, korty tenisowe i basen. W pobliżu do dyspozycji mieszkańców są <strong>ośrodki medyczne, przychodnia oraz szpital specjalistyczny</strong>, apteki, placówki bankowe oraz plac targowy. Zaledwie <strong>300 metrów dzielić będzie mieszkańców od centrum handlowego Carrefour</strong>, a w promieniu 3 kilometrów od inwestycji znajdują się także <strong>C.H. Bonarka i Castorama</strong>.</p><p>Rewelacyjnie rozwinięta komunikacja tramwajowo-autobusowa, szczególnie <strong>Krakowska Linia Szybkiego Tramwaju</strong> przyczyni się do zapewnienia codziennego komfortu podróżowania mieszkańcom, a osoby często pokonujące większe odległości samochodem zadowoli na pewno <strong>bliskość obwodnicy Krakowa</strong>.</p><br/><strong>Kordiana 46 - lokalizacja</strong><br/><br/>ul. Kordiana 50B, Kraków<br/><ul><li>6,1 km do centrum</li><li>5 min. spacerem do przystanku tramwajowego</li><li>6 min. spacerem do przystanku autobusowego</li><li>dojazd do centrum: 17 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek tramwajowy (341 m, 5 minut spacerem)</li><li>Przystanek autobusowy (361 m, 6 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:33.063Z"
+}

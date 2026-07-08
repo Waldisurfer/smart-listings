@@ -1,0 +1,154 @@
+{
+  "id": 68171444,
+  "title": "BEZPOŚREDNIO wynajmę 2 - pokojowe mieszkanie - METRO WAWRZYSZEW",
+  "slug": "bezposrednio-wynajme-2-pokojowe-mieszkanie-metro-wawrzyszew-ID4C2wq",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Sándora Petöfiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bielany",
+          "fullName": "Bielany, Warszawa, mazowieckie",
+          "name": "Bielany",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bielany/wawrzyszew",
+          "fullName": "Wawrzyszew, Bielany, Warszawa, mazowieckie",
+          "name": "Wawrzyszew",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM1bDJubDlzeWRyczItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LjQzYwBWHP6wUWJMbIJol3fUNz9LqhiXHTjM6tFuhoI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM1bDJubDlzeWRyczItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LjQzYwBWHP6wUWJMbIJol3fUNz9LqhiXHTjM6tFuhoI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ6bXhlOXIycXV5bDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lu0V7tJJg8MqPiHbO9Eh6Qu0K7xCn-NX-KGvGctNjIA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ6bXhlOXIycXV5bDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lu0V7tJJg8MqPiHbO9Eh6Qu0K7xCn-NX-KGvGctNjIA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpeHR2Z2RzaGN1bDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XfZ9lJgc7anrzIz7Tj6V77P77sAOc2ERkdjeaSk9Scs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFpeHR2Z2RzaGN1bDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XfZ9lJgc7anrzIz7Tj6V77P77sAOc2ERkdjeaSk9Scs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 3000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 68.18,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 44,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:55:50",
+  "createdAtFirst": "2026-07-03T22:41:21Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Mieszkanie o powierzchni 44 m2 składa się z pokoju o pow. ok. 20 m2, drugiego pokoju o pow. ok. 10 m2, oddzielnej widnej kuchni otwartej na przedpokój, łazienki oraz balkonu.Mieszkanie do zamieszkania...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Joanna",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/bezposrednio-wynajme-2-pokojowe-mieszkanie-metro-wawrzyszew-ID4C2wq",
+  "description": "<p>Mieszkanie o powierzchni 44 m2 składa się z pokoju o pow. ok. 20 m2, drugiego pokoju o pow. ok. 10 m2, oddzielnej widnej kuchni otwartej na przedpokój, łazienki oraz balkonu.</p><p>Mieszkanie do zamieszkania od zaraz, łazienka po generalnym remoncie, nowa kanapa, zmywarka. W przedpokoju duża, pojemna szafa typu komandor.</p><p>Blok ocieplony, odnowiony, nowe windy.</p><p>Świetna lokalizacja, szybki dojazd do centrum 10 min metrem (w pobliżu przystanki tramwajowe i autobusowe).</p><p>Rozbudowana infrastruktura - żłobek, przedszkole, szkoły, punkty usługowe, poczta, żabka, biedronka, sklep spożywczy, siłownia, tereny zielone, Lasek Bielański, Kampinos, Galeria Młociny.</p><p>Cena za wynajem mieszkania 3 000 zł dodatkowo płatny czynsz administracyjny 700 zł i opłaty licznikowe - prąd woda, media. Kaucja w wysokości 4 000 zł.</p><p>Jest możliwość parkowania samochodu pod blokiem.</p>",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:45.416Z"
+}

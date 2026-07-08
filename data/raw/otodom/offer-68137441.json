@@ -1,0 +1,154 @@
+{
+  "id": 68137441,
+  "title": "Mieszkanie 30m2 | Stare Podgorze | ul. Dabrowskiego | bez prowizji",
+  "slug": "mieszkanie-30m2-stare-podgorze-ul-dabrowskiego-bez-prowizji-ID4BTEZ",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. gen. Henryka Dąbrowskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze",
+          "fullName": "Podgórze, Kraków, małopolskie",
+          "name": "Podgórze",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze/stare-podgorze",
+          "fullName": "Stare Podgórze, Podgórze, Kraków, małopolskie",
+          "name": "Stare Podgórze",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRvdTlsM2IwbHY4NTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3xLoP5X9XWj3aof0zv7sRvL_jADaWb_mayjD-TVSzKo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRvdTlsM2IwbHY4NTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3xLoP5X9XWj3aof0zv7sRvL_jADaWb_mayjD-TVSzKo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNteDBrdjNjY3JsejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MWVMn82Az5bk-qirvdWMOGNrd9IZ3372XGav_CogbVk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNteDBrdjNjY3JsejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MWVMn82Az5bk-qirvdWMOGNrd9IZ3372XGav_CogbVk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjViMDUxNXp0YzJ3bzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YiL8bQw47mvfdXf3E3rRH9iat7xS42772Vp3MMQ2eDA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjViMDUxNXp0YzJ3bzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YiL8bQw47mvfdXf3E3rRH9iat7xS42772Vp3MMQ2eDA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 7,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 2600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 86.67,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 30,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 19:28:13",
+  "createdAtFirst": "2026-06-23T18:47:21Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T19:28:13+02:00",
+  "specialOffer": null,
+  "shortDescription": "OpisDo wynajęcia male mieszkanie dla 1 osoby bądź pary. Pokój z aneksem kuchennym, osobna łazienka oraz pomieszczenie gospodarczeI do also speak english more info below- W łazience prysznic, toaleta, ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Rafal Zawadzki",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-30m2-stare-podgorze-ul-dabrowskiego-bez-prowizji-ID4BTEZ",
+  "description": "<p><b>Opis</b></p><p>Do wynajęcia male mieszkanie dla 1 osoby bądź pary. Pokój z aneksem kuchennym, osobna łazienka oraz pomieszczenie gospodarcze</p><p></p><p>I do also speak english more info below</p><p></p><p>- W łazience prysznic, toaleta, umywalka, pralka.</p><p>- W aneksie kuchennym płyta indukcyjna, lodówka, zmywarka</p><p>- W pokoju kanapa, telewizor, blat, stolik kawowy. Oddzielna przestrzeń z łóżkiem. Łóżko z widokiem na niebo.</p><p>- Taras od oficyny z widokiem ogród</p><p></p><p>Studio o powierzchni 30 m2, 3 piętro, budynek z 2017 roku z windą.</p><p></p><p>Mieszkanie znajduje się:</p><p>- 5 minut od przystanku \"Plac Bohaterów Getta\"</p><p>- 5 minut od przystanku autobusowego \"Podgórze SKA\" (127, 143, 158, 174, 178, 578),</p><p></p><p>Opłaty:</p><p>- najem - 2600zł</p><p>- zaliczka na czynsz administracyjny - ok. 600-650zł (przy dwóch osóbach - zawiera zużycie wody i ogrzewanie).</p><p>- prąd wg zużycia (ok. 100zł/mc przy dwóch osóbach)</p><p>- Internet 50 PLN</p><p>Kaucja wynosi 4000 pln. Bez prowizji.</p><p></p><p>Dodatkowe informacje:</p><p>- w mieszkaniu nie ma gazu;</p><p>- woda, ogrzewanie - MPEC;</p><p>- stojaki rowerowe przy budynku oraz w wózkowni;</p><p>- mieszkanie dostępne od lipca.</p><p>Umowa na rok.</p><p></p><p>---ENG---</p><p>A studio for 1 person or a couple for rent. A room with a kitchenette, a separate bathroom and a utility room</p><p>- In the bathroom there is a shower, toilet, sink, washing machine.</p><p>- In the kitchenette, an induction hob, fridge and dishwasher</p><p>- In the room there is a sofa, TV, table top, coffee table. Separated space with a bed.</p><p>- Terrace from the outbuilding with a view of the garden</p><p>Studio 30 m2, 3rd floor, building from 2017 with elevator.</p><p>The flat is:</p><p>- 5 minutes from the \"Plac Bohaterów Getta\" stop</p><p>- 5 minutes from the \"Podgórze SKA\" bus stop (127, 143, 158, 174, 178, 578),</p><p>Fees:</p><p>- rental - PLN 2600</p><p>- advance payment for administrative rent - approx. PLN 600-650 (includes water consumption and heating).</p><p>- electricity according to consumption (about PLN 100 / month )</p><p>- Internet 50 PLN</p><p>The deposit is 4000 PLN. Without commission.</p><p></p><p>Additional information:</p><p>- there is no gas in the apartment;</p><p>- water, heating - MPEC;</p><p>- bicycle stands at the building and in the pram;</p><p>- the apartment is available from July.</p><p>One year rental</p>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:34.953Z"
+}
