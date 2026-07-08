@@ -47,5 +47,9 @@ export async function ensureSchema(): Promise<void> {
       `Could not reach MySQL after ${CONNECT_RETRIES} attempts — is "docker compose up -d" running? (${lastError})`,
     );
   }
+  // schema.sql must stay a SINGLE statement: the pool has no multipleStatements,
+  // so only the first statement in this string would execute. If the schema ever
+  // needs a second statement (an ALTER, a separate index), split and run each, or
+  // enable multipleStatements on the pool — a silent partial-apply otherwise.
   await pool.query(readFileSync(SCHEMA_PATH, 'utf-8'));
 }
