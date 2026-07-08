@@ -1,0 +1,10 @@
+{
+  "name": "smart-listings",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet — added in phase 2\" && exit 0"
+  }
+}
