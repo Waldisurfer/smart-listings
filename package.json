@@ -10,6 +10,6 @@
   "scripts": {
     "dev": "npm --workspace server run dev",
     "typecheck": "npm --workspace server run typecheck",
-    "test": "echo \"no tests yet — added in phase 2\" && exit 0"
+    "test": "npm --workspace server run test"
   }
 }
