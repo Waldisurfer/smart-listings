@@ -13,16 +13,30 @@ is the brief this build answers.
 
 ## Quickstart
 
+### Option A — one command (Docker)
+
 ```bash
-cp .env.example .env    # ANTHROPIC_API_KEY optional — only the chat box uses it
-docker compose up -d    # MySQL 8 (host port parameterized, loopback-only)
-npm install
-npm start               # seed → build → serve on one port → http://localhost:3004
+cp .env.example .env      # ANTHROPIC_API_KEY optional — only the chat box uses it
+docker compose up         # MySQL + app, seeded, on http://localhost:3004
 ```
 
-`npm start` seeds the committed dataset, builds the frontend, and serves the API
-and the SPA from a single Express port. The data ships in the repo
-(`data/enriched/listings.json`), so no scraping or API key is needed to run it.
+No Node, no manual build. Compose builds the app image (which builds the
+frontend), starts MySQL, waits for it to be healthy, then seeds and serves. The
+key — if set in your `.env` — is passed through as a runtime env var and never
+baked into the image.
+
+### Option B — host-side development (Node + Dockerised MySQL)
+
+```bash
+cp .env.example .env
+docker compose up -d db   # just MySQL 8 (host port parameterized, loopback-only)
+npm install
+npm start                 # seed → build → serve on one port → http://localhost:3004
+```
+
+Either way, the data ships in the repo (`data/enriched/listings.json`), so no
+scraping or API key is needed to run it — `npm start` seeds the committed
+dataset, builds the frontend, and serves the API and SPA from a single port.
 
 ## Scripts
 
