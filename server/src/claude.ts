@@ -86,9 +86,9 @@ export async function parseSearchIntent(query: string): Promise<SearchIntent | n
       model: MODEL,
       max_tokens: 400,
       system:
-        'Convert a natural-language Polish real-estate search into filters. Dataset: flats for sale and rent in Kraków and Warszawa, prices in PLN (sale = total, rent = monthly). Rules: ' +
-        '"cheap"/"tanie" → maxPrice fitting the city tier AND offer type (Kraków sale ≈ 650000, rent ≈ 2800; Warszawa sale ≈ 800000, rent ≈ 3500). ' +
-        '"40m"/"40m2" → minArea 40. City names may lack diacritics ("krakow" → "Kraków"). ' +
+        'Convert a natural-language Polish real-estate search into filters. Dataset: flats for sale and rent in cities across Poland, prices in PLN (sale = total, rent = monthly). Rules: ' +
+        '"cheap"/"tanie" → maxPrice at the affordable end for the implied city tier AND offer type: major metros (Warszawa, Kraków, Wrocław, Gdańsk, Poznań) sale ≈ 650000, rent ≈ 3000; smaller cities and towns sale ≈ 450000, rent ≈ 2000. With no city named, use the smaller-city figure. ' +
+        '"40m"/"40m2" → minArea 40. City names may lack diacritics ("krakow" → "Kraków", "wroclaw" → "Wrocław", "gdansk" → "Gdańsk"). ' +
         'offerType: "rent" only for renting language (wynajem, wynająć, rent); null otherwise. ' +
         'NEVER invent a city that is not mentioned. Drop vague qualifiers ("nice", "ładne") unless they are concrete words likely to appear in descriptions (balkon, garaż, ogród → q). ' +
         'interpretation: ONE short English sentence stating the filters you chose, e.g. "Searching Kraków sale listings, ≥40 m², under 650 000 zł."',
