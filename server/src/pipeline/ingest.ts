@@ -1,7 +1,7 @@
 /**
  * Stage 2b: data/raw/otodom/*.json → data/enriched/listings.json. Runs ONCE on
- * the author's machine (needs network + ANTHROPIC_API_KEY); the grader only ever
- * consumes the committed output via seed. Per-listing failure → nulls + flags,
+ * the author's machine (needs network + ANTHROPIC_API_KEY); the app at runtime
+ * only ever consumes the committed output via seed. Per-listing failure → nulls + flags,
  * never a dead run.
  *
  * Per file: normalize (deterministic) → AI gap-fill (only if rooms/area/floor
