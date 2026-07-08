@@ -6,7 +6,7 @@ import ChatSearch, { type IntentResponse } from '../components/ChatSearch.vue';
 import ListingCard from '../components/ListingCard.vue';
 
 const PAGE_SIZE = 20;
-const DEBOUNCE_MS = 300;
+const DEBOUNCE_MS = 900;
 // The nationwide sample's cities aren't known ahead of time — load them from the API.
 const cities = ref<string[]>([]);
 
@@ -141,10 +141,22 @@ onMounted(() => {
 <template>
   <section>
     <div class="mode-switch">
-      <p class="mode-hint">✨ Spróbuj wyszukiwania z AI</p>
-      <div class="toggle" role="group" aria-label="Tryb wyszukiwania">
-        <button :class="{ active: !aiMode }" @click="aiMode = false">Zwykłe wyszukiwanie</button>
-        <button :class="{ active: aiMode }" @click="aiMode = true">✨ Wyszukiwanie AI</button>
+      <p class="mode-hint">Jak chcesz szukać?</p>
+      <div class="mode-toggle" role="group" aria-label="Tryb wyszukiwania">
+        <button :class="{ active: !aiMode }" @click="aiMode = false">
+          <span class="mode-icon">🔍</span>
+          <span class="mode-label">
+            <strong>Zwykłe wyszukiwanie</strong>
+            <small>Tekst i filtry</small>
+          </span>
+        </button>
+        <button :class="{ active: aiMode }" @click="aiMode = true">
+          <span class="mode-icon">✨</span>
+          <span class="mode-label">
+            <strong>Wyszukiwanie AI</strong>
+            <small>Opisz, czego szukasz</small>
+          </span>
+        </button>
       </div>
     </div>
 
@@ -226,16 +238,75 @@ onMounted(() => {
 }
 
 .mode-switch {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  margin-bottom: 14px;
+  margin-bottom: 18px;
 }
 
 .mode-hint {
-  margin: 0;
+  margin: 0 0 8px;
   font-size: 13px;
+  font-weight: 600;
   color: var(--muted);
+}
+
+/* Two rounded cards side by side — a deliberate choice, not one long bar. */
+.mode-toggle {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  max-width: 520px;
+}
+
+.mode-toggle button {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 18px;
+  text-align: left;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: border-color 150ms ease, box-shadow 150ms ease, background 150ms ease,
+    color 150ms ease;
+}
+
+.mode-toggle button:hover {
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
+}
+
+.mode-toggle button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.mode-toggle button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  box-shadow: var(--shadow);
+}
+
+.mode-icon {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.mode-label {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.mode-label strong {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.mode-label small {
+  font-size: 12px;
+  opacity: 0.7;
 }
 
 .interpretation {
@@ -272,6 +343,15 @@ onMounted(() => {
 
 .filter-row input[type='number'] {
   width: 120px; /* fits the Polish placeholders ("Cena od (zł)", "Pow. od (m²)") */
+  /* No spin buttons — these are typed (e.g. 650000), not clicked step-by-step. */
+  appearance: textfield;
+  -moz-appearance: textfield;
+}
+
+.filter-row input[type='number']::-webkit-outer-spin-button,
+.filter-row input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
 
 .toggle {
