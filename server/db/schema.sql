@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS listings (
   price_per_m2  INT UNSIGNED NULL,                  -- derived when missing: price / area
   area_m2       DECIMAL(7,2) NULL,
   rooms         TINYINT UNSIGNED NULL,
-  floor         TINYINT NULL,                       -- "parter" → 0
+  floor         TINYINT NULL,                       -- otodom enum → int; GROUND → 0, CELLAR → -1
   city          VARCHAR(128) NULL,
   district      VARCHAR(128) NULL,
   street        VARCHAR(256) NULL,
