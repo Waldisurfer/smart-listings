@@ -6,7 +6,13 @@
 import { afterAll, beforeAll, describe, expect, test } from 'vitest';
 import { pool } from '../db.js';
 import { seed } from '../pipeline/seed.js';
-import { findById, findListings, type ListingFilters } from './listingsRepo.js';
+import type { OfferType } from '../types.js';
+import {
+  findById,
+  findListings,
+  getDistinctCities,
+  type ListingFilters,
+} from './listingsRepo.js';
 
 const q = (over: Partial<ListingFilters> = {}): ListingFilters => ({
   offerType: 'sale',
@@ -25,15 +31,27 @@ afterAll(async () => {
 });
 
 describe('findListings', () => {
-  test('filters by offer type — 54 sale, 54 rent (0 duplicates in the set)', async () => {
-    expect((await findListings(q({ offerType: 'sale', pageSize: 200 }))).total).toBe(54);
-    expect((await findListings(q({ offerType: 'rent', pageSize: 200 }))).total).toBe(54);
+  test('filters by offer type — both types present, none leaked', async () => {
+    const sale = await findListings(q({ offerType: 'sale', pageSize: 200 }));
+    const rent = await findListings(q({ offerType: 'rent', pageSize: 200 }));
+    expect(sale.total).toBeGreaterThan(0);
+    expect(rent.total).toBeGreaterThan(0);
+    expect(sale.items.every((i) => i.offer_type === 'sale')).toBe(true);
+    expect(rent.items.every((i) => i.offer_type === 'rent')).toBe(true);
   });
 
   test('city filter returns only that city', async () => {
-    const { items, total } = await findListings(q({ city: 'Kraków', pageSize: 200 }));
+    // Pick a real (city, offer_type) pair from the nationwide sample: a small
+    // city may hold only sale OR only rent, so the query must use that row's own
+    // offer type — filtering by the default 'sale' could otherwise hit a
+    // rent-only city and return nothing.
+    const [[row]] = (await pool.query(
+      'SELECT city, offer_type FROM listings WHERE city IS NOT NULL AND is_duplicate = FALSE LIMIT 1',
+    )) as unknown as [Array<{ city: string; offer_type: OfferType }>];
+    const { city, offer_type } = row!;
+    const { items, total } = await findListings(q({ city, offerType: offer_type, pageSize: 200 }));
     expect(total).toBeGreaterThan(0);
-    expect(items.every((i) => i.city === 'Kraków')).toBe(true);
+    expect(items.every((i) => i.city === city)).toBe(true);
   });
 
   test('a narrower price range never returns more, and bounds every row', async () => {
@@ -51,9 +69,10 @@ describe('findListings', () => {
   });
 
   test('pagination caps the page and preserves the total', async () => {
-    const { items, total } = await findListings(q({ offerType: 'sale', pageSize: 5, page: 1 }));
-    expect(items.length).toBe(5);
-    expect(total).toBe(54);
+    const all = await findListings(q({ offerType: 'sale', pageSize: 200 }));
+    const page = await findListings(q({ offerType: 'sale', pageSize: 5, page: 1 }));
+    expect(page.items.length).toBe(Math.min(5, all.total));
+    expect(page.total).toBe(all.total); // page size doesn't change the total
   });
 
   test('list rows never carry the raw snapshot', async () => {
@@ -73,5 +92,17 @@ describe('findById', () => {
 
   test('returns null for a missing id', async () => {
     expect(await findById(99_999_999)).toBeNull();
+  });
+});
+
+describe('getDistinctCities', () => {
+  test('returns a sorted, de-duplicated, non-empty list', async () => {
+    const cities = await getDistinctCities();
+    expect(cities.length).toBeGreaterThan(0);
+    expect(new Set(cities).size).toBe(cities.length); // no duplicates
+    // Polish-collated order (ł after l, ó after o …), not raw code-point sort.
+    const collator = new Intl.Collator('pl');
+    expect([...cities].sort((a, b) => collator.compare(a, b))).toEqual(cities);
+    expect(cities.every((c) => typeof c === 'string' && c.length > 0)).toBe(true);
   });
 });
