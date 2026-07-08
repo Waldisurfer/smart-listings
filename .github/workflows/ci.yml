@@ -29,7 +29,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm install
+      - run: npm ci
       # `--if-present` keeps steps no-op until a phase adds the script, then they
       # gate automatically. `test` (unit) is DB-free; `test:integration` drives
       # the real pipeline against the MySQL service above.
