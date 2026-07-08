@@ -8,6 +8,8 @@ export interface IntentResponse {
 }
 
 const emit = defineEmits<{ 'apply-filters': [IntentResponse] }>();
+// `large` renders a prominent standalone box for AI-only mode (filters hidden).
+withDefaults(defineProps<{ large?: boolean }>(), { large: false });
 
 const query = ref('');
 const busy = ref(false);
@@ -39,7 +41,7 @@ async function submit() {
 </script>
 
 <template>
-  <form class="chat-search" @submit.prevent="submit">
+  <form class="chat-search" :class="{ large }" @submit.prevent="submit">
     <input
       v-model="query"
       type="text"
@@ -71,5 +73,20 @@ async function submit() {
   color: #fff;
   border-color: var(--accent);
   padding: 0 18px;
+}
+
+/* Standalone AI-only mode: a bigger, more inviting text box. */
+.chat-search.large {
+  margin-top: 4px;
+}
+
+.chat-search.large input {
+  padding: 18px 20px;
+  font-size: 18px;
+}
+
+.chat-search.large button {
+  padding: 0 26px;
+  font-size: 16px;
 }
 </style>
