@@ -8,6 +8,21 @@ on:
 jobs:
   verify:
     runs-on: ubuntu-latest
+    # MySQL service for the integration suite. Credentials/port match the db.ts
+    # defaults, so the seed test connects with zero extra config.
+    services:
+      mysql:
+        image: mysql:8.4
+        env:
+          MYSQL_ROOT_PASSWORD: listings
+          MYSQL_DATABASE: listings
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h 127.0.0.1 -plistings"
+          --health-interval=2s
+          --health-timeout=5s
+          --health-retries=30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -15,9 +30,10 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm install
-      # Steps below are no-ops until the scripts exist (--if-present), then they
-      # start gating automatically as each phase adds typecheck / build. `test`
-      # is always run: it is the merge gate for the test-critical surfaces.
+      # `--if-present` keeps steps no-op until a phase adds the script, then they
+      # gate automatically. `test` (unit) is DB-free; `test:integration` drives
+      # the real pipeline against the MySQL service above.
       - run: npm run typecheck --if-present
       - run: npm test
+      - run: npm run test:integration --if-present
       - run: npm run build --if-present
