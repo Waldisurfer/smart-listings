@@ -5,15 +5,20 @@
     "node": ">=20"
   },
   "workspaces": [
-    "server"
+    "server",
+    "web"
   ],
   "scripts": {
-    "dev": "npm --workspace server run dev",
+    "dev": "concurrently -n api,web -c blue,green \"npm --workspace server run dev\" \"npm --workspace web run dev\"",
+    "build": "npm --workspace web run build",
     "typecheck": "npm --workspace server run typecheck",
     "test": "npm --workspace server run test",
     "test:integration": "npm --workspace server run test:integration",
     "seed": "npm --workspace server run seed",
     "scrape": "npm --workspace server run scrape",
     "ingest": "npm --workspace server run ingest"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
   }
 }
