@@ -20,6 +20,45 @@ I capture the **raw source payload** alongside the normalized row so every
 downstream stage is reproducible offline, and skip fields that need extra
 scraping for little value (coordinates/maps, image galleries, price history).
 
+### How the ~100 are sampled
+
+The scope is the **whole country** (`cala-polska`), not a fixed city list — each
+offer's city comes from its own payload, so the sample lands wherever the random
+draw does. "Random ~100" means two things, and the scraper addresses both:
+
+- **Not the promoted top-of-list.** A naive scrape would return the first
+  results, which are ad-boosted and metro-heavy. Instead the scraper reads page 1
+  only to learn the result size (thousands of pages nationwide), then pools items
+  from **random page offsets across the full range** and shuffles — page 1's own
+  items are discarded so the promoted block never biases the set.
+- **Spread across Poland.** Because the offsets are drawn from the national
+  result set, the offers come from wherever those pages happen to sit. The
+  committed snapshot spans **~40 cities** — big metros and small towns alike
+  (Warszawa, Wrocław and Gdańsk through to Miastko, Węgorzewo, Stegna). The
+  **city** distribution is metro-weighted purely because that is how the national
+  inventory is distributed: an honest random draw, no per-city quota.
+
+**One deliberate balance — offer type.** The one axis that is *not* left to the
+draw is sale vs rent. otodom's national inventory is ~6× more sale than rent, so
+a purely proportional sample would leave only a dozen rentals and a thin sale/rent
+filter — and at n≈100 a single unlucky draw could thin it further. Instead the
+snapshot is balanced at **54 sale + 54 rent = 108** so both sides of the filter
+have real depth to demonstrate; rent and sale also live on entirely different
+price scales (~2–5k PLN/mo vs ~0.5–1.5M PLN), so a near-empty rent view couldn't
+exercise those paths at all.
+
+This is **stratified random sampling**: sale and rent are drawn independently,
+each with the same random-offset draw across the national range, so the sample
+is random *within* each stratum — not a biased slice. The honest caveat is that
+it therefore does **not** mirror the real ~86/14 market composition; that is an
+intentional trade for a ~100-row demo, and dropping the offer-type stratum (or
+raising n substantially) would recover the true ratio. It is the single
+stratified dimension, stated openly; cities remain a genuine nationwide random
+draw.
+
+Because the cities aren't known ahead of time, the city filter is populated
+dynamically from the data (`/api/meta/cities`) rather than hardcoded.
+
 ## How I handle low-quality data: null beats wrong
 
 Data quality is the core of the task, and the governing principle is
