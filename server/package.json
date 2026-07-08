@@ -9,12 +9,15 @@
     "test": "vitest run --exclude '**/*.integration.test.ts'",
     "test:integration": "vitest run integration.test",
     "scrape": "tsx src/pipeline/scrape.ts",
+    "ingest": "tsx src/pipeline/ingest.ts",
     "seed": "tsx src/pipeline/seed.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mysql2": "^3.22.5"
+    "mysql2": "^3.22.5",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
