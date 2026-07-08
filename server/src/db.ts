@@ -7,9 +7,18 @@
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { config as loadEnv } from 'dotenv';
 import mysql from 'mysql2/promise';
 
-const SCHEMA_PATH = join(dirname(fileURLToPath(import.meta.url)), '..', 'db', 'schema.sql');
+const HERE = dirname(fileURLToPath(import.meta.url));
+const SCHEMA_PATH = join(HERE, '..', 'db', 'schema.sql');
+
+// Load .env (repo root) before the pool reads DB_* below, so a plain
+// `npm run seed` / `npm start` honors DB_HOST/DB_PORT overrides — not just the
+// entrypoints that load it themselves (index.ts, ingest.ts). Missing file is a
+// no-op, preserving the zero-.env-setup default. dotenv never overrides vars
+// already set in the environment, so an explicit `DB_PORT=… npm run …` still wins.
+loadEnv({ path: join(HERE, '..', '..', '.env'), quiet: true });
 
 const CONNECT_RETRIES = 10;
 const RETRY_DELAY_MS = 1500;
