@@ -37,3 +37,21 @@ jobs:
       - run: npm test
       - run: npm run test:integration --if-present
       - run: npm run build --if-present
+
+  # Live AI check — proves the real Anthropic path works with the repo secret,
+  # so the app's key-dependent feature (chat search) is demonstrably green. The
+  # script self-gates: no key (e.g. a fork PR that can't see the secret) → it
+  # skips and passes, so this never blocks contributors without a key.
+  ai-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Live AI smoke test
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run ai:smoke

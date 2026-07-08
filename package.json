@@ -18,7 +18,8 @@
     "test:integration": "npm --workspace server run test:integration",
     "seed": "npm --workspace server run seed",
     "scrape": "npm --workspace server run scrape",
-    "ingest": "npm --workspace server run ingest"
+    "ingest": "npm --workspace server run ingest",
+    "ai:smoke": "npm --workspace server run ai:smoke"
   },
   "devDependencies": {
     "concurrently": "^9.1.2"

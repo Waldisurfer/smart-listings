@@ -10,7 +10,8 @@
     "test:integration": "vitest run integration.test --no-file-parallelism",
     "scrape": "tsx src/pipeline/scrape.ts",
     "ingest": "tsx src/pipeline/ingest.ts",
-    "seed": "tsx src/pipeline/seed.ts"
+    "seed": "tsx src/pipeline/seed.ts",
+    "ai:smoke": "tsx src/pipeline/ai-smoke.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.110.0",

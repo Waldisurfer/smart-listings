@@ -21,6 +21,10 @@ Then open **<http://localhost:3004>**. That's it — no Node, no manual build, n
 > The listings data ships inside the repo, so the app works fully offline.
 > The AI key is **optional**: without it, browsing, filtering, and text search
 > all still work — only the AI search box falls back to plain text.
+>
+> **To try the AI features**, paste a key into `.env` before `docker compose up`,
+> then use the "Wyszukiwanie AI" box — type a sentence and watch it turn into
+> filters. (CI also runs a live AI check against the repo's key on every build.)
 
 To stop it: `Ctrl+C`, or `docker compose down` to also remove the containers.
 
@@ -74,6 +78,7 @@ npm run dev               # API + Vite dev server with hot reload
 | `npm run dev` | API + Vite dev server with hot reload, on separate ports. |
 | `npm test` | Unit tests (normalization, dedupe, AI merge logic). |
 | `npm run test:integration` | Repo/API integration tests (needs MySQL up). |
+| `npm run ai:smoke` | Live AI check — confirms your `ANTHROPIC_API_KEY` actually reaches Claude (skips cleanly if unset). |
 | `npm run typecheck` | Type-check the server. |
 
 `scrape` and `ingest` are one-time author steps (they need network access and an
