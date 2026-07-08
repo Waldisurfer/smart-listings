@@ -7,7 +7,7 @@
     "start": "tsx src/index.ts",
     "typecheck": "tsc --noEmit",
     "test": "vitest run --exclude '**/*.integration.test.ts'",
-    "test:integration": "vitest run integration.test",
+    "test:integration": "vitest run integration.test --no-file-parallelism",
     "scrape": "tsx src/pipeline/scrape.ts",
     "ingest": "tsx src/pipeline/ingest.ts",
     "seed": "tsx src/pipeline/seed.ts"
