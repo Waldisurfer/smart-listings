@@ -1,0 +1,164 @@
+{
+  "id": 68075803,
+  "title": "Krowoderska lokal na parterze idealny do zamieszkania lub inwestycji",
+  "slug": "krowoderska-lokal-na-parterze-idealny-do-zamieszkania-lub-inwestycji-ID4BDCP",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Krowoderska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto",
+          "fullName": "Stare Miasto, Kraków, małopolskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto/kleparz",
+          "fullName": "Kleparz, Stare Miasto, Kraków, małopolskie",
+          "name": "Kleparz",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ2OGY3Mm0ybXhjcjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9O0P2U5dR74BlO2XXf0obCJIiPqf_82CymPitsR_cr0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ2OGY3Mm0ybXhjcjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9O0P2U5dR74BlO2XXf0obCJIiPqf_82CymPitsR_cr0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBzMzU2cGl0bzFudTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CF0BhaPGuBBK7LayLXHDFGaMTfHVhiKy9SSOsytgmEE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBzMzU2cGl0bzFudTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CF0BhaPGuBBK7LayLXHDFGaMTfHVhiKy9SSOsytgmEE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im0wZjlkdXM1dnI1NDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9rxxTQDXTDCfszskhXLGsRxfzGrS4DD8mlwIFUO5vxk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im0wZjlkdXM1dnI1NDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9rxxTQDXTDCfszskhXLGsRxfzGrS4DD8mlwIFUO5vxk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1210000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 372,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 15879.27,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 76.2,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 20:48:56",
+  "createdAtFirst": "2026-06-03T20:45:10Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T20:48:56+02:00",
+  "specialOffer": null,
+  "shortDescription": "OFERTA SPRZEDAŻY – KROWODERSKA 53, KRAKÓWWyjątkowa okazja inwestycyjna i mieszkaniowa w sercu Krakowa!Na sprzedaż lokal mieszkalny położony na parterze zadbanej kamienicy przy ul. Krowoderskiej – jedn...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Beata",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/krowoderska-lokal-na-parterze-idealny-do-zamieszkania-lub-inwestycji-ID4BDCP",
+  "description": "<p><b>OFERTA SPRZEDAŻY – KROWODERSKA 53, KRAKÓW</b></p><p>Wyjątkowa okazja inwestycyjna i mieszkaniowa w sercu Krakowa!</p><p>Na sprzedaż lokal mieszkalny położony na parterze zadbanej kamienicy przy ul. Krowoderskiej – jednej z najbardziej cenionych i rozpoznawalnych ulic Krakowa. Nieruchomość znajduje się zaledwie kilka minut spacerem od Rynku Głównego i stanowi doskonałą propozycję zarówno dla osób poszukujących komfortowego miejsca do życia, jak i inwestorów.</p><p>Trudno znaleźć w ścisłym centrum Krakowa nieruchomość o tak wysokim standardzie wykończenia, funkcjonalnym układzie oraz atrakcyjnej cenie za metr kwadratowy.</p><p></p><p>Najważniejsze atuty nieruchomości:</p><p>• Parter z wygodnym i bezpośrednim dostępem</p><p>• Duże okna od strony ulicy zapewniające bardzo dobre doświetlenie wnętrz</p><p>• Wysokość pomieszczeń 3,7 m – poczucie przestrzeni i komfortu</p><p>• Klimatyzacja (2 jednostki)</p><p>• Nowoczesne ogrzewanie gazowe – piec dwufunkcyjny</p><p>• Ogrzewanie podłogowe w kuchni i łazience (również pod prysznicem)</p><p>• Generalny remont przeprowadzony w 2024 roku</p><p>• Nowe instalacje elektryczne i wodno-kanalizacyjne</p><p>• Nowe okna plastikowe</p><p>• Przynależna piwnica</p><p>• Sprzedaż bezpośrednio od właściciela – bez prowizji</p><p></p><p>Układ lokalu:</p><p>• Przestronny z kuchnią</p><p>• Salon / pokój dzienny</p><p>• Sypialnia lub gabinet</p><p>• Łazienka z kabiną prysznicową i ogrzewaniem podłogowym</p><p>• Garderoba z funkcją pralni oraz dodatkowymi miejscami do przechowywania</p><p></p><p>Lokal został zaprojektowany z myślą o maksymalnym wykorzystaniu przestrzeni. Liczne zabudowy, schowki oraz w pełni wyposażona kuchnia (zmywarka, piekarnik, lodówka, płyta indukcyjna) pozwalają na komfortowe użytkowanie od pierwszego dnia.</p><p>Dzięki lokalizacji na parterze oraz reprezentacyjnemu położeniu przy ul. Krowoderskiej nieruchomość może być również wykorzystywana do prowadzenia działalności np. kancelaria, biuro, gabinet specjalistyczny lub wykorzystana jako apartament na wynajem krótko- i długoterminowy.</p><p></p><p>Lokalizacja:</p><p>• Kilka minut spacerem do Rynku Głównego</p><p>• Bliskość przystanków komunikacji miejskiej</p><p>• Blisko Nowego Kleparza, uczelni wyższych, restauracji i kawiarni</p><p>• W pobliżu tereny zielone i rekreacyjne</p><p>• Jedna z najbardziej pożądanych lokalizacji w centrum Krakowa</p><p></p><p>Apartament dostępny od dnia 16.06.2026 r.</p><p></p><p>Nieruchomość stanowi doskonałą lokatę kapitału oraz atrakcyjną inwestycję pod wynajem długo- lub krótkoterminowy.</p><p></p><p>Sprzedaż bezpośrednio od właściciela – bez dodatkowych kosztów i prowizji.</p><p></p><p>Zapraszamy do kontaktu telefonicznego oraz umówienia prezentacji.</p><p>Agencjom nieruchomości dziękujemy.</p>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:38.035Z"
+}

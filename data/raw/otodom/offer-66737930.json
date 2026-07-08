@@ -1,0 +1,962 @@
+{
+  "id": 66737930,
+  "title": "3 Wymiary Bronowice",
+  "slug": "3-wymiary-bronowice-ID4v1Ae",
+  "estate": "INVESTMENT",
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Stelmachów",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+          "fullName": "Prądnik Biały, Kraków, małopolskie",
+          "name": "Prądnik Biały",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/bronowice-wielkie",
+          "fullName": "Bronowice Wielkie, Prądnik Biały, Kraków, małopolskie",
+          "name": "Bronowice Wielkie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5OTJ4MXA3d2NrejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uc26K8hOeCyC-vP9FnTbzwC5w9megiHYkLrSsHwQ2JU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5OTJ4MXA3d2NrejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uc26K8hOeCyC-vP9FnTbzwC5w9megiHYkLrSsHwQ2JU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8yenN4YjExZ3VxNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.smtQlUZPyf9fZGepQSansz-i-5onPhtP7gOpWsJU93Q/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8yenN4YjExZ3VxNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.smtQlUZPyf9fZGepQSansz-i-5onPhtP7gOpWsJU93Q/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYycHNxbnp2cms0cDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i9NtV2Rw-klo3sPbST7iuLKDBeyWR5Ue9GHPf3ipbDI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYycHNxbnp2cms0cDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i9NtV2Rw-klo3sPbST7iuLKDBeyWR5Ue9GHPf3ipbDI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlpbzRub2YwMnlkZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dcU96vpzW6N6GVQD1j-qAMDChHM3UoJWvYEKF5csW_M/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlpbzRub2YwMnlkZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dcU96vpzW6N6GVQD1j-qAMDChHM3UoJWvYEKF5csW_M/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJvY3FhN2tsNXBxdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eVl4YEQ-w22VanrWzwvSLlsAE3Bewfbfcno51bLNWbw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJvY3FhN2tsNXBxdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eVl4YEQ-w22VanrWzwvSLlsAE3Bewfbfcno51bLNWbw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFqa3piYmdrcGxlcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7u_B_QgutFBXKEJUZCx418jWop_v4EvBwRGfl4bnCnY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFqa3piYmdrcGxlcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7u_B_QgutFBXKEJUZCx418jWop_v4EvBwRGfl4bnCnY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdGwxeW91NmZndDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Rt5fJN62dpXtoHxbJLfO8Y7xDyoWuXA3O9KtzzuJLo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdGwxeW91NmZndDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Rt5fJN62dpXtoHxbJLfO8Y7xDyoWuXA3O9KtzzuJLo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4dDBuc25kNzN0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YriqvhcX7mXHYvkUsYfd7UvPaK2mN4wgU_zsR3Ova2k/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4dDBuc25kNzN0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YriqvhcX7mXHYvkUsYfd7UvPaK2mN4wgU_zsR3Ova2k/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVmdjhqbDNxdzg3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S8QmYZ-GUfgMvBQROgtBQr_n4G5hTjQ4W3Vbc1A9MUw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVmdjhqbDNxdzg3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S8QmYZ-GUfgMvBQROgtBQr_n4G5hTjQ4W3Vbc1A9MUw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgyZHFhZ2N4MHE4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yu26cDx7MYD0qGgtj721TqXVWnKrjjsIsLOQuG7sN9k/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgyZHFhZ2N4MHE4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yu26cDx7MYD0qGgtj721TqXVWnKrjjsIsLOQuG7sN9k/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsendia3J0aGFhMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zX3R5M3NdV2QBltccDOQSpHdDnsdFq6Gewl5caHtzek/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsendia3J0aGFhMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zX3R5M3NdV2QBltccDOQSpHdDnsdFq6Gewl5caHtzek/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvNXdyb3Y5enFscTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vARs4Jel7kR1HBv8FnI-KY_OYcUoV6LoMi-oZyv-I9c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvNXdyb3Y5enFscTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vARs4Jel7kR1HBv8FnI-KY_OYcUoV6LoMi-oZyv-I9c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxdWRycmV3aHpqMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Udh8TXkd0F9qNgQ3_VAqC0HS1H9o9Qyx9rn4bZx8jPM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxdWRycmV3aHpqMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Udh8TXkd0F9qNgQ3_VAqC0HS1H9o9Qyx9rn4bZx8jPM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 15,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "agency": {
+    "id": 10541129,
+    "name": "Q3D Locum",
+    "slug": "q3d-locum-ID10541129",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhaTA3NWIydmNtNi1BUEwifQ.lDeJcmHk2TscsOvhabF27cILNWsqcgQ_kHUwHTIEClE/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": null,
+  "rentPrice": null,
+  "priceFromPerSquareMeter": {
+    "value": 15100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "pricePerSquareMeter": null,
+  "areaInSquareMeters": null,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": null,
+  "hidePrice": false,
+  "floorNumber": null,
+  "investmentState": "IN_BUILDING",
+  "investmentUnitsAreaInSquareMeters": {
+    "from": 43,
+    "to": 109,
+    "__typename": "InvestmentUnitsArea"
+  },
+  "peoplePerRoom": null,
+  "dateCreated": "2025-04-18 12:48:53",
+  "createdAtFirst": "2025-04-18T12:48:48Z",
+  "investmentUnitsNumber": 72,
+  "investmentUnitsFloorsRange": {
+    "min": "GROUND",
+    "max": "THIRD",
+    "__typename": "InvestmentUnitsFloorsRange"
+  },
+  "investmentUnitsRoomsNumber": {
+    "min": "TWO",
+    "max": "FOUR",
+    "__typename": "InvestmentUnitsRoomsNumber"
+  },
+  "investmentEstimatedDelivery": {
+    "quarter": 3,
+    "year": 2026,
+    "__typename": "InvestmentEstimatedDelivery"
+  },
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "2, 3 i 4-pokojowe mieszkania od43m2 do109m2 w cenie od 692800 zł od dewelopera Q3D LocumŚwietlica z funkcją coworkinguStacja naprawy rowerów, wózkownie, rowerownieSąsiedztwo terenów zielonychPrzystank...",
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "relatedAds": [
+    {
+      "id": 66737970,
+      "title": "2-pokojowe mieszkanie 43m2 + balkon Bez Prowizji",
+      "slug": "2-pokojowe-mieszkanie-43m2-balkon-bez-prowizji-ID4v1AS",
+      "estate": "FLAT",
+      "development": {
+        "id": 66737930,
+        "title": "3 Wymiary Bronowice",
+        "slug": "3-wymiary-bronowice-ID4v1Ae",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Stelmachów",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+                "fullName": "Prądnik Biały, Kraków, małopolskie",
+                "name": "Prądnik Biały",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/bronowice-wielkie",
+                "fullName": "Bronowice Wielkie, Prądnik Biały, Kraków, małopolskie",
+                "name": "Bronowice Wielkie",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5OTJ4MXA3d2NrejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uc26K8hOeCyC-vP9FnTbzwC5w9megiHYkLrSsHwQ2JU/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5OTJ4MXA3d2NrejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uc26K8hOeCyC-vP9FnTbzwC5w9megiHYkLrSsHwQ2JU/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8yenN4YjExZ3VxNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.smtQlUZPyf9fZGepQSansz-i-5onPhtP7gOpWsJU93Q/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8yenN4YjExZ3VxNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.smtQlUZPyf9fZGepQSansz-i-5onPhtP7gOpWsJU93Q/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYycHNxbnp2cms0cDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i9NtV2Rw-klo3sPbST7iuLKDBeyWR5Ue9GHPf3ipbDI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYycHNxbnp2cms0cDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i9NtV2Rw-klo3sPbST7iuLKDBeyWR5Ue9GHPf3ipbDI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlpbzRub2YwMnlkZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dcU96vpzW6N6GVQD1j-qAMDChHM3UoJWvYEKF5csW_M/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlpbzRub2YwMnlkZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dcU96vpzW6N6GVQD1j-qAMDChHM3UoJWvYEKF5csW_M/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJvY3FhN2tsNXBxdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eVl4YEQ-w22VanrWzwvSLlsAE3Bewfbfcno51bLNWbw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJvY3FhN2tsNXBxdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eVl4YEQ-w22VanrWzwvSLlsAE3Bewfbfcno51bLNWbw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFqa3piYmdrcGxlcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7u_B_QgutFBXKEJUZCx418jWop_v4EvBwRGfl4bnCnY/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFqa3piYmdrcGxlcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7u_B_QgutFBXKEJUZCx418jWop_v4EvBwRGfl4bnCnY/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdGwxeW91NmZndDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Rt5fJN62dpXtoHxbJLfO8Y7xDyoWuXA3O9KtzzuJLo/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdGwxeW91NmZndDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Rt5fJN62dpXtoHxbJLfO8Y7xDyoWuXA3O9KtzzuJLo/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4dDBuc25kNzN0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YriqvhcX7mXHYvkUsYfd7UvPaK2mN4wgU_zsR3Ova2k/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4dDBuc25kNzN0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YriqvhcX7mXHYvkUsYfd7UvPaK2mN4wgU_zsR3Ova2k/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVmdjhqbDNxdzg3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S8QmYZ-GUfgMvBQROgtBQr_n4G5hTjQ4W3Vbc1A9MUw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVmdjhqbDNxdzg3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S8QmYZ-GUfgMvBQROgtBQr_n4G5hTjQ4W3Vbc1A9MUw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgyZHFhZ2N4MHE4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yu26cDx7MYD0qGgtj721TqXVWnKrjjsIsLOQuG7sN9k/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgyZHFhZ2N4MHE4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yu26cDx7MYD0qGgtj721TqXVWnKrjjsIsLOQuG7sN9k/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsendia3J0aGFhMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zX3R5M3NdV2QBltccDOQSpHdDnsdFq6Gewl5caHtzek/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsendia3J0aGFhMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zX3R5M3NdV2QBltccDOQSpHdDnsdFq6Gewl5caHtzek/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvNXdyb3Y5enFscTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vARs4Jel7kR1HBv8FnI-KY_OYcUoV6LoMi-oZyv-I9c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvNXdyb3Y5enFscTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vARs4Jel7kR1HBv8FnI-KY_OYcUoV6LoMi-oZyv-I9c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxdWRycmV3aHpqMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Udh8TXkd0F9qNgQ3_VAqC0HS1H9o9Qyx9rn4bZx8jPM/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxdWRycmV3aHpqMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Udh8TXkd0F9qNgQ3_VAqC0HS1H9o9Qyx9rn4bZx8jPM/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 15,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 10541129,
+          "name": "Q3D Locum",
+          "slug": "q3d-locum-ID10541129",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhaTA3NWIydmNtNi1BUEwifQ.lDeJcmHk2TscsOvhabF27cILNWsqcgQ_kHUwHTIEClE/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 15100,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 43,
+          "to": 109,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2025-04-18 12:48:53",
+        "createdAtFirst": "2025-04-18T12:48:48Z",
+        "investmentUnitsNumber": 72,
+        "investmentUnitsFloorsRange": {
+          "min": "GROUND",
+          "max": "THIRD",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "TWO",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 3,
+          "year": 2026,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "2, 3 i 4-pokojowe mieszkania od43m2 do109m2 w cenie od 692800 zł od dewelopera Q3D LocumŚwietlica z funkcją coworkinguStacja naprawy rowerów, wózkownie, rowerownieSąsiedztwo terenów zielonychPrzystank...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 66737930,
+      "developmentTitle": "3 Wymiary Bronowice",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/3-wymiary-bronowice-ID4v1Ae",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Stelmachów",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+              "fullName": "Prądnik Biały, Kraków, małopolskie",
+              "name": "Prądnik Biały",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/bronowice-wielkie",
+              "fullName": "Bronowice Wielkie, Prądnik Biały, Kraków, małopolskie",
+              "name": "Bronowice Wielkie",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdidHMxZmUwNzNrYTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s4BipHUEypkqo1g-ghmilrSNb-fzCm0ZL3XiHZMGSPE/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdidHMxZmUwNzNrYTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s4BipHUEypkqo1g-ghmilrSNb-fzCm0ZL3XiHZMGSPE/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw0OHp4bWx5cm12MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uRwuUSMe7U5QUn3yk21jK8am1QHRTyY8nciHCMYa4mg/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw0OHp4bWx5cm12MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uRwuUSMe7U5QUn3yk21jK8am1QHRTyY8nciHCMYa4mg/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 8,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 10541129,
+        "name": "Q3D Locum",
+        "slug": "q3d-locum-ID10541129",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhaTA3NWIydmNtNi1BUEwifQ.lDeJcmHk2TscsOvhabF27cILNWsqcgQ_kHUwHTIEClE/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 695200,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 16000,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 43.45,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "TWO",
+      "hidePrice": false,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:25:30",
+      "createdAtFirst": "2025-04-18T12:49:25Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:25:30+02:00",
+      "specialOffer": null,
+      "shortDescription": "2-pokojowe mieszkanie numer M.B27  na 2. piętrze w budynku B w Inwestycji 3 Wymiary Bronowice Dewelopera Q3D LocumŚwietlica z funkcją coworkinguStacja naprawy rowerów, wózkownie, rowerownieSąsiedztwo ...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Magdalena Mróz",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM2dHh4dXF6OTNpdjMtQVBMIn0.q8UnaqaqhLdtxsuGBFfaFsXcf4-_ePN1OyVpvEmN5dY/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "TOP_FLOOR",
+          "weight": 20,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/2-pokojowe-mieszkanie-43m2-balkon-bez-prowizji-ID4v1AS"
+    },
+    {
+      "id": 66738010,
+      "title": "3-pokojowe mieszkanie 62m2 + balkon Bezpośrednio",
+      "slug": "3-pokojowe-mieszkanie-62m2-balkon-bezposrednio-ID4v1Bv",
+      "estate": "FLAT",
+      "development": {
+        "id": 66737930,
+        "title": "3 Wymiary Bronowice",
+        "slug": "3-wymiary-bronowice-ID4v1Ae",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Stelmachów",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+                "fullName": "Prądnik Biały, Kraków, małopolskie",
+                "name": "Prądnik Biały",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/bronowice-wielkie",
+                "fullName": "Bronowice Wielkie, Prądnik Biały, Kraków, małopolskie",
+                "name": "Bronowice Wielkie",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5OTJ4MXA3d2NrejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uc26K8hOeCyC-vP9FnTbzwC5w9megiHYkLrSsHwQ2JU/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5OTJ4MXA3d2NrejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uc26K8hOeCyC-vP9FnTbzwC5w9megiHYkLrSsHwQ2JU/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8yenN4YjExZ3VxNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.smtQlUZPyf9fZGepQSansz-i-5onPhtP7gOpWsJU93Q/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im8yenN4YjExZ3VxNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.smtQlUZPyf9fZGepQSansz-i-5onPhtP7gOpWsJU93Q/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYycHNxbnp2cms0cDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i9NtV2Rw-klo3sPbST7iuLKDBeyWR5Ue9GHPf3ipbDI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYycHNxbnp2cms0cDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i9NtV2Rw-klo3sPbST7iuLKDBeyWR5Ue9GHPf3ipbDI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dDA1dmp0c3NnNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q3cs7hbSqSqEj2kMG_wmbmgMTO0_oBBT3XGDrRPlrUI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlpbzRub2YwMnlkZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dcU96vpzW6N6GVQD1j-qAMDChHM3UoJWvYEKF5csW_M/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlpbzRub2YwMnlkZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dcU96vpzW6N6GVQD1j-qAMDChHM3UoJWvYEKF5csW_M/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJvY3FhN2tsNXBxdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eVl4YEQ-w22VanrWzwvSLlsAE3Bewfbfcno51bLNWbw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJvY3FhN2tsNXBxdS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eVl4YEQ-w22VanrWzwvSLlsAE3Bewfbfcno51bLNWbw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFqa3piYmdrcGxlcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7u_B_QgutFBXKEJUZCx418jWop_v4EvBwRGfl4bnCnY/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFqa3piYmdrcGxlcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7u_B_QgutFBXKEJUZCx418jWop_v4EvBwRGfl4bnCnY/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdGwxeW91NmZndDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Rt5fJN62dpXtoHxbJLfO8Y7xDyoWuXA3O9KtzzuJLo/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdGwxeW91NmZndDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6Rt5fJN62dpXtoHxbJLfO8Y7xDyoWuXA3O9KtzzuJLo/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4dDBuc25kNzN0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YriqvhcX7mXHYvkUsYfd7UvPaK2mN4wgU_zsR3Ova2k/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4dDBuc25kNzN0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YriqvhcX7mXHYvkUsYfd7UvPaK2mN4wgU_zsR3Ova2k/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVmdjhqbDNxdzg3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S8QmYZ-GUfgMvBQROgtBQr_n4G5hTjQ4W3Vbc1A9MUw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVmdjhqbDNxdzg3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S8QmYZ-GUfgMvBQROgtBQr_n4G5hTjQ4W3Vbc1A9MUw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgyZHFhZ2N4MHE4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yu26cDx7MYD0qGgtj721TqXVWnKrjjsIsLOQuG7sN9k/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgyZHFhZ2N4MHE4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yu26cDx7MYD0qGgtj721TqXVWnKrjjsIsLOQuG7sN9k/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsendia3J0aGFhMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zX3R5M3NdV2QBltccDOQSpHdDnsdFq6Gewl5caHtzek/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsendia3J0aGFhMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zX3R5M3NdV2QBltccDOQSpHdDnsdFq6Gewl5caHtzek/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvNXdyb3Y5enFscTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vARs4Jel7kR1HBv8FnI-KY_OYcUoV6LoMi-oZyv-I9c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvNXdyb3Y5enFscTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vARs4Jel7kR1HBv8FnI-KY_OYcUoV6LoMi-oZyv-I9c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxdWRycmV3aHpqMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Udh8TXkd0F9qNgQ3_VAqC0HS1H9o9Qyx9rn4bZx8jPM/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZxdWRycmV3aHpqMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Udh8TXkd0F9qNgQ3_VAqC0HS1H9o9Qyx9rn4bZx8jPM/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 15,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 10541129,
+          "name": "Q3D Locum",
+          "slug": "q3d-locum-ID10541129",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhaTA3NWIydmNtNi1BUEwifQ.lDeJcmHk2TscsOvhabF27cILNWsqcgQ_kHUwHTIEClE/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 15100,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 43,
+          "to": 109,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2025-04-18 12:48:53",
+        "createdAtFirst": "2025-04-18T12:48:48Z",
+        "investmentUnitsNumber": 72,
+        "investmentUnitsFloorsRange": {
+          "min": "GROUND",
+          "max": "THIRD",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "TWO",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 3,
+          "year": 2026,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "2, 3 i 4-pokojowe mieszkania od43m2 do109m2 w cenie od 692800 zł od dewelopera Q3D LocumŚwietlica z funkcją coworkinguStacja naprawy rowerów, wózkownie, rowerownieSąsiedztwo terenów zielonychPrzystank...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 66737930,
+      "developmentTitle": "3 Wymiary Bronowice",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/3-wymiary-bronowice-ID4v1Ae",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Stelmachów",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+              "fullName": "Prądnik Biały, Kraków, małopolskie",
+              "name": "Prądnik Biały",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/bronowice-wielkie",
+              "fullName": "Bronowice Wielkie, Prądnik Biały, Kraków, małopolskie",
+              "name": "Bronowice Wielkie",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5hd2tkdDQ3dDE1ZzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ktp66bWFZ11adREWBqbutd7REpoeVylu4bWyLFgEWL4/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZxdmR0czV2d2RrOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BkufYNxgNFedyoJchc007QvBr2AuiXrA3g1621gTLJA/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZxdmR0czV2d2RrOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BkufYNxgNFedyoJchc007QvBr2AuiXrA3g1621gTLJA/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNuaDdxMXhsd3JkZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wFTFqALA0i-ebkw_kKyF37xj5WFbTl5IA3YsM6smXbU/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNuaDdxMXhsd3JkZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wFTFqALA0i-ebkw_kKyF37xj5WFbTl5IA3YsM6smXbU/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 8,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 10541129,
+        "name": "Q3D Locum",
+        "slug": "q3d-locum-ID10541129",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhaTA3NWIydmNtNi1BUEwifQ.lDeJcmHk2TscsOvhabF27cILNWsqcgQ_kHUwHTIEClE/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 954567,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 15300,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 62.39,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "THREE",
+      "hidePrice": false,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:25:30",
+      "createdAtFirst": "2025-04-18T12:49:33Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:25:36+02:00",
+      "specialOffer": null,
+      "shortDescription": "3-pokojowe mieszkanie numer M.B31  na 2. piętrze w budynku B w Inwestycji 3 Wymiary Bronowice Dewelopera Q3D LocumŚwietlica z funkcją coworkinguStacja naprawy rowerów, wózkownie, rowerownieSąsiedztwo ...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Magdalena Mróz",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM2dHh4dXF6OTNpdjMtQVBMIn0.q8UnaqaqhLdtxsuGBFfaFsXcf4-_ePN1OyVpvEmN5dY/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "TOP_FLOOR",
+          "weight": 20,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/3-pokojowe-mieszkanie-62m2-balkon-bezposrednio-ID4v1Bv"
+    }
+  ],
+  "description": "<ul><li><strong>2, 3 i 4-pokojowe</strong> mieszkania <strong>od&nbsp;43&nbsp;m2 do&nbsp;109&nbsp;m2</strong> w cenie <strong>od 692&nbsp;800 zł</strong> od dewelopera <strong>Q3D Locum</strong></li><li>Świetlica z funkcją coworkingu</li><li>Stacja naprawy rowerów, wózkownie, rowerownie</li><li>Sąsiedztwo terenów zielonych</li><li>Przystanki autobusowe – 50 m od inwestycji</li><li>Teren spacerowy przy rzece Sudół (10 minut spacerem)</li><li>Biedronka (10 minut spacerem), Lidl (7 minut samochodem)</li><li>Galeria Bronowice (12 minut spacerem), IKEA (17 minut spacerem)</li></ul><br/><strong>3 Wymiary Bronowice - poznaj inwestycję</strong><br/><p><strong>3 Wymiary Bronowice – niska zabudowa, cisza i komfort</strong></p><p>3 Wymiary Bronowice to <strong>kameralna, dwupiętrowa zabudowa</strong> w krakowskich Bronowicach, idealna dla osób szukających ciszy i spokoju. Przestrzeń wokół budynków wypełniona jest zielenią zachęcającą do spacerów. W ofercie znajdują się wygodne i funkcjonalne mieszkania 1-, 2-, 3- i 4-pokojowe o metrażach <strong>od 27 do 109 mkw.</strong>, do których przynależą <strong>duże ogródki i balkony</strong>.&nbsp;</p><p>Na terenie inwestycji uwzględniono:</p><ul><li>plac zabaw,</li><li><strong>świetlicę z funkcją coworkingu</strong>,</li><li>wózkownie,&nbsp;</li><li>rowerownie,</li><li><strong>stację napraw rowerów</strong>,</li><li>garaż podziemny,</li><li>cichobieżne windy,</li><li>monitoring inwestycji.</li></ul><p>Lokalizacja zapewnia sąsiedztwo niskiej zabudowy i<strong> terenów zielonych</strong>, centra handlowego, szkoły oraz tras rowerowych, które prowadzą do tak urokliwych miejsc jak Park Krajobrazowy, Dolinki Krakowskie czy Ojcowski Park Narodowy. <strong>W odległości 50 metrów od inwestycji znajdują się też przystanki autobusowe</strong>.</p><br/><strong>3 Wymiary Bronowice - lokalizacja</strong><br/><br/>Prądnik Biały, ul. Stelmachów<br/><ul><li>4,2 km do centrum</li><li>1 min. spacerem do przystanku autobusowego</li><li>dojazd do centrum: 24 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (76 m, 1 minuta spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:11.151Z"
+}

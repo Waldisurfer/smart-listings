@@ -1,0 +1,173 @@
+{
+  "id": 68171368,
+  "title": "3 pokojowe mieszkanie do wynajęcia!",
+  "slug": "3-pokojowe-mieszkanie-do-wynajecia-ID4C2uc",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Skarbka z Gór",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka",
+          "fullName": "Białołęka, Warszawa, mazowieckie",
+          "name": "Białołęka",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka/grodzisk",
+          "fullName": "Grodzisk, Białołęka, Warszawa, mazowieckie",
+          "name": "Grodzisk",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVwMDQyb3V3cmIzMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.r9BjwsTrdaLfVa_rXBEchJhl5WAQxGPrVicjxWG_KDc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVwMDQyb3V3cmIzMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.r9BjwsTrdaLfVa_rXBEchJhl5WAQxGPrVicjxWG_KDc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZyN2h6c2R2anRjNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JnAERHXpAjwQUX7Zgb00BZ5sEHK6Gtn-A3i-WvASF2o/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZyN2h6c2R2anRjNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.JnAERHXpAjwQUX7Zgb00BZ5sEHK6Gtn-A3i-WvASF2o/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFueDNyaGY2bW90bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vO9AxDxlUQvNWR2e5r34zorr0a75CR3jzPO83Zh65Dg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFueDNyaGY2bW90bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vO9AxDxlUQvNWR2e5r34zorr0a75CR3jzPO83Zh65Dg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 560368,
+    "name": "TUR NIERUCHOMOŚCI",
+    "slug": "tur-nieruchomosci-ID560368",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVnZDAyOHduc292OC1BUEwifQ.HXK6zNpnwzpTNXVkMqmTiHAEUQsUu_i30N27fylCQzg/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3200,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1200,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 48.27,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 66.3,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:48:55",
+  "createdAtFirst": "2026-07-03T21:48:50Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Zapraszam do zapoznania się z ciekawą ofertą wynajmu mieszkania usytuowanego na 1 piętrze 2 piętrowego budynku, zlokalizowanego przy ul. Skarbka z Gór. Mieszkanie ma powierzchnię 66,3 m2 i składa się ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Karolina",
+    "lastName": "Grudzińska-Wolińska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijhoamg3Znh6eGxyMjItQVBMIn0.icAbDsop3-t75zLAjMsd3D9yQgSEZMK_vU0xQe3gegE/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/3-pokojowe-mieszkanie-do-wynajecia-ID4C2uc",
+  "description": "Zapraszam do zapoznania się z ciekawą ofertą wynajmu mieszkania usytuowanego na 1 piętrze 2 piętrowego budynku, zlokalizowanego przy ul. Skarbka z Gór. Mieszkanie ma powierzchnię 66,3 m2 i składa się z salonu z aneksem kuchennym, 2 sypialni, łazienki, oddzielnego WC. Lokal jest w pełni wyposażony, w kuchni zabudowa meblowa, lodówka z zamrażarką, zmywarka, płyta gazowa, piekarnik elektryczny, okap. W salonie z którego wyjdziemy na balkon, znajdują się dwa wygodne fotele, stół z krzesłami oraz zabudowa meblowa. Kolejne pomieszczenie zostało zaaranżowane na sypialnie, w wyposażeniu łóżko małżeńskie i duża szafa. Kolejna sypialnia jest do własnej aranżacji, dotychczas był to pokój dziecięcy. W łazience pralka, WC, wanna z funkcją prysznica oraz pojemna zabudowa z licznymi pólkami. Osiedle jest ciche, zadbane i strzeżone. Do mieszkania przynależy miejsce parkingowe - w cenie. Miesięczny koszt wynajmu mieszkania to 3200+1200zł czynsz administracyjny. Do dyspozycji najemcy jest wykupiony pakiet na Internet i telewizję płatny 106 zł/mc. Kaucja w wysokości jednomiesięcznego czynszu - 5000 zł. Wymagany najem okazjonalny. Zapraszam na prezentację!<br/>\n<br/>\n_<br/>\nTreść niniejszego ogłoszenia nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego. Treść ma charakter informacyjny i zalecamy ich osobistą weryfikację.<br/>\n<br/>\nZgodnie z przepisami Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz.U. z 1994r. Nr 24, poz. 83, z późn. zm.). Kopiowanie treści oraz fotografii i planów bez pisemnej zgody autora stanowi naruszenie majątkowych praw autorskich oraz podstawę odpowiedzialności karnej przewidzianej przepisami art. 116 § 1-4 ww. ustawy.",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:08:11.528Z"
+}

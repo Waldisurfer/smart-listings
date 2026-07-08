@@ -1,0 +1,158 @@
+{
+  "id": 67788162,
+  "title": "2 pok/45 m2/po remoncie/Grzegórzki/ul.Narzymskiego",
+  "slug": "2-pok-45-m2-po-remoncie-grzegorzki-ul-narzymskiego-ID4AqNs",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Józefa Narzymskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki",
+          "fullName": "Grzegórzki, Kraków, małopolskie",
+          "name": "Grzegórzki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/grzegorzki/osiedle-oficerskie",
+          "fullName": "Osiedle Oficerskie, Grzegórzki, Kraków, małopolskie",
+          "name": "Osiedle Oficerskie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndvZXNkajd0YWVhaDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JkS6jI4Jb72auErmLLM-0SzorDaVkOHLUuwMrR5SLQo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndvZXNkajd0YWVhaDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JkS6jI4Jb72auErmLLM-0SzorDaVkOHLUuwMrR5SLQo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRreGt3eTM5bDc2dzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.J7t9qFMXnpRwHcnmXMfH44nY8hIeHr2bqhA6oNZbmeI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRreGt3eTM5bDc2dzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.J7t9qFMXnpRwHcnmXMfH44nY8hIeHr2bqhA6oNZbmeI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkyeG54c3R1Zm11LUFQTCIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.no61mTacBnClaptE2G4nt_R-oxwmaxvcQHdpDk0SFA0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkyeG54c3R1Zm11LUFQTCIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.no61mTacBnClaptE2G4nt_R-oxwmaxvcQHdpDk0SFA0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 471290,
+    "name": "Agencji Nieruchomości OPTIMA.",
+    "slug": "agencji-nieruchomosci-optima-ID471290",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims0eGJueHYzbHVrcTEtQVBMIn0.MTGhxZ02d85yxH0r2LaiXZaJkWT6piuwt1QssoiySms/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 687000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 588,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 15266.67,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 45,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:29:08",
+  "createdAtFirst": "2026-03-09T16:45:10Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:29:08+02:00",
+  "specialOffer": null,
+  "shortDescription": "2 pokoje/ 45 m2/ po remoncie/Grzegórzki/ ul. NarzymskiegoBlisko uczelni.Super oferta inwestycyjna !Agencja nieruchomości Optima prezentuje mieszkanie 2- pokojowe o powierzchni 45 m2 w dzielnicy Grzegó...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Maciej Rogoziński",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/2-pok-45-m2-po-remoncie-grzegorzki-ul-narzymskiego-ID4AqNs",
+  "description": "<p><br/>2 pokoje/ 45 m2/ po remoncie/Grzegórzki/ ul. Narzymskiego<br/>Blisko uczelni.</p><p>Super oferta inwestycyjna !</p><p>Agencja nieruchomości Optima prezentuje mieszkanie 2- pokojowe o powierzchni 45 m2 w dzielnicy Grzegórzki przy ulicy Narzymskiego.</p><p>Usytuowane jest na 3 piętrze w 4 piętrowym budynku.<br/>Mieszkanie składa się z:<br/>- salonu<br/>- sypialni<br/>- osobnej jasnej kuchni<br/>- łazienki z wc i prysznicem<br/>- przedpokoju<br/>Do mieszkania przynależy piwnica.<br/>Przed blokiem parking tylko dla mieszkańców z identyfikatorem.<br/>Lokalizacja:<br/>Bardzo dobrze skomunikowana, cicha i spokojna okolica. W bliskiej odległości znajdują się przystanki autobusowe i tramwajowe. Dobra infrastruktura handlowo-usługowa. W okolicy dużo zieleni, Park, place zabaw, tereny spacerowe. Niedaleko do Politechniki Krakowskiej, Akademii Wychowania Fizycznego jak i Centrum Tauron Areny- czyli wielofunkcyjnej hali widowiskowo-sportowej w Krakowie która została otwarta w 2014 roku, o maksymalnej pojemności ponad 20 400 widzów, co plasuje ją na pierwszym miejscu wśród tego typu budowli w Polsce. W obiekcie odbywają się imprezy sportowe, wydarzenia religijne i koncerty. Wokół bardzo duże tereny zielone z oczkiem wodnym udostępnione dla mieszkańców.</p><p>Cena: 687 000 zł</p><p>Oferujemy pomoc przy załatwieniu najtańszego kredytu, nasz doradca kredytowy wybierze najlepszą ofertę dla Państwa,<br/>bez ponoszenia dodatkowych kosztów, <br/>Transakcje przeprowadzone z naszym biurem są ubezpieczone.<br/>Gwarantujemy profesjonalną obsługę!<br/>Współpracujemy również z zaufaną i doświadczoną Kancelarią Notarialną.<br/>W ramach naszej współpracy umowa przedwstępna GRATIS !!!<br/>Na stronie internetowej naszego biura znajdą Państwo również oferty, które nie są publikowane na portalach: <br/>Polecamy i zapraszamy do kontaktu:<br/>AN-Optima<br/>Maciej tel. 884 310 100<br/>e-mail. </p><p>Treść niniejszego ogłoszenia nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego.</p><p>Pośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Maciej Rogoziński (licencja nr: 22001 )</p><p>Więcej ciekawych ofert na naszej stronie AN-Optima. Zapraszamy !</p>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:28.665Z"
+}

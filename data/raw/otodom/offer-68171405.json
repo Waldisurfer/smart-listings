@@ -1,0 +1,169 @@
+{
+  "id": 68171405,
+  "title": "Lofty z antresolą| sufity do 5m|Stadion Narodowy",
+  "slug": "lofty-z-antresola-sufity-do-5m-stadion-narodowy-ID4C2uN",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc",
+          "fullName": "Praga-Północ, Warszawa, mazowieckie",
+          "name": "Praga-Północ",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc/nowa-praga",
+          "fullName": "Nowa Praga, Praga-Północ, Warszawa, mazowieckie",
+          "name": "Nowa Praga",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR5cnJvYWJweXE2bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3uQVxJh3SUqNQgZBDdd2t7FZ17ra-1QUxQxWs2OruE8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR5cnJvYWJweXE2bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3uQVxJh3SUqNQgZBDdd2t7FZ17ra-1QUxQxWs2OruE8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBpaTI0NjNwaGwyZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8cJdsWhqhtFQL_7-QiU7OHqxa2EOFs8nuZ7NLi9D_cY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBpaTI0NjNwaGwyZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8cJdsWhqhtFQL_7-QiU7OHqxa2EOFs8nuZ7NLi9D_cY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQxczhmMzF1bGIwNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.orCvN-uUMeUPsarbrwatxK7tHjq-SohcjHMCtwccbKY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQxczhmMzF1bGIwNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.orCvN-uUMeUPsarbrwatxK7tHjq-SohcjHMCtwccbKY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 6,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 9629473,
+    "name": "Varsovia Capital  Real Estate Sp. z o.o.",
+    "slug": "varsovia-capital-real-estate-sp-z-o-o-ID9629473",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRscnA1dGJxY3BxMjItQVBMIn0.-ruoUg-6aw4yRmEHaSR043tHJZPbmA-vGFn7daclqoE/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1196525,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 830,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 20900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 57.25,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:13:28",
+  "createdAtFirst": "2026-07-03T22:13:24Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Wyjątkowa przestrzeń, industrialny charakter i jedna z najbardziej pożądanych lokalizacji w Warszawie.W samym sercu Pragi Północ powstała kameralna inwestycja loftowa, która łączy klimat historycznej ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Kinga",
+    "lastName": "Wilkowska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh3cG10Yjl4YmIzdzEtQVBMIn0.4dKWMV0s9wGRVQQD0R0eyf8dpTi1e_AwHT98fEqAODk/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Marlena Seferyńska-Karczewska",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/lofty-z-antresola-sufity-do-5m-stadion-narodowy-ID4C2uN",
+  "description": "<strong>Wyjątkowa przestrzeń, industrialny charakter i jedna z najbardziej pożądanych lokalizacji w Warszawie.</strong><br>W samym sercu Pragi Północ powstała kameralna inwestycja loftowa, która łączy klimat historycznej Warszawy z nowoczesną architekturą i inteligentnymi technologiami.<br>To propozycja dla osób, które szukają czegoś więcej niż standardowego mieszkania. Imponujące sufity o wysokości sięgającej nawet 5 metrów, duże przeszklenia oraz mieszkania z antresolami tworzą przestrzeń, jakiej próżno szukać w większości nowych inwestycji.<br><strong>Inwestycja jest ukończona i gotowa do odbioru.</strong><br><br>Dostępne mieszkania<br>W ofercie znajdują się mieszkania o powierzchni od <strong>43,18 m² do 69,40 m²</strong>, zarówno jednopoziomowe, jak i dwupoziomowe z antresolą.<br>Każdy lokal posiada indywidualny charakter i niepowtarzalny układ. W zależności od mieszkania do dyspozycji są balkony, loggie i efektowne, otwarte przestrzenie typu studio loft.<br><strong>Cena już od 19 900 zł/m².</strong><br><br><strong>Loftowa przestrzeń, której nie oferują standardowe mieszkania</strong><br>Największym wyróżnikiem inwestycji są imponujące sufity o wysokości sięgającej nawet<strong> 5 metrów </strong>oraz mieszkania z antresolami.<br>Choć powierzchnia antresoli jest wliczona do powierzchni użytkowej lokalu, to właśnie wyjątkowa wysokość wnętrz sprawia, że mieszkania dają poczucie znacznie większej przestrzeni niż tradycyjne lokale o podobnym metrażu.<br>Duże przeszklenia wpuszczają ogromną ilość naturalnego światła, a otwarta kubatura wnętrza tworzy efekt przestronności, którego nie da się osiągnąć w standardowym mieszkaniu.<br>Antresola pozwala naturalnie oddzielić strefę dzienną od prywatnej, tworząc komfortowe miejsce na sypialnię, gabinet lub przestrzeń do relaksu. Dzięki temu wnętrza są bardziej funkcjonalne i oferują możliwości aranżacyjne niedostępne w typowych inwestycjach deweloperskich.<br>To mieszkania dla osób, które cenią <strong>design, indywidualny charakter i ponadczasową architekturę.</strong><br><br><strong>Technologia i komfort na najwyższym poziomie</strong><br>Każde mieszkanie wyposażono w nowoczesne rozwiązania zwiększające komfort codziennego życia:<br>• system <strong>Smart Home </strong>umożliwiający sterowanie mieszkaniem z poziomu aplikacji,<br>• <strong>klimatyzację </strong>w każdym lokalu,<br>• <strong>ogrzewanie podłogowe</strong> z możliwością zdalnego sterowania,<br>• miejską sieć ciepłowniczą,.<br>.• <strong>wideodomofon</strong> <strong>z funkcją rozpoznawania twarzy, odcisku palca, a&nbsp;także nagrywanie wiadomości wideo.</strong><br><br>To rozwiązania, które jeszcze kilka lat temu były zarezerwowane wyłącznie dla segmentu premium.<br>Architektura inspirowana klimatem dawnej Pragi<br>Budynek nawiązuje do przemysłowej historii dzielnicy.<br>Ceglana elewacja, stalowe detale oraz duże przeszklenia tworzą nowoczesną interpretację przedwojennej architektury Pragi.<br><br><strong>Wysoki standard wykończenia części wspólnych obejmuje m.in.:</strong><br>• trwałe gresy,<br>• dekoracyjne panele ścienne,<br>• energooszczędne oświetlenie LED.<br><br><strong>Lokalizacja, która będzie zyskiwać na wartości</strong><br>To jedna z najlepiej skomunikowanych lokalizacji po prawej stronie Wisły.<br><strong>Metro Stadion Narodowy znajduje się zaledwie 300 metrów od inwestycji</strong>, a przystanki tramwajowe oddalone są o około 150 metrów.<br>Dzięki temu w kilka minut można dostać się do Śródmieścia, na Wolę, Powiśle czy Mokotów.<br>Praga Północ od kilku lat przechodzi dynamiczną transformację i jest dziś jedną z najbardziej pożądanych części Warszawy. Łączy autentyczny klimat historycznej dzielnicy z nowoczesną infrastrukturą, kulturą i biznesem.<br><br>W bezpośrednim sąsiedztwie znajdują się:<br>• Centrum Praskie Koneser,<br>• Stadion Narodowy,<br>• Park Skaryszewski,<br>• Bulwary Wiślane,<br>• Kino Praha,<br>• Teatr Powszechny,<br>• Teatr Baj,<br>• Galeria Wileńska,<br>• liczne restauracje, kawiarnie i lokale usługowe.<br><br>To miejsce, które pozwala korzystać z pełni miejskiego życia bez konieczności używania samochodu.<br>Doskonałe miejsce do życia i inwestowania<br>Połączenie loftowego charakteru, nowoczesnych technologii, wyjątkowej architektury i lokalizacji przy metrze sprawia, że jest to nieruchomość o ponadprzeciętnym potencjale.<br>To idealna propozycja dla:<br>✔ osób szukających nietuzinkowego mieszkania w mieście,<br>✔ miłośników loftowych wnętrz,<br>✔ singli i par ceniących design oraz wygodę,<br>✔ inwestorów poszukujących nieruchomości o wysokim potencjale najmu,<br>✔ osób chcących ulokować kapitał w rozwijającej się części Warszawy.<br>Dodatkowe informacje<br>• miejsca postojowe w garażu podziemnym – 100 000 zł brutto,<br>• komórki lokatorskie – od 15 000 do 25 000 zł,<br>• stojaki rowerowe w hali garażowej.<br><br><strong>Najważniejsze atuty inwestycji</strong><br>✔ sufity o wysokości do <strong>5 metrów,</strong><br>✔ mieszkania z antresolami,<br>✔ duże przeszklenia i wyjątkowe doświetlenie wnętrz,<br>✔ nowoczesny<strong> system Smart Home,</strong><br>✔ <strong>klimatyzacja</strong> w każdym mieszkaniu,<br>✔ ogrzewanie podłogowe,<br>✔ inwestycja gotowa do odbioru,<br>✔ <strong>300 metrów do Metra Stadion Narodowy,</strong><br>✔ sąsiedztwo <strong>Konesera, Parku Skaryszewskiego i Stadionu Narodowego,</strong><br>✔ wysoki potencjał inwestycyjny,<br>✔ <strong>unikalny loftowy charakter niedostępny w standardowych inwestycjach.</strong><br>To miejsce dla osób, które nie szukają zwykłego mieszkania. To przestrzeń dla tych, którzy chcą mieszkać w wyjątkowym wnętrzu, w jednej z najciekawszych i najbardziej dynamicznie rozwijających się części Warszawy.<br>Zapraszam do kontaktu oraz na prezentację dostępnych mieszkań.<br/>\n<br/>\nVarsovia Capital Real Estate Sp. z o.o.<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:13.827Z"
+}

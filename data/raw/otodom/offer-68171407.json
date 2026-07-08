@@ -1,0 +1,163 @@
+{
+  "id": 68171407,
+  "title": "Trzy sypialnie, salon, jadalnia i kuchnia ok. Metra Politechnika.",
+  "slug": "trzy-sypialnie-salon-jadalnia-i-kuchnia-ok-metra-politechnika-ID4C2uP",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Jaworzyńska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie",
+          "fullName": "Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie/srodmiescie-poludniowe",
+          "fullName": "Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście Południowe",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4waXFrZWIyb2hhODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kfLfkAR-aMpX52mAYGow7Xl4wUZvJV0SSaHv4cF6Gjc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4waXFrZWIyb2hhODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kfLfkAR-aMpX52mAYGow7Xl4wUZvJV0SSaHv4cF6Gjc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNnOGwwNHN4YnR2ci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.HjY8hmcMge8AjbNLc2w1l6HU60PbBe5VsdIU27pRhvw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNnOGwwNHN4YnR2ci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.HjY8hmcMge8AjbNLc2w1l6HU60PbBe5VsdIU27pRhvw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxmZm1sNjlvbzN0bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.toSOuKJyHUFJzpIjwn4hH5S59seuouC18Xncg7n_B6I/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxmZm1sNjlvbzN0bjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.toSOuKJyHUFJzpIjwn4hH5S59seuouC18Xncg7n_B6I/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 707645,
+    "name": "Avilles",
+    "slug": "avilles-ID707645",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 4700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 2000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 58.75,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 80,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FIVE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:15:00",
+  "createdAtFirst": "2026-07-03T22:14:56Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "5-pokojowe mieszkanie w kamienicy przy Metrze Politechnika – centrum WarszawyDo wynajęcia przestronne mieszkanie położone w klimatycznej kamienicy w samym sercu Warszawy.Nieruchomość znajduje się przy...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Dorota Jackiewicz",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/trzy-sypialnie-salon-jadalnia-i-kuchnia-ok-metra-politechnika-ID4C2uP",
+  "description": "<p>5-pokojowe mieszkanie w kamienicy przy Metrze Politechnika – centrum Warszawy</p><p>Do wynajęcia przestronne mieszkanie położone w klimatycznej kamienicy w samym sercu Warszawy.</p><p>Nieruchomość znajduje się przy kameralnej, ślepej ulicy Jaworzyńskiej, pomiędzy ul. Mokotowską a ul. Waryńskiego, zaledwie 2 minuty spacerem od stacji Metro Politechnika i w pobliżu Placu Zbawiciela.</p><p>Funkcjonalny układ mieszkania sprawia, że będzie to doskonała propozycja zarówno dla kilku studentów, jak i rodziny.</p><p>Mieszkanie składa się z:</p><ul><li>trzech sypialni,</li><li>salonu,</li><li>oddzielnej kuchni i  jadalni</li><li>łazienki,</li><li>dwóch niewielkich balkonów.</li></ul><p>Do jednej z sypialni prowadzi wejście przez salon. Mieszkanie jest umeblowane zgodnie ze zdjęciami.</p><p>Przez jadalnię wchodzimy do kuchni.</p><p>Lokal  zachował wyjątkowy klimat starej Warszawy. Dodatkowym atutem jest winda w budynku. Kamienica przeszła również odnowienie elewacji, dzięki czemu prezentuje się bardzo estetycznie.</p><p>To miejsce dla osób ceniących miejski styl życia. W najbliższej okolicy znajdują się liczne kawiarnie, restauracje, teatry, kina, parki oraz modne butiki. Metro, tramwaje i autobusy zapewniają szybki i wygodny dojazd do każdej części Warszawy.</p><p>Dla osób zmotoryzowanych istnieje możliwość wynajęcia miejsca postojowego w garażu podziemnym, znajdującym się tuż obok budynku.</p><p>Koszty:</p><ul><li>czynsz najmu: 4700 zł</li><li>czynsz administracyjny: 2000 zł</li><li>kaucja: 6 000 zł</li><li>jednorazowa prowizja biura.</li></ul><p>Serdecznie zapraszam</p><p>Dorota Jackiewicz</p>",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:58.803Z"
+}

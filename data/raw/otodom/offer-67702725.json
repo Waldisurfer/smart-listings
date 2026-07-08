@@ -1,0 +1,323 @@
+{
+  "id": 67702725,
+  "title": "1-pokojowe mieszkanie 66m2 + loggia",
+  "slug": "1-pokojowe-mieszkanie-66m2-loggia-ID4A4zr",
+  "estate": "FLAT",
+  "development": {
+    "id": 67702664,
+    "title": "29L͏͏",
+    "slug": "29l-ID4A4ys",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "ul. Struga",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Kraków",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "małopolskie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "malopolskie",
+            "fullName": "małopolskie",
+            "name": "małopolskie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow",
+            "fullName": "Kraków, małopolskie",
+            "name": "Kraków",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony",
+            "fullName": "Prądnik Czerwony, Kraków, małopolskie",
+            "name": "Prądnik Czerwony",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony/pradnik-czerwony",
+            "fullName": "Prądnik Czerwony, Prądnik Czerwony, Kraków, małopolskie",
+            "name": "Prądnik Czerwony",
+            "locationLevel": "residential",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im16Mnc4ZzhqZGt3cTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.r6D3fmhbzyjgfKby1jVywRl9C-AIETogf79P4mcI-_M/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im16Mnc4ZzhqZGt3cTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.r6D3fmhbzyjgfKby1jVywRl9C-AIETogf79P4mcI-_M/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBkam8yaHcyN2prdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XCUkcZooElJbMsmFctZ6EpLVxSeb3xx2D-dQPv3HBxI/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBkam8yaHcyN2prdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XCUkcZooElJbMsmFctZ6EpLVxSeb3xx2D-dQPv3HBxI/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVuY3RnMTg5djBhaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ew4LBcNXROxO9TZusGOqu-AzB3paiTy0NX6xZ8ftxB4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVuY3RnMTg5djBhaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ew4LBcNXROxO9TZusGOqu-AzB3paiTy0NX6xZ8ftxB4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE5dmkxbnZ0YnJ6ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3IgNSzEm3nndq6Q--RYUiDaEI8YIiVzmlAR7epY_Mzw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE5dmkxbnZ0YnJ6ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3IgNSzEm3nndq6Q--RYUiDaEI8YIiVzmlAR7epY_Mzw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpraDN1OWMycGFvcjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uoB8TnnjyuxYDDptn0ALkXYw4sU7YPsdGZmRtVhwmGk/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpraDN1OWMycGFvcjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uoB8TnnjyuxYDDptn0ALkXYw4sU7YPsdGZmRtVhwmGk/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 5,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 11572422,
+      "name": "Archicom",
+      "slug": "archicom-ID11572422",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFvdTVtbXpha3E1LUFQTCJ9.zhU6RWtggNLuyzBo9Cx4FgSvicCJjlvFmHSvxPz6N3w/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 12710,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "IN_BUILDING",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 65,
+      "to": 71,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2026-02-12 07:41:35",
+    "createdAtFirst": "2026-02-12T07:41:29Z",
+    "investmentUnitsNumber": 29,
+    "investmentUnitsFloorsRange": {
+      "min": "ABOVE_TENTH",
+      "max": "ABOVE_TENTH",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "ONE",
+      "max": "ONE",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 4,
+      "year": 2026,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "1-pokojowe mieszkania od65m2 do71m2 w cenie od 854864 zł od dewelopera ArchicomW ofercie znajdują się m.in. mieszkania z antresoląPark Zaczarowanej Dorożki (10 minut spacerem)Park Białoprądnicki (15 m...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 67702664,
+  "developmentTitle": "29L͏͏",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/29l-ID4A4ys",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Struga",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony",
+          "fullName": "Prądnik Czerwony, Kraków, małopolskie",
+          "name": "Prądnik Czerwony",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony/pradnik-czerwony",
+          "fullName": "Prądnik Czerwony, Prądnik Czerwony, Kraków, małopolskie",
+          "name": "Prądnik Czerwony",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE5dmkxbnZ0YnJ6ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3IgNSzEm3nndq6Q--RYUiDaEI8YIiVzmlAR7epY_Mzw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE5dmkxbnZ0YnJ6ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3IgNSzEm3nndq6Q--RYUiDaEI8YIiVzmlAR7epY_Mzw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InppdzVnOXpkY3dyMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DcgH9A5b_e5rlMoCD6uuq4UarYIVxR-LkWo5m9_0dTk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InppdzVnOXpkY3dyMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DcgH9A5b_e5rlMoCD6uuq4UarYIVxR-LkWo5m9_0dTk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNvZjQ0c2RtbTlsbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kqErmYHElPBQdgiH9KOHD_O0rwjImD6CYQVGcQR8Yuo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNvZjQ0c2RtbTlsbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kqErmYHElPBQdgiH9KOHD_O0rwjImD6CYQVGcQR8Yuo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 9,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 11572422,
+    "name": "Archicom",
+    "slug": "archicom-ID11572422",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFvdTVtbXpha3E1LUFQTCJ9.zhU6RWtggNLuyzBo9Cx4FgSvicCJjlvFmHSvxPz6N3w/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 876636,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 13154.8,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 66.64,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "ABOVE_TENTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:08:49",
+  "createdAtFirst": "2026-02-12T07:42:04Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T22:08:50+02:00",
+  "specialOffer": null,
+  "shortDescription": "1-pokojowe mieszkanie numer A1 148  na 11. piętrze w Inwestycji 29L Dewelopera ArchicomW ofercie znajdują się m.in. mieszkania z antresoląPark Zaczarowanej Dorożki (10 minut spacerem)Park Białoprądnic...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Biuro Sprzedaży",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB0NXJxbnozbHBuazMtQVBMIn0.jxQaSJ0PXkCUTwPnMO2Q7jZs2VIbStXiSCKre8SJnWg/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TWO_LEVEL",
+      "weight": 60,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/1-pokojowe-mieszkanie-66m2-loggia-ID4A4zr",
+  "description": "<ul><li>1-pokojowe mieszkanie<strong> numer A1 148</strong>  na 11. piętrze w Inwestycji 29L Dewelopera Archicom</li><li>W ofercie znajdują się m.in. mieszkania z antresolą</li><li>Park Zaczarowanej Dorożki (10 minut spacerem)</li><li>Park Białoprądnicki (15 minut spacerem)</li><li>Przystanek autobusowy (2 minuty spacerem)</li><li>Lidl, Biedronka (8 minut spacerem)</li><li>Plac Imbramowski (10 minut spacerem)</li><li>Centrum Serenada (5 minut samochodem)</li><li>Park Wodny, Multikino (5 minut samochodem)</li></ul><br/><strong>29L - poznaj inwestycję</strong><br/><p><strong>Od kawalerki po dwupoziomowe mieszkania</strong></p><p>29L Rooftop to propozycja dla tych, którzy cenią sobie wyjątkową perspektywę, eleganckie wnętrza i nieprzeciętną lokalizację.</p><p>Tu codzienność zyskuje nowy wymiar, a panorama miasta jest na wyciągnięcie ręki. Dachowy apartament łączy komfort z miejskim stylem życia, blisko zieleni, usług i świetnej komunikacji — każdy dzień zaczynasz tu z nową perspektywą.</p><p><strong>Twoja perspektywa na miejski lifestyle</strong></p><p>Apartamenty Rooftop to przestrzeń dla tych, którzy cenią miejski rytm, widoki i komfort. Położone na najwyższych kondygnacjach, oferują funkcjonalne układy, duże przeszklenia i tarasy. To więcej niż mieszkanie — to osobisty punkt widokowy na Kraków.</p><p>&nbsp;<strong>Udogodnienia, które otaczają Twoje przyszłe marzenia:&nbsp;</strong></p><ul><li>Świetna lokalizacja</li><li>Doskonała komunikacja</li><li>Inwestycja dostępna dla każdego</li><li>Nowoczesne technologie</li><li>Możliwość zakupu mieszkania z antresolą</li><li>Lokale usługowe w budynku</li><li>Bliskość terenów zielonych</li><li>Parking dla mieszkańców i gości</li></ul><br/><strong>29L - lokalizacja</strong><br/><br/>ul. Struga 17, Kraków<br/><ul><li>2,8 km do centrum</li><li>5 min. spacerem do przystanku autobusowego</li><li>14 min. spacerem do przystanku tramwajowego</li><li>dojazd do centrum: 12 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (287 m, 5 minut spacerem)</li><li>Przystanek tramwajowy (938 m, 14 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:15.433Z"
+}

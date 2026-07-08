@@ -1,0 +1,183 @@
+{
+  "id": 68171378,
+  "title": "Gotowe do wprowadzenia, 2 pokoje z garażem - Wola",
+  "slug": "gotowe-do-wprowadzenia-2-pokoje-z-garazem-wola-ID4C2um",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Jana Kazimierza",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola",
+          "fullName": "Wola, Warszawa, mazowieckie",
+          "name": "Wola",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola/odolany",
+          "fullName": "Odolany, Wola, Warszawa, mazowieckie",
+          "name": "Odolany",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtvNDZpaWJuODlhczItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LIqjfJh8kkOBr4nNP1AHFhjhTdWW5XeRwzPWuFR0ZbY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtvNDZpaWJuODlhczItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LIqjfJh8kkOBr4nNP1AHFhjhTdWW5XeRwzPWuFR0ZbY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIzdjloMTh0eWYxOS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rCOSmJ5vqwZDSdG25awReROHSfxmCauNR9yFJQhC8Ns/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIzdjloMTh0eWYxOS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rCOSmJ5vqwZDSdG25awReROHSfxmCauNR9yFJQhC8Ns/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBsOHE3N2ViNGU5MTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PXg6D582ExzLt2xszRpuBc-xLH2YrOM4azsMCFNtGbE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBsOHE3N2ViNGU5MTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PXg6D582ExzLt2xszRpuBc-xLH2YrOM4azsMCFNtGbE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 19,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 3076684,
+    "name": "White Lion Investments",
+    "slug": "white-lion-investments-ID3076684",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imc5ZGZ2N2RmbG8xdDMtQVBMIn0.4yMiTVb5tYE3VnUYM_TNsxXZH83KkJ-NqY6KY1GcEz0/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 970640,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 22000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 44.12,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:55:22",
+  "createdAtFirst": "2026-07-03T21:55:04Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Jasne, ciche mieszkanie z widokiem na zieleń | Klimatyzacja | Balkon | Garaż | Kom&oacute;rka lokatorskaSzukasz gotowego mieszkania, do kt&oacute;rego można wprowadzić się od razu, bez żadnych dodatko...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Joanna",
+    "lastName": "Wiercińska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR6a2h3bDFkd3hkbjEtQVBMIn0.NnOIWIfAaBUtkQr0jJPXkjT-CX-I2Le5BydQ7emVjwA/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Joanna Wiercińska",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/gotowe-do-wprowadzenia-2-pokoje-z-garazem-wola-ID4C2um",
+  "description": "<p><strong>Jasne, ciche mieszkanie z widokiem na zieleń | Klimatyzacja | Balkon | Garaż | Kom&oacute;rka lokatorska</strong></p><p>Szukasz gotowego mieszkania, do kt&oacute;rego można wprowadzić się od razu, bez żadnych dodatkowych nakład&oacute;w? Takiego, kt&oacute;re będzie jasne, funkcjonalne i położone w jednej z najbardziej poszukiwanych części Woli? Ta oferta zdecydowanie zasługuje na uwagę.</p><p><strong>N</strong><strong>a sprzedaż 2-pokojowe mieszkanie o powierzchni 44,12 m&sup2;, położone na 2. piętrze nowoczesnego budynku z 2020 roku przy ul. Jana Kazimierza.</strong> To propozycja dla os&oacute;b ceniących wysoki standard wykończenia, komfort codziennego życia oraz świetną lokalizację.</p><p>Już od pierwszego wejścia uwagę zwraca doskonale zaprojektowana przestrzeń. Meble wykonane na wymiar przez stolarza pozwoliły maksymalnie wykorzystać każdy metr mieszkania, zapewniając dużą ilość praktycznych miejsc do przechowywania. Wnętrze zostało wykończone z wysokiej jakości materiał&oacute;w, a nowoczesna kuchnia jest w pełni wyposażona i gotowa do codziennego użytkowania.</p><p>Dużym atutem nieruchomości jest jej usytuowanie&nbsp;i ekspozycja na dwie&nbsp;strony świata &ndash; wsch&oacute;d i&nbsp;południe. Dzięki temu mieszkanie jest idealnie&nbsp;jasne i słoneczne przez cały dzień. Dodatkowo z okien rozpościera się widok na tereny zielone, bez sąsiadujących budynk&oacute;w, co zapewnia poczucie przestrzeni, prywatności i ciszy.&nbsp;Komfort mieszkańc&oacute;w podnosi r&oacute;wnież klimatyzacja, kt&oacute;ra sprawdzi się szczeg&oacute;lnie podczas letnich dni.</p><p><strong>Układ mieszkania:</strong></p><p>&bull; salon z aneksem kuchennym &ndash; 20,71 m&sup2;, z wyjściem na balkon,<br/><br/>&bull; sypialnia &ndash; 10,52 m&sup2;,<br/><br/>&bull; łazienka &ndash; 4,27 m&sup2;,<br/><br/>&bull; przestronny przedpok&oacute;j &ndash; 8,62 m&sup2;.</p><p><strong>Do mieszkania przynależą:</strong><br/><br/>&bull; balkon o powierzchni 4,79 m&sup2;,<br/><br/>&bull; kom&oacute;rka lokatorska o powierzchni 6,02 m&sup2;,<br/><br/>&bull; miejsce postojowe w garażu podziemnym.</p><p>Budynek znajduje się na zamkniętym, monitorowanym przez całą dobę osiedlu z podw&oacute;jnym systemem domofonowym, co zapewnia mieszkańcom bezpieczeństwo i komfort.<br/><br/><br/><br/><strong>Lokalizacja</strong></p><p>Lokalizacja przy ul. Jana Kazimierza to jedno z najbardziej cenionych miejsc na warszawskiej Woli. W najbliższym otoczeniu znajdują się kawiarnia oraz liczne sklepy (m.in. Lidl i Żabka), piekarnie, restauracje, punkty usługowe, salony kosmetyczne i fryzjerskie, a także szkoły, przedszkola oraz żłobki. Wszystkie najważniejsze udogodnienia dostępne są w zasięgu kr&oacute;tkiego spaceru.</p><p>Miłośnicy aktywnego wypoczynku z pewnością docenią bliskość Parku Powstańc&oacute;w Warszawy, Parku J&oacute;zefa Sowińskiego oraz Parku Edwarda Szymańskiego &ndash; idealnych miejsc na spacery, jogging czy relaks wśr&oacute;d zieleni.</p><p><strong>Informacje dodatkowe</strong><br/>- czynsz administracyjny: ok. 700zł<br/><br/>- do mieszkania przynależą: </p><p><ul><br/><li>miejsce w garażu podziemnym płatne dodatkowo 50 000zł</li><br/><li>kom&oacute;rka lokatorska (6 m2) płatne dodatkowo 26 000zł</li><br/></ul><br/>- stan prawny: własność z księgą wieczystą, brak obciążeń<br/><br/>- możliwość finansowania zakupu kredytem hipotecznym<br/><br/>- dostępność: wrzesień&nbsp;2026r.</p><p></p><p>To mieszkanie łączy w sobie nowoczesny standard, przemyślany układ, świetne doświetlenie oraz doskonałą lokalizację. Będzie idealnym wyborem zar&oacute;wno dla singla, pary, jak i jako bezpieczna inwestycja pod wynajem.</p><p>Serdecznie zapraszam do kontaktu i na prezentację.</p><p><strong>Joanna Wiercińska<br/><br/>Senior Premium Property Advisor<br/><br/></strong></p><p><em>Niniejsze ogłoszenie jest wyłącznie informacją i nie stanowi oferty w rozumieniu art. 66 &sect; 1 Kodeksu Cywilnego. Dokładamy wszelkich starań, aby informacje przedstawione w naszych ofertach były aktualne i rzetelne. Informacje zawarte w ofercie uzyskano na podstawie oświadczeń sprzedających. Załączony plan nieruchomości jest poglądowy.</em></p><p><em>Agencja WHITE LION INVESTMENTS jest objęta obowiązkiem ubezpieczenia odpowiedzialności cywilnej zawodowej. Posiadamy OC zgodne z Rozporządzeniem Ministra Finans&oacute;w z dn. 26.04.2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej pośrednika w obrocie nieruchomościami (Dz. U. z 2019 r., poz. 804). </em></p><p><em>Pobieramy wynagrodzenie w formie prowizji za wykonaną usługę pośrednictwa.</em><br/><br/><em>Bierzemy odpowiedzialność za bezpieczeństwo przeprowadzanych przez nas transakcji.</em></p><p></p>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:22.450Z"
+}

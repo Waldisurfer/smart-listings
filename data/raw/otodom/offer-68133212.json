@@ -1,0 +1,178 @@
+{
+  "id": 68133212,
+  "title": "Mokotów | 91 m² prywatnego ogrodu | Garaż | Gotowe do zamieszkania",
+  "slug": "mokotow-91-m-prywatnego-ogrodu-garaz-gotowe-do-zamieszkania-ID4BSyM",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Bobrowiecka",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/sielce",
+          "fullName": "Sielce, Mokotów, Warszawa, mazowieckie",
+          "name": "Sielce",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxaGRmcDVieHEwaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YYDIYhP-BdT6VXpxJZtoqLrj9J_AlQlRUNFzVAFFco0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxaGRmcDVieHEwaTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YYDIYhP-BdT6VXpxJZtoqLrj9J_AlQlRUNFzVAFFco0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY2NnZia3JtamIwdzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gzMNrBwclMK9CvO3jncD86H1IWyUrcYeA6Z_TQ3aIJY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY2NnZia3JtamIwdzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gzMNrBwclMK9CvO3jncD86H1IWyUrcYeA6Z_TQ3aIJY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFucTZyOHozODV4ZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G2Suo_DfSGfgWrBPMNSAulKhOoQDLkskeLhsgs-M1Ic/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFucTZyOHozODV4ZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G2Suo_DfSGfgWrBPMNSAulKhOoQDLkskeLhsgs-M1Ic/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 19,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 8090266,
+    "name": "Beehouse-nieruchomości",
+    "slug": "beehouse-nieruchomosci-ID8090266",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpjNTFvdWphOGs2NzItQVBMIn0.o_p4J-IU7JcnGGMMX7NXXXghXfSFV6w6UT2lkzOjVbQ/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 999000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 20288.38,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 49.24,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:16:34",
+  "createdAtFirst": "2026-06-22T21:37:37Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T22:16:34+02:00",
+  "specialOffer": null,
+  "shortDescription": "MIESZKANIE Z IMPONUJĄCYM OGRÓDKIEM 91,55 M² NA MOKOTOWIE | UL. BOBROWIECKASzukasz mieszkania, które łączy komfort apartamentu z prywatnością domu? Ta nieruchomość na prestiżowym Mokotowie spełni Twoje...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Anna Wawryniuk",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mokotow-91-m-prywatnego-ogrodu-garaz-gotowe-do-zamieszkania-ID4BSyM",
+  "description": "<p><b>MIESZKANIE Z IMPONUJĄCYM OGRÓDKIEM 91,55 M² NA MOKOTOWIE | UL. BOBROWIECKA</b></p><p>Szukasz mieszkania, które łączy komfort apartamentu z prywatnością domu? Ta nieruchomość na prestiżowym Mokotowie spełni Twoje oczekiwania.</p><p>Eleganckie, dwustronne mieszkanie <u>o powierzchni 49,24 m²</u>, usytuowane na parterze nowoczesnego apartamentowca z 2015 roku. Największym atutem nieruchomości jest prywatny ogród o <b><u>powierzchni aż 91,55 m² oraz taras 8,52 m² </u></b>– wyjątkowa przestrzeń do wypoczynku, spotkań z bliskimi i codziennego odpoczynku.</p><p><b>PRESTIŻOWA LOKALIZACJA </b></p><p>Kameralna, zielona okolica zapewnia spokój i komfort życia, jednocześnie gwarantując szybki dojazd do centrum miasta.</p><p>Ogromnym atutem jest bliskość Łazienek Królewskich - oddalonych o ok. 2,5 km, co pozwala dotrzeć tam w zaledwie kilka minut samochodem lub kilkanaście minut rowerem.</p><p><u>Osiedle jest zamknięte, monitorowane i objęte całodobową ochroną</u>, co zapewnia mieszkańcom pełne poczucie bezpieczeństwa.</p><p><b>WNĘTRZE STWORZONE DO WYGODNEGO ŻYCIA</b></p><p>Mieszkanie zostało wykończone z dbałością o jakość materiałów i funkcjonalność. Jest w pełni umeblowane, zadbane i gotowe do wprowadzenia bez dodatkowych nakładów finansowych.</p><ul><li><b>Przestronny salon z aneksem kuchennym </b>- jasna strefa dzienna stanowi serce mieszkania. Komfortowa część wypoczynkowa z sofą i telewizorem płynnie łączy się z częścią jadalnianą wyposażoną w stół i krzesła. Duże przeszklenia doskonale doświetlają wnętrze i otwierają je na zieloną przestrzeń ogrodu.</li><li><b>Nowoczesna kuchnia w zabudowie na </b>wymiar z wyposażeniem AGD:</li><li><b>Przestronna sypialnia </b>z efektownym narożnym oknem - podwójne łóżko, dużą szafę w zabudowie oraz wygodne miejsce do pracy zdalnej.</li><li><b>Łazienka </b>- wyposażona w wannę z funkcją prysznica, pralkę, pojemne szafki oraz komfortowe elektryczne ogrzewanie podłogowe.</li><li><b>Funkcjonalny przedpokój - </b>duża zabudowana szafa zapewnia mnóstwo miejsca do przechowywania i pozwala zachować idealny porządek.</li></ul><p><b>PRYWATNY OGRÓD – PRAWDZIWY LUKSUS W MIEŚCIE</b></p><p>Bezpośrednio z salonu wychodzimy na taras o powierzchni 8,52 m², który prowadzi do prywatnego ogrodu o powierzchni 91,55 m².</p><p>To wyjątkowa przestrzeń, która staje się naturalnym przedłużeniem mieszkania. Poranna kawa wśród zieleni, relaks z książką, zabawa z pupilem czy letnie spotkania z przyjaciółmi – wszystko to możesz mieć na co dzień, nie rezygnując z życia w mieście.</p><p><b>DODATKOWE INFORMACJE</b></p><p>Do mieszkania przynależy wygodne miejsce postojowe w garażu podziemnym.  Zakup miejsca postojowego dodatkowo płatny ( 50 000 zł).</p><p><u>To nieruchomość, która wyróżnia się na tle warszawskiego rynku – połączenie nowoczesnego apartamentu z prywatną zieloną przestrzenią, jakiej trudno szukać w tej części miasta.</u></p><p>Zapraszam do kontaktu i umówienia prezentacji. Takie mieszkania pojawiają się na rynku niezwykle rzadko.</p><p></p>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:08.305Z"
+}

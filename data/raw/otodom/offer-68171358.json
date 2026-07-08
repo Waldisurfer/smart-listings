@@ -1,0 +1,185 @@
+{
+  "id": 68171358,
+  "title": "Jasne I Gotowe do Zamieszkania I Duży Balkon",
+  "slug": "jasne-i-gotowe-do-zamieszkania-i-duzy-balkon-ID4C2u2",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Bruzdowa",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wilanow",
+          "fullName": "Wilanów, Warszawa, mazowieckie",
+          "name": "Wilanów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wilanow/zawady",
+          "fullName": "Zawady, Wilanów, Warszawa, mazowieckie",
+          "name": "Zawady",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9sN2VncWo4YWc5NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tz-xnFPy9HpsHPLWuWsC6HPIVgK55aX7UcId4Lzi1rk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9sN2VncWo4YWc5NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tz-xnFPy9HpsHPLWuWsC6HPIVgK55aX7UcId4Lzi1rk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVmdW1ldDUzM2NnNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.98FFXvvsX3ruEQSF2-XDty_KcAW53S3Wk3SAgDv-tWc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVmdW1ldDUzM2NnNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.98FFXvvsX3ruEQSF2-XDty_KcAW53S3Wk3SAgDv-tWc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im10enlnaHpxZGswaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.IEVDSa0m6MWdXnLdev-XOmz8_46B9cFGYjY31TtfiBQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im10enlnaHpxZGswaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.IEVDSa0m6MWdXnLdev-XOmz8_46B9cFGYjY31TtfiBQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 7698639,
+    "name": "Avenue Estate  Sp. z o.o.",
+    "slug": "avenue-estate-sp-z-o-o-ID7698639",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMzZm43aHdhNXd2NDMtQVBMIn0.rcKqI_dk9OIb-MqJ7KqjxUoB6Qp98u_r78AO6QTeVio/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 924000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 21000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 44,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:42:39",
+  "createdAtFirst": "2026-07-03T21:42:29Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Niektóre mieszkania przekonują lokalizacją, inne funkcjonalnym układem. To łączy jedno i drugie, dodając do tego spokój, którego coraz trudniej szukać w Warszawie.Mam przyjemność zaprezentować Państwu...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Ilona Najder",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhhN2NnNWgzOGp6ZDItQVBMIn0.6VvU5R5Z6I8XeAgODDuOVmeocg9RKd3pEzNsyfltD0k/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/jasne-i-gotowe-do-zamieszkania-i-duzy-balkon-ID4C2u2",
+  "description": "<strong>Niektóre mieszkania przekonują lokalizacją, inne funkcjonalnym układem. To łączy jedno i drugie, dodając do tego spokój, którego coraz trudniej szukać w Warszawie.</strong><br><br>Mam przyjemność zaprezentować Państwu komfortowe mieszkanie z <strong>dużym balkonem</strong> na kameralnym osiedlu w Wilanowie. <br><strong>Naturalne światło, funkcjonalny układ i zielone otoczenie</strong> tworzą przestrzeń, w której po prostu dobrze się mieszka. To propozycja dla osób, które cenią <strong>spokój</strong>, ale nie chcą rezygnować z wygody codziennego życia. Jedna z najbardziej cenionych lokalizacji na warszawskich Zawadach. <strong>To mieszkanie, które najlepiej docenić podczas osobistej prezentacji. <br><br>ATUTY</strong><br><br/>\n<ul><br/>\n<li>Kameralne osiedle </li><br/>\n<li>Południowo-wschodnia ekspozycja zapewniająca doskonałe doświetlenie wnętrz</li><br/>\n<li>Duży balkon o powierzchni około 8 m²</li><br/>\n<li>Funkcjonalny układ dwóch niezależnych pokoi</li><br/>\n<li>Mieszkanie gotowe do zamieszkania</li><br/>\n<li>Komórka lokatorska</li><br/>\n<li>Zielona i spokojna część Wilanowa</li><br/>\n</ul><br/>\n<strong>NIERUCHOMOŚĆ</strong><br>Mieszkanie znajduje się na pierwszym piętrze kameralnego budynku z windą. Już od wejścia uwagę zwraca bardzo dobre doświetlenie wnętrza oraz przemyślany układ.<br>Salon z aneksem kuchennym stanowi serce mieszkania. To przestrzeń stworzona do codziennego życia, z bezpośrednim wyjściem na duży balkon, który latem staje się naturalnym przedłużeniem części dziennej.<br>Kuchnia pozostaje w pełni wyposażona i obejmuje sprzęty marek Samsung, Electrolux oraz Beko. Neutralna kolorystyka wnętrz daje nowemu właścicielowi możliwość nadania mieszkaniu własnego charakteru bez konieczności przeprowadzania kosztownego remontu.<br>Komfortowa sypialnia zapewnia prywatność i miejsce do odpoczynku. W przedpokoju znajduje się pojemna zabudowa. <br><strong>ROZKŁAD<br></strong><br/>\n<ul><br/>\n<li>Salon z aneksem kuchennym</li><br/>\n<li>Sypialnia</li><br/>\n<li>Łazienka</li><br/>\n<li>Przedpokój z zabudową</li><br/>\n<li>Balkon około 8 m²</li><br/>\n</ul><br/>\n<strong>LOKALIZACJA</strong><br>Zawady od lat należą do najbardziej pożądanych części Wilanowa. Kameralna zabudowa, liczne tereny zielone oraz rozwijająca się infrastruktura sprawiają, że jest to lokalizacja wybierana przez osoby szukające równowagi pomiędzy spokojem, a wygodnym dostępem do miasta.<br>W zaledwie kilka minut można dotrzeć do Placu Vogla z restauracjami, kawiarniami, sklepami oraz punktami usługowymi. W pobliżu znajdują się również ścieżki rowerowe, tereny spacerowe nad Wisłą oraz Pałac w Wilanowie, dzięki czemu okolica sprzyja aktywnemu wypoczynkowi.<br><br>Wybrane odległości:<br><br/>\n<ul><br/>\n<li>ok. 800 m - Plac Vogla</li><br/>\n<li>ok. 1 km - Lidl</li><br/>\n<li>ok. 800 - Biedronka</li><br/>\n<li>ok. 3 km - Pałac i Park w Wilanowie</li><br/>\n<li>ok. 2 km - Plaża Wilanów</li><br/>\n<li>szybki dojazd do Południowej Obwodnicy Warszawy</li><br/>\n</ul><br/>\n<br><strong>DODATKOWE INFORMACJE</strong><br><br/>\n<ul><br/>\n<li>Komórka lokatorska: 30 000 PLN</li><br/>\n<li>Czynsz administracyjny: 600 PLN</li><br/>\n<li>Budynek z 2015 roku</li><br/>\n<li>Piętro 1 z 2</li><br/>\n<li>Możliwość wynajęcia miejsca postojowego na osiedlu (ok. 150 PLN/mies.)</li><br/>\n<li>Możliwość wynajęcia miejsca w garażu podziemnym (ok. 200 PLN/mies.)</li><br/>\n</ul><br/>\n<br>Serdecznie zapraszam do kontaktu oraz umówienie się na prezentację. <br>-<br><strong>Some apartments stand out for their location, while others impress with a well-designed layout. This property offers both, complemented by the sense of peace that has become increasingly rare to find in Warsaw.</strong><br><br>It is my pleasure to present this comfortable apartment with a <strong>spacious balcony, located within a boutique residential development in Wilanów.</strong><br>Filled with natural light, offering a functional layout and surrounded by greenery, this apartment provides an exceptional living environment. It is an ideal choice for those who <strong>appreciate peace and privacy without compromising the convenience of city life</strong>. <strong>Situated in one of the most sought-after locations in Warsaw's Zawady district, this is a property that is truly best appreciated during a private viewing.</strong><br><br><strong>HIGHLIGHTS</strong><br><br/>\n<ul><br/>\n<li>Boutique residential development</li><br/>\n<li>South-east exposure providing abundant natural daylight</li><br/>\n<li>Spacious balcony of approximately 8 m²</li><br/>\n<li>Functional layout with two independent rooms</li><br/>\n<li>Move-in ready condition</li><br/>\n<li>Private storage unit</li><br/>\n<li>Quiet and green surroundings in Wilanów</li><br/>\n</ul><br/>\n<br><strong>THE APARTMENT</strong><br>The apartment is located on the first floor of an intimate residential building with an elevator. From the moment you enter, the abundance of natural light and the thoughtfully designed layout immediately stand out.<br>The living room with an open-plan kitchen forms the heart of the home. It is a welcoming space designed for everyday living, with direct access to a spacious balcony that naturally extends the living area during the warmer months.<br>The kitchen comes fully equipped with appliances by Samsung, Electrolux and Beko. The neutral interior design provides an excellent foundation, allowing the new owner to personalize the space without the need for costly renovations.<br>The comfortable bedroom offers privacy and a peaceful retreat, while the entrance hall features practical built-in storage, maximizing everyday functionality.<br><strong>LAYOUT</strong><br><br/>\n<ul><br/>\n<li>Living room with open-plan kitchen</li><br/>\n<li>Bedroom</li><br/>\n<li>Bathroom</li><br/>\n<li>Entrance hall with built-in wardrobes</li><br/>\n<li>Balcony of approximately 8 m²</li><br/>\n<li>Private storage unit</li><br/>\n</ul><br/>\n<br><strong>LOCATION</strong><br>For years, Zawady has remained one of the most desirable parts of Wilanów. Low-rise architecture, extensive green spaces and continuously developing local infrastructure make it a preferred destination for those seeking the perfect balance between tranquility and convenient access to the city.<br>Within just a few minutes, you can reach Plac Vogla, offering a wide selection of restaurants, cafés, supermarkets and everyday services. The area also features cycling routes, walking trails along the Vistula River and the historic Wilanów Palace with its beautiful gardens, creating an ideal setting for an active lifestyle.<br><br>Selected distances:<br><br/>\n<ul><br/>\n<li>Approx. 800 m - Plac Vogla</li><br/>\n<li>Approx. 1 km - Lidl</li><br/>\n<li>Approx. 800 m - Biedronka</li><br/>\n<li>Approx. 3 km - Wilanów Palace and Gardens</li><br/>\n<li>Approx. 2 km - Wilanów Beach on the Vistula River</li><br/>\n<li>Quick access to the Southern Warsaw Ring Road (S2)</li><br/>\n</ul><br/>\n<strong>ADDITIONAL INFORMATION</strong><br><br/>\n<ul><br/>\n<li>Private storage unit: PLN 30,000</li><br/>\n<li>Monthly service charge: PLN 600</li><br/>\n<li>Building completed in 2015</li><br/>\n<li>First floor (1 of 2)</li><br/>\n<li>Parking space available for rent within the estate (approx. PLN 150/month)</li><br/>\n<li>Underground garage parking available for rent (approx. PLN 200/month)</li><br/>\n</ul><br/>\n<br>Please feel free to contact me for further information or to arrange a private viewing. I would be delighted to show you this exceptional property.<br><br>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:31.364Z"
+}

@@ -32,8 +32,10 @@ Vite · MySQL 8 (Docker) · Vitest · `@anthropic-ai/sdk` (Claude, single surfac
 
 - **File size:** target < 300 lines, hard cap 400. A file that grows past it
   gets split.
-- **One responsibility per module.** No `any`. No `console.log` in production
-  paths.
+- **One responsibility per module.** No `any` in application code — a scoped,
+  commented `any` is acceptable only at untyped external-data boundaries (e.g.
+  parsing third-party HTML/JSON). No `console.log` in request-handling paths
+  (CLI scripts under `pipeline/` log freely).
 - **YAGNI:** no speculative abstraction. Delete dead code as you touch it.
 
 ## Test-critical surfaces (where tests are mandatory)

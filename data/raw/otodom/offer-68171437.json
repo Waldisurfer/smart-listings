@@ -1,0 +1,169 @@
+{
+  "id": 68171437,
+  "title": "2 pokojowe 49 m2 z balkonem, osobna kuchnia ul. T. Seweryna - Kozłówek",
+  "slug": "2-pokojowe-49-m2-z-balkonem-osobna-kuchnia-ul-t-seweryna-kozlowek-ID4C2wj",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. prof. Tadeusza Seweryna",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/biezanow--prokocim",
+          "fullName": "Bieżanów-Prokocim, Kraków, małopolskie",
+          "name": "Bieżanów-Prokocim",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/biezanow--prokocim/kozlowka",
+          "fullName": "Kozłówka, Bieżanów-Prokocim, Kraków, małopolskie",
+          "name": "Kozłówka",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEwc2pwZjc4OXQ1OTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vrt5U1ImfnfwFf2K1z3pPN2eG49x8WRf-4UvnYZStN8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEwc2pwZjc4OXQ1OTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vrt5U1ImfnfwFf2K1z3pPN2eG49x8WRf-4UvnYZStN8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRteXUxd3U2b2ZpZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5YE9F2WjYgRKDkCYlcy9QpJmiFx2oFUGhpvZri8XyWI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRteXUxd3U2b2ZpZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5YE9F2WjYgRKDkCYlcy9QpJmiFx2oFUGhpvZri8XyWI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFvZHBhcGtmZHNvMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WHD7VgYRM1SuGqyz4uvxadxguQ9FljX2IvU5pUw_nK8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFvZHBhcGtmZHNvMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WHD7VgYRM1SuGqyz4uvxadxguQ9FljX2IvU5pUw_nK8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 2700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 55.1,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 49,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:43:20",
+  "createdAtFirst": "2026-07-03T22:36:39Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Do wynajęciaprzestronne, wygodne 2 pokojowe mieszkanie o powierzchni 49 m2 z oddzielna kuchnią usytuowane na wysokim parterze czteropiętrowego budynku znajdującego się przy ul. T. Seweryna - osiedle \"...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Grzegorz Śleziak",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/2-pokojowe-49-m2-z-balkonem-osobna-kuchnia-ul-t-seweryna-kozlowek-ID4C2wj",
+  "description": "<p>Do wynajęcia</p><p>przestronne, wygodne 2 pokojowe mieszkanie o powierzchni 49 m2 z oddzielna kuchnią usytuowane na wysokim parterze czteropiętrowego budynku znajdującego się przy ul. T. Seweryna - osiedle \"Na Kozłówce\" w Krakowie</p><p>Lokal składa się z :</p><ul><li>kuchni</li><li>salonu</li><li>sypialni</li><li>łazienki</li><li>przedpokoju</li></ul><p>Do mieszkania przynależy :</p><ul><li>balkon / loggia /</li><li>komórka lokatorska na poziomie - 1</li><li>zewnętrzne miejsce postojowe</li></ul><p>Lokalizacja.</p><p></p><p>Teren budynku jest ogrodzony, monitorowany, a przyjemne, zadbane, zielone otoczenie sprzyja wypoczynkowi i zapewnia poczucie bezpieczeństwa i prywatności jego mieszkańcom.</p><p>Osiedle \" Na Kozłówce\" to bardzo dobra lokalizacja , która dzięki szeroko rozwiniętej, bogatej infrastrukturze handlowo - usługowej ( liczne markety spożywcze i przemysłowe, plac targowy, szkoły, przedszkola, żłobki, apteki, przychodnia zdrowia, kawiarnie ) łączy w sobie wygodę codziennego życia i jednocześnie gwarantuje dogodny i szybki dojazd zarówno do centrum jak i też innych części Krakowa i Wieliczki.</p><p>W niewielkiej odległości od budynku ( kilka minut spacerem ) przy ul. Nowosądeckiej i Wielickiej znajdują się przystanki kilku linii tramwajowych i autobusowych.</p><p>W pobliżu znajduje się też Szpital Uniwersytecki oraz Wydział Farmaceutyczny Collegium Medicum UJ</p><p></p><p>Mieszkanie jest w pełni umeblowane i wyposażone w sprzęt AGD ( możliwość ewentualnego doposażenia w zależności od potrzeb najemcy )</p><p>Do dyspozycji jest także komórka lokatorska oraz zewnętrzne miejsce postojowe.</p><p>Jakość codziennego życia jest dobrem najbardziej pożądanym.Kluczową kwestią jest to, aby nasi Najemcy mogli swobodnie czuć się w naszym mieszkaniu a wychodząc z niego mogli czerpać przyjemność z miejsca w którym żyją.</p><p></p><p></p><p>Opłaty :</p><p></p><ul><li>2700 zł czynsz najmu / odstępne /, w tym miejsce postojowe i komórka lokatorska</li><li>500 zł czynsz administracyjny ( w tym zaliczka na wodę, wywóz śmieci, utrzymanie czystości części wspólnych fundusz remontowy oraz Internet )</li><li>media ( prąd, gaz ) - płatne w/g zużycia</li></ul><p></p><p>Serdecznie polecam i zapraszam do obejrzenia 576*247*907</p>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:00.390Z"
+}

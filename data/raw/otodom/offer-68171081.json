@@ -1,0 +1,165 @@
+{
+  "id": 68171081,
+  "title": "Celarowska, 46m²: 3 pokoje | o3 Business Park",
+  "slug": "celarowska-46m-3-pokoje-o3-business-park-ID4C2pz",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Celarowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony",
+          "fullName": "Prądnik Czerwony, Kraków, małopolskie",
+          "name": "Prądnik Czerwony",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-czerwony/olsza",
+          "fullName": "Olsza, Prądnik Czerwony, Kraków, małopolskie",
+          "name": "Olsza",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRveGJjNjRmdjVxMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nzorjGAzuyGYGxj5QmbiyHooEvoBivHbatwEolT2grA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRveGJjNjRmdjVxMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nzorjGAzuyGYGxj5QmbiyHooEvoBivHbatwEolT2grA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3ZzUwNDRhazJtOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.a-_KhAXJSWkPzGA5DCp9_5o6hZ3wJBZ2gTfruNs6htA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3ZzUwNDRhazJtOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.a-_KhAXJSWkPzGA5DCp9_5o6hZ3wJBZ2gTfruNs6htA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBubHNzNjBtMTd6YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y-qpBLcJ4yj0nfOvVxm7yF0DD1f7C2jig5me5o-Tgh8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBubHNzNjBtMTd6YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y-qpBLcJ4yj0nfOvVxm7yF0DD1f7C2jig5me5o-Tgh8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 15,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 458013,
+    "name": "homfi sp. z o.o.",
+    "slug": "homfi-sp-z-o-o-ID458013",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdoOTU1eWs1NXB6bC1BUEwifQ.fJ42BJ9orx41HciqBlX-MF2SBV9wngOFMiCaMlQaQTc/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 630,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 53.98,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 46.31,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 19:15:31",
+  "createdAtFirst": "2026-07-03T19:15:04Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "DOSTĘPNE OD 1 SIERPNIA!LOKALIZACJABudynek zlokalizowany w spokojnej części dzielnicy Prądnik Czerwony, niedaleko skrzyżowania ulicy Opolskiej z aleją 29 Listopada, a co za tym idzie - kompleksu biurow...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Iwo Gurdek",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZqN3JneWo0Ym0wMDItQVBMIn0.X5zTZ8KT16U4jOwQpvq9GGPIRym2F-MfHShRUg2ceew/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/celarowska-46m-3-pokoje-o3-business-park-ID4C2pz",
+  "description": "<p>DOSTĘPNE OD 1 SIERPNIA!</p><p>LOKALIZACJA</p><p>Budynek zlokalizowany w spokojnej części dzielnicy Prądnik Czerwony, niedaleko skrzyżowania ulicy Opolskiej z aleją 29 Listopada, a co za tym idzie - kompleksu biurowego O3 Business Park. W okolicy pełna infrastruktura: sklepy, lokale uzytkowe, przystanki autobusowe, itp. Lokalizacja zapewnia doskonały dojazd do centrum, jak i wyjazd w stronę Olkusza, Zabierzowa, czy na autostradę A4/obwodnicę. </p><p>MIESZKANIE</p><p>Mieszkanie o powierzchni 46m² położone jest na 4. piętrze budynku bez windy i składa się z:</p><p>- jasnego salonu z sofą i TV<br/>- praktycznej, otwartej kuchni ze zmywarką<br/>- sypialni z łóżkiem małżeńskim oraz dużą szafą<br/>- drugiej sypialni z łóżkiem i szafą<br/>- łazienki z kabiną przysznicową i pralką<br/>- przedpokoju z pojemną szafą</p><p>Do mieszkania przynależy piwnica.</p><p>FINANSE</p><p>2 500 PLN - czynsz najmu<br/>630 PLN - czynsz administracyjny (zaliczki na zimną wodę i ogrzewanie, konserwacja części wspólnych, ochrona, fundusz remontowy)<br/>300 PLN - prąd i gaz według zużycia (zaliczka)</p><p>Wymagamy potwierdzenia zarobków w wysokości min. 2-krotności czynszu najmu.</p><p><br/>Na stronie homfi znajdą Państwo pełną galerię zdjęć, rzut mieszkania oraz film z wirtualnym spacerem.</p><p>Serdecznie zapraszam na prezentację!</p><p>----</p><p>Zainteresowany? Skontaktuj się z nami pod numerem +48 577 394 123 lub poprzez formularz kontaktowy dostępny w ogłoszeniu.</p><p></p><p>Celarowska St., 46m²: a 3-room apartment in a quiet area | Opolska | 29 Listopada.</p><p>LOCATION</p><p>The building is located in a calm part of the Prądnik Czerwony district, near the intersection of 29 Listopada and Opolska, where the O3 Business Park is. The neighborhood has full infrastructure, like shops, sevice venues, bus stops, etc. The location provides a great connection to the city center via 29 Listopada Street, as well as the A4 highway/the ringroad.</p><p>APARTMENT</p><p>The 46m² apartment is located on the 4th floor of a building without an elevator and consists of:<br/>- a bright living room with a sofa and a flat-screen TV<br/>- an open kitchen with a dishwasher<br/>- a bedroom with a double bed and a large wardrobe<br/>- a second bedroom with a bed and a wardrobe<br/>- a bathroom with a shower and a washing machine<br/>- a corridor with a wardrobe</p><p>The offer includes a basement.</p><p>FINANCE</p><p>2 500 PLN - monthly rent<br/>630 PLN - administrative fee (incl. advances for cold water & heating, maintenance, security, repair fund)<br/>300 PLN - electricity and gas according usage (advance)</p><p>Proof of salary of at least 5 000 PLN (2x monthly rent) is required.</p><p><br/>On the Private House Brokers website you will find the complete version of the offer, including photos, layout and video of the virtual tour.</p><p>Feel invited to schedule a viewing!</p><p>----</p><p>Interested? Call +48 7577 394 123 or use the contact form available in the ad.</p>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:38.860Z"
+}

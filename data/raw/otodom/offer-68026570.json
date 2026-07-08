@@ -1,0 +1,373 @@
+{
+  "id": 68026570,
+  "title": "4-pokojowe mieszkanie 123m2 + ogródek",
+  "slug": "4-pokojowe-mieszkanie-123m2-ogrodek-ID4BqOK",
+  "estate": "FLAT",
+  "development": {
+    "id": 68026548,
+    "title": "Jurajska Park",
+    "slug": "jurajska-park-ID4BqOo",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "ul. Jurajska",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Kraków",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "małopolskie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "malopolskie",
+            "fullName": "małopolskie",
+            "name": "małopolskie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow",
+            "fullName": "Kraków, małopolskie",
+            "name": "Kraków",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+            "fullName": "Prądnik Biały, Kraków, małopolskie",
+            "name": "Prądnik Biały",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/tonie",
+            "fullName": "Tonie, Prądnik Biały, Kraków, małopolskie",
+            "name": "Tonie",
+            "locationLevel": "residential",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFqZ2p1a3Z5NjE1MTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dyJLTrSjzDnVaQV53ze-rPNa__ur6pgOp-2YSTT_H3c/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFqZ2p1a3Z5NjE1MTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dyJLTrSjzDnVaQV53ze-rPNa__ur6pgOp-2YSTT_H3c/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh5MWNoMmJvMnJpbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZGpMN_25MxTlTplwuawE3kpjR6lW1I6AJjdZTJxOMfU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh5MWNoMmJvMnJpbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZGpMN_25MxTlTplwuawE3kpjR6lW1I6AJjdZTJxOMfU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhicGxieDljZXAxejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gRDoHUbpw0KqRH3xKf01tyW_ZXIvxpw35p0TmDN2NoU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhicGxieDljZXAxejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gRDoHUbpw0KqRH3xKf01tyW_ZXIvxpw35p0TmDN2NoU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4M2c1YThheTNrbDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PXg6sQewNILMY779HvRQALpBw1I36h0uODjzE5NjdJw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU4M2c1YThheTNrbDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PXg6sQewNILMY779HvRQALpBw1I36h0uODjzE5NjdJw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFvMG5zMGNnYzBuNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h5zXTctwlPO_SkDVxB_TKNa0rkzhZahSdp71zDZks4s/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFvMG5zMGNnYzBuNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.h5zXTctwlPO_SkDVxB_TKNa0rkzhZahSdp71zDZks4s/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU1cTRzZmFtZzR5aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.m5WcPKlNAng2CrSoTJS7nlkXaVoGUagifUGA0-58_lM/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU1cTRzZmFtZzR5aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.m5WcPKlNAng2CrSoTJS7nlkXaVoGUagifUGA0-58_lM/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhkZGN3cHpmNXN1bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LagW-03U29El9Q3hk9AdYLq22E_zqJOPWc_SVtGWLaE/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhkZGN3cHpmNXN1bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LagW-03U29El9Q3hk9AdYLq22E_zqJOPWc_SVtGWLaE/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUzcHpoaHZkMXh3ejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lZ5i3vqR6mV7RzqHbg18715KNLF9YFpy1OZjGKRzHrU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUzcHpoaHZkMXh3ejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lZ5i3vqR6mV7RzqHbg18715KNLF9YFpy1OZjGKRzHrU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUzc2NiZXh6enlieC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.t2Af3Xnn-JORq0fKzVlELmYNtoEdO8MwCX7xaStJ-Iw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUzc2NiZXh6enlieC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.t2Af3Xnn-JORq0fKzVlELmYNtoEdO8MwCX7xaStJ-Iw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM1ZW9tMzJqaDhsOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.k67K_JhKkbAM9XN6SsIfbyZkT_4Dv8Z8ufsS132tGKU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM1ZW9tMzJqaDhsOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.k67K_JhKkbAM9XN6SsIfbyZkT_4Dv8Z8ufsS132tGKU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2a2s2aGI3eG1oajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.833loroojcIRBn1B_eB-gqIwg5GMBmQXESB3o1zytSY/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2a2s2aGI3eG1oajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.833loroojcIRBn1B_eB-gqIwg5GMBmQXESB3o1zytSY/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJreG9xMjd3cGQxbDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f17Kc7aNTJghS9mbiiGcPo4SoapTxreajQGiLzVv2V0/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJreG9xMjd3cGQxbDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f17Kc7aNTJghS9mbiiGcPo4SoapTxreajQGiLzVv2V0/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE4MTZ5cXFjM2NicDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDEFJsVnmICPELnegS-_rUVHtU3nWrRtpAT6rB5wZiM/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE4MTZ5cXFjM2NicDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lDEFJsVnmICPELnegS-_rUVHtU3nWrRtpAT6rB5wZiM/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InczcW1tMGNsa2xzZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7WRmV7YvhsOPIiD2MNtnIEKnZqIfEcb_t5mJrtfvAGw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InczcW1tMGNsa2xzZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.7WRmV7YvhsOPIiD2MNtnIEKnZqIfEcb_t5mJrtfvAGw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 14,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 10554098,
+      "name": "Nokturn Deweloper",
+      "slug": "nokturn-deweloper-ID10554098",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNrMHZtamJwbDNjcTItQVBMIn0.vdtuZxwIc06Uy6xu6C8xRnZm3bSk7yHF_iMdjblqvaM/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 11450,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "IN_BUILDING",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 123,
+      "to": 123,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2026-05-20 13:06:42",
+    "createdAtFirst": "2026-05-20T13:06:29Z",
+    "investmentUnitsNumber": 9,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "GROUND",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "FOUR",
+      "max": "FOUR",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 4,
+      "year": 2027,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "4-pokojowe mieszkania o powierzchni 123 m2 w cenie od 1415334 zł od dewelopera Nokturn DeweloperPompa ciepła i ogrzewanie podłogowe w standardzieBrak skosów na ostatniej kondygnacjiPrzystanek autobuso...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 68026548,
+  "developmentTitle": "Jurajska Park",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/jurajska-park-ID4BqOo",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Jurajska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+          "fullName": "Prądnik Biały, Kraków, małopolskie",
+          "name": "Prądnik Biały",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/tonie",
+          "fullName": "Tonie, Prądnik Biały, Kraków, małopolskie",
+          "name": "Tonie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhkZGN3cHpmNXN1bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LagW-03U29El9Q3hk9AdYLq22E_zqJOPWc_SVtGWLaE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhkZGN3cHpmNXN1bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LagW-03U29El9Q3hk9AdYLq22E_zqJOPWc_SVtGWLaE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR3b3Y5ZHo5MmoybjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ux0oiVa-YocO2LtcODOLjjzLUstED2bHu_zWVoiUKJ8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR3b3Y5ZHo5MmoybjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ux0oiVa-YocO2LtcODOLjjzLUstED2bHu_zWVoiUKJ8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh2bmc1c240MWk0NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mJ5tWcefyeGAP5hkwDV_cNVaB8nDE086dpv300K-exc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh2bmc1c240MWk0NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mJ5tWcefyeGAP5hkwDV_cNVaB8nDE086dpv300K-exc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 12,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 10554098,
+    "name": "Nokturn Deweloper",
+    "slug": "nokturn-deweloper-ID10554098",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNrMHZtamJwbDNjcTItQVBMIn0.vdtuZxwIc06Uy6xu6C8xRnZm3bSk7yHF_iMdjblqvaM/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1594569,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 12900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 123.61,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 20:10:23",
+  "createdAtFirst": "2026-05-20T13:08:49Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T20:10:23+02:00",
+  "specialOffer": null,
+  "shortDescription": "4-pokojowe mieszkanie numer 41D_1  na parterze w Inwestycji Jurajska Park Dewelopera Nokturn DeweloperPompa ciepła i ogrzewanie podłogowe w standardzieBrak skosów na ostatniej kondygnacjiPrzystanek au...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Biuro Sprzedaży",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx4eXFyZnBsbWI4Zi1BUEwifQ.v11JZkebiu2EUMvceiUtbT9Rf8gA30K0Y32mOrNO1zE/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/4-pokojowe-mieszkanie-123m2-ogrodek-ID4BqOK",
+  "description": "<ul><li>4-pokojowe mieszkanie<strong> numer 41D_1</strong>  na parterze w Inwestycji Jurajska Park Dewelopera Nokturn Deweloper</li><li>Pompa ciepła i ogrzewanie podłogowe w standardzie</li><li>Brak skosów na ostatniej kondygnacji</li><li>Przystanek autobusowy (10 minut pieszo)</li><li>Fort 44a „Pękowice” Twierdza Kraków (7 minut pieszo), Dolinki Krakowskie (13 minut samochodem), Ojcowski Park Narodowy (15 minut samochodem)</li></ul><br/><strong>Jurajska Park - poznaj inwestycję</strong><br/><p><strong>Jurajska Park</strong> to kameralna enklawa nowoczesnych apartamentów, zaprojektowana w harmonii architektury, natury i komfortu codziennego życia. Eleganckie bryły, stonowana kolorystyka oraz starannie zaprojektowana zieleń tworzą spójną, ponadczasową przestrzeń gwarantującą prywatność, wygodę i kontakt z naturą.</p><p><strong>Inwestycja realizowana jest w czterech etapach. </strong>Docelowo obejmie ona 24 budynki jednorodzinne dwulokalowe, tworząc niską, nowoczesną zabudowę.</p><ul><li>Osiedle położone w zielonej części Krakowa</li><li>Duża ilość zieleni na terenie osiedla</li><li>Sąsiedztwo urokliwych terenów Twierdzy Kraków</li><li>Położenie przy spokojnej ulicy wewnętrznej</li></ul><p>Apartamenty zaprojektowano w formie nowoczesnych segmentów bliźniaczych, nawiązujących do typowej budowy domów jednorodzinnych, podzielonych na dwa odrębne lokale.</p><p>W ramach pierwszej części osiedla Jurajska Park powstanie 6 budynków jednorodzinnych w których znajdzie się łącznie <strong>12 trzypoziomowych apartamentów z tarasami lub tarasami i ogródkami</strong>, tworząc pierwszą wspólnotę mieszkańców na osiedlu Jurajska Park.</p><ul><li>Kameralna zabudowa</li><li>Apartamenty z tarasem i ogródkiem</li><li>Możliwość wydzielenia do 4 sypialni</li><li>Brak skosów na ostatniej kondygnacji</li><li>Ekologiczne źródło ogrzewania tj. pompa ciepła wraz z ogrzewaniem podłogowym</li><li>Możliwość dostosowania układów funkcjonalnych do potrzeb Klientów</li></ul><p><strong>Każdy z apartamentów podzielony został na 3 strefy</strong></p><ul><li>PARTER, STREFA DZIENNA salon z częścią jadalnianą oraz dużym oknem na taras , kuchnia, toaleta, wiatrołap.</li><li>PIERWSZE PIĘTRO, STREFA SYPIALNI/POKOI DZIECIĘCYCH dwie duże ustawne sypialnie o pow. 13m2 i 12 m2, łazienka, garderoba/schowek.</li><li>DRUGIE PIĘTRO, STREFA DO ARANŻACJI WŁASNEJ np. gabinet, pomieszczenie do ćwiczeń, bawialnia, apartament en-suite oraz dodatkowo garderoba/schowek i pomieszczenie techniczne z miejscem na pralkę.</li></ul><p><strong>Osiedle Jurajska Park zlokalizowana jest przy ul. Jurajskiej, w północnej części Krakowa – w spokojnym, dobrze skomunikowanym obszarze o uporządkowanej zabudowie i kameralnym charakterze.&nbsp;</strong></p><p>W bliskiej odległości od inwestycji znajdują się szkoły, żłobki, przedszkola oraz punkty handlowo-usługowe, umożliwiające wygodne funkcjonowanie na co dzień, bez konieczności dojazdu do centrum.&nbsp;</p><p>Istotnym atutem tej lokalizacji jest nowo rozbudowana infrastruktura drogowa (północna obwodnica Krakowa, trasa Wolbromska), która w łatwy sposób umożliwia dotarcie do centrum miasta oraz wyjazd z Krakowa w różnych kierunkach. W odległości ok. 600m od inwestycji znajduje się przystanek komunikacji miejskiej z którego można się dostać bezpośrednio do zajezdni tramwajowej Krowodrza Górka.</p><p>Okolica osiedla Jurajska Park łączy bogatą historię regionu z szerokimi możliwościami spędzania czasu na świeżym powietrzu. W bezpośrednim sąsiedztwie znajdują się tereny Twierdzy Kraków oraz rozległe przestrzenie sprzyjające rekreacji i aktywnemu wypoczynkowi.</p><p><strong>TERENY HISTORYCZNE TWIERDZY KRAKÓW</strong></p><p>Forty Tonie i Pękowice wraz z zachowaną infrastrukturą forteczną, w tym dawną drogą łączącą oba obiekty, którą przemieszczano artylerię to zachowane elementy XIX-wiecznego systemu obronnego Krakowa.</p><p><strong>PARK KRAJOBRAZOWY DOLINKI KRAKOWSKIE&nbsp;</strong></p><p>Park obejmuje malownicze doliny, wapienne skały oraz rozległe tereny spacerowe i rowerowe, stanowiące jedno z najcenniejszych przyrodniczo miejsc w okolicach Krakowa.</p><p><strong>OJCOWSKI PARK NARODOWY</strong></p><p>Jeden z najpiękniejszych i najbardziej rozpoznawalnych obszarów przyrodniczych w Polsce. Malownicze doliny, wapienne formacje skalne oraz liczne trasy spacerowe i rowerowe tworzą wyjątkowe warunki do wypoczynku i aktywnego spędzania czasu na łonie natury.</p><p><strong>INFRASTRUKTURA SPORTOWO-REKREACYJNA W POBLIŻU:</strong></p><ul><li>Klub tenisowy w Giebułtowie;</li><li>Naturalne skałki wspinaczkowe;</li><li>Centrum wspinaczkowe;</li><li>Stadniny koni i tereny jeździeckie;</li><li>Ojcowski Park Narodowy.</li></ul><br/><strong>Jurajska Park - lokalizacja</strong><br/><br/>Pękowice, ul. Jurajska<br/><ul><li>7,0 km do centrum</li><li>10 min. spacerem do przystanku autobusowego</li><li>dojazd do centrum: 21 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (643 m, 10 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:52.982Z"
+}

@@ -1,0 +1,173 @@
+{
+  "id": 68097561,
+  "title": "Mieszkanie 2 pok z wyjątkowym sufitem Pędzichów/DŁUGA/cicha oficyna",
+  "slug": "mieszkanie-2-pok-z-wyjatkowym-sufitem-pedzichow-dluga-cicha-oficyna-ID4BJhL",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Pędzichów",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto",
+          "fullName": "Stare Miasto, Kraków, małopolskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto/kleparz",
+          "fullName": "Kleparz, Stare Miasto, Kraków, małopolskie",
+          "name": "Kleparz",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdlOGQ2c2h6b3AzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.R37rvMszwa2C-u1TdeNj00vd1X6iZ9Fd785nQtWoOPo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdlOGQ2c2h6b3AzNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.R37rvMszwa2C-u1TdeNj00vd1X6iZ9Fd785nQtWoOPo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJqY3ZtbXllZGZvaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wRs4URGOOnhA5c4f__igH70vxOsFT47kmM90_5UZFi4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJqY3ZtbXllZGZvaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wRs4URGOOnhA5c4f__igH70vxOsFT47kmM90_5UZFi4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAyYzk4b2Q0cjNzZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KjZfoHZdOYIg9ocCHSyTJ_-kkbMLiTFi4EwHrDnea1I/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAyYzk4b2Q0cjNzZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KjZfoHZdOYIg9ocCHSyTJ_-kkbMLiTFi4EwHrDnea1I/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 11756078,
+    "name": "Po swojemu nieruchomości by Monika Grochot",
+    "slug": "po-swojemu-nieruchomosci-by-monika-grochot-ID11756078",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2690,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 159,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 50.75,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 53,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 21:03:40",
+  "createdAtFirst": "2026-06-11T13:18:53Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-03T21:03:41+02:00",
+  "specialOffer": null,
+  "shortDescription": "ENGLISH VERSION BELOWPrezentacja w 99 sekund? Obejrzyj filmik z mieszkania! Wciśnij play na lub pod zdjęciem głównym :)Tego sufitu będą zazdrościć Wam wszyscy. Od Pani w Lajkoniku naprzeciwko po znajo...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Monika",
+    "lastName": "Grochot",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd3MGlqMjVybG93cjEtQVBMIn0.lYW7wqRrrsWOdDBMVIm2Li2PhST3G5MqzK42OYlgDJE/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Monika Grochot",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-2-pok-z-wyjatkowym-sufitem-pedzichow-dluga-cicha-oficyna-ID4BJhL",
+  "description": "<p>ENGLISH VERSION BELOW</p><p>Prezentacja w 99 sekund? Obejrzyj filmik z mieszkania! Wciśnij play na lub pod zdjęciem głównym :)</p><p></p><p>Tego sufitu będą zazdrościć Wam wszyscy. Od Pani w Lajkoniku naprzeciwko po znajomych, którzy Cię odwiedzą! Do tego wyobraźcie sobie – mieszkacie w ścisłym centrum a jednak w oficynie budynku. Za oknami bujna zieleń, cisza. Brzmi fajnie?</p><p></p><p><b>MIESZKANIE</b></p><p><u>Salon: </u>no dobra, ja dalej o tym suficie, bo po prostu cudowny jest! Ale poza nim jest przedpokój z wieszakiem na ubrania, rozkładany narożnik, stolik kawowy, antyczne lustro i biurko z krzesłem konferencyjnym, żeby wygodnie (i stylowo) można było zdalnie pracować (kamera na sufit! ;p )</p><p><u>Sypialnia:</u> nowe, szerokie łóżko z najlepszej ever serii Malm z IKEA – dno się podnosi a co jest pod materacem to już będzie tajemnica Poliszynela ;) do tego szafki nocne, szafa z lustrem i krzesła, które dobrze wszyscy wiemy, że skończą jako podręczna szafa :)</p><p><u>Kuchnia: </u>bardzo fajny aneks kuchenny – jest zmywarka, metalowy zlew, lodówka podblatowa i mnóstwo szafek. Obok duży stół i kolejne przenośn… krzesła konferencyjne.</p><p><u>Łazienka:</u> szafka z lustrem, umywalka z kolejną szafką, piec jaki jest każdy widzi, pralka i duża kabina prysznicowa</p><p><u>Toaleta: </u>toaleta, czyli tzw. miska WC, umywalka z kolejną szafką, lustro i kaloryfer (do grzania stópek na dłuższych posiedzeniach ;) kurde, za mało snu i wena nieprzewidywalna :D)</p><p></p><p><b>LOKALIZACJA (zobacz mapkę w galerii!):</b></p><p><b>Pędzichów </b>to nie tylko ulica, ale też nazwa przystanku przy ul. Długiej :)</p><p>w pobliżu:</p><ul><li>Przystanki MPK: Pędzichów, Nowy Kleparz, Stary Kleparz, Politechnika oraz Dworzec Główny</li><li>Dworzec PKP Kraków Główny</li><li>Galeria Krakowska (Carrefour, Biedronka)</li><li>Taki tam… Rynek</li><li>3 piekarnie: Lajkonik, Awiteks i Buczek</li><li>Duuuuużo sklepików – Carrefour, Żabek, Lewiatan i zobaczcie na mapie w galerii sami</li></ul><p></p><p><b>CENA:</b></p><p>2690 zł – najem</p><p>399,44 zł / 1 osobę lub 504,02 zł / 2 osoby – media zaliczkowo (woda zimna, gaz i prąd) – przepisywane na Najemców, żeby było taniej :)</p><p>340,28 zł / 1 osobę lub 375,28 zł – opłaty (czynsz adm. + śmieci segregowane)</p><p>0 zł – prowizja od Najemcy – moje wynagrodzenie pokrywa właściciel :)</p><p><b>razem: </b>3429,72 zł / 1 osobę lub 3569,30 zł / 2 osoby</p><p></p><p>Obejrzyj u mnie inne mieszkania na wynajem :) Zadzwoń i umów się na prezentację!</p><p></p><p><b>Monika</b></p><p><b><i>Fb/IG: Po swojemu nieruchomości by Monika Grochot</i></b></p><p>Wszystkie oferty znajdziesz na Nieruchomości-Online</p><p></p><p>----------------</p><p>A 99-second tour? Watch the video of the apartment! Hit play on or below the main photo :)</p><p></p><p>Everyone will envy this ceiling. From the lady in the Lajkonik across the street to friends who come to visit! Plus, just imagine—you live right in the heart of the city, yet in the building&#39;s annex. Lush greenery and silence outside the windows. Sounds nice?</p><p></p><p><b>APARTMENT</b></p><p>Living Room: Okay, I&#39;m still raving about that ceiling because it&#39;s just wonderful! But aside from that, there&#39;s a entryway with a coat rack, a convertible corner sofa, a coffee table, an antique mirror, and a desk with a conference chair so you can work remotely comfortably (and stylishly) (camera on the ceiling! ;p )</p><p>Bedroom: a new, wide bed from the best-ever Malm series at IKEA—the bottom lifts up, and what&#39;s under the mattress is an open secret ;) plus nightstands, a mirrored wardrobe, and chairs that we all know will end up as a makeshift wardrobe :)</p><p>Kitchen: a really cool kitchenette—it has a dishwasher, a metal sink, an under-counter fridge, and plenty of cabinets. Next to it is a large table and more portable… conference chairs.</p><p>Bathroom: a cabinet with a mirror, a sink with another cabinet, a stove that everyone can see, a washing machine, and a large shower stall</p><p>Toilet: toilet, i.e., the so-called toilet bowl, a sink with another cabinet, a mirror, and a radiator (to warm your feet during longer stays ;) Damn, not enough sleep and unpredictable inspiration :D)</p><p></p><p><b>LOCATION (see the map in the gallery!):</b></p><p><u>Pędzichów </u>isn&#39;t just a street—it&#39;s also the name of the bus stop on Długa Street :)</p><p>Nearby:</p><p>• MPK bus stops: Pędzichów, Nowy Kleparz, Stary Kleparz, Politechnika, and Dworzec Główny</p><p>• Kraków Główny Railway Station</p><p>• Galeria Krakowska (Carrefour, Biedronka)</p><p>• The Main Square</p><p>• 3 bakeries: Lajkonik, Awiteks, and Buczek</p><p>• Loads of shops – Carrefour, Żabek, Lewiatan, and check the map in the gallery for more</p><p></p><p><b>PRICE</b>:</p><p>2,690 PLN – rent</p><p>399.44 PLN / 1 person or 504.02 PLN / 2 people – utilities paid in advance (cold water, gas, and electricity) – transferred to the Tenants&#39; names to make it cheaper :)</p><p>340.28 PLN / 1 person or 375.28 PLN – fees (administrative rent + sorted trash)</p><p>0 PLN – commission from the tenant – the owner covers my fee :)</p><p><b>total</b>: 3,429.72 PLN / 1 person or 3,569.30 PLN / 2 people</p><p></p><p><b>Check out my other apartments for rent :) Call me and arrange a viewing!</b></p><p></p><p><b>Monika</b></p><p><b>Fb/IG: Po swojemu nieruchomości by Monika Grochot</b></p><p>You can find all listings on Nieruchomości-Online</p>",
+  "offerType": "rent",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:06:20.806Z"
+}

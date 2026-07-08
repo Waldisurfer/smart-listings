@@ -10,6 +10,9 @@
   "scripts": {
     "dev": "npm --workspace server run dev",
     "typecheck": "npm --workspace server run typecheck",
-    "test": "npm --workspace server run test"
+    "test": "npm --workspace server run test",
+    "test:integration": "npm --workspace server run test:integration",
+    "seed": "npm --workspace server run seed",
+    "scrape": "npm --workspace server run scrape"
   }
 }

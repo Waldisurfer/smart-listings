@@ -1,0 +1,814 @@
+{
+  "id": 66337917,
+  "title": "Krakowska Vita",
+  "slug": "krakowska-vita-ID4ulvp",
+  "estate": "INVESTMENT",
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Aleja Krakowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+          "fullName": "Włochy, Warszawa, mazowieckie",
+          "name": "Włochy",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+          "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+          "name": "Raków",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3ZXg3Y256bzl6NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gpRNEFlVXRCj43k994GMj0IZZ74ooDjaDicg0OoVnFE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3ZXg3Y256bzl6NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gpRNEFlVXRCj43k994GMj0IZZ74ooDjaDicg0OoVnFE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFseGljYm5uYXJiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nkX6kydYUXwiaOh8Wvy2w5ZMbVFxV4yH0ABl5m1h0JQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFseGljYm5uYXJiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nkX6kydYUXwiaOh8Wvy2w5ZMbVFxV4yH0ABl5m1h0JQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIyYmQwYzAxbGp0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WaDt1RHiKe7ga7gHo7Iqz4C5nTMmROpvxBnGk7QcQo8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIyYmQwYzAxbGp0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WaDt1RHiKe7ga7gHo7Iqz4C5nTMmROpvxBnGk7QcQo8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xNzU5NnExZ24wNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wlyr7jRZGwM__ArC2Yt8JwAxv3KGOzSiuA4rQOeDWDQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xNzU5NnExZ24wNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wlyr7jRZGwM__ArC2Yt8JwAxv3KGOzSiuA4rQOeDWDQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpcmZrNjVudHVkaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s0o8sV98W37k4u_JGVPqt4_7tAxaCjSdY18W4h4z9Tw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpcmZrNjVudHVkaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s0o8sV98W37k4u_JGVPqt4_7tAxaCjSdY18W4h4z9Tw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1lMGR5NGt3OWkwbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sWtHA8dJlSk36HSdiQeXSX5D1BdWbbavpnY5Ip6tw_Y/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1lMGR5NGt3OWkwbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sWtHA8dJlSk36HSdiQeXSX5D1BdWbbavpnY5Ip6tw_Y/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": true,
+  "agency": {
+    "id": 10556359,
+    "name": "DEVELIA",
+    "slug": "develia-ID10556359",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53M3U3YXpwaGdydS1BUEwifQ.--1fv6eNsoatzEwTA4hrQGG11ePxQFNHDjtPx3ueOeU/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": null,
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": null,
+  "areaInSquareMeters": null,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": null,
+  "hidePrice": true,
+  "floorNumber": null,
+  "investmentState": "IN_BUILDING",
+  "investmentUnitsAreaInSquareMeters": {
+    "from": 37,
+    "to": 93,
+    "__typename": "InvestmentUnitsArea"
+  },
+  "peoplePerRoom": null,
+  "dateCreated": "2025-01-14 09:26:39",
+  "createdAtFirst": "2025-01-14T09:23:21Z",
+  "investmentUnitsNumber": 31,
+  "investmentUnitsFloorsRange": {
+    "min": "GROUND",
+    "max": "FOURTH",
+    "__typename": "InvestmentUnitsFloorsRange"
+  },
+  "investmentUnitsRoomsNumber": {
+    "min": "TWO",
+    "max": "FOUR",
+    "__typename": "InvestmentUnitsRoomsNumber"
+  },
+  "investmentEstimatedDelivery": {
+    "quarter": 4,
+    "year": 2027,
+    "__typename": "InvestmentEstimatedDelivery"
+  },
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "2, 3 i 4-pokojowe mieszkania od37m2 do93m2 od dewelopera DEVELIAPark im. Marka Kotańskiego (5 minut spacerem)Park Szczęśliwicki (13 minut spacerem)Przystanek tramwajowy (3 minuty spacerem)Stacja SKM \"...",
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "relatedAds": [
+    {
+      "id": 67638065,
+      "title": "3-pokojowe mieszkanie 65m2 + balkon",
+      "slug": "3-pokojowe-mieszkanie-65m2-balkon-ID4zNKx",
+      "estate": "FLAT",
+      "development": {
+        "id": 66337917,
+        "title": "Krakowska Vita",
+        "slug": "krakowska-vita-ID4ulvp",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Aleja Krakowska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Warszawa",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "mazowieckie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "mazowieckie",
+                "fullName": "mazowieckie",
+                "name": "mazowieckie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa",
+                "fullName": "Warszawa, mazowieckie",
+                "name": "Warszawa",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+                "fullName": "Włochy, Warszawa, mazowieckie",
+                "name": "Włochy",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+                "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+                "name": "Raków",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3ZXg3Y256bzl6NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gpRNEFlVXRCj43k994GMj0IZZ74ooDjaDicg0OoVnFE/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3ZXg3Y256bzl6NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gpRNEFlVXRCj43k994GMj0IZZ74ooDjaDicg0OoVnFE/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFseGljYm5uYXJiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nkX6kydYUXwiaOh8Wvy2w5ZMbVFxV4yH0ABl5m1h0JQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFseGljYm5uYXJiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nkX6kydYUXwiaOh8Wvy2w5ZMbVFxV4yH0ABl5m1h0JQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIyYmQwYzAxbGp0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WaDt1RHiKe7ga7gHo7Iqz4C5nTMmROpvxBnGk7QcQo8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIyYmQwYzAxbGp0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WaDt1RHiKe7ga7gHo7Iqz4C5nTMmROpvxBnGk7QcQo8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xNzU5NnExZ24wNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wlyr7jRZGwM__ArC2Yt8JwAxv3KGOzSiuA4rQOeDWDQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xNzU5NnExZ24wNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wlyr7jRZGwM__ArC2Yt8JwAxv3KGOzSiuA4rQOeDWDQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpcmZrNjVudHVkaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s0o8sV98W37k4u_JGVPqt4_7tAxaCjSdY18W4h4z9Tw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpcmZrNjVudHVkaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s0o8sV98W37k4u_JGVPqt4_7tAxaCjSdY18W4h4z9Tw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1lMGR5NGt3OWkwbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sWtHA8dJlSk36HSdiQeXSX5D1BdWbbavpnY5Ip6tw_Y/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1lMGR5NGt3OWkwbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sWtHA8dJlSk36HSdiQeXSX5D1BdWbbavpnY5Ip6tw_Y/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 8,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": true,
+        "agency": {
+          "id": 10556359,
+          "name": "DEVELIA",
+          "slug": "develia-ID10556359",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53M3U3YXpwaGdydS1BUEwifQ.--1fv6eNsoatzEwTA4hrQGG11ePxQFNHDjtPx3ueOeU/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": null,
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": true,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 37,
+          "to": 93,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2025-01-14 09:26:39",
+        "createdAtFirst": "2025-01-14T09:23:21Z",
+        "investmentUnitsNumber": 31,
+        "investmentUnitsFloorsRange": {
+          "min": "GROUND",
+          "max": "FOURTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "TWO",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 4,
+          "year": 2027,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "2, 3 i 4-pokojowe mieszkania od37m2 do93m2 od dewelopera DEVELIAPark im. Marka Kotańskiego (5 minut spacerem)Park Szczęśliwicki (13 minut spacerem)Przystanek tramwajowy (3 minuty spacerem)Stacja SKM \"...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 66337917,
+      "developmentTitle": "Krakowska Vita",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/krakowska-vita-ID4ulvp",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Aleja Krakowska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Warszawa",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "mazowieckie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "mazowieckie",
+              "fullName": "mazowieckie",
+              "name": "mazowieckie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa",
+              "fullName": "Warszawa, mazowieckie",
+              "name": "Warszawa",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+              "fullName": "Włochy, Warszawa, mazowieckie",
+              "name": "Włochy",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+              "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+              "name": "Raków",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im04OG5xZTFteWE5ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L8L9uhtkUX0wGv6NcKYfJCoc_Fr8hMrELp2NhSoKbTw/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im04OG5xZTFteWE5ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L8L9uhtkUX0wGv6NcKYfJCoc_Fr8hMrELp2NhSoKbTw/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVhOXc3Z2dpZHd6YjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nBGreQ_2rfQE9tZk9J3--fC-EsTeMiT3Mep3_ruVrvw/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVhOXc3Z2dpZHd6YjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nBGreQ_2rfQE9tZk9J3--fC-EsTeMiT3Mep3_ruVrvw/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 8,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 10556359,
+        "name": "DEVELIA",
+        "slug": "develia-ID10556359",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53M3U3YXpwaGdydS1BUEwifQ.--1fv6eNsoatzEwTA4hrQGG11ePxQFNHDjtPx3ueOeU/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": null,
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": null,
+      "areaInSquareMeters": 65.19,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "THREE",
+      "hidePrice": true,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:55:06",
+      "createdAtFirst": "2026-01-23T09:59:09Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:55:07+02:00",
+      "specialOffer": null,
+      "shortDescription": "3-pokojowe mieszkanie numer A/2/43  na 2. piętrze w budynku 2 w Inwestycji Krakowska Vita Dewelopera DEVELIAPark im. Marka Kotańskiego (5 minut spacerem)Park Szczęśliwicki (13 minut spacerem)Przystane...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Biuro Sprzedaży",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlwNGlzcmo4ZDczaC1BUEwifQ.0_-vky2R5iAK97NYQy2fE_etAmX16pU60u2WLgAHnfQ/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/3-pokojowe-mieszkanie-65m2-balkon-ID4zNKx"
+    },
+    {
+      "id": 67638061,
+      "title": "2-pokojowe mieszkanie 43m2 + loggia",
+      "slug": "2-pokojowe-mieszkanie-43m2-loggia-ID4zNKt",
+      "estate": "FLAT",
+      "development": {
+        "id": 66337917,
+        "title": "Krakowska Vita",
+        "slug": "krakowska-vita-ID4ulvp",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "Aleja Krakowska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Warszawa",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "mazowieckie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "mazowieckie",
+                "fullName": "mazowieckie",
+                "name": "mazowieckie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa",
+                "fullName": "Warszawa, mazowieckie",
+                "name": "Warszawa",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+                "fullName": "Włochy, Warszawa, mazowieckie",
+                "name": "Włochy",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+                "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+                "name": "Raków",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3ZXg3Y256bzl6NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gpRNEFlVXRCj43k994GMj0IZZ74ooDjaDicg0OoVnFE/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3ZXg3Y256bzl6NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gpRNEFlVXRCj43k994GMj0IZZ74ooDjaDicg0OoVnFE/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFseGljYm5uYXJiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nkX6kydYUXwiaOh8Wvy2w5ZMbVFxV4yH0ABl5m1h0JQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFseGljYm5uYXJiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nkX6kydYUXwiaOh8Wvy2w5ZMbVFxV4yH0ABl5m1h0JQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIyYmQwYzAxbGp0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WaDt1RHiKe7ga7gHo7Iqz4C5nTMmROpvxBnGk7QcQo8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImIyYmQwYzAxbGp0ai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WaDt1RHiKe7ga7gHo7Iqz4C5nTMmROpvxBnGk7QcQo8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xNzU5NnExZ24wNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wlyr7jRZGwM__ArC2Yt8JwAxv3KGOzSiuA4rQOeDWDQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xNzU5NnExZ24wNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wlyr7jRZGwM__ArC2Yt8JwAxv3KGOzSiuA4rQOeDWDQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpcmZrNjVudHVkaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s0o8sV98W37k4u_JGVPqt4_7tAxaCjSdY18W4h4z9Tw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZpcmZrNjVudHVkaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s0o8sV98W37k4u_JGVPqt4_7tAxaCjSdY18W4h4z9Tw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc4OHBkancxaGh0aDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqAMdX_h22ANPhpvaYVtgfC2VhAnXMHTBsT-Lh1EDQw/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1lMGR5NGt3OWkwbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sWtHA8dJlSk36HSdiQeXSX5D1BdWbbavpnY5Ip6tw_Y/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1lMGR5NGt3OWkwbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sWtHA8dJlSk36HSdiQeXSX5D1BdWbbavpnY5Ip6tw_Y/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 8,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": true,
+        "agency": {
+          "id": 10556359,
+          "name": "DEVELIA",
+          "slug": "develia-ID10556359",
+          "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53M3U3YXpwaGdydS1BUEwifQ.--1fv6eNsoatzEwTA4hrQGG11ePxQFNHDjtPx3ueOeU/image;s=800x600;q=90",
+          "type": "DEVELOPER",
+          "brandingVisible": true,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE",
+            "ENHANCED_BRANDING_LOGO_DISPLAY",
+            "ENHANCED_BRANDING_COMPANY_NAME",
+            "ENHANCED_BRANDING_LOGO_REDIRECT",
+            "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": null,
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": true,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 37,
+          "to": 93,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2025-01-14 09:26:39",
+        "createdAtFirst": "2025-01-14T09:23:21Z",
+        "investmentUnitsNumber": 31,
+        "investmentUnitsFloorsRange": {
+          "min": "GROUND",
+          "max": "FOURTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "TWO",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 4,
+          "year": 2027,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "2, 3 i 4-pokojowe mieszkania od37m2 do93m2 od dewelopera DEVELIAPark im. Marka Kotańskiego (5 minut spacerem)Park Szczęśliwicki (13 minut spacerem)Przystanek tramwajowy (3 minuty spacerem)Stacja SKM \"...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 66337917,
+      "developmentTitle": "Krakowska Vita",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/krakowska-vita-ID4ulvp",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "Aleja Krakowska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Warszawa",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "mazowieckie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "mazowieckie",
+              "fullName": "mazowieckie",
+              "name": "mazowieckie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa",
+              "fullName": "Warszawa, mazowieckie",
+              "name": "Warszawa",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+              "fullName": "Włochy, Warszawa, mazowieckie",
+              "name": "Włochy",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+              "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+              "name": "Raków",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE0eDJ0b3JwcnhyczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UqFjTFATO1fJoMlY_TcPw6MvPhsF55c2gVdlTYcmqDU/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJxNmNmdDZsOWNmci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.XTB_C5utdMSSuyNYfR_j_LMNbQQv1-FNIy3OcwzPT2g/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJxNmNmdDZsOWNmci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.XTB_C5utdMSSuyNYfR_j_LMNbQQv1-FNIy3OcwzPT2g/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im54M2ppZWRwZG5tdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0Bk_kkjDjmbNB_GLVO_8jIEKDVs7tHcfKbQEi-FV2aw/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im54M2ppZWRwZG5tdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0Bk_kkjDjmbNB_GLVO_8jIEKDVs7tHcfKbQEi-FV2aw/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 8,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:partner:obidointegration",
+      "agency": {
+        "id": 10556359,
+        "name": "DEVELIA",
+        "slug": "develia-ID10556359",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53M3U3YXpwaGdydS1BUEwifQ.--1fv6eNsoatzEwTA4hrQGG11ePxQFNHDjtPx3ueOeU/image;s=800x600;q=90",
+        "type": "DEVELOPER",
+        "brandingVisible": true,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE",
+          "ENHANCED_BRANDING_LOGO_DISPLAY",
+          "ENHANCED_BRANDING_COMPANY_NAME",
+          "ENHANCED_BRANDING_LOGO_REDIRECT",
+          "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": null,
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": null,
+      "areaInSquareMeters": 43,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "TWO",
+      "hidePrice": true,
+      "floorNumber": "THIRD",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-03 22:55:05",
+      "createdAtFirst": "2026-01-23T09:59:08Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": "2026-07-03T22:55:06+02:00",
+      "specialOffer": null,
+      "shortDescription": "2-pokojowe mieszkanie numer B/3/15  na 3. piętrze w budynku 3 w Inwestycji Krakowska Vita Dewelopera DEVELIAPark im. Marka Kotańskiego (5 minut spacerem)Park Szczęśliwicki (13 minut spacerem)Przystane...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Biuro Sprzedaży",
+        "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlwNGlzcmo4ZDczaC1BUEwifQ.0_-vky2R5iAK97NYQy2fE_etAmX16pU60u2WLgAHnfQ/image;s=97x97;q=100",
+        "contacts": [],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/2-pokojowe-mieszkanie-43m2-loggia-ID4zNKt"
+    }
+  ],
+  "description": "<ul><li><strong>2, 3 i 4-pokojowe</strong> mieszkania <strong>od&nbsp;37&nbsp;m2 do&nbsp;93&nbsp;m2</strong> od dewelopera <strong>DEVELIA</strong></li><li>Park im. Marka Kotańskiego (5 minut spacerem)</li><li>Park Szczęśliwicki (13 minut spacerem)</li><li>Przystanek tramwajowy (3 minuty spacerem)</li><li>Stacja SKM \"Warszawa Rakowiec\" (7 minut spacerem)</li><li>Lidl (7 minut spacerem)</li><li>Centrum Łopuszańska 22 (10 minut spacerem)</li></ul><br/><strong>Krakowska Vita - poznaj inwestycję</strong><br/><p>Inwestycja Krakowska Vita składa się z <strong>budynku o zabudowie kaskadowej</strong>&nbsp;– w najniższym punkcie będzie 5 pięter, natomiast w najwyższym znajdzie się 10 pięter. W pierwszym etapie zaprojektowano <strong>ponad 300 mieszkań</strong>, wśród których są zarówno kompaktowe kawalerki, jak i przestronne mieszkania o powierzchni nawet do 112&nbsp;m². Do mieszkań będą przynależeć <strong>ogródki, balkony i tarasy</strong>. Do dyspozycji mieszkańców będzie duży garaż z miejscami postojowymi, na terenie osiedla zaplanowano także <strong>teren rekreacyjny i plac zabaw</strong>. Na parterze znajdą się lokale usługowe, które ułatwią załatwianie codziennych potrzeb. Inwestycja powstaje przy Alei Krakowskiej w dzielnicy Włochy. W&nbsp;okolicy inwestycji znajdują się 2 parki: Szczęśliwicki i im. Marka Kotańskiego, a także przystanki tramwajowe i <strong>stacja SKM</strong>. Z osiedla blisko jest również do centrum handlowo-usługowego&nbsp;– Centrum Łopuszańska 22.</p><p><strong>Biuro sprzedaży Krakowska Vita</strong></p><p>ul. Aleja Krakowska 279, lok. U7, 02-133, Warszawa</p><p>Pon.-czw.&nbsp;10:00-18:00</p><p>Pt.&nbsp;9:00-17:00</p><p>Sob.&nbsp;10:00-15:00</p><br/><strong>Krakowska Vita - lokalizacja</strong><br/><br/>Raków, Aleja Krakowska<br/><ul><li>5,2 km do centrum</li><li>2 min. spacerem do przystanku autobusowego</li><li>3 min. spacerem do przystanku tramwajowego</li><li>7 min. spacerem do stacji SKM</li><li>dojazd do centrum: 17 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Przystanek autobusowy (144 m, 2 minuty spacerem)</li><li>Przystanek tramwajowy (225 m, 3 minuty spacerem)</li><li>Weterynarz (275 m, 4 minuty spacerem)</li><li>Kawiarnia (290 m, 4 minuty spacerem)</li><li>Restauracja (293 m, 4 minuty spacerem)</li><li>Piekarnia (328 m, 5 minut spacerem)</li><li>Sklep: Lidl (527 m, 7 minut spacerem)</li><li>Stacja SKM (533 m, 7 minut spacerem)</li><li>Stacja kolejowa (533 m, 7 minut spacerem)</li><li>Przedszkole (590 m, 8 minut spacerem)</li><li>Siłownia (703 m, 9 minut spacerem)</li><li>Apteka (746 m, 10 minut spacerem)</li><li>Szkoła Podstawowa (755 m, 10 minut spacerem)</li><li>Sklep: Biedronka (793 m, 10 minut spacerem)</li><li>Poczta (855 m, 11 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:06:52.517Z"
+}

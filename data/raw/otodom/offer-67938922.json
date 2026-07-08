@@ -1,0 +1,164 @@
+{
+  "id": 67938922,
+  "title": "Mieszkanie z antresolą 62 m2 ul. Ruczaj 4 przy Parku Rzecznym Wilga",
+  "slug": "mieszkanie-z-antresola-62-m2-ul-ruczaj-4-przy-parku-rzecznym-wilga-ID4B414",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Ruczaj 4",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/lagiewniki--borek-falecki",
+          "fullName": "Łagiewniki-Borek Fałęcki, Kraków, małopolskie",
+          "name": "Łagiewniki-Borek Fałęcki",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/lagiewniki--borek-falecki/borek-falecki",
+          "fullName": "Borek Fałęcki, Łagiewniki-Borek Fałęcki, Kraków, małopolskie",
+          "name": "Borek Fałęcki",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx3azh2ZG0ydjBldTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fHR9rv2mxYa1wEKXxkGbgEdkTk40h3z_gXqxS8hj7JI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx3azh2ZG0ydjBldTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fHR9rv2mxYa1wEKXxkGbgEdkTk40h3z_gXqxS8hj7JI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFvbmU5dHh2d3kycDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.btRDR0f6D_gMtxGQn_qnQI_Z95zKd1uFkQr84QcAWR4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFvbmU5dHh2d3kycDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.btRDR0f6D_gMtxGQn_qnQI_Z95zKd1uFkQr84QcAWR4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp5b3B3OTFuaHozdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yW4e3XSbGWsjh4Ckv78CkFXvOk7G4iwBuQC6TMQAYMs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp5b3B3OTFuaHozdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yW4e3XSbGWsjh4Ckv78CkFXvOk7G4iwBuQC6TMQAYMs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 14,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 890000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 14354.84,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 62,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 20:49:39",
+  "createdAtFirst": "2026-04-23T21:46:53Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Mieszkanie z antresolą przy Parku Rzecznym Wilga – Ruczaj 4 | 62 m² + 25 m² antresoli Na sprzedaż wyjątkowe, jasne mieszkanie o powierzchni użytkowej 62 m²  (70 m2 po podłodze) z dodatkową 25 m2 antre...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Marcin",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-z-antresola-62-m2-ul-ruczaj-4-przy-parku-rzecznym-wilga-ID4B414",
+  "description": "<p><b>Mieszkanie z antresolą przy Parku Rzecznym Wilga – Ruczaj 4 | 62 m² + 25 m² antresoli </b></p><p>Na sprzedaż wyjątkowe, jasne mieszkanie o powierzchni użytkowej <b>62 m² </b> (70 m2 po podłodze) z dodatkową <b>25 m2 </b>antresola na poddaszu. W cenie znajduje się również <b> projekt wykonawczy wnętrz potencjalnej rearanżacji</b></p><p><b> Lokalizacja – jedna z najlepszych części Ruczaju</b></p><p>Mieszkanie położone jest na końcu ul. Ruczaj, w kameralnym 2‑kondygnacyjnym budynku (blok nr 4), <b>bezpośrednio przy Parku Rzecznym Wilga</b>.</p><p>W najbliższym otoczeniu:</p><ul><li>rozległe tereny zielone, trasy spacerowe i rowerowe (m.in. wzdłuż Wilgi aż pod Hotel Forum)</li><li>Smoczy Skwer, place zabaw, boiska, siłownie plenerowe</li><li>szkoła z nowym publicznym basenem i kortami tenisowymi</li><li>kilka przedszkoli (w tym publiczne)</li><li>sklepy, piekarnie, restauracje, apteki, przychodnia NFZ</li><li>tramwaj na Lipińskiego/Brożka – kilka minut spacerem wzdłuż rzeki</li><li>szybki wyjazd na obwodnicę, A4, Zakopiankę oraz wygodny dojazd Trasą Łagiewnicką do centrum</li></ul><p>Wszystkie codzienne udogodnienia są w zasięgu krótkiego spaceru.</p><p><b>Mieszkanie</b></p><p>Lokal znajduje się na <b>2. piętrze</b> kameralnego, 42‑mieszkaniowego budynku.</p><p><b>Układ pomieszczeń:</b></p><ul><li>salon z kuchnią i przedpokojem – <b>34,5 m²</b></li><li>sypialnia – <b>14 m²</b></li><li>pokój – <b>7 m²</b></li><li>WC – <b>3 m²</b></li><li>łazienka z prysznicem – <b>3,5 m²</b></li><li>garderoba z zabudową</li><li><b>antresola 25 m²</b> – idealna jako dodatkowa 3 sypialnia (wejście kręconymi schodami z garderoby)</li><li><b>balkon 10 m²</b> – wyjście z salonu</li><li><b>komórka lokatorska 3 m2</b></li></ul><p>Mieszkanie w standardzie jak na zdjęciach nr 2-8 (kuchnia, garderoba, sypialnie).</p><p>Ostanie 3 zdjęcia przedstawiają potencjalny projekt rearanzacji - wizualizacje</p><p><b>Dodatkowa opcja - miejsce postojowe</b> w garażu podziemnym cena 60 000 Pln</p><p><b>Opłaty</b></p><ul><li>czynsz administracyjny: ok. 400 pln</li><li>zaliczki na media (ogrzewanie, ciepła/zimna woda): 400 pln miesiac</li><li>rozliczenia półroczne</li></ul><p><b>Kontakt</b></p><p>Bez pośredników, bez prowizji.</p><p>Ogłoszenie nie stanowi oferty w rozumieniu art. 66 K.C</p><p>Apartment with mezzanine next to the Wilga Riverside Park – Ruczaj 4</p><p>62 m² + 25 m² mezzanine + interior redesign project included</p><p>For sale: a bright and functional 62 m² apartment with an additional 25 m² mezzanine on the attic level.</p><p>A professional interior redesign project is included in the price.</p><p>Location – one of the best parts of Ruczaj</p><p>The apartment is located at the end of Ruczaj Street, in a quiet, low‑rise building directly next to Wilga Riverside Park.</p><p>Walking distance to: green areas, playgrounds, sports fields, riverside paths, schools, kindergartens, shops, restaurants, tram stops, and fast access to A4 and the city center.</p><p>Layout</p><ul><li>living room with kitchen and hallway – 34.5 m²</li><li>bedroom – 14 m²</li><li>additional room – 7 m²</li><li>WC – 3 m²</li><li>bathroom with shower – 3.5 m²</li><li>walk‑in wardrobe</li><li>mezzanine 25 m² – perfect as an extra bedroom, office or hobby space</li><li>balcony 10 m²</li><li>storage room 3 m²</li><li>optional underground parking space: 60,000 PLN</li></ul><p>The apartment is presented in the standard shown in photos (kitchen, wardrobe, bedrooms).</p><p>Last 3 Photos show the interior redesign project – visualizations</p><p>Fees</p><ul><li>admin fee: ~400 PLN</li><li>utilities (heating, water): 400 PLN/month</li></ul><p>Contact</p><p>Direct sale, no agents, no commission.</p><p>Note: The mezzanine is a full‑size private space and can serve as a third bedroom.</p>",
+  "offerType": "sale",
+  "city": "krakow",
+  "scrapedAt": "2026-07-03T21:05:36.193Z"
+}

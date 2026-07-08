@@ -1,0 +1,149 @@
+{
+  "id": 68171412,
+  "title": "Przytulne 2-pokojowe mieszkanie 40 m² z ogródkiem | Dostępne od zaraz",
+  "slug": "przytulne-2-pokojowe-mieszkanie-40-m-z-ogrodkiem-dostepne-od-zaraz-ID4C2uU",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Kąty Grodziskie",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka",
+          "fullName": "Białołęka, Warszawa, mazowieckie",
+          "name": "Białołęka",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bialoleka/grodzisk",
+          "fullName": "Grodzisk, Białołęka, Warszawa, mazowieckie",
+          "name": "Grodzisk",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNiYnVudng3MzZybS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OrRnlsySilJ4-hEw74Jdqnqy9gfSlWkolfxM3GxKxz4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNiYnVudng3MzZybS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.OrRnlsySilJ4-hEw74Jdqnqy9gfSlWkolfxM3GxKxz4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ4NmEzdGNjcDM0MzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-S1fNggQRTv2oyfQS3hF2i6GLZIYo7-OHB002qw_3vQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ4NmEzdGNjcDM0MzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-S1fNggQRTv2oyfQS3hF2i6GLZIYo7-OHB002qw_3vQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ3dndxdnN5bHBsczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M61I5IlHb6TnSKDTypFHnpEzBb8DI0DrK22AhOHepP4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ3dndxdnN5bHBsczMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M61I5IlHb6TnSKDTypFHnpEzBb8DI0DrK22AhOHepP4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 3000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 606,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 75,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 40,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-03 22:17:33",
+  "createdAtFirst": "2026-07-03T22:16:07Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Do wynajęcia przytulne, w pełni umeblowane mieszkanie o powierzchni 40 m² z prywatnym, ogrodzonym ogródkiem i tarasem przy ul. Kąty Grodziskie.Mieszkanie jest gotowe do zamieszkania od zaraz i idealni...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Maria V",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/przytulne-2-pokojowe-mieszkanie-40-m-z-ogrodkiem-dostepne-od-zaraz-ID4C2uU",
+  "description": "<p>Do wynajęcia przytulne, w pełni umeblowane mieszkanie o powierzchni 40 m² z prywatnym, ogrodzonym ogródkiem i tarasem przy ul. Kąty Grodziskie.</p><p>Mieszkanie jest gotowe do zamieszkania od zaraz i idealnie sprawdzi się dla singla lub pary, a także dla osób ceniących spokój i bliskość terenów zielonych.</p><p><b>Atuty mieszkania:</b></p><p>• prywatny ogródek z meblami ogrodowymi,</p><p>• szybki internet światłowodowy (Wi-Fi 800 Mb/s),</p><p>• spokojna, zielona okolica z terenami spacerowymi i ścieżkami rowerowymi,</p><p>• przystanek autobusowy tuż obok osiedla – ok. 12 minut do metra Kondratowicza,</p><p>• w pobliżu Biedronka, Netto, Żabka, piekarnie, restauracje, punkty usługowe oraz Centrum Handlowe Targówek.</p><p><b>Parkowanie:</b> istnieje możliwość wynajęcia miejsca parkingowego od mieszkańców osiedla za dodatkową opłatą. W okolicy dostępne są również ogólnodostępne miejsca do parkowania.</p><p><b>Koszty:</b></p><p>• czynsz najmu – 3000 zł</p><p>• czynsz administracyjny – 606 zł</p><p>• media – ok. 150 zł</p><p>• kaucja – 3800 zł</p><p>Najem okazjonalny, minimum na rok. Zwierzęta do uzgodnienia.</p><p><b>Ogłoszenie prywatne – pośrednikom dziękuję.</b></p><p>Zapraszam do kontaktu i obejrzenia mieszkania – być może będzie to Twój nowy, przytulny dom.</p>",
+  "offerType": "rent",
+  "city": "warszawa",
+  "scrapedAt": "2026-07-03T21:07:54.902Z"
+}
