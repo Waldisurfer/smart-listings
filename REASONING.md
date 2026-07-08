@@ -66,9 +66,10 @@ draw):
 
 - **108 listings** — 54 sale / 54 rent, across **42 cities**.
 - **1** flagged incomplete (kept, not dropped); **3** flagged as fuzzy duplicates.
-- Populate rates: price / area / rooms / floor / price-per-m² **99%** (the one
-  incomplete offer lacks them), **city 100%**, description **100%**, AI summary
-  **100%**, district 81%, administrative rent (czynsz) 75%.
+- Populate rates: price / area / rooms / price-per-m² **99%** (the one
+  incomplete offer lacks them), floor **98%** (that offer plus one more that omits
+  it), **city 100%**, description **100%**, AI summary **100%**, district 81%,
+  administrative rent (czynsz) 75%.
 - AI touch: 1 of 2 listings that still lacked a structured field after
   deterministic parsing gained one via gap-fill; 108/108 got a factual summary.
 
