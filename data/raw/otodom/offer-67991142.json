@@ -1,0 +1,163 @@
+{
+  "id": 67991142,
+  "title": "Mieszkanie do wykończenia 50 metrów od Jeziora",
+  "slug": "mieszkanie-do-wykonczenia-50-metrow-od-jeziora-ID4BhBk",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Chynowo",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "zachodniopomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "zachodniopomorskie",
+          "fullName": "zachodniopomorskie",
+          "name": "zachodniopomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "zachodniopomorskie/kamienski",
+          "fullName": "kamieński, zachodniopomorskie",
+          "name": "kamieński",
+          "locationLevel": "county",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "zachodniopomorskie/kamienski/wolin",
+          "fullName": "Wolin, kamieński, zachodniopomorskie",
+          "name": "Wolin",
+          "locationLevel": "commune",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "zachodniopomorskie/kamienski/wolin/chynowo",
+          "fullName": "Chynowo, Wolin, kamieński, zachodniopomorskie",
+          "name": "Chynowo",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN1M2NicTg1aW9xZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.2rekDYPVq4mEv8jH5pHxGi4XYNsJ2mdUJ3M5qKKNh5k/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN1M2NicTg1aW9xZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.2rekDYPVq4mEv8jH5pHxGi4XYNsJ2mdUJ3M5qKKNh5k/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBhYzhncmI5eTB3YjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v-_TkOrH9rz_GRKBd99xz3UxNmVrRlE1jSRfsNXYw3Y/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBhYzhncmI5eTB3YjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v-_TkOrH9rz_GRKBd99xz3UxNmVrRlE1jSRfsNXYw3Y/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtyb216bTE1dHkyaDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kFwFAxWiBbx6MZSftOTPeQO3Lv5V-yG3GKwMutn8YTo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtyb216bTE1dHkyaDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kFwFAxWiBbx6MZSftOTPeQO3Lv5V-yG3GKwMutn8YTo/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 435458,
+    "name": "Piasecka Nieruchomości Katarzyna Piasecka",
+    "slug": "piasecka-nieruchomosci-katarzyna-piasecka-ID435458",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU1ZWwza3prYW4yOTEtQVBMIn0.7xq2_Hpb5hWNjvDrMGyJDabLBRYIoVwgM9uvtsLDp3s/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 230000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 204,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 3848.73,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 59.76,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:05:21",
+  "createdAtFirst": "2026-05-11T11:05:06Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Prezentujemy mieszkanie znajdujące się w miejscowości Chynowo w gminie i na Wyspie Wolin. 50 m – od Jeziora Koprowo9,5 km – do nadmorskiej miejscowości Międzywodzie14 km – do centrum miasta Wolin15 km...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Oliwia Zuterek",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-do-wykonczenia-50-metrow-od-jeziora-ID4BhBk",
+  "description": "<p>Prezentujemy mieszkanie znajdujące się w miejscowości Chynowo w gminie i na Wyspie Wolin. </p><p>50 m – od Jeziora Koprowo<br/>9,5 km – do nadmorskiej miejscowości Międzywodzie<br/>14 km – do centrum miasta Wolin<br/>15 km – do słynnych Międzyzdrojów </p><p>Mieszkanie w stanie do wykończenia o powierzchni 59,76 m2. Znajduję się na 2 piętrze budynku wielomieszkaniowego. </p><p>Lokal mieszalny składa się z składa się z salonu z aneksem kuchennym, łazienki, dwóch pokoi, gdzie z jednego istnieje możliwość wykonania balkonu o wymiarach ok. 1,5x3 m. <br/>Do mieszkania przynależy również piwnica o powierzchni 16,30 m2, ujawniona w Księdze Wieczystej lokalu mieszkalnego. </p><p>Opłata miesięczna w postaci czynszu do wspólnoty wynosi 204 zł, a w nim zawarte są opłaty administracyjne, fundusz remontowy, eksploatacja, woda zimna oraz opłata za odpady komunalne. Aktualnie w mieszkaniu nie korzysta się z ogrzewania miejskiego, dlatego nie jest ujęta kwota w czynszu. Opłata za prąd płatna według zużycia.    </p><p>Przed budynkiem bloku znajdują się miejsca parkingowe dla mieszkańców. </p><p>W tym samym budynku w klatce obok znajduję się świetlica wiejska, w której mieszkańcy mają prawo korzystania. </p><p>Niniejsze ogłoszenie ma charakter wyłącznie informacyjny i nie stanowi oferty handlowej w rozumieniu Kodeksu Cywilnego. Zaleca się osobistą weryfikację prezentowanych danych, ponieważ pomimo dołożenia należytej staranności, w treści mogły pojawić się nieścisłości lub omyłki.   </p><p></p><p>Oferta wysłana z programu dla biur nieruchomości ASARI CRM ()</p><p></p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:34.855Z"
+}

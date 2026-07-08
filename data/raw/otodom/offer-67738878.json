@@ -1,0 +1,146 @@
+{
+  "id": 67738878,
+  "title": "Do wynajęcia 2 pokojowe mieszkanie!",
+  "slug": "do-wynajecia-2-pokojowe-mieszkanie-ID4AdYy",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Bielsko-Biała",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/bielsko--biala/bielsko--biala/bielsko--biala",
+          "fullName": "Bielsko-Biała, śląskie",
+          "name": "Bielsko-Biała",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/bielsko--biala/bielsko--biala/bielsko--biala/osiedle-wojska-polskiego",
+          "fullName": "Osiedle Wojska Polskiego, Bielsko-Biała, śląskie",
+          "name": "Osiedle Wojska Polskiego",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFndjdubHBycnhsazItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LtLpX81fjmPBXCNM6VOKxWsiBwLfZsXGYCfiuNjS3M0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFndjdubHBycnhsazItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LtLpX81fjmPBXCNM6VOKxWsiBwLfZsXGYCfiuNjS3M0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhqMDY3YjhncGg5bS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ECpb-nHxBkrn5H7BmdAJ1o5X9o6UKxB28dQ-0a8zcyw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhqMDY3YjhncGg5bS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ECpb-nHxBkrn5H7BmdAJ1o5X9o6UKxB28dQ-0a8zcyw/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imsyd3B3eGwyMnNudTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-wxgBhQ09NEKVXF-Q8RC5RSfcwDyDDWu2b-Vw37zCjM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imsyd3B3eGwyMnNudTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-wxgBhQ09NEKVXF-Q8RC5RSfcwDyDDWu2b-Vw37zCjM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 7,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:sl",
+  "agency": {
+    "id": 3808723,
+    "name": "Nieruchomości TRIO Ewelina Gara",
+    "slug": "nieruchomosci-trio-ewelina-gara-ID3808723",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 750,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 38.74,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 41.3,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-23 10:12:08",
+  "createdAtFirst": "2026-02-23T10:12:03Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "DO WYNAJĘCIA ATRAKCYJNE 2 POKOJOWE MIESZKANIE NA OS. WOJSKA POLSKIEGO.Mieszkanie o powierzchni użytkowej 41,3m2, usytuowane w niskim, ocieplonym i monitorowanym bloku, na 2 piętrze. Składa się z salon...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Ewelina Gara",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/do-wynajecia-2-pokojowe-mieszkanie-ID4AdYy",
+  "description": "<br/>DO WYNAJĘCIA ATRAKCYJNE 2 POKOJOWE MIESZKANIE NA OS. WOJSKA POLSKIEGO.&nbsp;<br/><br/>Mieszkanie o powierzchni użytkowej 41,3m2, usytuowane w niskim, ocieplonym i monitorowanym bloku, na 2 piętrze. Składa się z salonu połączonego z aneksem kuchennym, sypialni, łazienki razem z wc oraz przedpokoju. Drzwi zewnętrzne antywłamaniowe, okna PCV z roletami dzień/noc.&nbsp;Kuchnia wyposażona w sprzęty AGD tj. lodówka, piekarnik, płyta gazowa.&nbsp;W salonie stół z krzesłami, kanapa, półka RTV.&nbsp;W małym pokoju szafa w zabudowie, komoda oraz szafa wolnostojąca. Do dyspozycji lokatorów piwnica.&nbsp;<br/>Najem bez zwierząt, dla osób niepalących, umowa najmu okazjonalnego min rok.<br/><br/>Koszt najmu: 1600zł odstępne + 750zł czynsz do wspólnoty + media (prąd i gaz wg zużycia)<br/>Kaucja zwrotna 3200zł&nbsp;<br/><br/>Mieszkanie dostępne od zaraz.<br/><br/>Zapraszam na prezentację!<br/>Agent prowadzący Ewelina Gara tel. 510 090 456<br/><br/><strong>Świadectwo charakterystyki energetycznej w trakcie realizacji.<br/><em>Zapewniamy kompleksową obsługę transakcji, dbamy o bezpieczeństwo i komfort przy zawieraniu umów sprzedaży/kupna/wynajmu/najmu. Współpracujemy z wykwalifikowanym pośrednikiem finansowym, który pomaga w uzyskaniu kredytu hipotecznego.</em><br/><em>W ramach usługi pośrednictwa pobieramy wynagrodzenie w formie prowizji.&nbsp;</em><br/><br/><em>Powyższy opis nie stanowi oferty handlowej w rozumieniu art. 66 Kodeksu Cywilnego, a dane w nim zawarte mają charakter informacyjny.</em></strong><br/>&nbsp;",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:51.893Z"
+}

@@ -1,0 +1,172 @@
+{
+  "id": 67799309,
+  "title": "Nowe wykończone trzypokojowe z dużym tarasem",
+  "slug": "nowe-wykonczone-trzypokojowe-z-duzym-tarasem-ID4AtHf",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Eliasza Radzikowskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy",
+          "fullName": "Prądnik Biały, Kraków, małopolskie",
+          "name": "Prądnik Biały",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/pradnik-bialy/azory-zachod",
+          "fullName": "Azory Zachód, Prądnik Biały, Kraków, małopolskie",
+          "name": "Azory Zachód",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImMzaWhoZ3RiYjVnbjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DuTvQC0tsXte_DV5PZNceqp2oMO_oqqnZqttaVyH3pg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImMzaWhoZ3RiYjVnbjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DuTvQC0tsXte_DV5PZNceqp2oMO_oqqnZqttaVyH3pg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjllcjFlYTNzMWhtbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3S_Veo6GVC2C7zl5m8DieZ9GsOJmoA8qeCqHSp2gDuA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjllcjFlYTNzMWhtbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.3S_Veo6GVC2C7zl5m8DieZ9GsOJmoA8qeCqHSp2gDuA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5cncxcnYwMmI2cy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MTadEu-cgrG3yj03cL2fZEFlZ_mLWKSOJXcvPPyUAU0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5cncxcnYwMmI2cy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MTadEu-cgrG3yj03cL2fZEFlZ_mLWKSOJXcvPPyUAU0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 8855274,
+    "name": "MB ESTATES",
+    "slug": "mb-estates-ID8855274",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQxdHA2MzZ4dDFmdDMtQVBMIn0.005vhBYPUwCP1s-YDZ9xsTv98IH26zdONJPifMilDx4/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1299000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 20055.58,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 64.77,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 13:01:39",
+  "createdAtFirst": "2026-03-12T13:21:27Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T13:01:40+02:00",
+  "specialOffer": null,
+  "shortDescription": "Nowy, wykończony w wysokim standardzie apartament z 51 m² tarasem | Bez PCC | 64,77 m² | 3 pokoje | Garaż | Kraków – północNa sprzedaż nowy, idealnie wykończony apartament o powierzchni 64,77 m² z imp...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Małgorzata",
+    "lastName": "Wawrzyniak",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImluZjM4cWwxdjJlai1BUEwifQ.QK13AzKlN9yqnNi79LILulon-RkmbNATKQxrlOWlqOA/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Beata Chwastek",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/nowe-wykonczone-trzypokojowe-z-duzym-tarasem-ID4AtHf",
+  "description": "<strong>Nowy, wykończony w wysokim standardzie apartament z 51 m² tarasem | Bez PCC | 64,77 m² | 3 pokoje | Garaż | Kraków – północ</strong><br><br>Na sprzedaż nowy, idealnie wykończony apartament o powierzchni 64,77 m² z imponującym tarasem 51 m², który znacząco powiększa przestrzeń użytkową mieszkania i stanowi jego absolutnie wyjątkowy atut.<br><ul><li>Zakup bez PCC (oszczędność 2%)<br></li><li>Mieszkanie dostępne od zaraz<br></li><li>Rok budowy 2025<br></li><li>4 piętro z 5 (winda)<br></li><li>Monitoring<br></li><li>Klimatyzacja<br></li><li>Brak gazu – ogrzewanie i ciepła woda z sieci miejskiej<br></li></ul><strong>Rozkład pomieszczeń (64,77 m²):</strong><ul><li>Hol – 11,16 m²<br></li><li>Garderoba – 5,42 m²<br></li><li>Pokój 1 – 11,03 m²<br></li><li>Pokój 2 – 10,47 m²<br></li><li>Salon z aneksem kuchennym – 21,31 m²<br></li><li>Łazienka – 5,38 m²<br></li><li>Taras – aż 51 m²<br></li></ul><strong>Taras 51 m² – prywatna strefa relaksu</strong><br><ul><li>To przestrzeń, która realnie zmienia komfort życia – idealna na:<br></li><li>strefę wypoczynkową<br></li><li>jadalnię letnią<br></li><li>miejsce do pracy na świeżym powietrzu<br></li><li>zieloną oazę w mieście<br></li></ul>Tak duży taras w nowym budownictwie to rzadkość – daje poczucie domu z ogrodem, zachowując wygodę apartamentu.<br><strong><br>Wysoki standard wykończenia<br></strong>Mieszkanie wykończone z dbałością o detale:<br><ul><li>Meble wykonane na wymiar przez stolarza<br></li><li>Wysokiej klasy sprzęt AGD na gwarancji<br></li><li>Klimatyzacja<br></li><li>Nowoczesne materiały i ponadczasowy design<br></li><li>Gotowe do zamieszkania – bez dodatkowych nakładów finansowych<br></li></ul><strong>Budynek</strong><br>Nowoczesny blok z 2025 roku:<br><ul><li>Winda<br></li><li>Monitoring<br></li><li>Estetyczne części wspólne<br></li><li>Garaż podziemny<br></li></ul>Miejsce parkingowe w garażu podziemnym – <strong>50 000 zł</strong><br><strong><br>Lokalizacja – północna część Krakowa<br></strong>Doskonała infrastruktura handlowo-usługowa zapewnia wygodę codziennego życia.<br>W pobliżu:<br><ul><li>sklepy spożywcze i markety<br></li><li>punkty usługowe<br></li><li>restauracje i kawiarnie<br></li><li>szkoły i przedszkola<br></li></ul>Komunikacja:<br><ul><li>szybki dojazd do centrum Krakowa dzięki rozbudowanej sieci dróg<br></li><li>dogodna komunikacja miejska (autobusy, szybkie połączenia z centrum)<br></li><li>sprawny wyjazd w kierunku obwodnicy i tras wylotowych<br></li></ul>Tereny zielone w zasięgu krótkiej jazdy:<br><ul><li>Las Wolski<br></li><li>Ojcowski Park Narodowy<br></li><li>Tenczyński Park Krajobrazowy<br></li></ul>Idealne miejsce dla osób ceniących równowagę między miejskim stylem życia a bliskością natury.<br><strong>To propozycja dla osób, które szukają:</strong><br>&nbsp;✔️ nowego mieszkania bez podatku PCC<br>&nbsp;✔️ wysokiego standardu<br>&nbsp;✔️ dużej przestrzeni zewnętrznej<br>&nbsp;✔️ świetnej lokalizacji<br>&nbsp;✔️ nieruchomości gotowej do zamieszkania od zaraz<br>Ten apartament to połączenie komfortu, prestiżu i funkcjonalności. Zapraszam do kontaktu i na prezentację – takie nieruchomości nie pojawiają się często na rynku.<br><strong>Cena:&nbsp; 1 299 000 zł. </strong><br>&nbsp;<br>Zapraszam do kontaktu i umówienia się na prezentację.<br>MB Estates,- Twój Partner w Nieruchomościach klasy Premium.<br>&nbsp;<br><strong>Kontakt:</strong><br><strong>Małgorzata Wawrzyniak</strong><br><strong>Tel: 533-535-561</strong><br><strong>Email:&nbsp;</strong>malgorzata@mbestates.p<br>&nbsp;<br>Nota prawna&nbsp;<br>\"Opis oferty zawarty na stronie internetowej sporządzany jest na podstawie oględzin nieruchomości oraz informacji uzyskanych od właściciela, może podlegać aktualizacji i nie stanowi oferty określonej w art. 66 i następnych K.C\"<br><br>mieszkanie na sprzedaż Kraków, mieszkanie inwestycyjne, nieruchomość Bronowice Wielkie, taras, dobra lokalizacja, blisko komunikacji, mieszkanie pod wynajem, okazja<br/>\n<br/>\n<strong>New, high-standard apartment with a 51 m² terrace | No PCC | 64.77 m² | 3 rooms | Garage | Krakow – north</strong><br><br> For sale is a new, perfectly finished apartment with an area of 64.77 m² with an impressive 51 m² terrace, which significantly increases the usable space of the apartment and is its absolutely unique advantage.<br><ul><li> Purchase without PCC (savings 2%)<br></li><li> The apartment is available immediately<br></li><li> Year of construction 2025<br></li><li> 4th floor out of 5 (elevator)<br></li><li> Monitoring<br></li><li> Air conditioning<br></li><li> No gas - heating and hot water from the municipal network<br></li></ul> <strong>Room layout (64.77 m²):</strong><ul><li> Hall – 11.16 m²<br></li><li> Wardrobe – 5.42 m²<br></li><li> Room 1 – 11.03 m²<br></li><li> Room 2 – 10.47 m²<br></li><li> Living room with kitchenette – 21.31 m²<br></li><li> Bathroom – 5.38 m²<br></li><li> Terrace – up to 51 m²<br></li></ul> <strong>51 m² terrace – private relaxation area</strong><br><ul><li> This is a space that really changes the comfort of life – ideal for:<br></li><li> relaxation area<br></li><li> summer dining room<br></li><li> outdoor work space<br></li><li> a green oasis in the city<br></li></ul> Such a large terrace is rare in new buildings – it gives the feeling of a house with a garden while maintaining the comfort of an apartment.<br> <strong><br>High standard of finishing<br></strong> The apartment is finished with attention to detail:<br><ul><li> Furniture made to measure by a carpenter<br></li><li> High-class household appliances under warranty<br></li><li> Air conditioning<br></li><li> Modern materials and timeless design<br></li><li> Ready to move in – no additional financial outlays required<br></li></ul> <strong>Building</strong><br> Modern block from 2025:<br><ul><li> Elevator<br></li><li> Monitoring<br></li><li> Aesthetic common areas<br></li><li> Underground garage<br></li></ul> Parking space in the underground garage – <strong>PLN 50,000</strong><br> <strong><br>Location – northern part of Krakow<br></strong> Excellent commercial and service infrastructure ensures the convenience of everyday life.<br> Nearby:<br><ul><li> grocery stores and supermarkets<br></li><li> service points<br></li><li> restaurants and cafes<br></li><li> schools and kindergartens<br></li></ul> Communication:<br><ul><li> quick access to the center of Krakow thanks to the extensive road network<br></li><li> convenient public transport (buses, quick connections to the city center)<br></li><li> efficient exit towards the bypass and exit routes<br></li></ul> Green areas within a short drive:<br><ul><li> Wolski Forest<br></li><li> Ojców National Park<br></li><li> Tenczyński Landscape Park<br></li></ul> An ideal place for people who value a balance between an urban lifestyle and closeness to nature.<br> <strong>This is an offer for people who are looking for:</strong><br> ✔️ new apartment without PCC tax<br> ✔️ high standard<br> ✔️ large outdoor space<br> ✔️ great location<br> ✔️ property ready for immediate occupancy<br> This apartment combines comfort, prestige, and functionality. Please contact me for a viewing – properties like this don't come on the market often.<br> <strong>Price: PLN 1,299,000.</strong><br><br> Please contact me and arrange a presentation.<br> MB Estates, - Your Partner in Premium Real Estate.<br><br> <strong>Contact:</strong><br> <strong>Margaret Wawrzyniak</strong><br> <strong>Tel: 533-535-561</strong><br> <strong>Email:</strong> malgorzata@mbestates.p<br><br> Legal notice<br> \"The description of the offer contained on the website is prepared based on the inspection of the property and information obtained from the owner, may be updated and does not constitute an offer specified in Article 66 et seq. of the Civil Code\"<br><br> apartment for sale Krakow, investment apartment, real estate Bronowice Wielkie, terrace, good location, close to public transport, apartment for rent, opportunity<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:05.755Z"
+}

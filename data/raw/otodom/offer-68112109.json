@@ -1,0 +1,160 @@
+{
+  "id": 68112109,
+  "title": "Komfortowy apartament 2-pokojowy z balkonem | Pierwsza Dzielnica |",
+  "slug": "komfortowy-apartament-2-pokojowy-z-balkonem-pierwsza-dzielnica-ID4BN4p",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Góreckiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Katowice",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/katowice/katowice/katowice",
+          "fullName": "Katowice, śląskie",
+          "name": "Katowice",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/katowice/katowice/katowice/bogucice",
+          "fullName": "Bogucice, Katowice, śląskie",
+          "name": "Bogucice",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM1ZjI4MGpxa3I3OTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4aJLrhOeo7pDLD0nJzQpiDKfDsKyznwmthAydrfxlv8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM1ZjI4MGpxa3I3OTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4aJLrhOeo7pDLD0nJzQpiDKfDsKyznwmthAydrfxlv8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpqZGN3ZDd4d3F1dzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bRxOsGtOsNYO9vqkcw1OaHRG4xoqHQY5MQ0vr_WsNuY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpqZGN3ZDd4d3F1dzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bRxOsGtOsNYO9vqkcw1OaHRG4xoqHQY5MQ0vr_WsNuY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im93NTJueml2dGMwMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qHWK6cUJ1ZnQtLO7ZKOMZtkTod31Trgt_09IdFV6K_M/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im93NTJueml2dGMwMTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qHWK6cUJ1ZnQtLO7ZKOMZtkTod31Trgt_09IdFV6K_M/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 14,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 9797606,
+    "name": "Housers Nieruchomości",
+    "slug": "housers-nieruchomosci-ID9797606",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw5eXIycDVyNWx4MzMtQVBMIn0.o_XgbqIIPcZMVXB2ohIlZV0Enxv2aKwtsVedzYrgBns/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2550,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 733,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 63.75,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 40,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "NINTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:24:56",
+  "createdAtFirst": "2026-06-16T11:38:36Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:24:56+02:00",
+  "specialOffer": null,
+  "shortDescription": "Zapraszamy do zapoznania się z ofertą wynajmu wyjątkowego apartamentu położonego w jednej z najbardziej prestiżowych i dynamicznie rozwijających się lokalizacji Katowic – Pierwszej Dzielnicy, tuż obok...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Monika",
+    "lastName": "Wójcik",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNtbHh3N2RrYjczdC1BUEwifQ.CGb1F-fS99wNoS34cU3LYHtyKGByAUcucABheLPyW58/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Housers Nieruchomości",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/komfortowy-apartament-2-pokojowy-z-balkonem-pierwsza-dzielnica-ID4BN4p",
+  "description": "<p>Zapraszamy do zapoznania się z ofertą wynajmu wyjątkowego apartamentu położonego w jednej z najbardziej prestiżowych i dynamicznie rozwijających się lokalizacji Katowic – Pierwszej Dzielnicy, tuż obok Strefy Kultury.</p><p><b>Ten nowoczesny, w pełni wyposażony apartament o powierzchni 40 m² znajduje się na 9. piętrze eleganckiego apartamentowca przy ul. Góreckiego 19. </b>To idealna propozycja dla osób ceniących komfort, funkcjonalność oraz miejski styl życia w otoczeniu nowoczesnej architektury, zieleni i bogatej infrastruktury.</p><p><b><u>Mieszkanie</u></b></p><p>Wnętrze zostało urządzone w nowoczesnym, ponadczasowym stylu z dbałością o każdy detal. Jasna kolorystyka, duże przeszklenia oraz starannie dobrane wyposażenie tworzą przytulną i komfortową przestrzeń do życia.</p><p><u>Układ mieszkania obejmuje:</u></p><ul><li>przestronny salon z aneksem kuchennym i częścią jadalnianą,</li><li>komfortową sypialnię,</li><li>łazienkę z dużą kabiną prysznicową typu walk-in,</li><li>funkcjonalny przedpokój z zabudową,</li><li>przestronny balkon dostępny zarówno z salonu, jak i sypialni.</li></ul><p>Salon został wyposażony w wygodną rozkładaną sofę, stolik kawowy, szafkę RTV, stół z krzesłami oraz dekoracyjne dodatki, które nadają wnętrzu przytulnego charakteru.</p><p>Nowoczesna kuchnia została zabudowana i wyposażona w wysokiej klasy sprzęt AGD marki Bosch, w tym lodówkę, zmywarkę, piekarnik, płytę grzewczą oraz okap. Do dyspozycji najemcy pozostaje również komplet naczyń i sztućców.</p><p>W sypialni znajduje się wygodne łóżko dwuosobowe, pojemna szafa w zabudowie oraz szafka nocna.</p><p>Łazienka zachwyca eleganckim wykończeniem i funkcjonalnością. Do dyspozycji najemcy pozostaje pralko-suszarka Gorenje oraz przestronna strefa prysznicowa.</p><p>Dodatkowym wyposażeniem mieszkania jest m.in. odkurzacz bezworkowy Electrolux oraz liczne miejsca do przechowywania.</p><p></p><p><b><u>Budynek i udogodnienia</u></b></p><p>Apartament znajduje się w nowoczesnym kompleksie mieszkaniowym Pierwsza Dzielnica, który oferuje mieszkańcom znacznie więcej niż standardowe osiedle.</p><p>Do dyspozycji mieszkańców pozostają całodobowa ochrona i monitoring, reprezentacyjne lobby, szybkie windy, rowerownia, wózkownia oraz prywatna siłownia. Mieszkańcy mogą również korzystać ze Strefy Mieszkańca – wyjątkowej przestrzeni stworzonej z myślą o komforcie i integracji lokatorów. Znajdują się tam m.in. sala kinowa, przestrzeń spotkań oraz dodatkowe strefy dostępne wyłącznie dla mieszkańców.</p><p></p><p><b><u>Lokalizacja</u></b></p><p>Położenie apartamentu to jeden z jego największych atutów. Nieruchomość znajduje się bezpośrednio przy katowickiej Strefie Kultury, w sąsiedztwie najbardziej rozpoznawalnych obiektów miasta.</p><p><u>W najbliższej okolicy znajdują się:</u></p><ul><li>Muzeum Śląskie – ok. 300 m,</li><li>NOSPR – ok. 500 m,</li><li>Międzynarodowe Centrum Kongresowe – ok. 700 m,</li><li>Spodek – ok. 900 m,</li><li>Uniwersytet Śląski – ok. 1 km,</li><li>Galeria Katowicka – ok. 1,5 km,</li><li>Dworzec PKP Katowice – ok. 1,7 km.</li></ul><p>Dodatkowo w bezpośrednim sąsiedztwie dostępne są sklepy, restauracje, punkty usługowe, tereny rekreacyjne, szkoły, przedszkola oraz kluby fitness. Lokalizacja zapewnia również szybki wyjazd na DTŚ oraz dogodny dostęp do autostrady A4, co umożliwia sprawne przemieszczanie się po całej aglomeracji śląskiej.</p><p></p><p><b><u>Warunki najmu</u></b></p><p><b>Suma kosztów najmu: 3 333 PLN </b></p><ul><li>czynsz administracyjny: 733 PLN</li><li>czynsz najmu: 2 550 PLN</li></ul><p>Dodatkowo płatna woda oraz energia elektryczna według zużycia.</p><p><b>Kaucja zwrotna:</b> 3500 PLN</p><p><b>Prowizja biura:</b> brak</p><p><b>Dostępność:</b> od zaraz</p><p></p><p><b><u>Ważne informacje</u></b></p><ul><li>najem okazjonalny,</li><li>umowa zawierana na okres 12 miesięcy,</li><li>oferta skierowana do osób niepalących oraz nieposiadających zwierząt,</li><li>lokal posiada świadectwo charakterystyki energetycznej</li></ul><p><b>Jeżeli szukasz mieszkania, które łączy wysoki standard wykończenia, prestiżową lokalizację oraz komfort codziennego życia, ta oferta spełni Twoje oczekiwania. Apartament jest gotowy do zamieszkania od zaraz i czeka na swojego najemcę.</b></p><p>Serdecznie zapraszamy do kontaktu oraz umówienia prezentacji.</p><p>Powyższy opis nie stanowi oferty w rozumieniu art. 66 i następnych Kodeksu Cywilnego. Informacje zawarte w ogłoszeniu mają charakter informacyjny i mogą ulec zmianie.</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:03.436Z"
+}

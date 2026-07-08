@@ -1,0 +1,157 @@
+{
+  "id": 68156770,
+  "title": "Wynajmę 3-pok, Apartament, Jana Kazimierza",
+  "slug": "wynajme-3-pok-apartament-jana-kazimierza-ID4BYGK",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Jana Kazimierza",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola",
+          "fullName": "Wola, Warszawa, mazowieckie",
+          "name": "Wola",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola/odolany",
+          "fullName": "Odolany, Wola, Warszawa, mazowieckie",
+          "name": "Odolany",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdrZTV2aXNrcjh6ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xjDPI7cKP2nAE65F29_OONwfKdEvS-8s_fj1QJLszVI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdrZTV2aXNrcjh6ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xjDPI7cKP2nAE65F29_OONwfKdEvS-8s_fj1QJLszVI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQzNWg0cmdrYWU4eTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.E6a76EAaftPc48Y34dQ4VjUzy2RVBo0ek2OOtbehAck/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQzNWg0cmdrYWU4eTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.E6a76EAaftPc48Y34dQ4VjUzy2RVBo0ek2OOtbehAck/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB3cWNvNHFtNXczZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nE-MHFopqEreDy-DvBe8sSvt8dZtFVb6gBXDwEN4qC0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB3cWNvNHFtNXczZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nE-MHFopqEreDy-DvBe8sSvt8dZtFVb6gBXDwEN4qC0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 642904,
+    "name": "OFFICIUM Group Sp. z o.o.",
+    "slug": "officium-group-sp-z-o-o-ID642904",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImI3YmtnOTdwcjNwbjEtQVBMIn0.XPZU3cG5aPlpUUXbTwA4p-Cpa5RZ3Sr9VjFBWQgofO4/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 4800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 0,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 76.19,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 63,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:20:43",
+  "createdAtFirst": "2026-06-30T12:20:31Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Wynajmę 3-pokojowe mieszkanie o podwyższonym standardzie wykończenia, o pow. ok. 63m2, usytuowane na 4 z 6 piętrze budynku przy ul. Jana Kazimierza 57. Ekspozycja mieszkania północ-południe. Lokal wyk...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Przemysław Pariaszewski",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE3czhtcjB5ZmE1OC1BUEwifQ.1xO_AhK_OcIFXOmjMJF7l9ezfA3HNXdwIqpbsFqFK2o/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/wynajme-3-pok-apartament-jana-kazimierza-ID4BYGK",
+  "description": "Wynajmę 3-pokojowe mieszkanie o podwyższonym standardzie wykończenia, o pow. ok. 63m2, usytuowane na 4 z 6 piętrze budynku przy ul. Jana Kazimierza 57. Ekspozycja mieszkania północ-południe. Lokal wykończony w wysokim standardzie, z pełnym wyposażeniem - gotowy do wprowadzenia. Lokal składa się z: salonu z aneksem kuchennym z wyjściem na loggię, sypialni z wyjściem na loggie, pokoju, łazienki z wc i przedpokoju.<br>Wyposażenie:<br>- kuchnia: piekarnik, mikrofalówka, zmywarka, lodówko-zamrażarka - wszystko w zabudowie,<br>- salon: duży telewizor, stół z krzesłami, kanapa wypoczynkowa,<br>- sypialnia: duże łóżko z materacem, szafa w zabudowie,<br>- łazienka: prysznic z deszczownicą, wc, pralka, suszarka,<br>- pokój: 2x szafa, możliwość zabrania niektórych mebli,<br>- przedpokój: 3-drzwiowa szafa,<br><br>Informacje dodatkowe:<br>- czynsz administracyjny zawierający zaliczki na media płatny dodatkowo 920zł/msc<br>- dodatkowo Najemca ponosi koszty zużycia energii elektrycznej (przepisanie licznika na Najemcę),<br>- miejsce postojowe w garażu podziemnym w cenie,<br>- umowa w formie najmu okazjonalnego, min. 12 miesięcy,<br>- kaucja w wysokości 6000zł<br>- brak akceptacji na zwierzęta.<br><br>LOKALIZACJA:<br>Wewnątrz osiedla bardzo ładnie zagospodarowane patio z placem zabaw. Dla zmotoryzowanych dojazd do Centrum to jedyne 10-15 min, dobre połączenie komunikacyjne (tramwaj lub autobus) z pozostałymi dzielnicami miasta. W pobliżu sklepy, kawiarnie, restauracje, punkty usługowe. W okolicy Blue City, Reduta, Wola Park i inne sklepy wielkopowierzchniowe. Do biegania, rekreacji, czy wypoczynku mogą służyć liczne okoliczne parki.<br>Polecam i zapraszam na prezentację. Oferta godna uwagi.",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:55.897Z"
+}

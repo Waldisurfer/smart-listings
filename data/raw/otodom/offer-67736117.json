@@ -1,0 +1,160 @@
+{
+  "id": 67736117,
+  "title": "Mieszkanie 2 pok, 39m2 ul. Ukośna 1, os. Antoniuk",
+  "slug": "mieszkanie-2-pok-39m2-ul-ukosna-1-os-antoniuk-ID4Adg1",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Ukośna",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Białystok",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "podlaskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "podlaskie",
+          "fullName": "podlaskie",
+          "name": "podlaskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "podlaskie/bialystok/bialystok/bialystok",
+          "fullName": "Białystok, podlaskie",
+          "name": "Białystok",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "podlaskie/bialystok/bialystok/bialystok/antoniuk",
+          "fullName": "Antoniuk, Białystok, podlaskie",
+          "name": "Antoniuk",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF2d3o4OXZhNHZzNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bdw3tpv5C-FQRiFJD_9TcvrFZi41217N-XkUyvu3hvE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF2d3o4OXZhNHZzNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bdw3tpv5C-FQRiFJD_9TcvrFZi41217N-XkUyvu3hvE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk3MnVsOG1henN4dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MQTjvJegN-Nsaux4dc3CBYRN7GEYj3zec0uiczaotvc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk3MnVsOG1henN4dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MQTjvJegN-Nsaux4dc3CBYRN7GEYj3zec0uiczaotvc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRyNGluNnAyNzVrbjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1_GkRfbFz6aJN_Zx0yA8f4cc1cnbk_TvHrYS4t1bU6w/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRyNGluNnAyNzVrbjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1_GkRfbFz6aJN_Zx0yA8f4cc1cnbk_TvHrYS4t1bU6w/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 16,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 59083,
+    "name": "PÓŁNOC Nieruchomości",
+    "slug": "polnoc-nieruchomosci-ID59083",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR2ZGplb3UwbzJxMjItQVBMIn0.rkLCSvgsWLCB5kj3IJWtfjyQZ7jayLTHHfKL2SAYhoo/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 43.59,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 39,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-21 19:16:33",
+  "createdAtFirst": "2026-02-21T19:15:17Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Zapraszam do zapoznania się z ofertą 2 pokojowego mieszkania o powierzchni 39 m2, położonej na III piętrze w IV piętrowym bloku bez windy.Lokalizacja:Mieszkanie położone jest w miejscowości Białystok,...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Monika",
+    "lastName": "Miłkowska",
+    "photoURL": null,
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Monika Miłkowska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNzZGw2Y2ZvMHQ2eTItQVBMIn0.GJtflW6QXvUN6UEnII8ROyBA5Nwz7rm8TOBtMI6fSsM/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-2-pok-39m2-ul-ukosna-1-os-antoniuk-ID4Adg1",
+  "description": "<strong>Zapraszam do zapoznania się z ofertą 2 pokojowego mieszkania o powierzchni 39 m2, położonej na III piętrze&nbsp; w IV piętrowym bloku bez windy.<br></strong><br><strong>Lokalizacja:</strong>&nbsp;&nbsp;Mieszkanie położone jest w miejscowości Białystok, ok. 5 min&nbsp;jazdy samochodem do Centrum miasta. Dogodne połączenie komunikacyjne .&nbsp; Spokojna okolica przy&nbsp;ul. Ukośnej 1 na osiedlu Antoniu.&nbsp; W najbliższej okolicy znajdują się liczne sklepy i usługi co zapewnia wygodę i komfort codziennego życia.<br><br><strong>Standard</strong>:&nbsp;Mieszkanie w bardzo dobrym standardzie, częściowo umeblowane.&nbsp;&nbsp;<br><br><strong>Ilość pomieszczeń:</strong>&nbsp;do dyspozycji Najemcy jest pokój dzienny, pokój/gabinet, oddzielna kuchnia, łazienka, oddzielne wc, holl<br><br><strong>Mieszkanie składa się z:</strong><br>- pokój dzienny z wyjściem na balkon: 2x fotele, stół kawowy, komoda, telewizor<br>- pokój: materac, szafki<br>- kuchnia:&nbsp;zabudowa mebli kuchennych, piekarnik elektryczny, płyta gazowa, okap, lodówka, zmywarka<br>-&nbsp;łazienka: kabina prysznicowa, pralka, umywalka z szafką podwieszona.<br>- WC: szafka<br>-&nbsp;przedpokój: szafa w zabudowie<br><br><strong>Dodatkowe udogodnienia:</strong>&nbsp; możliwość wynajęcia&nbsp;<strong>garażu murowanego - dodatkowo płatny - 300 zł,</strong>&nbsp;możliwość korzystania z piwnicy.<br><br><strong>Budynek</strong>: Blok po termomodernizacji z ok 1980 roku otoczony dużą ilością zieleni. Zadbane części wspólne.<br><br><strong>Opłaty:&nbsp;</strong>Miesięczny czynsz najmu: 1 700 zł<br>czynsz administracyjny 500 zł&nbsp;<br>prąd: zaliczki miesięczne/rozliczane co 6 miesięcy w PGE<br>gaz: ok. 40 zł<br>kaucja zwrotna: 1 700 zł.<br>TV, Internet –opłaty indywidualne, na własnej umowie&nbsp;<br><br>Zapraszam do kontaktu w celu uzyskania dodatkowych informacji oraz umówienia się na prezentację.<br>Monika Miłkowska<br/>\n<br/>\nNiniejsze ogłoszenie nie stanowi oferty w rozumieniu Kodeksu Cywilnego, lecz ma charakter informacyjny.<br/>\nPrzedstawione wizualizacje i grafiki mają charakter wyłącznie poglądowy i stanowią wyłącznie materiał pomocniczy, ułatwiający zorientowanie się w ogólnym wyglądzie oferowanej nieruchomości.<br/>\n<br/>\nNiniejsze ogłoszenie wraz z jego elementami jest własnością  Północ Nieruchomości Sp z o.o.  lub podmiotu współpracującego. Wszelkie prawa zastrzeżone. Kopiowanie, rozpowszechnianie oraz korzystanie z niniejszych materiałów w jakikolwiek inny sposób wykraczający poza dozwolony użytek określony przepisami ustawy z 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. 1994, nr 24 poz. 83 z późn. zm.) bez pisemnej zgody Północ Nieruchomości Sp z o.o. lub podmiotów współpracujących jest zabronione i może stanowić podstawę odpowiedzialności cywilnej oraz karnej.<br/>\n<br/>\nNiniejsze materiały stanowią tajemnicę przedsiębiorstwa PÓŁNOC NIERUCHOMOŚCI Sp. z o.o.  w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r., Nr 153, poz. 1503 z późn. zm.).<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:36.688Z"
+}

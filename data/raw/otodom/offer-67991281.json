@@ -1,0 +1,153 @@
+{
+  "id": 67991281,
+  "title": "/OMS",
+  "slug": "oms-ID4BhDz",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Władysława Żemojtela",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Bydgoszcz",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "kujawsko-pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "kujawsko--pomorskie",
+          "fullName": "kujawsko-pomorskie",
+          "name": "kujawsko-pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoszcz/bydgoszcz/bydgoszcz",
+          "fullName": "Bydgoszcz, kujawsko-pomorskie",
+          "name": "Bydgoszcz",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoszcz/bydgoszcz/bydgoszcz/nowy-fordon",
+          "fullName": "Nowy Fordon, Bydgoszcz, kujawsko-pomorskie",
+          "name": "Nowy Fordon",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF4djM5eThxMGVkdC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.DyBE1-xDvgIB-NExngkGiTHJX_RDRpQezKP4TJdCkWQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF4djM5eThxMGVkdC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.DyBE1-xDvgIB-NExngkGiTHJX_RDRpQezKP4TJdCkWQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZzenc1Z3FoemJteS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.agj_TcOVkbtx9XW4pLQcFNG8y8xe2MC4nVyqt0zgLXA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZzenc1Z3FoemJteS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.agj_TcOVkbtx9XW4pLQcFNG8y8xe2MC4nVyqt0zgLXA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xYXRvd2J2M3c4YS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.XYdQehy4nN_gQgZ-96Ra9mQ-lsmnRl8leErr8OPcDco/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9xYXRvd2J2M3c4YS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.XYdQehy4nN_gQgZ-96Ra9mQ-lsmnRl8leErr8OPcDco/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 4,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 4785764,
+    "name": "Simple ",
+    "slug": "simple-ID4785764",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRubWhiaDVkazh1eTItQVBMIn0.zwZ-zZ9173v08dYm8RbdZ4m-3QKCshdF0bAdhW2vBGk/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 406027.5,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 10750,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 37.77,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:27:15",
+  "createdAtFirst": "2026-05-11T11:25:53Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Żemojtela – Twój nowy dom pełen spokoju i wygodyNowa inwestycja przy ul. Żemojtela to nowoczesne mieszkania zaprojektowane z myślą o komforcie na co dzień — funkcjonalne układy od 36 do 83 m², balkony...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Patrycja",
+    "lastName": "Korzeniewska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo5OWw4dG8wajMxeTItQVBMIn0.BZ2dEtqbMXQPGVXBQdCGTUNZ7xaCNWOHxKkXrkpCKzY/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Patrycja Korzeniewska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNoaWwzaXo4Z20wbzMtQVBMIn0.tUHIKqQIWFQTU1aofkswyNFQJfOej3R84XfCuQ2ZYlg/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/oms-ID4BhDz",
+  "description": "Żemojtela – Twój nowy dom pełen spokoju i wygody<br>Nowa inwestycja przy ul. Żemojtela to nowoczesne mieszkania zaprojektowane z myślą o komforcie na co dzień — funkcjonalne układy od 36 do 83 m², balkony w każdym lokalu i kameralna zabudowa w spokojnej części Fordonu sprawiają, że to idealne miejsce na start albo spokojne życie. To przestrzeń, w której odnajdziesz atmosferę domowego ciepła i spokoju, z dala od zgiełku miasta.<br><br>Atuty inwestycji:<ul><li>nowoczesne, funkcjonalne mieszkania — idealne zarówno dla singla, pary, jak i rodziny.</li><li>każde mieszkanie posiada balkon lub loggię — doskonałe, by zacząć dzień od kawy na świeżym powietrzu.</li><li>podziemna hala garażowa — komfort i wygoda dla zmotoryzowanych.</li><li>teren ogrodzony i monitorowany — poczucie bezpieczeństwa dla Ciebie i Twoich bliskich.</li><li>niska zabudowa i spokojna okolica — idealna alternatywa dla zatłoczonych osiedli i głośnych dzielnic.</li></ul><br><br>Lokalizacja:&nbsp;<ul><li>położenie przy ul. Żemojtela, w dzielnicy Fordon — spokojnej i cichej, a jednocześnie z dobrą komunikacją do centrum miasta.</li><li>bliskość komunikacji miejskiej — tramwaj i autobusy zapewniają szybki dojazd do ścisłego centrum Bydgoszczy.</li><li>pełna infrastruktura tuż obok: żłobki, przedszkola, szkoły, sklepy, apteki, centra handlowe — idealne dla rodzin i osób ceniących wygodę.</li><li>bliskość natury: zieleń, lasy, tereny rekreacyjne, cisza i spokój — idealne miejsce do odpoczynku po pracy.</li></ul><br><br>Dodatkowe informacje:<ul><li>termin zakończenia prac budowlanych - inwestycja oddana</li><li>miejsce postojowe zewnętrze - 25tys zł</li><li>miejsce postojowe w hali garażowej - 45tys zł</li><li>komórka lokatorska od 5tys zł do 7,5tys zł za sztukę</li></ul><br> <br><br>Informacje zamieszczone w niniejszej publikacji mają charakter wyłącznie informacyjny i nie stanowią oferty handlowej w rozumieniu art. 66 § 1 Kodeksu cywilnego. Materiały, opisy, dane techniczne, ilustracje oraz wszelkie przykłady przedstawione w tekście służą jedynie celom poglądowym i mogą różnić się od rzeczywistego stanu, aktualnych warunków lub dostępności produktów i usług.<br><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:03.111Z"
+}

@@ -1,0 +1,167 @@
+{
+  "id": 67409470,
+  "title": "Luksus|23piętro|Złota44",
+  "slug": "luksus-23pietro-zlota44-ID4yQhv",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Złota",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie",
+          "fullName": "Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie/srodmiescie-polnocne",
+          "fullName": "Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście Północne",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml0Y2swYzhheG5oaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Xl47UHQtbqVEcVurUnik9t8cIqRLrbsvRmrQQuRDUQs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Iml0Y2swYzhheG5oaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Xl47UHQtbqVEcVurUnik9t8cIqRLrbsvRmrQQuRDUQs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2ZWc3Y3BrcWNrajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uh5YR257aDtpSoLJX1S4lr9CflFMIetUnqFafIO-C2Y/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink2ZWc3Y3BrcWNrajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Uh5YR257aDtpSoLJX1S4lr9CflFMIetUnqFafIO-C2Y/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdyYnV0eWo5YTJhZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zXr09-ZkexqnJR8vv30ToDkGa9N16Sbsz6vlxl97UJQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdyYnV0eWo5YTJhZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zXr09-ZkexqnJR8vv30ToDkGa9N16Sbsz6vlxl97UJQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 18,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 10578105,
+    "name": "Wellhome Real Estate ",
+    "slug": "wellhome-real-estate-ID10578105",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBmYW9sdDYza3lhay1BUEwifQ.4tcgiQow-XT9D2UBfX6TQeYCivELjRMah6wiTEA6Ass/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 26100,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 4900,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 217.5,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 120,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "ABOVE_TENTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-22 14:03:01",
+  "createdAtFirst": "2025-11-03T12:14:11Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-02-22T14:03:01+01:00",
+  "specialOffer": null,
+  "shortDescription": "Luksusowy apartament z widokiem na Pałac Kultury i Nauki | Złota 44 | Wysoki standardENGLISH DESCRIPTION BELOW - PLEASE FEEL FREE TO CONTACT US• UKŁADNa układ pomieszczeń składają się:- Przestronny sa...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Oleksandr Hnatiuk",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/luksus-23pietro-zlota44-ID4yQhv",
+  "description": "<p><strong>Luksusowy apartament z widokiem na Pałac Kultury i Nauki | Złota 44 | Wysoki standard</strong><br><br><strong>ENGLISH DESCRIPTION BELOW - PLEASE FEEL FREE TO CONTACT US</strong><br><br><strong>• UKŁAD</strong><br>Na układ pomieszczeń składają się:<br>- Przestronny salon połączony z nowoczesną, otwartą kuchnią,<br>- Główna sypialnia typu master z łazienką en suite oraz dużą szafą w zabudowie,<br>- Druga sypialnia z pojemną szafą,<br>- Elegancka łazienka z prysznicem,<br>- Pralnia z zabudową gospodarczą,<br>- Reprezentacyjny hol z szafami wnękowymi.<br><br>Całość zaprojektowana została przez architekta wnętrz w duchu nowoczesnego luksusu i ergonomii.<br><br><strong>• STANDARD</strong><br>Zastosowano materiały najwyższej klasy: naturalny kamień w łazienkach, drewniane podłogi oraz meble wykonane na zamówienie przez renomowanych projektantów.<br>Wszystkie pomieszczenia zostały wyposażone w system Smart Home HMS, który pozwala na zdalne sterowanie oświetleniem, roletami, klimatyzacją i ogrzewaniem, a także umożliwia kontakt z concierge’em oraz rezerwację części wspólnych - takich jak sala kinowa, strefa relaksu czy sale konferencyjne.<br><br>Mieszkanie jest w pełni umeblowane i gotowe do wprowadzenia.<br><br><strong>• BUDYNEK</strong><br>Złota 44 to ikoniczny wieżowiec mieszkalny w sercu Warszawy, uważany za symbol luksusu, prestiżu i nowoczesnej architektury.<br>Budynek oferuje mieszkańcom ponad 1 400 m² prywatnej strefy rekreacyjnej, w tym:<br>- klub fitness z siłownią,<br>- salę kinową,<br>- przestrzeń coworkingową i sale konferencyjne,<br>- pokój zabaw dla dzieci,<br>- największy w Polsce basen w budynku apartamentowym,<br>- strefę wellness z jacuzzi, saunami i łaźnią parową z widokiem na panoramę Warszawy.<br><br>Całość dopełnia całodobowa recepcja, concierge oraz ochrona, co zapewnia pełen komfort i bezpieczeństwo.<br><br><strong>• LOKALIZACJA</strong><br>Złota 44 to najbardziej prestiżowy adres w Warszawie - w samym sercu miasta, tuż obok Dworca Centralnego i Złotych Tarasów.<br>W okolicy znajdują się luksusowe butiki, najlepsze restauracje, kawiarnie, hotele oraz instytucje kulturalne.<br>Położenie w ścisłym centrum zapewnia doskonałą komunikację z każdą częścią Warszawy - metro, tramwaje, autobusy i kolej w zasięgu kilku minut spacerem.<br><br>To lokalizacja dla osób, które chcą żyć w rytmie stolicy, nie rezygnując z prywatności, prestiżu i spokoju.<br><br><strong>• CENA</strong><br>24 600 PLN miesięcznie<br>czynsz administracyjny: 4 900 PLN<br>zaliczki na media: 500 PLN<br>miejsce postojowe w garażu podziemnym: 1 500 PLN.</p><br/>\r\n<p><strong>Zapraszamy do kontaktu i prezentacji w każdym momencie!</strong><br><strong>We speak PL/ENG/UA/RU<br>_<br><br>Luxury apartment with a view of the Palace of Culture and Science | Złota 44 | High standard</strong><br><br><strong>• LAYOUT</strong><br>The layout of the rooms consists of:<br>- A spacious living room connected to a modern, open kitchen,<br>- Master bedroom with en suite bathroom and large built-in wardrobe,<br>- Second bedroom with spacious wardrobe,<br>- Elegant bathroom with shower,<br>- Laundry room with built-in appliances,<br>- Representative hall with built-in wardrobes.<br><br>The entire interior was designed by an interior architect in the spirit of modern luxury and ergonomics.<br><br><strong>• STANDARD</strong><br>The highest quality materials were used: natural stone in the bathrooms, wooden floors, and custom-made furniture by renowned designers.<br>All rooms are equipped with the Smart Home HMS system, which allows remote control of lighting, blinds, air conditioning, and heating, as well as contact with the concierge and booking of common areas such as the cinema room, relaxation area, and conference rooms.<br><br>The apartment is fully furnished and ready to move in.<br><br><strong>• BUILDING</strong><br>Złota 44 is an iconic residential skyscraper in the heart of Warsaw, considered a symbol of luxury, prestige, and modern architecture.<br>The building offers residents over 1,400 m² of private recreational space, including:<br>- a fitness club with a gym,<br>- a cinema room,<br>- a coworking space and conference rooms,<br>- a children's playroom,<br>- the largest swimming pool in an apartment building in Poland,<br>- a wellness area with a jacuzzi, saunas, and a steam bath overlooking the Warsaw skyline.<br><br>The whole is complemented by a 24-hour reception, concierge, and security, ensuring complete comfort and safety.<br><br><strong>• LOCATION</strong><br>Złota 44 is the most prestigious address in Warsaw - in the heart of the city, right next to the Central Station and Złote Tarasy.<br>The area is home to luxury boutiques, the best restaurants, cafes, hotels, and cultural institutions.<br>Its location in the very center ensures excellent communication with every part of Warsaw - the metro, trams, buses, and trains are within a few minutes' walk.<br><br>This is a location for people who want to live in the rhythm of the capital without sacrificing privacy, prestige, and peace.<br><br><strong>• PRICE</strong><br>PLN 24,600 per month<br>administrative rent: PLN 4,900<br>advance payments for utilities: PLN 500<br>parking space in the underground garage: PLN 1,500.<br><br><strong>Feel free to contact us and arrange a viewing at any time!</strong><br><strong>We speak PL/ENG/UA/RU</strong></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:07.513Z"
+}

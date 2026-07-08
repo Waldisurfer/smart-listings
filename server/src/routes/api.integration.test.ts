@@ -33,8 +33,8 @@ test('GET /api/listings returns the paginated envelope', async () => {
   expect(res.status).toBe(200);
   const body = await res.json();
   expect(Array.isArray(body.items)).toBe(true);
-  expect(body.items.length).toBe(5);
-  expect(body.total).toBe(54);
+  expect(body.total).toBeGreaterThan(0);
+  expect(body.items.length).toBe(Math.min(5, body.total));
   expect(body).toMatchObject({ page: 1, pageSize: 5 });
 });
 

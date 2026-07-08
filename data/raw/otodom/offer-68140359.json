@@ -1,0 +1,163 @@
+{
+  "id": 68140359,
+  "title": "Słoneczne 2-pokojowe mieszkanie z loggią | Gotowe do wprowadzenia",
+  "slug": "sloneczne-2-pokojowe-mieszkanie-z-loggia-gotowe-do-wprowadzenia-ID4BUq3",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Jana Olbrachta 23b",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola",
+          "fullName": "Wola, Warszawa, mazowieckie",
+          "name": "Wola",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola/ulrychow",
+          "fullName": "Ulrychów, Wola, Warszawa, mazowieckie",
+          "name": "Ulrychów",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkcGExODBob2JlODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.44bme66jhEI291YrcUMiDJLgBOxMrpndyWYdFcfGZyc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkcGExODBob2JlODItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.44bme66jhEI291YrcUMiDJLgBOxMrpndyWYdFcfGZyc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2dHp0NzhpcnQ2NTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uB9PHfO2N8tiVP7Um5iShIf6NCh4w2KFc_HYyN-NgbU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2dHp0NzhpcnQ2NTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uB9PHfO2N8tiVP7Um5iShIf6NCh4w2KFc_HYyN-NgbU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtzdzRzM2JvbWh6djMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1tciIJxl_75NlN1C-7Blsp3UewlRA0bMWzrxTkQaRNg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtzdzRzM2JvbWh6djMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1tciIJxl_75NlN1C-7Blsp3UewlRA0bMWzrxTkQaRNg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 9,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 1070000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 930,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 19525.55,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 54.8,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SEVENTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:32:21",
+  "createdAtFirst": "2026-06-24T15:28:04Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-06T15:32:22+02:00",
+  "specialOffer": null,
+  "shortDescription": "Możliwość przekształcenia w mieszkanie 3-pokojowe, otwarty widok bez zabudowy naprzeciwko, południowo-zachodnia ekspozycja, budynek z 2008 roku, garaż i komórka lokatorska.Oferta bezpośrednia – pośred...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Aleksandra Szymczak",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/sloneczne-2-pokojowe-mieszkanie-z-loggia-gotowe-do-wprowadzenia-ID4BUq3",
+  "description": "<p><i>Możliwość przekształcenia w mieszkanie 3-pokojowe, otwarty widok bez zabudowy naprzeciwko, południowo-zachodnia ekspozycja, budynek z 2008 roku, garaż i komórka lokatorska.</i></p><p><b>Oferta bezpośrednia – pośrednikom dziękujemy.</b></p><p>Na sprzedaż 2-pokojowe mieszkanie o powierzchni 54,80 m² z dużą, osobną kuchnią i loggią. Układ umożliwia przekształcenie obecnej, osobnej kuchni (11,7 m²) w drugą sypialnię lub pokój dziecięcy z aneksem kuchennym w salonie.</p><p>Mieszkanie znajduje się na 7. piętrze w 8-piętrowym budynku z windą. Okna wychodzą na zieleń terenów działkowych, bez zabudowy w bliskim sąsiedztwie. Wnętrze utrzymane w spójnej, jasnej estetyce. Olejowane podłogi z dębu czarnego.</p><p>Zamknięte, strzeżone osiedle (monitoring, ochrona) z zielonym patio.</p><p>15 minut pieszo (1 km) do metra Księcia Janusza.</p><p><b>Pomieszczenia</b></p><ul><li>Salon (17,7 m²) z wyjściem na loggię (5,4 m²) — z otwartym widokiem na zieleń</li><li>Sypialnia (12,6 m²) z przestronną szafą w zabudowie wykonanej na wymiar</li><li>Osobna kuchnia (11,7 m²) w zabudowie na wymiar, z pełnym wyposażeniem AGD (lodówka, piekarnik, kuchenka mikrofalowa, płyta indukcyjna, zmywarka)</li><li>Łazienka (5,1 m²) z dużym lustrem, kabiną prysznicową oraz szafkami i pralką schowanymi pod blatem</li><li>Przedpokój (7,7 m²) z lustrzaną szafą w zabudowie</li><li>Komórka lokatorska (4,5 m²)</li></ul><p><b>Otoczenie</b></p><ul><li>Metro Księcia Janusza – 15 min pieszo / 2 przystanki autobusem</li><li>Tramwaj 10 min, autobus 5 min</li><li>Park Powstańców Warszawy, Sowińskiego, Szymańskiego i Moczydło w pobliżu</li><li>Pełna infrastruktura usługowa w bezpośrednim sąsiedztwie, Fort Wola oraz Wola Park w zasięgu kilkunastu minut</li><li>W okolicy trzy publiczne przedszkola, dwie szkoły podstawowe (w tym SP nr 351 przy tej samej ulicy) oraz liceum ogólnokształcące</li></ul><p><b>Informacje finansowe i formalne</b></p><ul><li>Cena:<b> </b>1 070 000 zł<b> </b></li><li>Komórka lokatorska: dodatkowo płatna 30 000 zł</li><li>Miejsce postojowe w garażu podziemnym: do dokupienia za 70 000 zł (osobna księga wieczysta)</li><li>Pełna własność, księga wieczysta</li><li>Czynsz (w tym media i fundusz remontowy): 930 zł</li></ul><p></p><p><b>Zapraszam do kontaktu i na prezentację mieszkania!</b></p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:01.086Z"
+}

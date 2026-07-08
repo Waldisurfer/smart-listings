@@ -1,0 +1,156 @@
+{
+  "id": 68043200,
+  "title": "Okazja! Na parterze z dużym ogródkiem, urządzone!",
+  "slug": "okazja-na-parterze-z-duzym-ogrodkiem-urzadzone-ID4Bw8Y",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Rybnik",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/rybnik/rybnik/rybnik",
+          "fullName": "Rybnik, śląskie",
+          "name": "Rybnik",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/rybnik/rybnik/rybnik/rybnik--polnoc",
+          "fullName": "Rybnik-Północ, Rybnik, śląskie",
+          "name": "Rybnik-Północ",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh2eHB6azg5a2s4Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6NysqrLTNzYU-rG3WWNx-3ACzBlpH9DFu6LqyjL62hk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh2eHB6azg5a2s4Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6NysqrLTNzYU-rG3WWNx-3ACzBlpH9DFu6LqyjL62hk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqcGNhNGdiZjVydTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JVSX_Zw_F0egR7X8J-MSdPUf43QpNBAhCl2aHApuRkM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqcGNhNGdiZjVydTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JVSX_Zw_F0egR7X8J-MSdPUf43QpNBAhCl2aHApuRkM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE1N3h3cmVmOTcxMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ymx2sdzwDkYNCDNVZvzVl7huD4OazBhBpjJS3OwQlS0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE1N3h3cmVmOTcxMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ymx2sdzwDkYNCDNVZvzVl7huD4OazBhBpjJS3OwQlS0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 9154167,
+    "name": "Nieruchomości & Finanse GATNARCZYK",
+    "slug": "nieruchomosci-finanse-gatnarczyk-ID9154167",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2NzVoc3o5dm0zczItQVBMIn0.PYcSZcZB6Obu63wVVW4m2PECVK-3V19OZM0vXrmfxZg/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 690000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 0,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 12780.14,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 53.99,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:55:17",
+  "createdAtFirst": "2026-05-25T16:55:10Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T12:55:17+02:00",
+  "specialOffer": null,
+  "shortDescription": "Nowa kameralna inwestycja w Rybniku.Nowoczesne trzy pokojowe mieszkanie z og&oacute;rkiem , wyposażone w meble, zabudowę kuchenną sprzęt AGD oraz kompletne wyposażenie widoczne na zdjęciach.Na sprzeda...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Agnieszka Gatnarczyk",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVvZmZ6a3ZkMDhnaTItQVBMIn0.l1tyV547OCbjiByijZ3JTXta_BAvhb2_ko6gwLdPSnk/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/okazja-na-parterze-z-duzym-ogrodkiem-urzadzone-ID4Bw8Y",
+  "description": "<p>Nowa kameralna inwestycja w Rybniku.&nbsp;<br/><u><strong>Nowoczesne trzy pokojowe mieszkanie z og&oacute;rkiem , wyposażone w meble, zabudowę kuchenną sprzęt AGD oraz kompletne wyposażenie widoczne na zdjęciach.&nbsp;</strong></u><br/><br/><br/><br/>Na sprzedaż stylowo urządzone mieszkanie o powierzchni 53,99 mkw z rynku pierwotnego, &nbsp;zlokalizowane w spokojnej części Rybnika przy ul. Janiego. Nieruchomość została wykończona &bdquo;pod klucz&rdquo; z kompletnym wyposażeniem i urządzeniem widocznym na zdjęciach ,w bardzo wysokim standardzie, przy użyciu materiał&oacute;w premium. Przemyślany został każdy detal oraz nowoczesny design sprawiają, że mieszkanie jest gotowe do natychmiastowego wprowadzenia &ndash; bez dodatkowych nakład&oacute;w finansowych i stresu związanego z remontem.<br/><br/>Do mieszkania przynależy duży , pięknie zagospodarowany ogr&oacute;d o powierzchni ok. 124,5 m&sup2; z trawą z rolki, kt&oacute;ry stanowi idealną przestrzeń do relaksu, oraz dwa dedykowane miejsca postojowe tuż przed wejściem do nieruchomości.<br/><br/><br/><br/>Układ pomieszczeń (powierzchnia użytkowa 53,99 m&sup2;)<br/><br/>Mieszkanie charakteryzuje się niezwykle funkcjonalnym, dobrze doświetlonym układem:<br/><br/>* Salon z aneksem kuchennym: Przestronny, nowoczesny salon z wyjściem na taras i rozległy ogr&oacute;d.<br/><br/>* Sypialnia gł&oacute;wna: &nbsp;dużym oknam i pojemną szafą w zabudowie.<br/><br/>* Druga sypialnia / Pok&oacute;j dziecięcy / Gabinet: R&oacute;wnie ustawna, także wyposażona w dużą szafę zabudowaną oraz duże okno.&nbsp;<br/><br/>* Łazienka z WC: Stylowo urządzona, z komfortowym prysznicem oraz przygotowanym, estetycznym miejscem na m.in. pralkę i suszarkę.<br/><br/>* Przedpok&oacute;j: Z pojemną, funkcjonalną szafą na odzież wierzchnią.<br/><br/><br/><br/><br/><br/><u><strong>Standard wykończenia:</strong></u><br/><br/>To nie jest standardowe mieszkanie deweloperskie &ndash; wnętrze zostało zaprojektowane z myślą o osobach ceniących estetykę, styl i jakość.&nbsp;<br/><br/>* Materiały z &bdquo;wysokiej p&oacute;łki&rdquo; gwarantujące trwałość na lata.<br/><br/>* Zabudowy meblowe wykonane na wymiar, optymalizujące przestrzeń do przechowywania.<br/><br/>* Rolety we wszystkich oknach.<br/><br/>*&nbsp;Ogrzewanie podłogowe.<br/><br/>* Niezależne sterowanie ogrzewaniem w każdym pomieszczeniu oddzielnie.&nbsp;<br/><br/>* Sp&oacute;jna, nowoczesna i przytulna kolorystyka.<br/><br/><br/><br/><br/><br/><u><strong>Lokalizacja i kameralne osiedle:</strong></u><br/><br/>Nieruchomość znajduje się w kameralnym miejscu Rybnika składającym się z zaledwie 16 mieszkań.<br/><br/>* Bezpieczeństwo i prywatność: Teren ogrodzony, wjazd na osiedle zabezpieczony szlabanem.<br/><br/>* Otoczenie: Niska zabudowa &ndash; wok&oacute;ł znajdują się wyłącznie domy jednorodzinne, co zapewnia ciszę i spok&oacute;j.<br/><br/>* Udogodnienia: Na terenie inwestycji znajduje się bezpieczne, zamykane miejsce do przechowywania rower&oacute;w (rowerownia).<br/><br/>* Lokalizacja: Bliskość centrum zaledwie 10 min spacerem do rynku, ścieżka rowerowa tuż obok, supermarkety i inne udogodnienia na wyciągnięcie ręki.&nbsp;<br/><br/><br/><br/><strong><u>Dodatkowe atuty :</u></strong><br/><br/>Mieszkanie bezczynszowe , ogrzewane piecykiem gazowym co generuje niskie koszty utrzymania.<br/><br/><br/><br/><strong>Dlaczego warto?</strong><br/><br/>Zyskujesz czas i spok&oacute;j. Kupujesz nowe mieszkanie, unikając podatku PCC (zakup z rynku pierwotnego) oraz uciążliwego procesu wykańczania wnętrz. Wchodzisz i mieszkasz od zaraz, ciesząc się własnym, dużym ogrodem w świetnej lokalizacji Rybnika.&nbsp;<br/><br/><br/><br/><br/><br/>Zapraszam do kontaktu oraz na prezentacje nieruchomości.<br/><br/><br/><br/><br/><br/>&nbsp; Cena sprzedaży 690&nbsp;000,00&nbsp;&nbsp;zł.&nbsp;<br/><br/><br/><br/>&nbsp;<u>WYŁĄCZNY Agent powyższej nieruchomości licencja zawodowa nr 28777&nbsp;</u></p><p><u>Zapewniam Państwu kompleksową oraz rzetelną obsługę podczas procesu finalizacji zakupu nieruchomości - dla mnie najważniejszy jest Państwa komfort, bezpieczeństwo oraz zadowolony klient.</u></p><p><u>Bezpłatnie pomagam w uzyskaniu kredytu na zakup nieruchomości.Posiadam oferty wszystkich najwiekszych bank&oacute;w, znajdę ofertę najkorzystnieszą na rynku.Oferuję r&oacute;wnież pomoc w zakresie kredyt&oacute;w got&oacute;wkowych, konsolidacyjnych, firmowych oraz leasing&oacute;w.</u></p><p><br/><br/>&nbsp;</p><p>Nota prawna:Opis oferty zawarty na stronie internetowej sporządzany jest na podstawie oględzin nieruchomości oraz informacji uzyskanych od właściciela, może podlegać aktualizacji i nie stanowi oferty określonej w art. 66 i następnych K.C.Pośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Agnieszka Gatnarczyk (licencja nr: 28777)</p><p>Pośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Agnieszka Gatnarczyk (licencja nr: 28777)<br/><br/><br/><br/><br/>&nbsp;Pośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Agnieszka Gatnarczyk (licencja nr: 28777) </p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:25.392Z"
+}

@@ -1,0 +1,178 @@
+{
+  "id": 68173396,
+  "title": "MIESZKANIE 3 POK | WŁASNY OGRÓDEK | NOWOCZESNE OSIEDLE | 0% PCC",
+  "slug": "mieszkanie-3-pok-wlasny-ogrodek-nowoczesne-osiedle-0-pcc-ID4C30U",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 500,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Literacka",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bielany",
+          "fullName": "Bielany, Warszawa, mazowieckie",
+          "name": "Bielany",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/bielany/piaski",
+          "fullName": "Piaski, Bielany, Warszawa, mazowieckie",
+          "name": "Piaski",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IncxcHp3dXE0OHI5bC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0GKt_zeZ36r0iz3-fJp8zNXwWX62AwfBkQQpB5CkAf8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IncxcHp3dXE0OHI5bC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0GKt_zeZ36r0iz3-fJp8zNXwWX62AwfBkQQpB5CkAf8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZwZmVsb2kwamZrMDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.w-CrBnyvGcdA7qGnVagJMyNayfxzWeilnxYPGxsokNY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZwZmVsb2kwamZrMDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.w-CrBnyvGcdA7qGnVagJMyNayfxzWeilnxYPGxsokNY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ1eXIyMWphaWJoMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pufv77ui8P9IR9bCqa_cYbwgnRB4Bahx0phHnlgLdn0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ1eXIyMWphaWJoMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pufv77ui8P9IR9bCqa_cYbwgnRB4Bahx0phHnlgLdn0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 5,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 10869110,
+    "name": "AS Nieruchomości i Finanse",
+    "slug": "as-nieruchomosci-i-finanse-ID10869110",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ0bWNqMjFvMWZsbi1BUEwifQ.mjBtjBdxZMfU8mnSpGMmN_Rzl36spa6f-GjEcVLY128/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1060877,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 18199.98,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 58.29,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:54:53",
+  "createdAtFirst": "2026-07-05T12:54:46Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Nowoczesne osiedle powstaje w doskonałej lokalizacji — Bielan OBOK ŻOLIBORZA. Świetnie skomunikowane, a jednocześnie blisko natury? To strzał w dziesiątkę!TUŻ Obok ulicy POWĄZKOWSKIEJ w pobliżu PARK S...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "MICHAŁ",
+    "lastName": "KALAIDOV",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjI5MHk2d3prMW4xNTMtQVBMIn0.YimiFhW9tFs_jR9G8P8IZfgHymtJPcJWxBMBMMLeOME/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Paulina Antonowicz",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-3-pok-wlasny-ogrodek-nowoczesne-osiedle-0-pcc-ID4C30U",
+  "description": "<p>Nowoczesne osiedle powstaje w doskonałej lokalizacji — Bielan <u>OBOK ŻOLIBORZA</u>. <b>Świetnie skomunikowane, a jednocześnie blisko natury? To strzał w dziesiątkę!</b></p><p><u>TUŻ Obok ulicy POWĄZKOWSKIEJ w pobliżu </u><b><u>PARK SADY ŻOLIBORSKIE </u></b></p><p><u>Fantastyczna</u> <u>przestrzeń zarówno dla singli, par, jak i rodzin z dziećmi.</u></p><p></p><p>Projekt nawiązuje <b>do charakteru Żoliborza Artystycznego</b>, łącząc nowoczesną architekturę z przyjazną, miejską przestrzenią.</p><p></p><p><b><u>Inwestycja jest doskonale skomunikowana –</u></b> zlokalizowana jest przy granicy dzielnic Bielany, Żoliborz i Bemowo, z rozbudowaną siecią autobusową i dogodnym dostępem do metra oraz głównych arterii miasta</p><p>W pobliżu znajdują się także szkoły, przedszkola i tereny rekreacyjne (np. Park Olszyna, Lasek na Kole), co dodatkowo podnosi komfort życia mieszkańców</p><p></p><p></p><p><b>Lokalizacja: </b></p><ul><li>TUŻ Obok ulicy POWĄZKOWSKIEJ</li><li>w pobliżu PARK SADY ŻOLIBORSKIE</li><li>Westfield Arkadia - 12min</li><li>W sąsiedztwie: sklepy, przedszkola, szkoły, centra handlowe</li><li><b>Park Olszyna, Lasek na Kole</b></li><li>przystanek autobusowy – 100 m</li><li>przystanek tramwajowy – 500 m</li><li><b>szybki dojazd do centrum</b> – blisko al. Armii Krajowej i ul. Powązkowskiej</li></ul><p></p><p><b>Komunikacja :</b></p><ul><li><b><u>Autobusy:</u></b></li><li>103, 122 – przystanki Obrońców Tobruku i Kochanowskiego – ok. 350–400 m, <b><u>4–5 min pieszo.</u></b></li><li><b>linie :</b> 180, 186, 197, 409, 114, 303 – ok.<b><u> 5–8 min pieszo</u></b>.</li><li><b>Linie nocne N41, N91</b> – zapewniają dojazd do centrum i innych dzielnic – ok. 5–8 min pieszo.</li><li><b><u>Metro:</u></b></li><li><b><u>Linia M1 – stacja Słodowiec</u></b> – ok <b><u>18–20 min pieszo lub 7–10 min autobusem.</u></b></li></ul><p></p><p><b><u>WSZĘDZIE BLISKO</u></b></p><ul><li>Szkoła Podstawowa nr 293 – 4 minuty pieszo</li><li>Przedszkole Zielony Zakątek – 3 minuty pieszo</li><li>Przystanek autobusowy (kier. Centrum) – 4 minuty pieszo</li><li>Park Olszyna – 9 minut pieszo</li><li>Lasek na Kole – 16 minut pieszo</li><li>CH Bemowo – 5 minut samochodem</li><li>CH Westfield Arkadia – między 8 a 20 minut samochodem</li><li>Obiekty OSiR Bemowo – 4 minuty samochodem</li></ul><p></p><p><b>Przemyślane osiedle z własną infrastrukturą</b></p><ul><li>nowoczesna zabudowa z dbałością o detale</li><li>lokale usługowe, zielone skwery i strefy rekreacji</li><li>place zabaw dla dzieci</li><li>panele fotowoltaiczne</li><li>energooszczędne windy i energooszczędne oświetlenie w częściach wspólnych</li><li>zbiornik retencyjny</li></ul><p></p><p><b>Tu się dobrze mieszka. Tu dobrze się żyje :)</b></p><p></p><p><b>Nie czekaj – wybierz mieszkanie, które naprawdę do Ciebie pasuje!</b></p><p></p><p><b><u>Zadzwoń i umów się na prezentację!</u></b></p><p></p><p><b>Mieszkanie od dewelopera- <u>w ofercie cała inwestycja/ różne metraże</u></b></p><p><b>0% </b>prowizji | <b>0% </b>podatku PCC | zakup bezpośrednio od dewelopera</p><p></p><p><b><u>Ze mną uzyskujesz najlepsze warunki na rynku!</u></b></p><p>- Możliwość <b>wykończenia \"pod klucz\"</b></p><p>- Darmowa <b>pomoc rzetelnego doradcy kredytowego</b></p><p>- <b>Pomagam przejść przez cały proces</b> – od wyboru po zakup</p><p></p><p><i>Zdjęcia w ogłoszeniu to wizualizacje o charakterze poglądowym. Nie stanowią oferty handlowej w rozumieniu art. 66 § 1 Kodeksu cywilnego.</i></p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:41.114Z"
+}

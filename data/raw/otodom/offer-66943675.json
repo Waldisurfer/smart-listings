@@ -1,0 +1,166 @@
+{
+  "id": 66943675,
+  "title": "Unikalne ponad 120m² w Afrykańskim Klimacie – Orłowo, Styl, Chronione",
+  "slug": "unikalne-ponad-120m-w-afrykanskim-klimacie-orlowo-styl-chronione-ID4vT6H",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Wrocławska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Gdynia",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "pomorskie",
+          "fullName": "pomorskie",
+          "name": "pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/gdynia/gdynia/gdynia",
+          "fullName": "Gdynia, pomorskie",
+          "name": "Gdynia",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/gdynia/gdynia/gdynia/orlowo",
+          "fullName": "Orłowo, Gdynia, pomorskie",
+          "name": "Orłowo",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxYmx4ZW82NXJreS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KJhPs_f3lTeDk-73YXl4Jh8OKKt384utb0zEevD7_W0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlxYmx4ZW82NXJreS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KJhPs_f3lTeDk-73YXl4Jh8OKKt384utb0zEevD7_W0/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkbnduaTY1dzZ4NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zHFNdgHbhqmp0dL1FMaAOkGJ-_w3HecBHEZAVBW_V2Y/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkbnduaTY1dzZ4NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zHFNdgHbhqmp0dL1FMaAOkGJ-_w3HecBHEZAVBW_V2Y/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVvdHRzOXZ6amNlZjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.THBUej-s5sM08QOHFtSNLgsajVuteMafaZBTSDEUaQY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVvdHRzOXZ6amNlZjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.THBUej-s5sM08QOHFtSNLgsajVuteMafaZBTSDEUaQY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": true,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 3000000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 24193.55,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 124,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TEN",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:32:22",
+  "createdAtFirst": "2025-06-16T23:31:27Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-06T15:32:22+02:00",
+  "specialOffer": null,
+  "shortDescription": "Jedyna taka nieruchomość w Trójmieście – apartament w stylu afrykańsko-tropikalnym na prestiżowej, strzeżonej całodobowo Sadybie Orłowskiej po gruntownym remoncie.Cena: 3 998 000 złDo apartamentu przy...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Maxim",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "AIR_CONDITIONING",
+      "weight": 55,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/unikalne-ponad-120m-w-afrykanskim-klimacie-orlowo-styl-chronione-ID4vT6H",
+  "description": "<p><b>Jedyna taka nieruchomość w Trójmieście – apartament w stylu afrykańsko-tropikalnym na prestiżowej, strzeżonej całodobowo Sadybie Orłowskiej po gruntownym remoncie.</b></p><p>Cena: 3 998 000 zł</p><p>Do apartamentu przynależy miejsce postojowe w hali garażowej oraz komórka lokatorska.</p><p></p><p><b><u>LOKALIZACJA:</u></b></p><p>Sadyba Orłowska – unikalna lokalizacja w sercu prestiżowego Orłowa</p><p>Sadyba Orłowska znajduje się w jednej z najbardziej pożądanych i prestiżowych dzielnic Trójmiasta – Orłowie, znanej z kameralnej atmosfery, nadmorskiego klimatu i eleganckiej zabudowy. Osiedle położone jest w bezpośrednim sąsiedztwie zabytkowego parku oraz XVIII-wiecznego zespołu pałacowego, w którym mieści się ekskluzywny hotel Quadrille Relais &amp; Châteaux z restauracją i luksusowym SPA.</p><p>To miejsce, gdzie codzienne życie toczy się w rytmie natury i klasy – poranne spacery po zacienionych alejkach parku, popołudniowa kawa na dziedzińcu historycznego pałacu czy szybki wypad nad morze, oddalone o niecałe 2 kilometry.</p><p>Naprzeciwko osiedla znajduje się lokalny rynek z warzywami i owocami od regionalnych dostawców, a w promieniu kilkuset metrów dostępne są sklepy, apteki, restauracje oraz inne niezbędne punkty usługowe. W najbliższej okolicy nie brakuje również placówek edukacyjnych, medycznych, terenów rekreacyjnych i ścieżek rowerowych prowadzących prosto nad brzeg Bałtyku.</p><p>Świetna komunikacja – przystanek autobusowy znajduje się tuż przy osiedlu, a stacja kolejki SKM Gdynia Orłowo oddalona jest o zaledwie 1 km – pozwala wygodnie dotrzeć do Sopotu, Gdańska czy centrum Gdyni bez potrzeby korzystania z samochodu.</p><p>To wyjątkowa lokalizacja dla osób ceniących zieleń, bliskość morza i tętniące życiem, ale eleganckie otoczenie. Orłowo to nie tylko dzielnica – to styl życia.</p><p></p><p><b><u>BUDYNEK:</u></b></p><p></p><p>Sadyba Orłowska to nowoczesne, kameralne, strzeżone osiedle zaprojektowane z myślą o najwyższych standardach komfortu i estetyki. Projekt architektoniczny harmonijnie łączy współczesną elegancję z ponadczasową funkcjonalnością, wpisując się w spokojny, zielony charakter prestiżowego Orłowa.</p><p>Zabudowa składa się z kilku niskich, trzypiętrowych budynków z windami, otoczonych starannie zaprojektowaną zielenią. Na poziomie podziemnym znajdują się hale garażowe zapewniające wygodny dostęp do mieszkań. Całość osiedla została ogrodzona, a jego bezpieczeństwa strzeże całodobowy monitoring i kontrolowany dostęp.</p><p>Wnętrza apartamentów zostały zaplanowane z myślą o komforcie mieszkańców – jasne, przestronne i funkcjonalne, z dużymi przeszkleniami, które zapewniają naturalne doświetlenie i kontakt z otaczającą zielenią. Wykończenie części wspólnych wykonano z wysokiej jakości materiałów, co podkreśla standard inwestycji.</p><p>Na terenie osiedla znajduje się również plac zabaw, a całość infrastruktury została zaprojektowana z myślą o rodzinach, seniorach oraz osobach prowadzących aktywny tryb życia.</p><p></p><p><b><u>NIERUCHOMOŚĆ:</u></b></p><p></p><p>Nieruchomość znajduje się na ostatnim, trzecim piętrze budynku i oferuje wyjątkowy komfort oraz przestrzeń – zarówno wewnątrz, jak i na zewnątrz. Do apartamentu przynależą aż dwa tarasy, w tym jeden – prywatny – dostępny wyłącznie z głównej sypialni.</p><p>Powierzchnia 120,3 m² została zaplanowana niezwykle funkcjonalnie i obejmuje:</p><ul><li>przestronny salon z częścią wypoczynkową i otwartym kominkiem,</li><li>w pełni wyposażony aneks kuchenny z długim blatem roboczym i barem,</li><li>jadalnię,</li><li>trzy sypialnie,</li><li>dwie łazienki,</li><li>dwa pomieszczenia gospodarcze,</li><li>wygodny, długi przedpokój z licznymi zabudowanymi szafami.</li></ul><p>Apartament został urządzony w egzotycznym, tropikalno-afrykańskim stylu z dominującą paletą bieli, głębokiej zieleni i czerni. Stylowe dodatki, naturalne materiały i wyjątkowe detale dekoracyjne tworzą wnętrze pełne klasy, spokoju i niepowtarzalnego charakteru.</p><p>Główna sypialnia z dużym łóżkiem małżeńskim została odseparowana od reszty mieszkania, zapewniając prywatność. Posiada własny taras oraz dużą, jasną łazienkę z wanną i kabiną prysznicową.</p><p>Dwie pozostałe sypialnie doskonale sprawdzą się jako pokoje dla dzieci, gości lub gabinety do pracy i nauki. Druga łazienka, utrzymana w jasnych, naturalnych tonacjach, oferuje toaletę, umywalkę oraz dostęp do pierwszego pomieszczenia gospodarczego z pralką. Drugie pomieszczenie służy obecnie jako praktyczny schowek z miejscem na deskę do prasowania i sprzęt domowy.</p><p>Pomimo, że osiedle to jest strzeżone przez 24 godziny 7 dni w tygodniu, to nieruchomość została wyposażona w bardzo solidne drzwi oraz system anty- napadowy wraz z wbudowaną ciągłą transmisją na żywo obrazu z przed klatki schodowej do grupy interwencyjnej.</p><p>To zjawiskowe mieszkanie to idealna propozycja dla osób, które pragną połączyć przestrzeń, luksus i tropikalną atmosferę z ciszą oraz zielenią jednej z najbardziej prestiżowych lokalizacji Trójmiasta.</p><p></p><p>Zapraszam na prezentację.</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:42.810Z"
+}

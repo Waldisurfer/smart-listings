@@ -1,0 +1,382 @@
+{
+  "id": 68177338,
+  "title": "OSTATNIA Komfortowa kawalerka z balkonem7m2 z widokiem+komórka w CENIE",
+  "slug": "ostatnia-komfortowa-kawalerka-z-balkonem7m2-z-widokiem-komorka-w-cenie-ID4C42u",
+  "estate": "FLAT",
+  "development": {
+    "id": 54187688,
+    "title": "OSIEDLE PANORAMA Tychy, al. M. Piłsudskiego",
+    "slug": "osiedle-panorama-tychy-al-m-pilsudskiego-ID3FmGY",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "al. marsz. Piłsudskiego",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Tychy",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "śląskie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "slaskie",
+            "fullName": "śląskie",
+            "name": "śląskie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "slaskie/tychy/tychy/tychy",
+            "fullName": "Tychy, śląskie",
+            "name": "Tychy",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "slaskie/tychy/tychy/tychy/osiedle-olga",
+            "fullName": "Osiedle Olga, Tychy, śląskie",
+            "name": "Osiedle Olga",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJtYXd2cjJyNzNxZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Wz49w0fDgTi92nB33IHW-_buvF071yDKjNBzS5eyUfc/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJtYXd2cjJyNzNxZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Wz49w0fDgTi92nB33IHW-_buvF071yDKjNBzS5eyUfc/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1ankwcnJ2dnd4ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ugNO8K9vp0IPk5ePpp3emW5XjloP4Pf-1phZ8sBsRPQ/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1ankwcnJ2dnd4ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ugNO8K9vp0IPk5ePpp3emW5XjloP4Pf-1phZ8sBsRPQ/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV6OGtpaXpkNzNnNy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ST6ZOP8ADQ6pIBQXPDA4GxOJ_onAcR2AimT9KaYCf3Q/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV6OGtpaXpkNzNnNy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ST6ZOP8ADQ6pIBQXPDA4GxOJ_onAcR2AimT9KaYCf3Q/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVpbnZlNmk5Y2dlNjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gUW-gwjqsIoNacFiklZ6LGaISwz9IL3XkpdiOb9G_T0/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVpbnZlNmk5Y2dlNjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gUW-gwjqsIoNacFiklZ6LGaISwz9IL3XkpdiOb9G_T0/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRrMnh0Zmszbm5seS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.GzdQF7VideOJ2bJPrHp9xa7Nvhiz2C4T_c9Q6aCn5yM/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRrMnh0Zmszbm5seS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.GzdQF7VideOJ2bJPrHp9xa7Nvhiz2C4T_c9Q6aCn5yM/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJmODdmY2FrcTg5dy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._fbJpPtyfZnbJPoXfCCq51KVbl6cQ4hnaNT3lLUDkzQ/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJmODdmY2FrcTg5dy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._fbJpPtyfZnbJPoXfCCq51KVbl6cQ4hnaNT3lLUDkzQ/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEzMTZ6dXh0aDF1YTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PkRDFc0kl_KB4oIgTsn147HOKZIQZ8UhlEeeTz2ZsIg/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEzMTZ6dXh0aDF1YTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PkRDFc0kl_KB4oIgTsn147HOKZIQZ8UhlEeeTz2ZsIg/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJjMWxudzJxMHlkNDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fLxNwb7u-oLzSXXtLl2kWFtNlJ7wkZxJGHLgs8oUGRU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJjMWxudzJxMHlkNDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fLxNwb7u-oLzSXXtLl2kWFtNlJ7wkZxJGHLgs8oUGRU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp0b3N1dmg5a2JvaC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UOTibKw2v8javIoPNEUkeq9VfXiHAMuy42ABmoMMwD4/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp0b3N1dmg5a2JvaC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UOTibKw2v8javIoPNEUkeq9VfXiHAMuy42ABmoMMwD4/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYzOTY3cHpsenl4Ny1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NTuooTet8YUJ7fFTQC2C891ekOJqQl6hEXR3vZnIpKA/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImYzOTY3cHpsenl4Ny1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NTuooTet8YUJ7fFTQC2C891ekOJqQl6hEXR3vZnIpKA/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4YXRnbGZ3MmV4YTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XkozbiVvdJ0o60OOtKElpKDCfCqIpddx-oaAlQTd6cw/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY4YXRnbGZ3MmV4YTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XkozbiVvdJ0o60OOtKElpKDCfCqIpddx-oaAlQTd6cw/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNucmg2a2xpYmNlMzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tkjgNvEndiYbpHlPHnlVCJdZGc68FDcsFH7nmBkU_KI/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNucmg2a2xpYmNlMzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tkjgNvEndiYbpHlPHnlVCJdZGc68FDcsFH7nmBkU_KI/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im50ZzIxbmZ2dXhlYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pVtC63jkzMpQ_sbhWNbiRHw95sk9B_rlXJ6l741UJIg/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im50ZzIxbmZ2dXhlYTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pVtC63jkzMpQ_sbhWNbiRHw95sk9B_rlXJ6l741UJIg/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA1NmF5aDV3enhuYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KFa7L7YNZpuodpQ8WUCh3RVlzla-6kxKsUU0vblj-xM/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA1NmF5aDV3enhuYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KFa7L7YNZpuodpQ8WUCh3RVlzla-6kxKsUU0vblj-xM/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlseXN1bmc2MmJmdTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NU1nBT7zVLbbodVcl8vOlHW1YbScwnZPljoM0EzM1iA/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlseXN1bmc2MmJmdTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NU1nBT7zVLbbodVcl8vOlHW1YbScwnZPljoM0EzM1iA/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN0czJjdXJmd3hiZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dGKorZGesAIotwx_BuiQ2AXi-DlkrEGdiYziHOFjrXg/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN0czJjdXJmd3hiZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dGKorZGesAIotwx_BuiQ2AXi-DlkrEGdiYziHOFjrXg/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImViaXRibjdtdHphcTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d2Uqt0BfiZSUY7jO3WRKbRFdT7Y4Ot4X_MDoEChFB9M/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImViaXRibjdtdHphcTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d2Uqt0BfiZSUY7jO3WRKbRFdT7Y4Ot4X_MDoEChFB9M/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh1a3dsbThua2RnbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Rb1iK9C8XoPouC1cMQFJ8HGsNTuFKl_Eeu1a5jSPuZk/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh1a3dsbThua2RnbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Rb1iK9C8XoPouC1cMQFJ8HGsNTuFKl_Eeu1a5jSPuZk/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 18,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 909926,
+      "name": "Akord Sp. z o. o.",
+      "slug": "akord-sp-z-o-o-ID909926",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0NnB5ZXhrYjYwZC1BUEwifQ.FwN1Wfag8p0jqTzjjNmepI_vR1eSiRnv8wzdNoeClsE/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": false,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 9828,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "IN_BUILDING",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 27,
+      "to": 112,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2021-04-30 12:26:06",
+    "createdAtFirst": "2018-06-04T12:31:49Z",
+    "investmentUnitsNumber": 35,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "EIGHTH",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "ONE",
+      "max": "FIVE",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 2,
+      "year": 2026,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": "2021-04-30T12:26:07+02:00",
+    "specialOffer": null,
+    "shortDescription": "KOMFORTOWE I PRZYJAZNE MIEJSCE DO ŻYCIAW ścisłym centrum Tychów realizowana jest nowa jakość na Tyskim rynku deweloperskim, nowoczesna koncepcja architektoniczna Osiedle Panorama – miejsce, wymarzone ...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 54187688,
+  "developmentTitle": "OSIEDLE PANORAMA Tychy, al. M. Piłsudskiego",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/osiedle-panorama-tychy-al-m-pilsudskiego-ID3FmGY",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "al. marsz. Piłsudskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Tychy",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/tychy/tychy/tychy",
+          "fullName": "Tychy, śląskie",
+          "name": "Tychy",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/tychy/tychy/tychy/osiedle-olga",
+          "fullName": "Osiedle Olga, Tychy, śląskie",
+          "name": "Osiedle Olga",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdydjFxYjlsbzFwNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M7A_4XogMMBEPYLUVfC-nlz9VB4kcQG8efJMbIC3cPg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdydjFxYjlsbzFwNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.M7A_4XogMMBEPYLUVfC-nlz9VB4kcQG8efJMbIC3cPg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM2OGptcjQ3MThrejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dNVjbDNl_A0xGEx-n8tKSIdcGr-aQ3tek2HJlsN7hMg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM2OGptcjQ3MThrejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dNVjbDNl_A0xGEx-n8tKSIdcGr-aQ3tek2HJlsN7hMg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFjeDR2bmI2aDVmejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wCtMR8p-YYU-AqPaSOmq3K-E3PUMY5SmRLvBPcx8nhI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFjeDR2bmI2aDVmejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wCtMR8p-YYU-AqPaSOmq3K-E3PUMY5SmRLvBPcx8nhI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 909926,
+    "name": "Akord Sp. z o. o.",
+    "slug": "akord-sp-z-o-o-ID909926",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0NnB5ZXhrYjYwZC1BUEwifQ.FwN1Wfag8p0jqTzjjNmepI_vR1eSiRnv8wzdNoeClsE/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": false,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 356733,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 13091.12,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 27.25,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:31:20",
+  "createdAtFirst": "2026-07-06T15:31:11Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Cena mieszkania A7-K18 wraz z komórka P25 o powierzchni 3,31 m2, wynosi 356.733,00 złotych brutto.Mieszkanie zlokalizowane na nowoczesny kompleks mieszkaniowo usługowy Osiedle PANORAMA.Kawalerka o pow...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Akord",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [
+      {
+        "name": "Akord",
+        "imageURLSmall": "",
+        "phone": "+48605846342",
+        "__typename": "Agent"
+      }
+    ],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/ostatnia-komfortowa-kawalerka-z-balkonem7m2-z-widokiem-komorka-w-cenie-ID4C42u",
+  "description": "<p><b>Cena mieszkania A7-K18 wraz z komórka P25 o powierzchni 3,31 m2, wynosi 356.733,00 złotych brutto.</b></p><p>Mieszkanie zlokalizowane na nowoczesny kompleks mieszkaniowo usługowy Osiedle PANORAMA.</p><p>Kawalerka o powierzchni 27,25 m2 usytuowane na 4 piętrze od strony południowo wschodniej z balkonem o powierzchni 7,46 m2. <b>Tylko cztery mieszkania na piętrze</b>.</p><p>Bardzo słoneczne przestronne mieszkanie, salon z aneksem kuchennym z balkonem, wygodna łazienka.</p><p>Dobrze zaprojektowana przestrzeń mieszkania, sprawia, że jest ono funkcjonalne i wygodne.</p><p>Apartamentowiec składa się z dwóch klatek w każdej nowoczesna winda.</p><p>Dwie klatki – 8 pięter i 4 pietra,</p><p>W części wysokiej na VI piętrze tylko 3 mieszkania, na 7 i 8 dwa mieszkania na piętrze.</p><p>Nowoczesna stylistyka, wysoki standard wykończeń i użytych materiałów, niskie koszty eksploatacji, to główne cechy mieszkań w tej inwestycji. Najnowocześniejsza inwestycja w Tychach!</p><p>Gwarancja jakości poparta ponad 20 letnim doświadczeniem.</p><p>Najwyższy standard, przyjdź i zobacz, jak budujemy!</p><p></p><p>STANDARD MIESZKANIA – Doskonała izolacja cieplna Centyfikat A</p><p>Wykończenie ścian i stropów: tynk gipsowy maszynowy</p><p>Posadzka: wylewka cementowa</p><p>Stolarka zewnętrzna okienna: nowoczesna, energooszczędna, zestaw 3-szybowy, niskoemisyjny,</p><p>Drzwi wejściowe: antywłamaniowe</p><p>Lokal wyposażony w instalacje:</p><p>•elektryczną: zakończoną białym montażem elektrycznym - gniazdkami, gniazdo trójfazowe, plus kabel w kuchni do oświetlenia szafek, wyprowadzone oświetlenie na zewnątrz-balkon</p><p>•wod.-kan.: rozprowadzona,</p><p>•grzewczą: ciepło miejskie, ogrzewanie podłogowe wodne, rozdzielacz bez sterowania, ręczne ustawienie temperatury w skrzynce rozdzielacza - w każdym pomieszczeniu kabel do sterowania (bez sterowników) Dodatkowo oprócz ogrzewania podłogowego (PEC) w łazience, grzejnik elektryczny drabinkowy.</p><p>•teletechniczną: internetowa w każdym pokoju , telewizyjna w salonie, zakończoną gniazdkami</p><p>•wideofonową: zakończona wideofononem</p><p>•wentylacji: hybrydowej - higrosterowalnej</p><p>Balkon: wylewka, barierka/ogródek: ogrodzenie.</p><p>Zdjęcia są zdjęciami poglądowymi.</p><p>Niniejsza oferta ma charakter wyłącznie informacyjny i nie stanowi oferty handlowej w rozumieniu art. 66 § 1 K.C. </p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:57.181Z"
+}

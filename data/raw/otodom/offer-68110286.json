@@ -1,0 +1,172 @@
+{
+  "id": 68110286,
+  "title": "Komfortowe 2 pokoje z ogrodem | Wola",
+  "slug": "komfortowe-2-pokoje-z-ogrodem-wola-ID4BMB0",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Jana Kazimierza",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola",
+          "fullName": "Wola, Warszawa, mazowieckie",
+          "name": "Wola",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wola/odolany",
+          "fullName": "Odolany, Wola, Warszawa, mazowieckie",
+          "name": "Odolany",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRjNjFqNnB2MGNpNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-Zk4ecYumBNA9ybOmhhXP4sQF7Q__MlcuzGbGC_a8sE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRjNjFqNnB2MGNpNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-Zk4ecYumBNA9ybOmhhXP4sQF7Q__MlcuzGbGC_a8sE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR0OTJ2cG1xMWV0NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zaTggIkuZvguviQPsBLTwkKmqfJKSTzDEzURWD86r7g/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR0OTJ2cG1xMWV0NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zaTggIkuZvguviQPsBLTwkKmqfJKSTzDEzURWD86r7g/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJkeDJub3Rha2M0MDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G-5_saJhBKsmxw9MRXDCFfbcowwGl9W95gG3gDcGpnA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJkeDJub3Rha2M0MDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G-5_saJhBKsmxw9MRXDCFfbcowwGl9W95gG3gDcGpnA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 10578105,
+    "name": "Wellhome Real Estate ",
+    "slug": "wellhome-real-estate-ID10578105",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBmYW9sdDYza3lhay1BUEwifQ.4tcgiQow-XT9D2UBfX6TQeYCivELjRMah6wiTEA6Ass/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 4300,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 86,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 50,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:19:22",
+  "createdAtFirst": "2026-06-15T18:14:09Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:19:23+02:00",
+  "specialOffer": null,
+  "shortDescription": "Mamy przyjemność zaprezentować Państwu 2-pokojowe mieszkanie znajdujące się na Woli, przy ul. Jana Kazimierza. Dostępne od 1 lipca 2026 roku.ENGLISH DESCRIPTION BELOW• UKŁAD:Mieszkanie o powierzchni 8...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Maksym Ivanov",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/komfortowe-2-pokoje-z-ogrodem-wola-ID4BMB0",
+  "description": "<p><strong>Mamy przyjemność zaprezentować Państwu 2-pokojowe mieszkanie znajdujące się na Woli, przy ul. Jana Kazimierza. Dostępne od 1 lipca 2026 roku.</strong><br><br><strong>ENGLISH DESCRIPTION BELOW</strong><br><br><strong>• UKŁAD:</strong><br><br>Mieszkanie o powierzchni 80 m² usytuowane jest na parterze budynku i posiada prywatny ogródek.<br><br>Jasny i przestronny salon wyposażony w wygodną kanapę oraz wyjście do ogródka.<br>Nowoczesny aneks kuchenny z pełnym wyposażeniem AGD: lodówka, płyta indukcyjna, piekarnik, okap oraz zmywarka.<br>Sypialnia wyposażona w materac o wymiarach 160x200 cm, dużą szafę w zabudowie oraz miejsce do pracy.<br>Funkcjonalna łazienka z wanną z funkcją prysznica oraz pralko-suszarką.<br>Przedpokój z dużą szafą w zabudowie.<br>Dwupoziomowy ogródek o powierzchni 80 m² z domkiem gospodarczym, zadbaną zielenią i funkcjonalnie zagospodarowaną przestrzenią.<br><br><strong>• LOKALIZACJA</strong><br><br>Mieszkanie znajduje się w doskonale skomunikowanej części warszawskiej Woli.<br><br>Przystanek autobusowy - około 2 minuty pieszo.<br>Przystanek tramwajowy - około 4 minuty pieszo.<br>Centrum Handlowe Arkadia - około 10 minut samochodem.<br>Sklepy i punkty usługowe w bezpośrednim sąsiedztwie: Żabka, Empik, Hebe.<br>Biedronka - około 3 minuty pieszo.<br>Aldi - około 4 minuty pieszo.<br>Park Moczydło - około 20 minut pieszo.<br><br><strong>• UDOGODNIENIA</strong><br><br>Internet w cenie najmu.<br>Mieszkanie w pełni wyposażone i gotowe do zamieszkania.<br>Prywatny ogródek z domkiem gospodarczym.<br>Duża ilość miejsca do przechowywania dzięki zabudowanym szafom.<br><br><strong>• CENA</strong><br><br>Koszt wynajmu to 4 300 zł miesięcznie,<br>dodatkowo płatny czynsz administracyjny w wysokości 600 zł oraz energia elektryczna według zużycia.<br><br>Kaucja: 6 000 zł.<br><br><strong>Numer oferty: 747161</strong><br><br>Zapraszamy do kontaktu z naszym biurem!</p><br/>\n<p><strong>We are pleased to present a 2-room apartment located in Wola district, at Jana Kazimierza Street. Available from July 1st, 2026.</strong><br><br><strong>• LAYOUT:</strong><br><br>The apartment has an area of 80 m² and is situated on the ground floor of a residential building with a private garden.<br><br>Bright and spacious living room furnished with a comfortable sofa and direct access to the garden.<br>Modern open-plan kitchen equipped with all necessary household appliances: refrigerator, induction hob, oven, extractor hood, and dishwasher.<br>Bedroom furnished with a 160x200 cm mattress, a large built-in wardrobe, and a dedicated workspace.<br>Functional bathroom equipped with a bathtub with shower function and a washer-dryer.<br>Entrance hall with a spacious built-in wardrobe.<br>Private two-level garden of 80 m² with a storage shed, beautifully maintained greenery, and a well-designed outdoor space.<br><br><strong>• LOCATION</strong><br><br>The apartment is located in a well-connected part of Warsaw's Wola district, offering easy access to public transportation and a wide range of retail and service amenities.<br><br>Bus stop - approximately 2 minutes on foot.<br>Tram stop - approximately 4 minutes on foot.<br>Arkadia Shopping Centre - approximately 10 minutes by car.<br>Convenience stores and services directly below the building, including Żabka, Empik, and Hebe.<br>Biedronka supermarket - approximately 3 minutes on foot.<br>Aldi supermarket - approximately 4 minutes on foot.<br>Moczydło Park - approximately 20 minutes on foot, perfect for recreation and relaxation.<br><br><strong>• AMENITIES</strong><br><br>Internet included in the rental price.<br>Fully furnished and ready to move in.<br>Private garden with a storage shed.<br>Plenty of storage space thanks to built-in wardrobes.<br><br><strong>• PRICE</strong><br><br>Monthly rent: PLN 4,300<br><br>Administrative fee: PLN 600<br><br>Electricity charged according to consumption.<br><br>Security deposit: PLN 6,000 (refundable).<br><br><strong>Offer number: 747161</strong><br><br>Feel free to contact our office for more information or to arrange a viewing!</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:36.250Z"
+}

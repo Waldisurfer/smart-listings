@@ -1,0 +1,169 @@
+{
+  "id": 67734894,
+  "title": "2 pokoje, klima, Piotrkowska Centrum",
+  "slug": "2-pokoje-klima-piotrkowska-centrum-ID4AcVi",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Piotrkowska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Łódź",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "łódzkie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "lodzkie",
+          "fullName": "łódzkie",
+          "name": "łódzkie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lodzkie/lodz/lodz/lodz",
+          "fullName": "Łódź, łódzkie",
+          "name": "Łódź",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lodzkie/lodz/lodz/lodz/srodmiescie",
+          "fullName": "Śródmieście, Łódź, łódzkie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lodzkie/lodz/lodz/lodz/srodmiescie/centrum",
+          "fullName": "Centrum, Śródmieście, Łódź, łódzkie",
+          "name": "Centrum",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5jZmg4YTVlM3pvMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ace8-8MmhBbyNhxb1fOS1kYJYFUk0BwFMnk15kx6mbI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5jZmg4YTVlM3pvMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ace8-8MmhBbyNhxb1fOS1kYJYFUk0BwFMnk15kx6mbI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR1YjFiMDBndXE0Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.C_itGzp20JUMG9Nl1Ccb07DVKDeuUYGQbCcrwwizQBE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR1YjFiMDBndXE0Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.C_itGzp20JUMG9Nl1Ccb07DVKDeuUYGQbCcrwwizQBE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNiOGlpNDlkMmVoNDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.be878fj-eSdHJclz3uosYGEtqF51EIMByyaec00UT5E/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNiOGlpNDlkMmVoNDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.be878fj-eSdHJclz3uosYGEtqF51EIMByyaec00UT5E/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 108495,
+    "name": "REMAX Polska - Międzynarodowa Sieć Biur Nieruchomości",
+    "slug": "remax-polska-miedzynarodowa-siec-biur-nieruchomosci-ID108495",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRxdDMxdHNoc3h6NS1BUEwifQ.ngs6UTAgBwBrdqAw_9KnzpEhNPROPjaoZ1fv4EXPS9M/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2450,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 825,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 52.92,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 46.3,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-21 06:25:36",
+  "createdAtFirst": "2026-02-21T06:25:26Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Oferujemy do wynajęcia komfortowy, w pełni umeblowany apartament o powierzchni 46,3 m², położony na 3. piętrze budynku PANORAMA z 2020 roku przy ulicy Piotrkowskiej, w samym sercu Łodzi.Lokalizacja:Na...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Małgorzata Arkuszyńska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQyb3FxMDdwN2E1MjMtQVBMIn0.mHeVkCBOiKyN4zJJkZeO1c-u6ZzgWhebVvU18yVTX6s/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/2-pokoje-klima-piotrkowska-centrum-ID4AcVi",
+  "description": "<p>Oferujemy do wynajęcia komfortowy, w pełni umeblowany apartament o powierzchni 46,3 m², położony na 3. piętrze budynku PANORAMA z 2020 roku przy ulicy Piotrkowskiej, w samym sercu Łodzi.<br/><br/>Lokalizacja:<br/>Najemca ma zapewnioną doskonałą komunikację  w pobliżu przystanki autobusowe i tramwajowe oraz centrum przesiadkowe tak zwana Stajnia jednorożców. W okolicy Najemca znajdzie wszystko, co potrzebne na co dzień: galerię handlową, sklepy, bank, aptekę, restauracje, szkoły, przedszkola, żłobek, uczelnię, przychodnię lekarską oraz liczne miejsca rekreacji, takie jak park, basen, kort tenisowy, hala sportowa, plac zabaw i kina . Na parterze budynku można zjeść pyszne śniadanie lub kupić świeże, pachnące pieczywo.<br/><br/>Opis mieszkania:<br/>Apartament  z nowoczesnym wykończeniem i wyposażeniem. Okna aluminiowe wychodzą na zachód, dzięki czemu mieszkanie jest jasne i słoneczne. Wysokość pomieszczeń wynosi 2,7 m, co dodatkowo podkreśla przestronność wnętrza.<br/><br/>Mieszkanie składa się z salonu z aneksem kuchennym i sypialni. Kuchnia jest w pełni wyposażona: meble w zabudowie, lodówka, zmywarka, okap, piekarnik, mikrofalówka oraz zlewozmywak. Podłogi wyłożono panelami i terakotą.<br/><br/>Łazienka wyposażona jest w wannę, prysznic, pralkę, WC, umywalkę oraz grzejnik drabinkowy. Do mieszkania przynależy balkon francuski.<br/><br/>Udogodnienia i bezpieczeństwo:<br/>W budynku znajduje się winda, monitoring i domofon, co zapewnia wygodę i bezpieczeństwo. Drzwi wejściowe antywłamaniowe, ogrzewanie miejskie oraz ciepła woda z wodociągu miejskiego gwarantują komfort użytkowania. Mieszkanie wyposażone jest w klimatyzację. W budynku  jest dostępna sieć internetowa oraz telewizja kablowa.<br/><br/>Miejsce postojowe:<br/>Nowoczesne rozwiązanie parkowania  na platformie parkingowej  jest idealnym rozwiązanie dla osób posiadających samochód.<br/><br/>Dodatkowe koszty wynajmu oprócz opłaty dla właściciela<br/>-zaliczki do Wspólnoty Mieszkaniowej  w wysokości 825 zł<br/>-miejsce parkingowe na platformie w wysokości 300 zł<br/>-energia elektryczna płatna wg faktur za faktyczne  zużycie.<br/><br/>Wymagana jest kaucja w wysokości 6000 zł. Umowa najmu okazjonalnego.<br/><br/>To wyjątkowa oferta dla osób ceniących wygodę mieszkania w centrum miasta, z łatwym dostępem do wszystkich udogodnień i świetną komunikacją. Idealne dla singla lub  pary. Świetna oferta dla osób pracujących w centrum Łodzi.<br/><br/>Zadzwoń, aby umówić się na oglądanie i przekonaj się na własne oczy o atrakcyjności tego apartamentu!<br/><br/>Podane wymiary pomieszczeń mogą różnić się nieznacznie od rzeczywistych.<br/></p><p></p><p>W przypadku tej oferty wynagrodzenie naszego biura pokrywa właściciel nieruchomości. <br/>Opis oferty zawarty na stronie internetowej sporządzany jest na podstawie oględzin nieruchomości oraz informacji uzyskanych od właściciela, może podlegać aktualizacji i nie stanowi oferty określonej w art. 66 i następnych K.C.</p><p>Oferta wysłana z programu dla biur nieruchomości ASARI CRM ()</p><p></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:13.353Z"
+}

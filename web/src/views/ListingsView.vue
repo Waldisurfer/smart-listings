@@ -1,13 +1,14 @@
 <script setup lang="ts">
 import { computed, nextTick, onMounted, reactive, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import { fetchListings, type Listing, type ListingFilters } from '../api/client';
+import { fetchCities, fetchListings, type Listing, type ListingFilters } from '../api/client';
 import ChatSearch, { type IntentResponse } from '../components/ChatSearch.vue';
 import ListingCard from '../components/ListingCard.vue';
 
 const PAGE_SIZE = 20;
 const DEBOUNCE_MS = 300;
-const CITIES = ['Kraków', 'Warszawa']; // the scraped snapshot's cities
+// The nationwide sample's cities aren't known ahead of time — load them from the API.
+const cities = ref<string[]>([]);
 
 const route = useRoute();
 const router = useRouter();
@@ -119,7 +120,12 @@ watch(
   },
 );
 
-onMounted(load);
+onMounted(() => {
+  load();
+  fetchCities()
+    .then((list) => (cities.value = list))
+    .catch(() => (cities.value = [])); // filter still works by typing/URL if this fails
+});
 </script>
 
 <template>
@@ -154,7 +160,7 @@ onMounted(load);
       </div>
       <select v-model="filters.city" aria-label="City">
         <option value="">All cities</option>
-        <option v-for="c in CITIES" :key="c" :value="c">{{ c }}</option>
+        <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
       </select>
       <input v-model="filters.minPrice" type="number" min="0" placeholder="Min zł" aria-label="Min price" />
       <input v-model="filters.maxPrice" type="number" min="0" placeholder="Max zł" aria-label="Max price" />

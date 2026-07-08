@@ -20,9 +20,12 @@ afterAll(async () => {
   await pool.end();
 });
 
-test('seed loads the full committed dataset', async () => {
+test('seed loads a ~100-listing dataset with consistent counts', async () => {
   const stats = await seed();
-  expect(stats.total).toBe(108);
+  // "~100" — a random sample lands in this band; a wildly different count would
+  // signal a scrape/seed regression rather than normal variation.
+  expect(stats.total).toBeGreaterThanOrEqual(90);
+  expect(stats.total).toBeLessThanOrEqual(120);
   expect(stats.otodom + stats.olx).toBe(stats.total);
   expect(stats.sale + stats.rent).toBe(stats.total);
   // flag-never-drop: incomplete offers (e.g. investment adverts) are kept and
@@ -39,12 +42,12 @@ test('re-seeding is idempotent — same rows, same flags', async () => {
   const [[row]] = (await pool.query('SELECT COUNT(*) AS n FROM listings')) as unknown as [
     Array<{ n: number }>,
   ];
-  expect(Number(row.n)).toBe(108);
+  expect(Number(row.n)).toBe(first.total);
 });
 
-test('a known offer round-trips into the DB', async () => {
+test('a seeded offer round-trips with a valid offer type', async () => {
   const [[row]] = (await pool.query(
-    "SELECT offer_type FROM listings WHERE source = 'otodom' AND source_id = '48461764'",
+    "SELECT offer_type FROM listings WHERE source = 'otodom' LIMIT 1",
   )) as unknown as [Array<{ offer_type: string }>];
-  expect(row?.offer_type).toBe('rent');
+  expect(['sale', 'rent']).toContain(row?.offer_type);
 });

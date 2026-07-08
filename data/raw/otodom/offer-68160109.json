@@ -1,0 +1,1521 @@
+{
+  "id": 68160109,
+  "title": "Moje Zabłocie",
+  "slug": "moje-zablocie-ID4BZyB",
+  "estate": "INVESTMENT",
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Ślusarska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze",
+          "fullName": "Podgórze, Kraków, małopolskie",
+          "name": "Podgórze",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+          "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+          "name": "Zabłocie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 7,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "agency": {
+    "id": 11892815,
+    "name": "Moje Zabłocie Sp. z o. o.",
+    "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+    "imageUrl": null,
+    "type": "DEVELOPER",
+    "brandingVisible": false,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": null,
+  "rentPrice": null,
+  "priceFromPerSquareMeter": {
+    "value": 21659,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "pricePerSquareMeter": null,
+  "areaInSquareMeters": null,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": null,
+  "hidePrice": false,
+  "floorNumber": null,
+  "investmentState": "IN_BUILDING",
+  "investmentUnitsAreaInSquareMeters": {
+    "from": 26.05,
+    "to": 102.75,
+    "__typename": "InvestmentUnitsArea"
+  },
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-01 10:01:39",
+  "createdAtFirst": "2026-07-01T10:01:37Z",
+  "investmentUnitsNumber": 68,
+  "investmentUnitsFloorsRange": {
+    "min": "FIRST",
+    "max": "SEVENTH",
+    "__typename": "InvestmentUnitsFloorsRange"
+  },
+  "investmentUnitsRoomsNumber": {
+    "min": "ONE",
+    "max": "FOUR",
+    "__typename": "InvestmentUnitsRoomsNumber"
+  },
+  "investmentEstimatedDelivery": {
+    "quarter": 1,
+    "year": 2028,
+    "__typename": "InvestmentEstimatedDelivery"
+  },
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Moje Zabłocie to kolejna, najnowsza inwestycja deweloperska Spółki Portfel Inwestycyjny zlokalizowana przy ul. Ślusarskiej 7 w Krakowie tuż obok Muzeum Sztuki nowoczesnej MOCAK i Fabryki Schindlera.Po...",
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "relatedAds": [
+    {
+      "id": 68173407,
+      "title": "Zabłocie, nowe, loggia, winda, klimatyzacja, garaż podziemny",
+      "slug": "zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C315",
+      "estate": "FLAT",
+      "development": {
+        "id": 68160109,
+        "title": "Moje Zabłocie",
+        "slug": "moje-zablocie-ID4BZyB",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "ul. Ślusarska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze",
+                "fullName": "Podgórze, Kraków, małopolskie",
+                "name": "Podgórze",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+                "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+                "name": "Zabłocie",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 7,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11892815,
+          "name": "Moje Zabłocie Sp. z o. o.",
+          "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+          "imageUrl": null,
+          "type": "DEVELOPER",
+          "brandingVisible": false,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 21659,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 26.05,
+          "to": 102.75,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-07-01 10:01:39",
+        "createdAtFirst": "2026-07-01T10:01:37Z",
+        "investmentUnitsNumber": 68,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "SEVENTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 1,
+          "year": 2028,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "Moje Zabłocie to kolejna, najnowsza inwestycja deweloperska Spółki Portfel Inwestycyjny zlokalizowana przy ul. Ślusarskiej 7 w Krakowie tuż obok Muzeum Sztuki nowoczesnej MOCAK i Fabryki Schindlera.Po...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 68160109,
+      "developmentTitle": "Moje Zabłocie",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/moje-zablocie-ID4BZyB",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "ul. Ślusarska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze",
+              "fullName": "Podgórze, Kraków, małopolskie",
+              "name": "Podgórze",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+              "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+              "name": "Zabłocie",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ0cGV5b28wZTdzbC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0gSwAzpW4HmpR3bJ_hRYOVU7VGvX2XOtuOymnaGpC0s/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQ0cGV5b28wZTdzbC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0gSwAzpW4HmpR3bJ_hRYOVU7VGvX2XOtuOymnaGpC0s/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZydjVwMW1ueWdpNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c4w9OfK3uM_3K_gCF0SiH7wJRjy0rR9bIIwnpKT-wkA/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZydjVwMW1ueWdpNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.c4w9OfK3uM_3K_gCF0SiH7wJRjy0rR9bIIwnpKT-wkA/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 7,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:site:local",
+      "agency": {
+        "id": 11892815,
+        "name": "Moje Zabłocie Sp. z o. o.",
+        "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+        "imageUrl": null,
+        "type": "DEVELOPER",
+        "brandingVisible": false,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 625584.71,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 22906.8,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 27.31,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "ONE",
+      "hidePrice": false,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-05 13:00:00",
+      "createdAtFirst": "2026-07-05T12:59:54Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": null,
+      "specialOffer": null,
+      "shortDescription": "Lokal mieszkalny w inwestycji Moje Zabłocie położony na 2 piętrze nowego budynku z windą przy ul. Ślusarskiej 7 w Krakowie.Miejsca postojowe w garażu podziemnym na podwójnych platformach niezależnych ...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Marek Kubacki",
+        "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+        "contacts": [
+          {
+            "name": "Marek Kubacki",
+            "imageURLSmall": "",
+            "phone": "+48601213179",
+            "__typename": "Agent"
+          }
+        ],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "AIR_CONDITIONING",
+          "weight": 55,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BASEMENT",
+          "weight": 25,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C315"
+    },
+    {
+      "id": 68173405,
+      "title": "Zabłocie, nowe, loggia, winda, klimatyzacja, garaż podziemny",
+      "slug": "zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C313",
+      "estate": "FLAT",
+      "development": {
+        "id": 68160109,
+        "title": "Moje Zabłocie",
+        "slug": "moje-zablocie-ID4BZyB",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "ul. Ślusarska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze",
+                "fullName": "Podgórze, Kraków, małopolskie",
+                "name": "Podgórze",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+                "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+                "name": "Zabłocie",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 7,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11892815,
+          "name": "Moje Zabłocie Sp. z o. o.",
+          "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+          "imageUrl": null,
+          "type": "DEVELOPER",
+          "brandingVisible": false,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 21659,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 26.05,
+          "to": 102.75,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-07-01 10:01:39",
+        "createdAtFirst": "2026-07-01T10:01:37Z",
+        "investmentUnitsNumber": 68,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "SEVENTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 1,
+          "year": 2028,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "Moje Zabłocie to kolejna, najnowsza inwestycja deweloperska Spółki Portfel Inwestycyjny zlokalizowana przy ul. Ślusarskiej 7 w Krakowie tuż obok Muzeum Sztuki nowoczesnej MOCAK i Fabryki Schindlera.Po...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 68160109,
+      "developmentTitle": "Moje Zabłocie",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/moje-zablocie-ID4BZyB",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "ul. Ślusarska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze",
+              "fullName": "Podgórze, Kraków, małopolskie",
+              "name": "Podgórze",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+              "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+              "name": "Zabłocie",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53N3VsaDE4MGpvZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y33RL456BMaIg6O79fXXD3UeiNbysS0c3NHXbSrdWow/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im53N3VsaDE4MGpvZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Y33RL456BMaIg6O79fXXD3UeiNbysS0c3NHXbSrdWow/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5czZ0ZTk3cXBrbDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s_J6_OpwYI-hPYwbtkA6tNTxqOg9aOKDKZtuytZjrOo/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5czZ0ZTk3cXBrbDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s_J6_OpwYI-hPYwbtkA6tNTxqOg9aOKDKZtuytZjrOo/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 7,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:site:local",
+      "agency": {
+        "id": 11892815,
+        "name": "Moje Zabłocie Sp. z o. o.",
+        "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+        "imageUrl": null,
+        "type": "DEVELOPER",
+        "brandingVisible": false,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 596722.14,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 22906.8,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 26.05,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "ONE",
+      "hidePrice": false,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-05 12:58:39",
+      "createdAtFirst": "2026-07-05T12:58:35Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": null,
+      "specialOffer": null,
+      "shortDescription": "Lokal mieszkalny w inwestycji Moje Zabłocie położony na 2 piętrze nowego budynku z windą przy ul. Ślusarskiej 7 w Krakowie.Miejsca postojowe w garażu podziemnym na podwójnych platformach niezależnych ...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Marek Kubacki",
+        "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+        "contacts": [
+          {
+            "name": "Marek Kubacki",
+            "imageURLSmall": "",
+            "phone": "+48601213179",
+            "__typename": "Agent"
+          }
+        ],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "AIR_CONDITIONING",
+          "weight": 55,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BASEMENT",
+          "weight": 25,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C313"
+    },
+    {
+      "id": 68173402,
+      "title": "Zabłocie, nowe, loggia, winda, klimatyzacja, garaż podziemny",
+      "slug": "zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C310",
+      "estate": "FLAT",
+      "development": {
+        "id": 68160109,
+        "title": "Moje Zabłocie",
+        "slug": "moje-zablocie-ID4BZyB",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "ul. Ślusarska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze",
+                "fullName": "Podgórze, Kraków, małopolskie",
+                "name": "Podgórze",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+                "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+                "name": "Zabłocie",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 7,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11892815,
+          "name": "Moje Zabłocie Sp. z o. o.",
+          "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+          "imageUrl": null,
+          "type": "DEVELOPER",
+          "brandingVisible": false,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 21659,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 26.05,
+          "to": 102.75,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-07-01 10:01:39",
+        "createdAtFirst": "2026-07-01T10:01:37Z",
+        "investmentUnitsNumber": 68,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "SEVENTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 1,
+          "year": 2028,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "Moje Zabłocie to kolejna, najnowsza inwestycja deweloperska Spółki Portfel Inwestycyjny zlokalizowana przy ul. Ślusarskiej 7 w Krakowie tuż obok Muzeum Sztuki nowoczesnej MOCAK i Fabryki Schindlera.Po...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 68160109,
+      "developmentTitle": "Moje Zabłocie",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/moje-zablocie-ID4BZyB",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "ul. Ślusarska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze",
+              "fullName": "Podgórze, Kraków, małopolskie",
+              "name": "Podgórze",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+              "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+              "name": "Zabłocie",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhqem5vbW9yYjRxbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.df8OQqiffrEnr_M2C4481tLY0O3T-O7EMrqRyQBAqQ8/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhqem5vbW9yYjRxbTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.df8OQqiffrEnr_M2C4481tLY0O3T-O7EMrqRyQBAqQ8/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQwOG5xZmt6a2Z2MTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jLAoZPHEOSxunooKuQTiOdq3fw4F4AVDEuc-Pcgb524/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQwOG5xZmt6a2Z2MTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jLAoZPHEOSxunooKuQTiOdq3fw4F4AVDEuc-Pcgb524/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 7,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:site:local",
+      "agency": {
+        "id": 11892815,
+        "name": "Moje Zabłocie Sp. z o. o.",
+        "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+        "imageUrl": null,
+        "type": "DEVELOPER",
+        "brandingVisible": false,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 894533.22,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 21659.4,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 41.3,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "ONE",
+      "hidePrice": false,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-05 12:56:56",
+      "createdAtFirst": "2026-07-05T12:56:50Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": null,
+      "specialOffer": null,
+      "shortDescription": "Lokal mieszkalny w inwestycji Moje Zabłocie położony na 2 piętrze nowego budynku z windą przy ul. Ślusarskiej 7 w Krakowie. Z uwagi na układ okien można wydzielić osobną sypialnię przez wstawienie ści...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Marek Kubacki",
+        "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+        "contacts": [
+          {
+            "name": "Marek Kubacki",
+            "imageURLSmall": "",
+            "phone": "+48601213179",
+            "__typename": "Agent"
+          }
+        ],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "AIR_CONDITIONING",
+          "weight": 55,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BASEMENT",
+          "weight": 25,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C310"
+    },
+    {
+      "id": 68173398,
+      "title": "Zabłocie, nowe, loggia, winda, klimatyzacja, garaż podziemny",
+      "slug": "zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C30V",
+      "estate": "FLAT",
+      "development": {
+        "id": 68160109,
+        "title": "Moje Zabłocie",
+        "slug": "moje-zablocie-ID4BZyB",
+        "estate": "INVESTMENT",
+        "developmentId": 0,
+        "developmentTitle": "",
+        "developmentUrl": "",
+        "transaction": "SELL",
+        "location": {
+          "mapDetails": {
+            "radius": 0,
+            "__typename": "MapDetails"
+          },
+          "address": {
+            "street": {
+              "name": "ul. Ślusarska",
+              "number": "",
+              "__typename": "Street"
+            },
+            "city": {
+              "name": "Kraków",
+              "__typename": "City"
+            },
+            "province": {
+              "name": "małopolskie",
+              "__typename": "Province"
+            },
+            "__typename": "Address"
+          },
+          "reverseGeocoding": {
+            "locations": [
+              {
+                "id": "malopolskie",
+                "fullName": "małopolskie",
+                "name": "małopolskie",
+                "locationLevel": "voivodeship",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow",
+                "fullName": "Kraków, małopolskie",
+                "name": "Kraków",
+                "locationLevel": "city_or_village",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze",
+                "fullName": "Podgórze, Kraków, małopolskie",
+                "name": "Podgórze",
+                "locationLevel": "district",
+                "__typename": "BasicLocationObject"
+              },
+              {
+                "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+                "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+                "name": "Zabłocie",
+                "locationLevel": "residential",
+                "__typename": "BasicLocationObject"
+              }
+            ],
+            "__typename": "ReverseGeocoding"
+          },
+          "__typename": "LocationDetails"
+        },
+        "images": [
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjcTRkN2lxdnVnNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPDgcM3ltE4yuP9oPJ9BuJNF9GDojqNzT3AHTC_lLws/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ3dHBxM3VjczRnMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3WwqEAHaDfU-cTYvDIaAMzGn3eRBjbkhjh7-iihWR4/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNobWIzYnlkc3VobS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0q9FYllMMbsqMrIrNgKVDEBxn6dBkhfUlxD_TOJCfuA/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijd5cWlwMDZyNmM1YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GW7c0t8M4DClH6_THKlCVV1AhP40_KJHs5qXXopStY8/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ3MWR2aGVyaXFuZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._V5CfVCZ7Z3fBkL3ckm1Ld92y-hf0q1LUa1_dogJLbI/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          },
+          {
+            "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=655x491;q=80",
+            "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5YmIzZmN2Y2I5cjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5khKBOCqU-bYiUizzEK5E2IYbgzzFIaOPupGvIbMu0c/image;s=1280x1024;q=80",
+            "__typename": "AdImage"
+          }
+        ],
+        "totalPossibleImages": 7,
+        "isExclusiveOffer": false,
+        "isPrivateOwner": false,
+        "isPromoted": false,
+        "agency": {
+          "id": 11892815,
+          "name": "Moje Zabłocie Sp. z o. o.",
+          "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+          "imageUrl": null,
+          "type": "DEVELOPER",
+          "brandingVisible": false,
+          "highlightedAds": false,
+          "enhancedBrandingFeatures": [
+            "ENHANCED_BRANDING_SELLER_TYPE"
+          ],
+          "__typename": "AgencyListingDetails"
+        },
+        "openDays": "",
+        "totalPrice": null,
+        "rentPrice": null,
+        "priceFromPerSquareMeter": {
+          "value": 21659,
+          "currency": "PLN",
+          "__typename": "Money"
+        },
+        "pricePerSquareMeter": null,
+        "areaInSquareMeters": null,
+        "terrainAreaInSquareMeters": null,
+        "roomsNumber": null,
+        "hidePrice": false,
+        "floorNumber": null,
+        "investmentState": "IN_BUILDING",
+        "investmentUnitsAreaInSquareMeters": {
+          "from": 26.05,
+          "to": 102.75,
+          "__typename": "InvestmentUnitsArea"
+        },
+        "peoplePerRoom": null,
+        "dateCreated": "2026-07-01 10:01:39",
+        "createdAtFirst": "2026-07-01T10:01:37Z",
+        "investmentUnitsNumber": 68,
+        "investmentUnitsFloorsRange": {
+          "min": "FIRST",
+          "max": "SEVENTH",
+          "__typename": "InvestmentUnitsFloorsRange"
+        },
+        "investmentUnitsRoomsNumber": {
+          "min": "ONE",
+          "max": "FOUR",
+          "__typename": "InvestmentUnitsRoomsNumber"
+        },
+        "investmentEstimatedDelivery": {
+          "quarter": 1,
+          "year": 2028,
+          "__typename": "InvestmentEstimatedDelivery"
+        },
+        "pushedUpAt": null,
+        "specialOffer": null,
+        "shortDescription": "Moje Zabłocie to kolejna, najnowsza inwestycja deweloperska Spółki Portfel Inwestycyjny zlokalizowana przy ul. Ślusarskiej 7 w Krakowie tuż obok Muzeum Sztuki nowoczesnej MOCAK i Fabryki Schindlera.Po...",
+        "tags": [],
+        "__typename": "AdvertListItem"
+      },
+      "developmentId": 68160109,
+      "developmentTitle": "Moje Zabłocie",
+      "developmentUrl": "https://www.otodom.pl/pl/oferta/moje-zablocie-ID4BZyB",
+      "transaction": "SELL",
+      "location": {
+        "mapDetails": {
+          "radius": 0,
+          "__typename": "MapDetails"
+        },
+        "address": {
+          "street": {
+            "name": "ul. Ślusarska",
+            "number": "",
+            "__typename": "Street"
+          },
+          "city": {
+            "name": "Kraków",
+            "__typename": "City"
+          },
+          "province": {
+            "name": "małopolskie",
+            "__typename": "Province"
+          },
+          "__typename": "Address"
+        },
+        "reverseGeocoding": {
+          "locations": [
+            {
+              "id": "malopolskie",
+              "fullName": "małopolskie",
+              "name": "małopolskie",
+              "locationLevel": "voivodeship",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow",
+              "fullName": "Kraków, małopolskie",
+              "name": "Kraków",
+              "locationLevel": "city_or_village",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze",
+              "fullName": "Podgórze, Kraków, małopolskie",
+              "name": "Podgórze",
+              "locationLevel": "district",
+              "__typename": "BasicLocationObject"
+            },
+            {
+              "id": "malopolskie/krakow/krakow/krakow/podgorze/zablocie",
+              "fullName": "Zabłocie, Podgórze, Kraków, małopolskie",
+              "name": "Zabłocie",
+              "locationLevel": "residential",
+              "__typename": "BasicLocationObject"
+            }
+          ],
+          "__typename": "ReverseGeocoding"
+        },
+        "__typename": "LocationDetails"
+      },
+      "images": [
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVzdG5sazZvejU3ci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Q695t1BH1vS8C9_V5eLCRN6EzY7rKaYROo97RlRriCg/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVzdG5sazZvejU3ci1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Q695t1BH1vS8C9_V5eLCRN6EzY7rKaYROo97RlRriCg/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5uMWxpbGt5djg2bzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5KhPHAZ425robWPqSa9JWj-_EJFn62LnJAXoXlCFiI0/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5uMWxpbGt5djg2bzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5KhPHAZ425robWPqSa9JWj-_EJFn62LnJAXoXlCFiI0/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        },
+        {
+          "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=655x491;q=80",
+          "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE5YWt5dXN5MThwODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Czq89d52xvlz8xm619pM5AuIGrYPWhjj-dCIcvyvoZQ/image;s=1280x1024;q=80",
+          "__typename": "AdImage"
+        }
+      ],
+      "totalPossibleImages": 7,
+      "isExclusiveOffer": false,
+      "isPrivateOwner": false,
+      "isPromoted": false,
+      "source": "urn:site:local",
+      "agency": {
+        "id": 11892815,
+        "name": "Moje Zabłocie Sp. z o. o.",
+        "slug": "moje-zablocie-sp-z-o-o-ID11892815",
+        "imageUrl": null,
+        "type": "DEVELOPER",
+        "brandingVisible": false,
+        "highlightedAds": false,
+        "enhancedBrandingFeatures": [
+          "ENHANCED_BRANDING_SELLER_TYPE"
+        ],
+        "__typename": "AgencyListingDetails"
+      },
+      "openDays": "",
+      "totalPrice": {
+        "value": 993516.68,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "rentPrice": null,
+      "priceFromPerSquareMeter": null,
+      "pricePerSquareMeter": {
+        "value": 21659.4,
+        "currency": "PLN",
+        "__typename": "Money"
+      },
+      "areaInSquareMeters": 45.87,
+      "terrainAreaInSquareMeters": null,
+      "roomsNumber": "ONE",
+      "hidePrice": false,
+      "floorNumber": "SECOND",
+      "investmentState": null,
+      "investmentUnitsAreaInSquareMeters": null,
+      "peoplePerRoom": null,
+      "dateCreated": "2026-07-05 12:55:14",
+      "createdAtFirst": "2026-07-05T12:55:02Z",
+      "investmentUnitsNumber": null,
+      "investmentUnitsRoomsNumber": null,
+      "investmentEstimatedDelivery": null,
+      "pushedUpAt": null,
+      "specialOffer": null,
+      "shortDescription": "Lokal mieszkalny w inwestycji Moje Zabłocie położony na 2 piętrze nowego budynku z windą przy ul. Ślusarskiej 7 w Krakowie. Z uwagi na układ okien można wydzielić osobną sypialnię przez wstawienie ści...",
+      "showPremiumTile": false,
+      "organisationAssignedMember": null,
+      "advertOwner": {
+        "name": "Marek Kubacki",
+        "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+        "contacts": [
+          {
+            "name": "Marek Kubacki",
+            "imageURLSmall": "",
+            "phone": "+48601213179",
+            "__typename": "Agent"
+          }
+        ],
+        "__typename": "LegacyAdvertOwner"
+      },
+      "tags": [
+        {
+          "value": "AIR_CONDITIONING",
+          "weight": 55,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BALCONY",
+          "weight": 35,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "BASEMENT",
+          "weight": 25,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "PARKING_SPOT",
+          "weight": 15,
+          "__typename": "AdvertListItemTag"
+        },
+        {
+          "value": "SECURE_BUILDING",
+          "weight": 10,
+          "__typename": "AdvertListItemTag"
+        }
+      ],
+      "__typename": "AdvertListItem",
+      "href": "[lang]/ad/zablocie-nowe-loggia-winda-klimatyzacja-garaz-podziemny-ID4C30V"
+    }
+  ],
+  "description": "<p><b>Moje Zabłocie</b> to kolejna, najnowsza inwestycja deweloperska Spółki <b>Portfel Inwestycyjny</b> zlokalizowana przy ul. Ślusarskiej 7 w Krakowie tuż <b>obok</b> Muzeum Sztuki nowoczesnej <b>MOCAK</b> i <b>Fabryki Schindlera</b>.</p><p>Po realizacjach budynków Wawrzyńca 21, Nadwiślańska 1, 3 i 7, Starowiślna 36, 41 i 43, Poznańska 3, Mostowa 6, Czapskich 1, Krupnicza 10, Rajska 3 i innych, proponujemy następną ciekawą lokalizację.</p><p><b>Nowy,</b> piękny, <b>7-piętrowy budynek</b> zaprojektowany przez Biuro Projektów Lewicki Łatak, mieści <b>68 lokali mieszkalnych</b> na piętrach od 1 do 7 i <b>6 lokali usługowych</b> na parterze. Na dwóch kondygnacjach podziemnych znajduje się <b>garaż podziemny</b> z miejscami postojowymi i <b>komórkami lokatorskimi</b>. Dwie klatki schodowe są wyposażone w <b>windy</b>, w apartamentach przewidziano <b>tarasy</b>, <b>tarasy zielone</b>, <b>balkony</b>, <b>loggie</b>, instalację <b>klimatyzacji</b>.</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:29.875Z"
+}

@@ -1,0 +1,165 @@
+{
+  "id": 64879153,
+  "title": "Sopot – nowoczesny , znakomita lokalizacja",
+  "slug": "sopot-nowoczesny-znakomita-lokalizacja-ID4oe1X",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Fryderyka Chopina",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Sopot",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "pomorskie",
+          "fullName": "pomorskie",
+          "name": "pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/sopot/sopot/sopot",
+          "fullName": "Sopot, pomorskie",
+          "name": "Sopot",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/sopot/sopot/sopot/dolny-sopot",
+          "fullName": "Dolny Sopot, Sopot, pomorskie",
+          "name": "Dolny Sopot",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "pomorskie/sopot/sopot/sopot/dolny-sopot/dolny-sopot--grunwaldzka",
+          "fullName": "Dolny Sopot - Grunwaldzka, Dolny Sopot, Sopot, pomorskie",
+          "name": "Dolny Sopot - Grunwaldzka",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk4cmExN3JjM3pqcS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.tiN1E8P7h1ghaVSpAHdUvXbT-Evm9xwKBxd0Hu2QcSA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk4cmExN3JjM3pqcS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.tiN1E8P7h1ghaVSpAHdUvXbT-Evm9xwKBxd0Hu2QcSA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM4Z3RxMTNydXJ1OTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N0cEpYVxi7gLsNwj0GrQ8bZCmAY-jHhDUYHpcwK_n6c/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM4Z3RxMTNydXJ1OTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N0cEpYVxi7gLsNwj0GrQ8bZCmAY-jHhDUYHpcwK_n6c/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIxb2IwZGVnMDRxdjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PTzepoKqFX3JgqjvdaT39M2Mgb-h-s9Q7cvPOa5JENA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIxb2IwZGVnMDRxdjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PTzepoKqFX3JgqjvdaT39M2Mgb-h-s9Q7cvPOa5JENA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 14,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 1437685,
+    "name": "Comfort Apartments & Properties sp z o.o.",
+    "slug": "comfort-apartments-properties-sp-z-o-o-ID1437685",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM5MWtidmw3Ymw0aTMtQVBMIn0.yHjefO9iQDtR1IgZwLa98gNzw1eWpjqFW3apT9YlAhc/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": false,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 2500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 108.7,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 23,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-21 18:18:35",
+  "createdAtFirst": "2023-12-05T18:15:16Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-02-21T18:18:35+01:00",
+  "specialOffer": null,
+  "shortDescription": "Sopot ul. Chopina 27 to kameralny, nowoczesny, wybudowany w 2021roku budynek,  zlokalizowany 300m od ul. Monte Cassino, który wyróżnia doskonała architektura i wyjątkowa lokalizacja, co sprawia że mie...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Piotr Krot",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "GARDEN",
+      "weight": 45,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/sopot-nowoczesny-znakomita-lokalizacja-ID4oe1X",
+  "description": "<p>Sopot ul. Chopina 27 to kameralny, nowoczesny, wybudowany w 2021roku budynek,  zlokalizowany 300m od ul. Monte Cassino, który wyróżnia doskonała architektura i wyjątkowa lokalizacja, co sprawia że mieszkanie gwarantuje prestiż i komfort do wypoczynku i mieszkania.<br/><br/>Standardowe wykończenie obejmuje: łazienkę z prysznicem w wysokim standardzie wykończenia, aneks kuchenny oraz salon. Do dyspozycji jest pralko-suszarka, płyta elektryczna, kuchenka mikrofalowa oraz TV.<br/><br/>Na podłodze wysokiej jakości panele podłogowe oraz nowoczesne oświetlenie.  Zlokalizowany jest na parterze budynku. Czynsz do Wspólnoty wynosi ok. 450 pln/mies.<br/><br/>Do lokalu przynależy 1miejsce postojowe w hali garażowej oraz do własnego użytku ogródek pod oknem .<br/><br/>Położenie budynku zapewnia dogodną komunikację, zarówno środkami transportu publicznego (przystanek SKM w odległości 5 min., przystanek autobusowy w odległości 2 min. jak i<br/><br/>dojazd samochodem od strony Gdyni i Gdańska oraz Trójmiejskiej Obwodnicy,  a do plaży sopockiej  jedynie 400m.<br/><br/>Zapraszam na prezentację.</p><p></p><p>Oferta wysłana z programu dla biur nieruchomości ASARI CRM ()</p><p></p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:39.837Z"
+}

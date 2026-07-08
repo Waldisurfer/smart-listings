@@ -5,7 +5,7 @@
  */
 import { Router } from 'express';
 import { z } from 'zod';
-import { findById, findListings } from '../repo/listingsRepo.js';
+import { findById, findListings, getDistinctCities } from '../repo/listingsRepo.js';
 
 const ListQuery = z.object({
   offerType: z.enum(['sale', 'rent']).default('sale'),
@@ -26,6 +26,10 @@ const dropEmpty = (query: object) =>
   Object.fromEntries(Object.entries(query).filter(([, v]) => v !== ''));
 
 export const listingsRouter = Router();
+
+listingsRouter.get('/meta/cities', async (_req, res) => {
+  res.json({ cities: await getDistinctCities() });
+});
 
 listingsRouter.get('/listings', async (req, res) => {
   const parsed = ListQuery.safeParse(dropEmpty(req.query));

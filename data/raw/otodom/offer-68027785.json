@@ -1,0 +1,167 @@
+{
+  "id": 68027785,
+  "title": "Luksusowy apartament 3 pokoje na Powiślu z loggią",
+  "slug": "luksusowy-apartament-3-pokoje-na-powislu-z-loggia-ID4Br8l",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Górnośląska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie",
+          "fullName": "Śródmieście, Warszawa, mazowieckie",
+          "name": "Śródmieście",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/srodmiescie/solec",
+          "fullName": "Solec, Śródmieście, Warszawa, mazowieckie",
+          "name": "Solec",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJkMWhrZGUwaG51dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.378qGRijz6JTJ6whg-eB9DIkOPmPnmxu5FczbzNUFpE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJkMWhrZGUwaG51dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.378qGRijz6JTJ6whg-eB9DIkOPmPnmxu5FczbzNUFpE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtcWZ6dzUweW0xazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ijI8WPXys7MoEi5BT1BanG9AfT4UImpD8PuwKmg5vGc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVtcWZ6dzUweW0xazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ijI8WPXys7MoEi5BT1BanG9AfT4UImpD8PuwKmg5vGc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY3Y3c1bDBocmQyMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1gZdcZeqhZAQYd-XjQlENex7797RQOzA3hzIXdg15e8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY3Y3c1bDBocmQyMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1gZdcZeqhZAQYd-XjQlENex7797RQOzA3hzIXdg15e8/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 19,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 10578105,
+    "name": "Wellhome Real Estate ",
+    "slug": "wellhome-real-estate-ID10578105",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBmYW9sdDYza3lhay1BUEwifQ.4tcgiQow-XT9D2UBfX6TQeYCivELjRMah6wiTEA6Ass/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 7950,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 104.61,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 76,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "SIXTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-06-30 12:19:15",
+  "createdAtFirst": "2026-05-20T16:14:11Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-06-30T12:19:16+02:00",
+  "specialOffer": null,
+  "shortDescription": "Mamy przyjemność zaprezentować Państwu 3-pokojowy apartament znajdujący się na Powiślu, przy ul. Górnośląskiej.ENGLISH DESCRIPTION BELOW• UKŁAD:Apartament o wysokim standardzie, usytuowany na ostatnim...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Maksym Ivanov",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/luksusowy-apartament-3-pokoje-na-powislu-z-loggia-ID4Br8l",
+  "description": "<p><strong>Mamy przyjemność zaprezentować Państwu 3-pokojowy apartament znajdujący się na Powiślu, przy ul. Górnośląskiej.</strong><br><br><strong>ENGLISH DESCRIPTION BELOW</strong><br><br><strong>• UKŁAD:</strong><br>Apartament o wysokim standardzie, usytuowany na ostatnim, 6. piętrze nowoczesnego budynku z 2024 roku. Składa się z:<br><br>* przestronnego salonu z jadalnią i otwartą kuchnią,<br>* dwóch sypialni,<br>* łazienki z prysznicem i toaletą,<br>* dodatkowej toalety,<br>* przestronnego przedpokoju z pojemnymi szafami,<br>* dużej, przeszklonej loggii o powierzchni ok. 10 m².<br><br><strong>• LOKALIZACJA</strong><br>Nieruchomość położona jest w samym sercu Powiśla - jednej z najbardziej prestiżowych i zielonych części Warszawy. W bezpośrednim sąsiedztwie znajdują się parki, Bulwary Wiślane, restauracje, kawiarnie, sklepy, kina, teatry oraz obiekty sportowe. Lokalizacja zapewnia doskonałą komunikację z centrum miasta oraz szybki wyjazd w każdą część Warszawy.<br><br><strong>• UDOGODNIENIA</strong><br>Apartament został zaprojektowany przez architekta wnętrz i wykończony z użyciem materiałów klasy premium. Wysokość pomieszczeń wynosi 3 m, a duże przeszklenia zapewniają doskonałe doświetlenie wnętrz. Mieszkanie jest w pełni umeblowane i wyposażone w:<br><br>* klimatyzację we wszystkich pomieszczeniach,<br>* telewizor 65\" w salonie oraz 40\" w sypialni master,<br>* kompletnie wyposażoną kuchnię (lodówka z zamrażarką, płyta indukcyjna, piekarnik, mikrofala, zmywarka, okap),<br>* pralko-suszarkę, ekspres do kawy, odkurzacz i czajnik elektryczny.<br> Do dyspozycji najemcy miejsce parkingowe w garażu podziemnym (poziom -1), odpowiednie również dla dużego SUV-a.<br><br><strong>• CENA</strong><br>Koszt wynajmu to 16 000 zł miesięcznie,<br>dodatkowo płatny ryczałt za media w wysokości 1 500 zł miesięcznie.<br>Miejsce parkingowe w garażu podziemnym - 500 zł miesięcznie.<br><br><strong>Numer oferty: 837399</strong><br><br>Zapraszamy do kontaktu z naszym biurem!</p><br/>\n<p><strong>We are pleased to present a luxurious 3-room apartment located in Powiśle, at Górnośląska Street. </strong><br><br><strong>• LAYOUT:</strong><br>The apartment is situated on the top (6th) floor of a modern residential building completed in 2024. The layout includes:<br><br>* a spacious living room with a dining area and an open-plan kitchen,<br>* two bedrooms,<br>* a bathroom with a shower and toilet,<br>* an additional guest toilet,<br>* a spacious entrance hall with built-in wardrobes,<br>* a large glazed loggia of approximately 10 m².<br><br><strong>• LOCATION</strong><br>The property is located in the heart of Powiśle, one of Warsaw’s most prestigious and green neighborhoods. In the immediate vicinity, you will find parks, the Vistula Boulevards, restaurants, cafés, shops, cinemas, theaters, and sports facilities. The location offers excellent public transport connections and quick access to the city center and all parts of Warsaw.<br><br><strong>• AMENITIES</strong><br>The apartment was designed by an interior architect and finished with premium-quality materials. The interiors feature 3-meter-high ceilings and large floor-to-ceiling windows that provide abundant natural light. The apartment is fully furnished and equipped with:<br><br>* air conditioning in all rooms,<br>* a 65-inch TV in the living room and a 40-inch TV in the master bedroom,<br>* a fully equipped kitchen with a fridge-freezer, wide induction hob, dishwasher, oven, microwave, and extractor hood,<br>* a washer-dryer, coffee machine, vacuum cleaner, and electric kettle.<br><br>A spacious underground parking space on level -1 is available, suitable for a large SUV and bicycles.<br><br><strong>• PRICE</strong><br>Monthly rent: PLN 16,000<br>Utilities flat fee: PLN 1,500 per month (including high-speed wireless internet, satellite TV with premium package, electricity, heating, hot and cold water, sewage, and waste disposal)<br>Underground parking space: PLN 500 per month<br><br><strong>Offer number:837399</strong><br><br>Feel free to contact our office for more information or to arrange a viewing!</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:41:57.013Z"
+}

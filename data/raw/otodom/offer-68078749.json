@@ -1,0 +1,143 @@
+{
+  "id": 68078749,
+  "title": "!!!-SALON+SYPIALNIA+GENERALNY REMONT-MEDIA MIEJSKIE-5 MIN DO RYNKU-!!!",
+  "slug": "salon-sypialnia-generalny-remont-media-miejskie-5-min-do-rynku-ID4BEol",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Inowrocławska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Wrocław",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "dolnośląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "dolnoslaskie",
+          "fullName": "dolnośląskie",
+          "name": "dolnośląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw",
+          "fullName": "Wrocław, dolnośląskie",
+          "name": "Wrocław",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/stare-miasto",
+          "fullName": "Stare Miasto, Wrocław, dolnośląskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "dolnoslaskie/wroclaw/wroclaw/wroclaw/stare-miasto/szczepin",
+          "fullName": "Szczepin, Stare Miasto, Wrocław, dolnośląskie",
+          "name": "Szczepin",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVwYzg0YWJiM2dleC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.29ppHaf8Y_obfychzszKV1QOV0kCc_449iwC1gVA_Jc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVwYzg0YWJiM2dleC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.29ppHaf8Y_obfychzszKV1QOV0kCc_449iwC1gVA_Jc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrZGpvYzB5c2wzMTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yViPsMB_4BdFswgVIO-wg7oAaksTWQyxY8sV-27Ntic/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrZGpvYzB5c2wzMTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yViPsMB_4BdFswgVIO-wg7oAaksTWQyxY8sV-27Ntic/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF0NHY3MDdtaGI3ZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yKGFwVkkkTKFiPQ4EykSY1dfSvaYwY5GfBOuoH84KBs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF0NHY3MDdtaGI3ZS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yKGFwVkkkTKFiPQ4EykSY1dfSvaYwY5GfBOuoH84KBs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 12,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": true,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": null,
+  "openDays": "",
+  "totalPrice": {
+    "value": 439989,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 500,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 16857.82,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 26.1,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:59:18",
+  "createdAtFirst": "2026-06-05T12:56:21Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T12:59:18+02:00",
+  "specialOffer": null,
+  "shortDescription": "NA SPRZEDAŻ OKAZJA NA WROCŁAWSKIM SZCZEPINIE SUPER LOKALIZACJA Z DOJAZDEM DO RYNKU MOŻLIWYM W 5 MINUTBlok po termomodernizacji i remoncie elewacji , wymieniona elektryka w budynku ( WLZ ) oraz piony w...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Jakub",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/salon-sypialnia-generalny-remont-media-miejskie-5-min-do-rynku-ID4BEol",
+  "description": "<p><b>NA SPRZEDAŻ OKAZJA NA WROCŁAWSKIM SZCZEPINIE SUPER LOKALIZACJA Z DOJAZDEM DO RYNKU MOŻLIWYM W 5 MINUT</b></p><p><b>Blok po termomodernizacji i remoncie elewacji , wymieniona elektryka w budynku ( WLZ ) oraz piony wodno-kanalizacyjne , zadbana klatka schodowa , ciche i spokojne sąsiedztwo , duża ilość zieleni oraz miejsc parkingowych pod blokiem , widok na zieleń</b></p><p><b>Mieszkanie o powierzchni 26m2 w trakcie generalnego remontu , piętro 3/4 (bez windy)</b></p><p><b>MOŻLIWOŚĆ WYKOŃCZENIA MIESZKANIA POD KLUCZ , OPCJA WYDZIELENIA OSOBNEJ SYPIALNI</b></p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:09.888Z"
+}

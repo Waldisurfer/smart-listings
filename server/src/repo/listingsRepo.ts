@@ -109,3 +109,18 @@ export async function findById(id: number): Promise<ListingRow | null> {
   );
   return (rows[0] as ListingRow) ?? null;
 }
+
+/** Distinct cities present in the (non-duplicate) data — drives the city filter,
+ *  since the nationwide sample's cities aren't known ahead of time. Ordered in JS
+ *  with a Polish collator: MySQL's accent-insensitive default collation lumps
+ *  ł/ó/ś with their ASCII bases, whereas Polish readers expect ł after l, ó after
+ *  o, etc. Sorting here also keeps the order stable across MySQL image/collation
+ *  changes rather than depending on the server's default. */
+export async function getDistinctCities(): Promise<string[]> {
+  const [rows] = await pool.query<RowDataPacket[]>(
+    `SELECT DISTINCT city FROM listings
+     WHERE city IS NOT NULL AND is_duplicate = FALSE`,
+  );
+  const collator = new Intl.Collator('pl');
+  return rows.map((r) => r.city as string).sort((a, b) => collator.compare(a, b));
+}

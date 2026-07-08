@@ -1,0 +1,162 @@
+{
+  "id": 67991302,
+  "title": "bulwary praskie | umowa cesji | stan deweloperski",
+  "slug": "bulwary-praskie-umowa-cesji-stan-deweloperski-ID4BhDU",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Jagiellońska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc",
+          "fullName": "Praga-Północ, Warszawa, mazowieckie",
+          "name": "Praga-Północ",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/praga--polnoc/pelcowizna",
+          "fullName": "Pelcowizna, Praga-Północ, Warszawa, mazowieckie",
+          "name": "Pelcowizna",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFkOXp6bGRuemxlODMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mRcfEAKr4aEe26rmSHWqXT8nMA280IB39gnMDywZ264/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFkOXp6bGRuemxlODMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mRcfEAKr4aEe26rmSHWqXT8nMA280IB39gnMDywZ264/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM0eDZwY2lrMzVnOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FHibqttNZARLcPV_Yh6CeSJPFQ5-PKuIJsASa0tCjkU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImM0eDZwY2lrMzVnOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FHibqttNZARLcPV_Yh6CeSJPFQ5-PKuIJsASa0tCjkU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlqdDExMGZva2s3dy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WuMrV7slZ9oGCO5cPT-J33AK4hoFhHUqX9X1v9mcSHY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlqdDExMGZva2s3dy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WuMrV7slZ9oGCO5cPT-J33AK4hoFhHUqX9X1v9mcSHY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:virgo",
+  "agency": {
+    "id": 9041624,
+    "name": "Aleksandra Kluczyńska",
+    "slug": "aleksandra-kluczynska-ID9041624",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 575000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 537.44,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 19465.13,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 29.54,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "ONE",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:30:50",
+  "createdAtFirst": "2026-05-11T11:30:33Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "NIERUCHOMOŚĆ:Bulwary Praskie to duża, wieloetapowa inwestycja mieszkaniowo-usługowa realizowana przez Mennicę Polską na warszawskiej Pradze-Północ przy ul. Jagiellońskiej u nabrzeża Wisły. W ramach in...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Kacper Reszke",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBiN3dxYjlpejF4dS1BUEwifQ.wPfKr8SVz8uCK60nO1q2euplIgRzXZymtj-uXITL20M/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/bulwary-praskie-umowa-cesji-stan-deweloperski-ID4BhDU",
+  "description": "<strong>NIERUCHOMOŚĆ:</strong><br/><br/>Bulwary Praskie to duża, wieloetapowa inwestycja mieszkaniowo-usługowa realizowana przez Mennicę Polską na warszawskiej Pradze-Północ przy ul. Jagiellońskiej u nabrzeża Wisły. W ramach inwestycji powstają nowoczesne budynki mieszkalne o zróżnicowanej wysokości uzupełnione o lokale usługowe w parterach. Duży nacisk położono na przestrzenie wspólne takie jak place zabaw, tereny rekreacyjne oraz zadbaną zieleń. Bliskość Wisły i terenów przyrodniczych ma zapewnić mieszkańcom wysoki komfort życia i dostęp do rekreacji.<br/><br/>Studio o powierzchni 29,54m2 położone jest na 3. piętrze i składa się z salonu połączonego z otwartą kuchnią w wyjściem na balkon (ekspozycja południowa) oraz łazienki.<br/><br/>Do mieszkania przynależy miejsce postojowe w garażu podziemnym w cenie 55 000 PLN.<br/><strong><br/>STANDARD WYKOŃCZENIA:</strong><br/><br/>Zakup w ramach cesji.<br/>Mieszkanie w stanie deweloperskim.<br/><strong><br/>WAŻNE INFORMACJE:</strong><br/><br/>Czynsz administracyjny:&nbsp;537,44 PLN<br/><strong><br/>OKOLICA:</strong><br/><br/>Pelcowizna to spokojna część Pragi-Północ, ceniona przez mieszkańców za dobrą komunikację z resztą Warszawy (tramwaje, autobusy, bliskość kolei i trasy S8) - łączy miejski charakter z kameralnością, jest mniej zatłoczona niż centrum dzielnicy, a jednocześnie oferuje łatwy dostęp do sklepów, usług i pracy. Atutem jest też bliskość Wisły, obszaru Natura 2000 oraz terenów poprzemysłowych przekształcanych w nowe inwestycje, co daje potencjał dalszego rozwoju i wzrostu jakości życia.<em><br/><br/>=====<br/><br/>Jako agencja nieruchomości pobieramy wynagrodzenie.<br/><br/>Przedstawiona wyżej propozycja nie jest ofertą handlową w rozumieniu przepisów prawa.<br/><br/>W przypadku zgłoszenia telefonicznego lub wiadomości, przetwarzamy dane osobowe zgodnie z RODO w celu przedstawienia oferty.</em><br/><br/>&nbsp; <strong>PROPERTY:</strong><br/><br/>Bulwary Praskie is a large, multi-stage residential and commercial development being developed by Mennica Polska in Warsaw&#39;s Praga-Północ district, on Jagiellońska Street, on the Vistula River. The project involves the construction of modern residential buildings of varying heights, complemented by ground-floor commercial units. Considerable emphasis has been placed on communal spaces such as playgrounds, recreational areas, and well-maintained greenery. The proximity of the Vistula River and natural areas is intended to provide residents with a high standard of living and access to recreational opportunities.<br/><br/>The 29,54m2 studio is located on the 3rd floor and comprises a living room with an open kitchen and access to a balcony (south-facing) and a bathroom.<br/><br/>The apartment comes with a parking space in the underground garage priced at&nbsp;PLN 55 000.<br/><strong><br/>FINISHING STANDARD:</strong><br/><br/>Purchase under assignment.<br/>The apartment is in a developer&#39;s state.<br/><strong><br/>IMPORTANT INFORMATION:</strong><br/><br/>Administrative fee: PLN 537,44&nbsp;<br/><strong><br/>NEIGHBORHOOD:</strong><br/><em></em><br/>Pelcowizna is a quiet part of Praga-Północ, appreciated by residents for its excellent connections to the rest of Warsaw (trams, buses, proximity to railways and S8 route). It combines an urban character with a cozy atmosphere, being less crowded than the district center while offering easy access to shops, services, and jobs. Its proximity to the Vistula River, the Natura 2000 area, and post-industrial areas being transformed into new developments also offer the potential for further development and improved quality of life.<em><br/><br/>=====<br/><br/>As a real estate agency, we charge a commission.<br/><br/>The above proposal is not a commercial offer within the meaning of the law.<br/><br/>In the case of contact via telephone or message, we process personal data in accordance with the GDPR in order to present an offer.<br/>&nbsp;</em>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:52.744Z"
+}

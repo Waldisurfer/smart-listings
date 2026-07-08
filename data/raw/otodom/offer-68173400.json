@@ -1,0 +1,168 @@
+{
+  "id": 68173400,
+  "title": "54 m | 2 pokoje | taras| garaż | komórka | 2026r.",
+  "slug": "54-m-2-pokoje-taras-garaz-komorka-2026r-ID4C30Y",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+          "fullName": "Włochy, Warszawa, mazowieckie",
+          "name": "Włochy",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/okecie",
+          "fullName": "Okęcie, Włochy, Warszawa, mazowieckie",
+          "name": "Okęcie",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5ibWd6eXZhMzI0YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.58_xGv3PnOI2j_UJVT85Vp9a7Pvu-wgAaAXrEDJtLBk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5ibWd6eXZhMzI0YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.58_xGv3PnOI2j_UJVT85Vp9a7Pvu-wgAaAXrEDJtLBk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im82Nm9qczh4OGN5ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.iZPi5gu1lpS-q6jOOdyeNHM4iHTKmJs3Z7OZyU8HGw4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im82Nm9qczh4OGN5ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.iZPi5gu1lpS-q6jOOdyeNHM4iHTKmJs3Z7OZyU8HGw4/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNndnQyZmc3M2FuNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jUD66FAD_PRcnXJe1JHRMwk5kEc45w5xqUvjGWCbOVM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNndnQyZmc3M2FuNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jUD66FAD_PRcnXJe1JHRMwk5kEc45w5xqUvjGWCbOVM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 16,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 10358460,
+    "name": "MADISON Nieruchomości",
+    "slug": "madison-nieruchomosci-ID10358460",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQwcXk5cHdzdnpmeC1BUEwifQ.hDIVL3jYY5ZpR_0_yICkwV6RM4zmUAsfIw6b-YCxq5Q/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1299999.98,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 820,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 24074.07,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 54,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "SEVENTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:55:24",
+  "createdAtFirst": "2026-07-05T12:55:15Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Warszawa-Włochy, Aleja Krakowska 279Całkowicie nowy, nigdy nieużywany, zaprojektowany przez biuro projektów wnętrz, wykończony w wysokim standardzie, apartament na nowo wybudowanym osiedlu Krakowska V...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Beata Lech",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx3OGdlOWdhM3NpMzMtQVBMIn0.AVhHnws1hZHFKYzwjaHZngkyHjzc8CDvLoJFic9kDT0/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/54-m-2-pokoje-taras-garaz-komorka-2026r-ID4C30Y",
+  "description": "<strong><u>Warszawa-Włochy, Aleja Krakowska 279&nbsp;</u></strong><br>Całkowicie nowy, nigdy nieużywany, zaprojektowany przez biuro projektów wnętrz, wykończony w wysokim standardzie, apartament na nowo wybudowanym osiedlu Krakowska Vita dewelopera Develia<br><br>&gt; 54 m2<br>&gt; 2 pokoje z otwartą kuchnią, garderobą i dużą łazienką&nbsp;<br>&gt; słoneczny taras 11 m2 oraz dodatkowo balkon typu loggia 5,60 m2&nbsp;<br>&gt; piętro 7 z 8 z windą&nbsp;<br>&gt; nowe osiedle oddane na początku 2026 roku&nbsp;<br>&gt; apartament całkowicie nowy, nieużywany, wykończony w wysokim standardzie, w pełni wyposażony w meble i AGD, gotowy do zamieszkania od już&nbsp;<br>&gt; miejsce parkingowe w garażu podziemnym, tuż przy wejściu do klatki (dodatkowo płatne + 75 000 zł.)<br>&gt; komórka lokatorska ulokowana przy miejscu garażowym o pow. 4,41 m2 (płatna dodatkowo + 46 500 zł.)<br><br>Świetna lokalizacja pod względem komunikacji oraz pełnej infrastruktury w bezpośrednim otoczeniu osiedla. Przystanki autobusowe oraz tramwajowe 240 m od klatki, stacja PKP Rakowiec 450 m. Dojazd komunikacją do ścisłego centrum Warszawy 10 min. Piękny Park Szczęśliwicki 1,7 km (15 min pieszo), park Kotańskiego 5 min pieszo. W promieniu kilkuset metrów szkoła podstawowa, przedszkola, żłobki, sklepy, piekarnie, kawiarnie, restauracje i punkty usługowe.&nbsp;<br><br><strong><u>Pełna własność </u></strong>&gt;&gt; możliwość zakupu na kredyt&nbsp;<br><strong><u>Czynsz:</u>&nbsp;</strong>820&nbsp;zł (razem ze wszystkimi zaliczkami na media i czynszem za garaż, dodatkowo płatny tylko prąd)&nbsp;<br><strong><u>Dostępność:</u> </strong>od już&nbsp;<br><br><strong><u>APARTAMENT:</u></strong><br>- dokładny metraż: 53,59 m2&nbsp;<br>- apartament w stanie idealnym, całkowicie nowy, nieużywany, świeżo wykończony w wysokim standardzie, wysoka jakość i funkcjonalność<br>- całkowicie umeblowany i wyposażony w pełne AGD (płyta indukcyjna, okap, piekarnik, zmywarka 60 cm, lodówko-zamrażarka, pralka, suszarka) &nbsp;&nbsp;<br>- starannie zaprojektowane meble na wymiar w całym mieszkaniu&nbsp;<br>- wyposażenie w cenie (wszystkie meble, AGD włącznie z dodatkami takimi jak. np. zasłony)&nbsp;<br>- klimatyzacja&nbsp;<br>- podłogi: panele o wysokiej klasie ścieralności, gres&nbsp;<br>-&nbsp;ekspozycja południowo-wschodnia&nbsp;<br>- okna PCV<br>- drzwi antywłamaniowe<br>- piętro 7/8 z windą<br><br><strong><u>APARTAMENT SKŁADA SIĘ Z:</u></strong><br>- salonu 17,65 m2<br>- otwartej na salon kuchni ok 6,62 m2<br>- sypialni 11,41 m2<br>- garderoby ok 4 m2&nbsp;<br>- łazienki 5,94 m2&nbsp;<br>- przedpokoju ok 6,5 m2&nbsp;<br><br><strong><u>TARAS i BALKON:<br></u></strong>&gt; duży, słoneczny taras 11 m2 <br>&gt; dodatkowo balkon typu loggia 5,60 m2<br><br><strong><u>GARAŻ:</u></strong><br>do mieszkania przynależy miejsce parkingowe w garażu podziemnym, blisko wejścia do klatki (płatne dodatkowo + 75 000 zł, zakup obowiązkowy)<br><br><strong><u>KOMÓRKA LOKATORSKA:</u></strong><br>&gt; do mieszkania przynależy duża komórka lokatorska o pow. 4,41 m2, ulokowana przy miejscu garażowym (płatna dodatkowo + 46500 zł, zakup obowiązkowy)<br>&gt; do dyspozycji mieszkańców jest wózkownia/rowerownia&nbsp;<br><br><strong><u>OSIEDLE I BUDYNEK:</u></strong><br>- rok budowy: 2026 r.<br>- nowe osiedle Krakowska Vita dewelopera Develia<br>- osiedle monitorowane<br>- budynek 8-piętrowy<br>- winda<br>- nowoczesny design elewacji zewnętrznej jak i klatek schodowych<br>- pod blokiem plac zabaw dla dzieci z dużą ilością ławeczek&nbsp;<br><br><strong><u>LOKALIZACJA:&nbsp;<br></u></strong>Warszawa, Włochy Aleja Krakowska 279&nbsp;<br>AUTOBUSY - przystanki autobusowe 240 m od bloku&nbsp;<br>TRAMWAJE - przystanki tramwajowe 240 m od bloku<br>PKP - stacja PKP Rakowiec 450m od osiedla&nbsp;<br>SAMOCHÓD -&nbsp;dojazd do ścisłego centrum Warszawy samochodem zajmuje ok 10 min, komunikacją ok 20 min&nbsp;<br>EDUKACJA - w promieniu kilkuset metrów szkoła podstawowa, przedszkola, żłobki&nbsp;<br>TERENY ZIELONE - w okolicy m.in. park Kotańskiego 800 m od osiedla, park Szczęśliwicki 1,7 km (15 min pieszo), ścieżki rowerowe&nbsp;<br>SPORT - najbliższy fitness club Zdrofit &nbsp;900 m od osiedla, park trampolin 5 min pieszo od osiedla&nbsp;<br><br><strong><u>STAN PRAWNY:</u></strong><br>- pełna własność mieszkania z własnością gruntu<br>- możliwość zakupu mieszkania na kredyt&nbsp;<br><br><strong><u>CZYNSZ:</u></strong><br>- 820 zł (razem ze wszystkimi zaliczkami na media i czynszem za garaż)<br>- dodatkowo płatny tylko prąd&nbsp;<br/>\n<br/>\nMasz pytania lub chcesz obejrzeć mieszkanie?&nbsp;<br>Zadzwoń już dziś i umów się na prezentację!&nbsp;<br><br>Beata Lech<br>Doradca ds. Nieruchomości<br>Tel. 724 106 333<br><br><br><br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:05.211Z"
+}

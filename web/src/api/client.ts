@@ -66,3 +66,8 @@ export function fetchListings(filters: ListingFilters): Promise<ListingsPage> {
 export function fetchListing(id: string | number): Promise<Listing> {
   return get(`/api/listings/${id}`);
 }
+
+export async function fetchCities(): Promise<string[]> {
+  const { cities } = await get<{ cities: string[] }>('/api/meta/cities');
+  return cities;
+}

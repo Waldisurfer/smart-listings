@@ -1,0 +1,133 @@
+{
+  "id": 67991114,
+  "title": "Mieszkanie 57,70 m2, ul. Legionów 74/80 m.15",
+  "slug": "mieszkanie-57-70-m2-ul-legionow-74-80-m-15-ID4BhAS",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 500,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Legionów",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Grudziądz",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "kujawsko-pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "kujawsko--pomorskie",
+          "fullName": "kujawsko-pomorskie",
+          "name": "kujawsko-pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/grudziadz/grudziadz/grudziadz",
+          "fullName": "Grudziądz, kujawsko-pomorskie",
+          "name": "Grudziądz",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw3N3M2d3MxYzZ4bzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zmIpDVOp_aB3eD8MO90ByTxBabnhZVBUXbtOeN3gxQM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw3N3M2d3MxYzZ4bzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zmIpDVOp_aB3eD8MO90ByTxBabnhZVBUXbtOeN3gxQM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxmM3RjeGVubGZseTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SaXIXqCBpj5BRbxOt6kFhSN9rc5ZeF2JWKUrVdQKiPI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxmM3RjeGVubGZseTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SaXIXqCBpj5BRbxOt6kFhSN9rc5ZeF2JWKUrVdQKiPI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5wc3FjcWR3Mmh2NTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FsWvyS4Xak-BifDpudDbdJ-eIoKCRPlsEJHiKz5qWqQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5wc3FjcWR3Mmh2NTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.FsWvyS4Xak-BifDpudDbdJ-eIoKCRPlsEJHiKz5qWqQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 13,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 899788,
+    "name": "Miejskie Przedsiębiorstwo Gospodarki Nieruchomościami Sp. z o.o.",
+    "slug": "miejskie-przedsiebiorstwo-gospodarki-nieruchomosciami-sp-z-o-o-ID899788",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVod2h0bWkzcnhtZjEtQVBMIn0.YyFflnMm4cCGT-oKnBe8O50tD-nAgUc2usIC1mgyaN8/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 229000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 3968.8,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 57.7,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:02:23",
+  "createdAtFirst": "2026-05-11T11:00:55Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Lokal położony jest na IV piętrze i składa się z czterech pokoi o pow. 9,70 m2, o pow. 14,80 m2, o pow. 9,70 m2 oraz o pow. 7,40 m2,  łazienki o pow. 2,20 m2, WC o pow. 0,80 m2, kuchni o pow. 6,90 m2 ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/mieszkanie-57-70-m2-ul-legionow-74-80-m-15-ID4BhAS",
+  "description": "<p>Lokal położony jest na IV piętrze i składa się z czterech pokoi o pow. 9,70 m2, o pow. 14,80 m2, o pow. 9,70 m2 oraz o pow. 7,40 m2,  łazienki o pow. 2,20 m2, WC o pow. 0,80 m2, kuchni o pow. 6,90 m2 oraz przedpokoju o pow. 6,20 m2. </p><p> <b>Opis lokalu</b>: Drzwi wejściowe typowe, stolarka okienna PCV. Ściany pokryte tapetami lub płytkami. Podłogi pokryte wykładziną PCV. Mieszkanie wyposażone w sieć wodociągową, kanalizacyjną, instalację elektryczną, instalację gazową oraz centralne ogrzewanie</p><p><b>Dodatkowe informacje dotyczące nieruchomości i warunków przetargu można uzyskać w MPGN Sp. z o. o. w Grudziądzu, ul. Curie – Skłodowskiej 5-7 ,Biuro Obrotu Nieruchomościami,</b></p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:00.745Z"
+}

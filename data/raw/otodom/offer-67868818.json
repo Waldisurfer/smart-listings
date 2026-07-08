@@ -1,0 +1,172 @@
+{
+  "id": 67868818,
+  "title": "Bez prowizji, do wynajęcia 72 m2, 2 pokoje, wysoki parter, ul.Batorego",
+  "slug": "bez-prowizji-do-wynajecia-72-m2-2-pokoje-wysoki-parter-ul-batorego-ID4ALMm",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Stefana Batorego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Kraków",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "małopolskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "malopolskie",
+          "fullName": "małopolskie",
+          "name": "małopolskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow",
+          "fullName": "Kraków, małopolskie",
+          "name": "Kraków",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto",
+          "fullName": "Stare Miasto, Kraków, małopolskie",
+          "name": "Stare Miasto",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "malopolskie/krakow/krakow/krakow/stare-miasto/piasek",
+          "fullName": "Piasek, Stare Miasto, Kraków, małopolskie",
+          "name": "Piasek",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhpMzM1OTVsdTVqODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jb5F9G5d53e71pzwYxPPogNNZWwtxt00BAMi6u5-REs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhpMzM1OTVsdTVqODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jb5F9G5d53e71pzwYxPPogNNZWwtxt00BAMi6u5-REs/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpvZGJwN2RueGZubTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UDmSioZRPQuFvR-3sXqi9onG3LgyaK1zHDcLkK1HIOY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpvZGJwN2RueGZubTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UDmSioZRPQuFvR-3sXqi9onG3LgyaK1zHDcLkK1HIOY/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN0c2tkaTV0enVxeDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KGe5pgJpDjM7df0xVc8IPnyIFUnUd5wqgxM36cBv3jU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN0c2tkaTV0enVxeDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KGe5pgJpDjM7df0xVc8IPnyIFUnUd5wqgxM36cBv3jU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 17,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 10240855,
+    "name": "Anna Gąsienica Nieruchomości",
+    "slug": "anna-gasienica-nieruchomosci-ID10240855",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjF5aTlkM3EyemwwdDItQVBMIn0.imUpoanGbKv3Wbrp31pI8V2PSPH4DB0T7SpAPa9pOvc/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3800,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 630,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 52.78,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 72,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-01 22:49:43",
+  "createdAtFirst": "2026-04-01T22:49:40Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Bez prowizji dla kupującego!Do wynajęcia od zaraz komfortowe i przestronne mieszkanie zlokalizowane w zadbanej kamienicy przy ul. Batorego 5, w ścisłym centrum Krakowa. Mieszkanie położone jest na wys...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Anna Gąsienica",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp6NjVqNTF5Z3QyZTMtQVBMIn0.gQz5XXXOEh0l1xqiCXWf6Q5lh1MkR-y4MjCEwP9VB6M/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/bez-prowizji-do-wynajecia-72-m2-2-pokoje-wysoki-parter-ul-batorego-ID4ALMm",
+  "description": "<p><b><i>Bez prowizji dla kupującego!</i></b></p><p></p><p>Do wynajęcia od zaraz komfortowe i przestronne mieszkanie zlokalizowane w zadbanej kamienicy przy <b>ul. Batorego 5</b>, w ścisłym centrum Krakowa. Mieszkanie położone jest na <b>wysokim parterze </b>w czteropiętrowej kamienicy z cegły. Powierzchnia <b>samego mieszkania wynosi ok. 72 m²</b>, natomiast <b>dodatkowe ok. 5 m²</b> stanowi przestrzeń w <b>przedpokoju wspólnym</b>, znajdującym się bezpośrednio przed wejściem do lokalu, do wyłącznego użytkowania najemcy. Łączna powierzchnia do dyspozycji najemcy: <b>ok. 77 m²</b>.</p><p></p><p><b><i>Lokal doskonale sprawdzi się również jako kancelaria prawna, biuro notarialne, biuro rachunkowe, doradztwo podatkowe lub siedziba firmy o charakterze eksperckim. Prestiżowa lokalizacja w ścisłym centrum Krakowa.</i></b></p><p></p><p><b>Warunki najmu:</b></p><ul><li>cena najmu: <b>3800 zł/miesiąc</b></li><li>dodatkowo: opłaty administracyjne <b>(około 630 zł)</b> oraz media<b> (prąd i gaz według zużycia)</b></li><li>umowa najmu zawierana na <b>czas określony - minimum 12 miesięcy</b>, z <b>możliwością przedłużenia</b></li><li><b>wymagana kaucja zwrotna w wysokości 4500 zł</b></li></ul><p>Mieszkanie składa się z:</p><ul><li>dwóch dużych, jasnych i ustawnych pokoi</li><li>oddzielnej, w pełni wyposażonej kuchni</li><li>dużej łazienki</li><li>przedpokoju z pojemnymi szafami</li><li>dodatkowej przestrzeni w przedpokoju wspólnym przed wejściem do mieszkania</li></ul><p></p><p>Lokal jest <b>po remoncie</b>, zadbany i gotowy do zamieszkania. Kuchnia wyposażona w sprzęt AGD: lodówkę, zmywarkę Bosch, 4-palnikową kuchenkę gazową, piekarnik elektryczny, mikrofalówkę oraz drobne wyposażenie. Ogrzewanie <b>własne gazowe</b>, nowoczesny, dwufunkcyjny piec kondensacyjny. Wejście do kamienicy zabezpieczone <b>dwoma domofonami</b>. Możliwość parkowania bezpośrednio przy kamienicy lub korzystania z <b>karty mieszkańca</b>.</p><p></p><p><b>Lokalizacja:</b></p><p>Ul. Batorego to jedna z najbardziej cenionych lokalizacji w Krakowie, spokojna ulica w ścisłym centrum miasta, z umiarkowanym ruchem samochodowym. W kilka minut spacerem można dotrzeć do <b>Rynku Głównego</b>, Plant, Teatru Bagatela oraz Parku im. Wisławy Szymborskiej. W najbliższej okolicy liczne restauracje, kawiarnie, sklepy oraz punkty usługowe. Doskonała komunikacja miejska, przystanki tramwajowe i autobusowe w bliskiej odległości zapewniają szybki dojazd do wszystkich części miasta. Lokalizacja idealna zarówno dla osób pracujących, jak i studentów, w pobliżu uczelnie: <b>AGH, Uniwersytet Jagielloński, Politechnika Krakowska, Uniwersytet Pedagogiczny</b>. W okolicy również muzea, teatry i filharmonia.</p><p></p><p>Oferta na wyłączność</p><p>Numer licencji PFRN 30205</p><p>Pośredników zapraszam do współpracy.</p><p></p><p><b>Zapraszam do kontaktu!</b></p><p></p><p></p><p>For rent: spacious 2-room apartment, 72 m², after renovation, Batorego Street, Kraków (Old Town)</p><p>Available immediately – a comfortable and spacious apartment located in a well-maintained tenement building at 5 Batorego Street, in the very center of Kraków.</p><p>The apartment itself has an area of approximately 71 m², with an additional approx. 5 m² of space in a shared hallway located directly in front of the apartment entrance, for the exclusive use of the tenant.</p><p>Total area available to the tenant: approx. 77 m².</p><p>The premises are also perfectly suited for use as a law firm, notary office, accounting office, tax advisory practice, or as the headquarters of a professional services company. The prestigious location in the very center of Kraków enhances the standing and image of the business conducted here.</p><p></p><p>Rental terms:</p><ul><li>monthly rent: PLN 3,800</li><li>additionally: administrative fees (approx. PLN 630) and utilities (electricity and gas according to consumption)</li><li>lease agreement for a fixed term – minimum 12 months, with the possibility of extension</li><li>a refundable security deposit of PLN 4,500 is required.</li></ul><p>The apartment is located on the raised ground floor of a four-storey brick tenement building.</p><p>The apartment consists of:</p><p>-two large, bright and well-arranged rooms</p><p>-a separate, fully equipped kitchen</p><p>-a spacious bathroom</p><p>-an entrance hall with large built-in wardrobes</p><p>-additional space in the shared hallway in front of the apartment</p><p>The apartment has been recently renovated, is well maintained and ready to move in.</p><p>The kitchen is equipped with household appliances, including a refrigerator, Bosch dishwasher, 4-burner gas hob, electric oven, microwave, and small kitchen appliances.</p><p>Individual gas heating – modern, dual-function condensing boiler.</p><p>The entrance to the building is secured with two intercom systems.</p><p>Parking is available directly in front of the building or via a residents&#39; parking permit.</p><p>Location:</p><p>Batorego Street is one of the most sought-after locations in Kraków – a quiet street in the very city center with moderate traffic. Within a few minutes&#39; walk you can reach the Main Market Square, Planty Park, Bagatela Theatre, and Wisława Szymborska Park.</p><p>Numerous restaurants, cafés, shops, and service points are located nearby.</p><p>Excellent public transport connections – tram and bus stops within close proximity provide quick access to all parts of the city.</p><p>The location is ideal for both working professionals and students, with nearby universities such as AGH University of Science and Technology, Jagiellonian University, Cracow University of Technology, and the University of the National Education Commission.</p><p>Museums, theatres, and the philharmonic hall are also located in the area.</p><p>Exclusive offer</p><p>PFRN license number 30205</p><p>Intermediaries are welcome to cooperate.</p><p></p><p>Please contact us!</p>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:43:27.661Z"
+}

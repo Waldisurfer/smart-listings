@@ -1,0 +1,151 @@
+{
+  "id": 68085013,
+  "title": "Nowoczesne,urządzone w kameralnym miejscu Rybnika",
+  "slug": "nowoczesne-urzadzone-w-kameralnym-miejscu-rybnika-ID4BG1n",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 100,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": null,
+      "city": {
+        "name": "Rybnik",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/rybnik/rybnik/rybnik",
+          "fullName": "Rybnik, śląskie",
+          "name": "Rybnik",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/rybnik/rybnik/rybnik/rybnik--polnoc",
+          "fullName": "Rybnik-Północ, Rybnik, śląskie",
+          "name": "Rybnik-Północ",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVheGFmaGQxOGFzby1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1fCJNdQX5veEjTGhV6exqRVEGQEgoXoskSH7sZvmTeA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVheGFmaGQxOGFzby1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1fCJNdQX5veEjTGhV6exqRVEGQEgoXoskSH7sZvmTeA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ1dm0xOTk4ZnQ4YTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PBRbm5ci6PZMym9KC7bBnOnVFblaKayXcrwnF0b-ckQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZ1dm0xOTk4ZnQ4YTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PBRbm5ci6PZMym9KC7bBnOnVFblaKayXcrwnF0b-ckQ/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Img5OHloazZ5dzQzMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hvbYZ5f44alySXBMR-TdX5OxlO6mOC5tRBV29D8nbaU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Img5OHloazZ5dzQzMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hvbYZ5f44alySXBMR-TdX5OxlO6mOC5tRBV29D8nbaU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 9154167,
+    "name": "Nieruchomości & Finanse GATNARCZYK",
+    "slug": "nieruchomosci-finanse-gatnarczyk-ID9154167",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2NzVoc3o5dm0zczItQVBMIn0.PYcSZcZB6Obu63wVVW4m2PECVK-3V19OZM0vXrmfxZg/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 760000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 0,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 11699.51,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 64.96,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-05 12:54:59",
+  "createdAtFirst": "2026-06-08T13:41:36Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-07-05T12:54:59+02:00",
+  "specialOffer": null,
+  "shortDescription": "Kameralne osiedle- nowoczesne i przestronne mieszkaniedo zamieszkania od dziś !Nieruchomość jest wyposażona wzabudowę kuchenną wraz ze sprzętem AGD, sofą, stołem wraz z krzesłamioraz wszystkimi dodatk...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Agnieszka Gatnarczyk",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVvZmZ6a3ZkMDhnaTItQVBMIn0.l1tyV547OCbjiByijZ3JTXta_BAvhb2_ko6gwLdPSnk/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/nowoczesne-urzadzone-w-kameralnym-miejscu-rybnika-ID4BG1n",
+  "description": "<p>Kameralne osiedle&nbsp;- nowoczesne i przestronne mieszkanie&nbsp;do zamieszkania od dziś !&nbsp;</p><p><br/><br/><u><strong>Nieruchomość jest wyposażona w&nbsp;zabudowę kuchenną wraz ze sprzętem AGD, sofą, stołem wraz z krzesłami&nbsp;oraz wszystkimi dodatkami widocznymi na zdjęciach.&nbsp;</strong></u></p><p>Nowoczesne 3-pokojowe mieszkanie o powierzchni 64,96 mkw usytuowane na pierwszym piętrze niskiego budynku&nbsp;zlokalizowane w spokojnej części Rybnika przy ul. Janiego.<br/><br/>Nieruchomość została wykończona &quot;pod klucz&quot; z kompletnym wyposażeniem i urządzeniem widocznym na zdjęciach, w bardzo wysokim standardzie, przy użyciu materiał&oacute;w premium. Przemyślany został każdy detal oraz nowoczesny design sprawiają, że mieszkanie jest gotowe do natychmiastowego wprowadzenia &ndash; bez dodatkowych nakład&oacute;w finansowych i stresu związanego z remontem.</p><p><br/><br/>Do mieszkania przynależy przestronny balkon.&nbsp;kt&oacute;ry stanowi idealną przestrzeń do relaksu oraz dwa dedykowane miejsca postojowe tuż przed wejściem do nieruchomości.</p><p>&nbsp;</p><p>Układ pomieszczeń (powierzchnia użytkowa 61,56&nbsp;m&sup2; + klatka schodowa (3,30 m&sup2; )prowadząca tylko do tego mieszkania).&nbsp;</p><p>Mieszkanie charakteryzuje się niezwykle funkcjonalnym, dobrze doświetlonym układem:</p><p>* Salon z aneksem kuchennym: Przestronny, nowoczesny salon z wyjściem na taras i rozległy ogr&oacute;d &nbsp;(18,57 m&sup2;).&nbsp;</p><p>* Sypialnia gł&oacute;wna: dużym oknam i pojemną szafą w zabudowie ( 11,68 m&sup2;)</p><p>* Druga sypialnia / Pok&oacute;j dziecięcy / Gabinet: R&oacute;wnie ustawna, także wyposażona w dużą szafę zabudowaną oraz duże okno (11,09 m&sup2;)</p><p>* Łazienka z WC: Przestronna i Stylowo urządzona z komfortowym prysznicem , umywalka oraz wc. ( 6,81 m&sup2;)</p><p>* Pomieszczenie techniczne / gospodarcze: Funkcjonalne przygotowana&nbsp;przestrzeń np. pod pralnie ( 4,28 m&sup2;)</p><p>* Komunikacja: Pięknie doświetlone miejsce dzięki nowoczesnemu zastosowaniu świetnika w suficie ( 5,78 m&sup2;)&nbsp;<br/><br/><br/><br/>* Wejście , klatka schodowa: Osobne wejście , schody wraz z podświetloną poręczą prowadzące tylko do tego mieszkania ( 3,30 m&sup2;).<br/><br/>&nbsp;</p><p><u>Standard wykończenia:</u></p><p><u><strong>To nie jest standardowe mieszkanie &nbsp;&ndash; wnętrze zostało zaprojektowane z myślą o osobach ceniących estetykę, ponadczasowy styl i jakość.&nbsp;</strong></u></p><p>* Materiały z &quot;wysokiej p&oacute;łki&quot; gwarantujące trwałość na lata.</p><p>* Zabudowy meblowe wykonane na wymiar przez stolarza, optymalizujące przestrzeń do przechowywania.</p><p>* Rolety sterowane elektrycznie we wszystkich oknach.&nbsp;<br/><br/><br/><br/>* Ogrzewanie podłogowe.&nbsp;<br/><br/><br/><br/>* Niezależne sterowanie ogrzewaniem w każdym pomieszczeniu oddzielnie.&nbsp;</p><p>* Sp&oacute;jna, nowoczesna i przytulna kolorystyka.<br/><br/>&nbsp;</p><p><u>Lokalizacja i kameralne osiedle:</u></p><p><u><strong>Nieruchomość znajduje się w kameralnym miejscu Rybnika składającym się z zaledwie 16 mieszkań.</strong></u></p><p>* Bezpieczeństwo i prywatność: Teren ogrodzony, wjazd na osiedle zabezpieczony szlabanem.</p><p>* Otoczenie: Niska zabudowa &ndash; wok&oacute;ł znajdują się wyłącznie domy jednorodzinne, co zapewnia ciszę i spok&oacute;j.</p><p>* Udogodnienia: Na terenie inwestycji znajduje się bezpieczne, zamykane miejsce do przechowywania rower&oacute;w (rowerownia).</p><p>* Lokalizacja: Bliskość centrum zaledwie 10 min spacerem do rynku, ścieżka rowerowa tuż obok, supermarkety i inne udogodnienia na wyciągnięcie ręki.&nbsp;<br/><br/><br/><br/><u>Dodatkowe atuty :</u><br/><br/>Mieszkanie bezczynszowe , ogrzewane piecykiem gazowym co generuje niskie koszty utrzymania.</p><p><strong><u></u></strong></p><p>Dlaczego warto?<strong><u><br/><br/>Zyskujesz czas i spok&oacute;j. Kupujesz nowe mieszkanie, unikając podatku PCC (zakup z rynku pierwotnego) oraz uciążliwego procesu wykańczania wnętrz. Wchodzisz i mieszkasz od zaraz, ciesząc się własnym &quot;M&quot; w świetnej lokalizacji Rybnika.&nbsp;</u></strong></p><p><br/><br/>Zapraszam do kontaktu oraz na prezentacje nieruchomości.</p><p>Cena sprzedaży 760&nbsp;000,00 zł<br/> <u><strong>WYŁĄCZNY Agent powyższej nieruchomości licencja zawodowa nr 28777&nbsp;</strong></u><br/><br/>&nbsp;</p><p>Zapewniam Państwu kompleksową oraz rzetelną obsługę podczas procesu finalizacji zakupu nieruchomości - dla mnie najważniejszy jest Państwa komfort, bezpieczeństwo oraz zadowolony klient.<u></u><br/><br/>&nbsp;</p><p><u>Bezpłatnie pomagam w uzyskaniu kredytu na zakup nieruchomości.Posiadam oferty wszystkich najwiekszych bank&oacute;w, znajdę ofertę najkorzystnieszą na rynku.Oferuję r&oacute;wnież pomoc w zakresie kredyt&oacute;w got&oacute;wkowych, konsolidacyjnych, firmowych oraz leasing&oacute;w.</u></p><p><br/><br/><br/><br/><br/><br/>Nota prawna:Opis oferty zawarty na stronie internetowej sporządzany jest na podstawie oględzin nieruchomości oraz informacji uzyskanych od właściciela, może podlegać aktualizacji i nie stanowi oferty określonej w art. 66 i następnych K.C.Pośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Agnieszka Gatnarczyk (licencja nr: 28777)<br/>Pośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Agnieszka Gatnarczyk (licencja nr: 28777) </p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:41.672Z"
+}

@@ -1,0 +1,184 @@
+{
+  "id": 67298753,
+  "title": "Przestronny apartament 85,59 m² . DWA TARASY. Elegancko wykończone",
+  "slug": "przestronny-apartament-85-59-m-dwa-tarasy-elegancko-wykonczone-ID4yntL",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Łopuszańska",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy",
+          "fullName": "Włochy, Warszawa, mazowieckie",
+          "name": "Włochy",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/wlochy/rakow",
+          "fullName": "Raków, Włochy, Warszawa, mazowieckie",
+          "name": "Raków",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqd2liaDRrYm94eTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.iY4aufHtQjvhiLB-YXi5QLV6FoW1LIPIRLvXM7rowLg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRqd2liaDRrYm94eTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.iY4aufHtQjvhiLB-YXi5QLV6FoW1LIPIRLvXM7rowLg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB4d2ZjZWphZHcwMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ruIJGb0DWw7_mFMr6VedOn9Y_yzPrsai_wNGsbL58EU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjB4d2ZjZWphZHcwMi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ruIJGb0DWw7_mFMr6VedOn9Y_yzPrsai_wNGsbL58EU/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVyc2pyYWhlNHlyajMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hAztZYbRupmH6x5I9nj4RZaOEuuzPjt1-q-i2rYxHUA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVyc2pyYWhlNHlyajMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hAztZYbRupmH6x5I9nj4RZaOEuuzPjt1-q-i2rYxHUA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 14,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:site:local",
+  "agency": {
+    "id": 654647,
+    "name": "Metrohouse Puławska",
+    "slug": "metrohouse-pulawska-ID654647",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBtdG9uM2diZTBwMTEtQVBMIn0.F8d95mYO8_yaOyl8EUpJtWEyFf9Ruk9Xuihrbntfano/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1681000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 1000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 19546.51,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 86,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-27 11:52:07",
+  "createdAtFirst": "2025-10-01T00:41:41Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-27T11:52:07+02:00",
+  "specialOffer": null,
+  "shortDescription": "Przestronny apartament 85,59 m² Miasteczko Nova Ochota, ul. Łopuszańska, WarszawaLokalizacja:Warszawa, Włochy ul. Łopuszańska, osiedle Miasteczko Nova Ochota. Cicha, zielona okolica z szybkim dostępem...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Patryk",
+    "lastName": "Zięba",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imlsc243M2x1aWlmZDItQVBMIn0.xeXYwygtGWZ7CveGnTbiRCTxqA5W0_53sc5gpJFXrbY/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Patryk Zięba",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRnOWR4em40YjFvNDItQVBMIn0.lLZLjBDZsIfdFiVH00hfiauhOAycd7AeBaw0Z3TOhTo/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TERRACE",
+      "weight": 40,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "SECURE_BUILDING",
+      "weight": 10,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/przestronny-apartament-85-59-m-dwa-tarasy-elegancko-wykonczone-ID4yntL",
+  "description": "<p><b>Przestronny apartament 85,59 m² Miasteczko Nova Ochota, ul. Łopuszańska, Warszawa</b></p><p></p><p><b>Lokalizacja:</b></p><p>Warszawa, Włochy ul. Łopuszańska, osiedle Miasteczko Nova Ochota. Cicha, zielona okolica z szybkim dostępem do głównych arterii miasta (Al. Jerozolimskie, obwodnica S2), w pobliżu przystanki autobusowe, sklepy, szkoły i tereny rekreacyjne.</p><p></p><p><b>Rozkład pomieszczeń:</b></p><ul><li>Przestronny salon z aneksem kuchennym</li><li>Master bedroom z łazienką i miejscem na prywatną garderobę,</li><li>2 dodatkowe, ustawne sypialnie,</li><li>2 łazienki (idealne dla rodzin),</li><li>Duża loggia 16,56 m²,</li><li>Dodatkowy balkon 10,70 m².</li></ul><p><b>Dodatkowo:</b></p><ul><li>2 miejsca postojowe w garażu podziemnym (płatne dodatkowo 45 000 zł każde),</li><li>Komórka lokatorska (płatna dodatkowo 19 000 zł),</li><li><b>Zakup miejsc postojowych i komórki jest obowiązkowy.</b></li></ul><p><b>Dlaczego warto kupić?</b></p><ul><li>Doskonała komunikacja z centrum i innymi dzielnicami Warszawy,</li><li>Bezpieczne, nowoczesne osiedle z pełną infrastrukturą,</li><li>Idealne mieszkanie dla rodziny 4 pokoje, dwie łazienki, dużo przestrzeni,</li><li>Dwa tarasy <b>(łącznie ponad 27 m² powierzchni zewnętrznej!),</b></li><li>Nowe budownictwo z 2024 r.</li></ul><p>Zapraszam na prezentację!!!</p>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:21.247Z"
+}

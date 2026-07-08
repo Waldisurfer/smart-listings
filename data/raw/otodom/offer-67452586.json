@@ -1,0 +1,165 @@
+{
+  "id": 67452586,
+  "title": "Dwupokojowe mieszkanie  na wynajem.",
+  "slug": "dwupokojowe-mieszkanie-na-wynajem-ID4z1uV",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "RENT",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Jana Pestalozziego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Bydgoszcz",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "kujawsko-pomorskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "kujawsko--pomorskie",
+          "fullName": "kujawsko-pomorskie",
+          "name": "kujawsko-pomorskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoszcz/bydgoszcz/bydgoszcz",
+          "fullName": "Bydgoszcz, kujawsko-pomorskie",
+          "name": "Bydgoszcz",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "kujawsko--pomorskie/bydgoszcz/bydgoszcz/bydgoszcz/bartodzieje",
+          "fullName": "Bartodzieje, Bydgoszcz, kujawsko-pomorskie",
+          "name": "Bartodzieje",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJjMzRhY2xqMjI3aS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.RsRIBQMeL1SavXmWJAEmdXgaLpi9eyvKnCCpR_u7RXc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJjMzRhY2xqMjI3aS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.RsRIBQMeL1SavXmWJAEmdXgaLpi9eyvKnCCpR_u7RXc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im40dGI3cm5jbjJxMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2y_UPN5F-8zMhUTu8iAVwv7kRvzOjiCFLU6-BaNmkEI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im40dGI3cm5jbjJxMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2y_UPN5F-8zMhUTu8iAVwv7kRvzOjiCFLU6-BaNmkEI/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNrem41aGlvdnE0NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CkcMpAYvMrzwM9H8rdZ2BZ3TZpG4vi3Te7FXMkul0cE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNrem41aGlvdnE0NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CkcMpAYvMrzwM9H8rdZ2BZ3TZpG4vi3Te7FXMkul0cE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 10601053,
+    "name": "Grupa Simple Najem",
+    "slug": "grupa-simple-najem-ID10601053",
+    "imageUrl": null,
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 1700,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 680,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 34,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 50,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "TWO",
+  "hidePrice": false,
+  "floorNumber": "THIRD",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-02-24 12:00:45",
+  "createdAtFirst": "2025-11-17T13:03:13Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2025-11-28T11:30:10+01:00",
+  "specialOffer": null,
+  "shortDescription": "Zapraszamy na prezentację mieszkania dwupokojowego (50m2), na 3 piętrze mieszczącego się przy ul. Pestalozziego 8D w Bydgoszczy.Mieszkanie znajduję się w cichej i spokojnej okolicy.Mieszkanie posiada ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Sandra",
+    "lastName": "Solińska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1paXR0ZXB4aWFkZjEtQVBMIn0.GOXDa0Kabt_gAFga1b4mXfd8HaTEoiNeTJ-Iuqui0b8/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Paulina Świerżewska",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "SEPARATE_KITCHEN",
+      "weight": 50,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/dwupokojowe-mieszkanie-na-wynajem-ID4z1uV",
+  "description": "Zapraszamy na prezentację mieszkania dwupokojowego (50m2), na 3 piętrze mieszczącego się przy ul. Pestalozziego 8D w Bydgoszczy.&nbsp;&nbsp;<br>Mieszkanie znajduję się w cichej i spokojnej okolicy.&nbsp;<br><br>Mieszkanie posiada salon oraz kuchnię, sypialnię, łazienkę z osobną toaletą. Sypialnia z wyjściem na balkon oraz rozkładana kanapą i meblami.&nbsp; &nbsp;<br>W przedpokoju bardzo pojemna szafa w zabudowie.&nbsp; &nbsp;<br>Łazienka z wanną i pralką.&nbsp;<br>Do mieszkania przynależy piwnica.&nbsp;&nbsp;<br><br><br><strong>Opłaty za mieszkanie:</strong><br>koszt najmu: 1700 zł<br>opłaty do wspólnoty:&nbsp; 680zł. ( na dwie osoby&nbsp; ok.750 zł)<br>150 zł zaliczka miesięcznie na prąd ( opłacany na podstawie faktur zużycia)<br>kaucja: 3000zł ( zwrotna po rozwiązaniu umowy)&nbsp;<br><br><strong>UMOWA NAJMU OKAZJONALNEGO !</strong><br><br>Zapraszam do prezentacji, mieszkanie wolne od zaraz!<br>Simple Dom - Najem i Zarządzanie jest profesjonalną agencją Nieruchomości i zapewnia najwyższy poziom bezpieczeństwa transakcji.<br>Pobieramy wynagrodzenie w formie prowizji za świadczoną usługę pośrednictwa.<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "rent",
+  "scrapedAt": "2026-07-08T18:42:54.267Z"
+}

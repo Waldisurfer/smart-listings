@@ -1,0 +1,160 @@
+{
+  "id": 68177353,
+  "title": "* Wyższy standard * Parter z ogródkiem * 4 Pokoje",
+  "slug": "wyzszy-standard-parter-z-ogrodkiem-4-pokoje-ID4C42J",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Bohaterów Monte Cassino",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Białystok",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "podlaskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "podlaskie",
+          "fullName": "podlaskie",
+          "name": "podlaskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "podlaskie/bialystok/bialystok/bialystok",
+          "fullName": "Białystok, podlaskie",
+          "name": "Białystok",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "podlaskie/bialystok/bialystok/bialystok/przydworcowe",
+          "fullName": "Przydworcowe, Białystok, podlaskie",
+          "name": "Przydworcowe",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp0azhuazcydzMyZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.QSOUruzJJ2aDPcOONLjspfmZBj3ghAMB1dOiOTV72bM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp0azhuazcydzMyZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.QSOUruzJJ2aDPcOONLjspfmZBj3ghAMB1dOiOTV72bM/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijgxb202NzBvM21rdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xU0No85Z84VLhdiGyWIYxwgbdwlgQAhO2ZF1l_FEYfA/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijgxb202NzBvM21rdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xU0No85Z84VLhdiGyWIYxwgbdwlgQAhO2ZF1l_FEYfA/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdtZjNwYjZoeTdqNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wpzAAvGiVyUCDSzAPafAfE3EIoC8pfHlhi95wvVDyXc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdtZjNwYjZoeTdqNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wpzAAvGiVyUCDSzAPafAfE3EIoC8pfHlhi95wvVDyXc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 12,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:virgo",
+  "agency": {
+    "id": 541344,
+    "name": "Renoma Nieruchomości",
+    "slug": "renoma-nieruchomosci-ID541344",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNsa2cydWZwejA2NTItQVBMIn0.Y-A5D95xtQfamQqHeHUgFmEgGtIDxjScazDNhglhN84/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 589000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 750,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 10172.71,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 57.9,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FOUR",
+  "hidePrice": false,
+  "floorNumber": "GROUND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-07-06 15:33:45",
+  "createdAtFirst": "2026-07-06T15:33:22Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "** STAN DO WEJŚCIA ** PARTER z OGRÓDKIEM **Polecamy Państwu mieszkanie o powierzchni 57,90 m2 przy ul. Boh. Monte Cassino w pobliżu centrum miasta. Do placu pod Ratuszem jest około 10-15 minut piechot...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Renoma Nieruchomości",
+    "imageUrl": "https://statics.otodom.pl/static/otodompl/naspersclassifieds-regional/verticalsre-atlas-web-otodompl/static/img/user_placeholder.png",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "GROUND_FLOOR",
+      "weight": 5,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/wyzszy-standard-parter-z-ogrodkiem-4-pokoje-ID4C42J",
+  "description": "<strong>** STAN DO WEJŚCIA ** PARTER z OGRÓDKIEM **</strong><br/><br/><br/>Polecamy Państwu mieszkanie o powierzchni 57,90 m2 przy ul. Boh. Monte Cassino w pobliżu centrum miasta. Do placu pod Ratuszem jest około 10-15 minut piechotą.<br/><br/><strong>Lokal usytuowany jest na parterze w czteropiętrowym budynku</strong><br/><br/><u>Mieszkanie ciepłe i słoneczne, układ pokoi dwustronny.</u><br/><br/><strong>Na powierzchnię mieszkania składają się:</strong><br/><br/>- 3 oddzielne pokoje<br/><br/>- salon z aneksem kuchennym<br/><br/>- łazienka z WC<br/><br/>- korytarz<br/><br/>- balkon<br/><br/>Do mieszkania przynależy piwnica oraz ogródek<br/><br/><strong>Mieszkanie po generalnym remoncie z wymianą wszystkich instalacji (elektryczna, hydrauliczna)<br/><br/>Mieszkanie sprzedawane z wszystkimi zabudowami- zabudowa kuchenna wraz ze sprzętami (płyta indukcyjna z piekarnikiem, zmywarka, lodówka), szafy, meble w salonie.</strong><br/>Czynsz: ok. 750 złBudynek: zarządzany przez wspólnotę mieszkaniowąParking: obok budynku<strong>Atuty:</strong>- Wykończone pod klucz- Nowe okna w całym mieszkaniu- 3 oddzielne, niezależne pokoje- Salon z kuchnią- Szafy na wymiar- Balkon- Do mieszkania przynależy piwnica- Nowa zabudowa kuchenna na wymiar- Nowe pełne AGD na gwarancji w cenie mieszkania- Mieszkanie dwustronne doświetlone- Nieruchomość jest wolna od wad prawnych czy zadłużeń- Pod adresem nieruchomości nikt nie jest zameldowany- w okolicy znajdują się lokale usługowe tj. przychodnia, apteka, basen, sklepy spożywcze tj, Kaufland, Biedronka, stomatolog, apteka, przychodnia rodzinna, pracownia krawiecka, pizzeria, burgerownia, poczta polska, fryzjerzy itp.<br/><strong>Zapraszam na prezentację</strong>::DODATKOWE INFORMACJE Rodzaj budynku: blokDozór budynku: brakGłośność: cicheWidok: na podwórkoGaz: brakWoda: tak - miejskaDojazd: asfaltOtoczenie: działki zabudowaneOgrzewanie: miejskieRozkład: dwustronne rozkładoweUsytuowanie: dwustronneRodzaj mieszkania: jednopoziomowePiwnica: TAKOkna: PCVInstalacje: wymienioneBalkon: jestLiczba balkonów: 1Powierzchnia użytkowa [m2]: 57,9000Liczba pokoi: 4Liczba sypialni: 4Typ kuchni: aneks kuchenny - połączony z salonemRodzaj kuchni: z zabudową kuchennąTyp łazienki: razem z wcLiczba łazienek: 1Liczba WC: 1Liczba przedpokoi: 1::LINK DO STRONY ::KONTAKT DO AGENTA Renoma Nieruchomoś::DANE BIURA Renoma NieruchomosciRenoma NieruchomosciSienkiewicza 2815-004 Biał.plPośrednik odpowiedzialny zawodowo za wykonanie umowy pośrednictwa: Renoma Nieruchomości (licencja nr: 14961)-Jako licencjonowane i profesjonalne biuro nieruchomości pobieramy wynagrodzenie prowizyjne za wykonanie usługi pośrednictwa.W ramach usługi pośrednictwa zajmujemy sie również rozliczeniem liczników energii elektrycznej, gazu, wody oraz wszystkich innych opłat związanych z nieruchomością.GWARANCJA najniższej ceny dzięki:- okazyjnej cenie nieruchomości- usługom finansowym- atrakcyjnej stawce u NotariuszaTylko u nas GWARANCJA bezpieczeństwa dzięki:- nadzorowi licencjonowanego Pośrednika- polisie OC PośrednikaPotrzebujesz kredytu na zakup nieruchomości? Zapraszamy do nas! Bezpłatnie porównamy oferty wielu banków i wybierzemy najlepsze rozwiązanie do Twoich potrzeb.",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:23.289Z"
+}

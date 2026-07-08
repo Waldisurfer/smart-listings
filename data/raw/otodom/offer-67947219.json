@@ -1,0 +1,167 @@
+{
+  "id": 67947219,
+  "title": "3 Pokoje W Super Cenie DO Negocjacji",
+  "slug": "3-pokoje-w-super-cenie-do-negocjacji-ID4B6aT",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "Władysława Broniewskiego",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Łódź",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "łódzkie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "lodzkie",
+          "fullName": "łódzkie",
+          "name": "łódzkie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lodzkie/lodz/lodz/lodz",
+          "fullName": "Łódź, łódzkie",
+          "name": "Łódź",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lodzkie/lodz/lodz/lodz/gorna",
+          "fullName": "Górna, Łódź, łódzkie",
+          "name": "Górna",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "lodzkie/lodz/lodz/lodz/gorna/chojny",
+          "fullName": "Chojny, Górna, Łódź, łódzkie",
+          "name": "Chojny",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4wNjY1YXhjbjZxNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rSNDAUQlm_g-xzm6h71AQtaq6h-V6UoB5-IRQBi1a7I/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4wNjY1YXhjbjZxNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rSNDAUQlm_g-xzm6h71AQtaq6h-V6UoB5-IRQBi1a7I/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im55YWxxdGptaGd0dy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.SCPVE8nCNISAbV7v8ZUm_JR83iiVk3YyraFdfZE7p8Q/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im55YWxxdGptaGd0dy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.SCPVE8nCNISAbV7v8ZUm_JR83iiVk3YyraFdfZE7p8Q/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhrNzJzOXV0NDMyczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rPaOfNH_jIpgdmjdY8yhpK8lerscZ8e1PeHENu4If0M/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhrNzJzOXV0NDMyczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rPaOfNH_jIpgdmjdY8yhpK8lerscZ8e1PeHENu4If0M/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 20,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:esticrm",
+  "agency": {
+    "id": 7488768,
+    "name": "Sempre Nieruchomości",
+    "slug": "sempre-nieruchomosci-ID7488768",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh6cjBycmgycjA1Yi1BUEwifQ.RpoY54GJomCmgpfsscmQLxkCrf6lQDdFQASnKopJgCs/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 315360,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 600,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 6653.16,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 47.4,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "SECOND",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-27 11:28:20",
+  "createdAtFirst": "2026-04-27T11:28:09Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": null,
+  "specialOffer": null,
+  "shortDescription": "Na sprzedaż komfortowe i ustawne mieszkanie o powierzchni 47,4 m², zlokalizowane w Łodziprzy ul. Broniewskiego, na 2. piętrze w kameralnym, 4-piętrowym budynku.\nLokal wyróżnia się bardzo praktycznym u...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Bartosz",
+    "lastName": "Wojdalski",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijhpd2FnbjFsNzYzdjEtQVBMIn0.QvDWKRepTB8618wAc9ENVHfz6Jhv0bAFetFSw0iq4gI/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Sempre Nieruchomości",
+    "imageUrl": "",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "STORAGE_ROOM",
+      "weight": 30,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/3-pokoje-w-super-cenie-do-negocjacji-ID4B6aT",
+  "description": "<p>Na sprzedaż komfortowe i ustawne mieszkanie o powierzchni <strong>47,4 m</strong>², zlokalizowane w <strong>Łodzi</strong><br><strong>przy ul. Broniewskiego, na 2. piętrze w kameralnym, 4-piętrowym budynku.</strong></p><br/>\nLokal wyróżnia się bardzo praktycznym układem pomieszczeń, który zapewnia wyraźny podział na strefę dzienną i prywatną. Na powierzchni mieszkania znajdują się przestronny salon, dwa niezależne pokoje, osobna kuchnia, łazienka oraz funkcjonalny przedpokój. <br>To idealna propozycja zarówno dla rodzin, jak i osób poszukujących wygodnej przestrzeni do życia lub inwestycji pod wynajem.<br>Dużym atutem nieruchomości jest balkon z przyjemnym widokiem na zieleń, który stanowi doskonałe miejsce do odpoczynku po dniu pracy.<br> Położenie na <strong>2. piętrze</strong> zapewnia wygodny dostęp do mieszkania, bez konieczności pokonywania wielu kondygnacji.<br>Mieszkanie wyposażone jest w<strong> okna PCV,</strong> drewniane pozostały w jednym pokoju.<br> Mieszkanie jest w stanie do remontu generalnego. <br><br><strong>Nieruchomość stanowi odrębną własność z księgą wieczystą i jest dostępna od zaraz.</strong><br>Lokalizacja to kolejny istotny atut - spokojna, zielona okolica z dobrze rozwiniętą infrastrukturą. <br>W pobliżu znajdują się sklepy, punkty usługowe oraz przystanki komunikacji miejskiej, co zapewnia wygodne połączenie z pozostałymi częściami miasta. <br>To miejsce łączy komfort życia wśród zieleni z łatwym dostępem do miejskich udogodnień.<br><br><strong>Najważniejsze atuty:</strong><br><br/>\n<ul><br/>\n<li>3 niezależne pokoje (salon + 2 sypialnie)</li><br/>\n<li>funkcjonalny, wygodny układ pomieszczeń</li><br/>\n<li>balkon z widokiem na zieleń</li><br/>\n<li>2 piętro w niskim budynku</li><br/>\n<li>okna PCV</li><br/>\n<li>meble w zabudowie w cenie</li><br/>\n<li>odrębna własność z księgą wieczystą</li><br/>\n<li>dostępne od zaraz</li><br/>\n</ul><br/>\n<br><strong>Dodatkowo oferujemy wsparcie w uzyskaniu najkorzystniejszego kredytu hipotecznego.</strong><br><br><br/>\n<p>Zapraszam do kontaktu.</p><br><br><strong>Bartosz Wojdalski</strong><br>Ekspert Rynku Nieruchomości<br><br><strong>+48 797 581 761</strong><br><br><br>SEMPRE NIERUCHOMOŚCI<br>ul. Inflancka 45, 91-848 Łódź<br><br><br>Zastanawiasz się w jaki sposób sfinalizować zakup tej nieruchomości ? Współpracujemy tylko ze sprawdzonymi doradcami finansowymi. Zapewnimy Ci bezpieczną transakcję. Rzeczy niemożliwe staną się możliwe! Jesteśmy z Klientami do samego końca sprzedaży.<br><br>Jesteśmy w systemie MLS. Współpracujemy ze wszystkimi Pośrednikami!",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:17.525Z"
+}

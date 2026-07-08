@@ -1,0 +1,170 @@
+{
+  "id": 67915537,
+  "title": "NOWA CENA!!!/Ogromny potencjał aranżacyjny",
+  "slug": "nowa-cena-ogromny-potencjal-aranzacyjny-ID4AXWT",
+  "estate": "FLAT",
+  "development": null,
+  "developmentId": 0,
+  "developmentTitle": "",
+  "developmentUrl": "",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Gabrieli Zapolskiej",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Sosnowiec",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "śląskie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "slaskie",
+          "fullName": "śląskie",
+          "name": "śląskie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/sosnowiec/sosnowiec/sosnowiec",
+          "fullName": "Sosnowiec, śląskie",
+          "name": "Sosnowiec",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "slaskie/sosnowiec/sosnowiec/sosnowiec/klimontow",
+          "fullName": "Klimontów, Sosnowiec, śląskie",
+          "name": "Klimontów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl0eDlsaTJuM3h5czEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bt1i3RwXQx9qKSw6GOWNv38ty21mQYKWUEoS0zuResc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl0eDlsaTJuM3h5czEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bt1i3RwXQx9qKSw6GOWNv38ty21mQYKWUEoS0zuResc/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNoN3pna3VzZDMwNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4wIcP6nVMaGTnZEQJE2EHSIH8bcTbSGolnOBLr95xtg/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNoN3pna3VzZDMwNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4wIcP6nVMaGTnZEQJE2EHSIH8bcTbSGolnOBLr95xtg/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InN0d3h5YnM3ZDdzcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DSF57pqPkHpX4AKivF__BKb-bATwoEe_glf0wUTd55o/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InN0d3h5YnM3ZDdzcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DSF57pqPkHpX4AKivF__BKb-bATwoEe_glf0wUTd55o/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 11,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:asari",
+  "agency": {
+    "id": 5840520,
+    "name": "Woźniakowski Nieruchomości",
+    "slug": "wozniakowski-nieruchomosci-ID5840520",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ3NjkxM2xld2g0bS1BUEwifQ.Lojv4eMlqVEbBCv40FHuKv5WIH_zaQeEsRcJZ9C-5-Y/image;s=800x600;q=90",
+    "type": "AGENCY",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 194000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": {
+    "value": 670,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 4674.7,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 41.5,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "THREE",
+  "hidePrice": false,
+  "floorNumber": "FOURTH",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-05-11 11:37:36",
+  "createdAtFirst": "2026-04-16T21:55:50Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-05-11T11:37:37+02:00",
+  "specialOffer": null,
+  "shortDescription": "Woźniakowski Nieruchomości oferuje 3 pokojowe mieszkanie z ogromnym potencjałem na ul. Gabrieli Zapolskiej w Sosnowcu.Szukasz mieszkania, które możesz urządzić dokładnie tak, jak chcesz? Ta nieruchomo...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": {
+    "firstName": "Donata",
+    "lastName": "Woźniakowska",
+    "photoURL": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im91ZXczbXdmeXdhODMtQVBMIn0.7rNq8Ei7mExp8cnyH-F8OG_51rM9xy_9mttw7t_KkJE/image",
+    "__typename": "OrganisationAssignedMemberResponse"
+  },
+  "advertOwner": {
+    "name": "Donata Woźniakowska",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF0ZGx1NTJ6czE1aTEtQVBMIn0.Z7oqrXTsgBtTOjAhm0Q0OjeTJIa5CuCoa7stEdYNSzI/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "BASEMENT",
+      "weight": 25,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "TOP_FLOOR",
+      "weight": 20,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/nowa-cena-ogromny-potencjal-aranzacyjny-ID4AXWT",
+  "description": "Woźniakowski Nieruchomości <strong>oferuje 3 pokojowe mieszkanie z ogromnym potencjałem na&nbsp; ul. Gabrieli Zapolskiej w Sosnowcu.</strong><br>Szukasz mieszkania, które możesz urządzić dokładnie tak, jak chcesz? <br><strong>Ta nieruchomość to świetna baza do stworzenia nowoczesnej, funkcjonalnej przestrzeni w bardzo dobrej lokalizacji.</strong><br>Lokal o powierzchni 41,5 m² znajduje się na 4. piętrze i posiada wyjątkowo ustawny, rozkładowy układ pomieszczeń. Obecnie składa się z 3 pokoi, osobnej kuchni, łazienki oraz przedpokoju. Mieszkanie jest przeznaczone do generalnego remontu, co daje pełną swobodę aranżacji według własnych potrzeb i gustu.<br><strong> Dużym atutem jest możliwość wyburzenia ściany działowej między kuchnią a pokojem</strong>, co pozwala uzyskać przestronny salon z aneksem kuchennym – rozwiązanie bardzo pożądane we współczesnych wnętrzach.<br><br><strong> Najważniejsze atuty:</strong><br><ul><li>doskonały, funkcjonalny układ mieszkania</li><li>ogromny potencjał aranżacyjny</li><li>ekspozycja okien na północny-wschód oraz południowy-zachód – mieszkanie jest jasne przez cały dzień</li><li>okna PCV</li><li>centralne ogrzewanie miejskie</li><li>piwnica przynależna do mieszkania</li><li>dostęp do suszarni dla mieszkańców klatki</li><li>wejście do budynku zabezpieczone domofonem na kod</li><li>osiedle monitorowane</li><li>parking dla mieszkańców ze szlabanem otwieranym pilotem</li><li>świetna lokalizacja z pełna infrastrukturą - szkoła, przedszkole, sklepy, szpital,&nbsp;Park imienia Wandy Malczewskiej z placem zabaw</li></ul><br><br>To idealna propozycja dla osób, które chcą stworzyć mieszkanie od zera w dobrej lokalizacji, a także świetna opcja inwestycyjna pod wynajem.<br><strong> To mieszkanie nie sprzedaje się za obecny stan – sprzedaje się za możliwości, jakie daje.&nbsp;</strong>Metrów niewiele, możliwości ogromne – dzięki świetnemu układowi. Nie czekaj. Umów się ze mną na prezentacje.<br><br>Współpracujemy z Ekspertem ds.&nbsp; Kredytów, który porówna dla Ciebie ofertę wszystkich banków.<br>Zapewniamy kompleksową, profesjonalną i sprawną obsługę.<br/>\n<br/>\nOferta wysłana z programu dla biur nieruchomości ASARI CRM ()<br/>\n<br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:40:29.679Z"
+}

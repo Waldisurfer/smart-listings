@@ -1,0 +1,317 @@
+{
+  "id": 66342213,
+  "title": "5-pokojowe mieszkanie 143m2 + 3 balkony",
+  "slug": "5-pokojowe-mieszkanie-143m2-3-balkony-ID4umDH",
+  "estate": "FLAT",
+  "development": {
+    "id": 66339761,
+    "title": "Jaśminowy Mokotów VI",
+    "slug": "jasminowy-mokotow-vi-ID4um09",
+    "estate": "INVESTMENT",
+    "developmentId": 0,
+    "developmentTitle": "",
+    "developmentUrl": "",
+    "transaction": "SELL",
+    "location": {
+      "mapDetails": {
+        "radius": 0,
+        "__typename": "MapDetails"
+      },
+      "address": {
+        "street": {
+          "name": "ul. Białego Dębu",
+          "number": "",
+          "__typename": "Street"
+        },
+        "city": {
+          "name": "Warszawa",
+          "__typename": "City"
+        },
+        "province": {
+          "name": "mazowieckie",
+          "__typename": "Province"
+        },
+        "__typename": "Address"
+      },
+      "reverseGeocoding": {
+        "locations": [
+          {
+            "id": "mazowieckie",
+            "fullName": "mazowieckie",
+            "name": "mazowieckie",
+            "locationLevel": "voivodeship",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa",
+            "fullName": "Warszawa, mazowieckie",
+            "name": "Warszawa",
+            "locationLevel": "city_or_village",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+            "fullName": "Mokotów, Warszawa, mazowieckie",
+            "name": "Mokotów",
+            "locationLevel": "district",
+            "__typename": "BasicLocationObject"
+          },
+          {
+            "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/stegny",
+            "fullName": "Stegny, Mokotów, Warszawa, mazowieckie",
+            "name": "Stegny",
+            "locationLevel": "residential",
+            "__typename": "BasicLocationObject"
+          }
+        ],
+        "__typename": "ReverseGeocoding"
+      },
+      "__typename": "LocationDetails"
+    },
+    "images": [
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJyN2RleWU2d3ZybjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2cPVu_KS_9iaOkWcsBPyjiW1tNI1A_tOGUH4PekEvcY/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJyN2RleWU2d3ZybjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2cPVu_KS_9iaOkWcsBPyjiW1tNI1A_tOGUH4PekEvcY/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE3MDVnbDd0azBtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1OTMPA-7EhCdUS7FB6Oqx50dEnynTRfVaTrsF-Rfv4E/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE3MDVnbDd0azBtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1OTMPA-7EhCdUS7FB6Oqx50dEnynTRfVaTrsF-Rfv4E/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9jNmJwZHJibWlwNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PDJvVrPJYQ7wo8Xd7QkkaCvbxJWJYwEHJAZBnK0wiLU/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9jNmJwZHJibWlwNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PDJvVrPJYQ7wo8Xd7QkkaCvbxJWJYwEHJAZBnK0wiLU/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im90OHI5Y3d1b2drai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.I4zkwW9Mc4MqVu3kqbFeTTYMS9_dx3bT1oY8wSEsFEc/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im90OHI5Y3d1b2drai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.I4zkwW9Mc4MqVu3kqbFeTTYMS9_dx3bT1oY8wSEsFEc/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      },
+      {
+        "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoyeWlrbW0xcDN0ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jVVrS_TLLZ5allkNjw1_jP7nkMXhJaVEd67b4LJX5rc/image;s=655x491;q=80",
+        "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImoyeWlrbW0xcDN0ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jVVrS_TLLZ5allkNjw1_jP7nkMXhJaVEd67b4LJX5rc/image;s=1280x1024;q=80",
+        "__typename": "AdImage"
+      }
+    ],
+    "totalPossibleImages": 5,
+    "isExclusiveOffer": false,
+    "isPrivateOwner": false,
+    "isPromoted": false,
+    "agency": {
+      "id": 10556404,
+      "name": "SKANSKA RESIDENTIAL DEVELOPMENT POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "slug": "skanska-residential-development-poland-spolka-z-ograniczona-odpowiedzialnoscia-ID10556404",
+      "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsxZXBoN3BtYmtybTItQVBMIn0.TOYXsBAy2qzL7_P3n7QnhLH3pnsK4SXR_6ZFkLzHOn0/image;s=800x600;q=90",
+      "type": "DEVELOPER",
+      "brandingVisible": true,
+      "highlightedAds": false,
+      "enhancedBrandingFeatures": [
+        "ENHANCED_BRANDING_SELLER_TYPE",
+        "ENHANCED_BRANDING_LOGO_DISPLAY",
+        "ENHANCED_BRANDING_COMPANY_NAME",
+        "ENHANCED_BRANDING_LOGO_REDIRECT",
+        "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+      ],
+      "__typename": "AgencyListingDetails"
+    },
+    "openDays": "",
+    "totalPrice": null,
+    "rentPrice": null,
+    "priceFromPerSquareMeter": {
+      "value": 24510,
+      "currency": "PLN",
+      "__typename": "Money"
+    },
+    "pricePerSquareMeter": null,
+    "areaInSquareMeters": null,
+    "terrainAreaInSquareMeters": null,
+    "roomsNumber": null,
+    "hidePrice": false,
+    "floorNumber": null,
+    "investmentState": "READY",
+    "investmentUnitsAreaInSquareMeters": {
+      "from": 49,
+      "to": 143,
+      "__typename": "InvestmentUnitsArea"
+    },
+    "peoplePerRoom": null,
+    "dateCreated": "2025-01-14 09:51:10",
+    "createdAtFirst": "2025-01-14T09:44:33Z",
+    "investmentUnitsNumber": 19,
+    "investmentUnitsFloorsRange": {
+      "min": "GROUND",
+      "max": "SECOND",
+      "__typename": "InvestmentUnitsFloorsRange"
+    },
+    "investmentUnitsRoomsNumber": {
+      "min": "TWO",
+      "max": "FIVE",
+      "__typename": "InvestmentUnitsRoomsNumber"
+    },
+    "investmentEstimatedDelivery": {
+      "quarter": 2,
+      "year": 2026,
+      "__typename": "InvestmentEstimatedDelivery"
+    },
+    "pushedUpAt": null,
+    "specialOffer": null,
+    "shortDescription": "2, 3 i 5-pokojowe mieszkania od49m2 do143m2 w cenie od 1380000 zł od dewelopera SkanskaPonadstandardowa wysokość pomieszczeńSystem smart home AppartmePark Enklawa (4 minuty spacerem)Dolinka Służewieck...",
+    "tags": [],
+    "__typename": "AdvertListItem"
+  },
+  "developmentId": 66339761,
+  "developmentTitle": "Jaśminowy Mokotów VI",
+  "developmentUrl": "https://www.otodom.pl/pl/oferta/jasminowy-mokotow-vi-ID4um09",
+  "transaction": "SELL",
+  "location": {
+    "mapDetails": {
+      "radius": 0,
+      "__typename": "MapDetails"
+    },
+    "address": {
+      "street": {
+        "name": "ul. Białego Dębu",
+        "number": "",
+        "__typename": "Street"
+      },
+      "city": {
+        "name": "Warszawa",
+        "__typename": "City"
+      },
+      "province": {
+        "name": "mazowieckie",
+        "__typename": "Province"
+      },
+      "__typename": "Address"
+    },
+    "reverseGeocoding": {
+      "locations": [
+        {
+          "id": "mazowieckie",
+          "fullName": "mazowieckie",
+          "name": "mazowieckie",
+          "locationLevel": "voivodeship",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa",
+          "fullName": "Warszawa, mazowieckie",
+          "name": "Warszawa",
+          "locationLevel": "city_or_village",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+          "fullName": "Mokotów, Warszawa, mazowieckie",
+          "name": "Mokotów",
+          "locationLevel": "district",
+          "__typename": "BasicLocationObject"
+        },
+        {
+          "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/stegny",
+          "fullName": "Stegny, Mokotów, Warszawa, mazowieckie",
+          "name": "Stegny",
+          "locationLevel": "residential",
+          "__typename": "BasicLocationObject"
+        }
+      ],
+      "__typename": "ReverseGeocoding"
+    },
+    "__typename": "LocationDetails"
+  },
+  "images": [
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE3MDVnbDd0azBtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1OTMPA-7EhCdUS7FB6Oqx50dEnynTRfVaTrsF-Rfv4E/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE3MDVnbDd0azBtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1OTMPA-7EhCdUS7FB6Oqx50dEnynTRfVaTrsF-Rfv4E/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV2dTEwMWwwbWt4aS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.X7T9cgkLkru0YRkdg_IT-vGwxpxyYuvGaVnJQjWSrPk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV2dTEwMWwwbWt4aS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.X7T9cgkLkru0YRkdg_IT-vGwxpxyYuvGaVnJQjWSrPk/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    },
+    {
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQxZ2lzeDNvMTAyMjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cj-Xfc39lEgNamoCCCVA_aKcQH3_ecHNbgvw8OwlePE/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQxZ2lzeDNvMTAyMjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cj-Xfc39lEgNamoCCCVA_aKcQH3_ecHNbgvw8OwlePE/image;s=1280x1024;q=80",
+      "__typename": "AdImage"
+    }
+  ],
+  "totalPossibleImages": 8,
+  "isExclusiveOffer": false,
+  "isPrivateOwner": false,
+  "isPromoted": false,
+  "source": "urn:partner:obidointegration",
+  "agency": {
+    "id": 10556404,
+    "name": "SKANSKA RESIDENTIAL DEVELOPMENT POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "slug": "skanska-residential-development-poland-spolka-z-ograniczona-odpowiedzialnoscia-ID10556404",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsxZXBoN3BtYmtybTItQVBMIn0.TOYXsBAy2qzL7_P3n7QnhLH3pnsK4SXR_6ZFkLzHOn0/image;s=800x600;q=90",
+    "type": "DEVELOPER",
+    "brandingVisible": true,
+    "highlightedAds": false,
+    "enhancedBrandingFeatures": [
+      "ENHANCED_BRANDING_SELLER_TYPE",
+      "ENHANCED_BRANDING_LOGO_DISPLAY",
+      "ENHANCED_BRANDING_COMPANY_NAME",
+      "ENHANCED_BRANDING_LOGO_REDIRECT",
+      "ENHANCED_BRANDING_GALLERY_CONTACT_SLIDE"
+    ],
+    "__typename": "AgencyListingDetails"
+  },
+  "openDays": "",
+  "totalPrice": {
+    "value": 3520000,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "rentPrice": null,
+  "priceFromPerSquareMeter": null,
+  "pricePerSquareMeter": {
+    "value": 24510.83,
+    "currency": "PLN",
+    "__typename": "Money"
+  },
+  "areaInSquareMeters": 143.61,
+  "terrainAreaInSquareMeters": null,
+  "roomsNumber": "FIVE",
+  "hidePrice": false,
+  "floorNumber": "FIRST",
+  "investmentState": null,
+  "investmentUnitsAreaInSquareMeters": null,
+  "peoplePerRoom": null,
+  "dateCreated": "2026-04-27 11:09:36",
+  "createdAtFirst": "2025-01-14T10:36:16Z",
+  "investmentUnitsNumber": null,
+  "investmentUnitsRoomsNumber": null,
+  "investmentEstimatedDelivery": null,
+  "pushedUpAt": "2026-04-27T11:09:52+02:00",
+  "specialOffer": null,
+  "shortDescription": "5-pokojowe mieszkanie numer 6A0105  na 1. piętrze w budynku A w Inwestycji Jaśminowy Mokotów VI Dewelopera SkanskaPonadstandardowa wysokość pomieszczeńSystem smart home AppartmePark Enklawa (4 minuty ...",
+  "showPremiumTile": false,
+  "organisationAssignedMember": null,
+  "advertOwner": {
+    "name": "Biuro Sprzedaży",
+    "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc1Y2N1andkYW94eDEtQVBMIn0.2lEtU_rmfm1NyeDGhIgAly72o3ACiwfUuGMLnCVy170/image;s=97x97;q=100",
+    "contacts": [],
+    "__typename": "LegacyAdvertOwner"
+  },
+  "tags": [
+    {
+      "value": "BALCONY",
+      "weight": 35,
+      "__typename": "AdvertListItemTag"
+    },
+    {
+      "value": "PARKING_SPOT",
+      "weight": 15,
+      "__typename": "AdvertListItemTag"
+    }
+  ],
+  "__typename": "AdvertListItem",
+  "href": "[lang]/ad/5-pokojowe-mieszkanie-143m2-3-balkony-ID4umDH",
+  "description": "<ul><li>5-pokojowe mieszkanie<strong> numer 6A0105</strong>  na 1. piętrze w budynku A w Inwestycji Jaśminowy Mokotów VI Dewelopera Skanska</li><li>Ponadstandardowa wysokość pomieszczeń</li><li>System smart home Appartme</li><li>Park Enklawa (4 minuty spacerem)</li><li>Dolinka Służewiecka (20 minut spacerem)</li><li>Przystanek autobusowy (8 minut spacerem)</li><li>Stacja metra \"Wilanowska\" (20 minut spacerem)</li><li>Lidl (3 minuty samochodem), Biedronka (4 minuty samochodem)</li><li>Sadyba Best Mall, Cinema City (8 minut samochodem)</li></ul><br/><strong>Jaśminowy Mokotów VI - poznaj inwestycję</strong><br/><p>Etap VI osiedla Jaśminowy Mokotów to <strong>prestiżowy kompleks mieszkaniowy</strong>, doskonale zintegrowany z zielonym otoczeniem Mokotowa, położony zaledwie<strong> kilkanaście minut od centrum Warszawy</strong>. Osiedle cechuje się kameralną architekturą, a eleganckie wille miejskie oferują <strong>apartamenty o powierzchni 50-164 m²</strong>, które spełniają oczekiwania najbardziej wymagających klientów.</p><p>Innowacyjne rozwiązania, takie jak<strong> pompy ciepła i panele słoneczne</strong>, pozwalają na redukcję kosztów energii oraz wspierają ochronę środowiska. Dodatkowo, <strong>system smart home Appartme</strong> umożliwia mieszkańcom pełną kontrolę zużycia mediów poprzez aplikację mobilną.</p><p>Budynki wyróżniają się eleganckimi płytkami ceramicznymi na elewacjach, natomiast<strong> przestronne balkony, tarasy oraz ogrody przydomowe</strong> zapewniają miejsca do relaksu na świeżym powietrzu. Dodatkowo lokatorzy górnych pięter mogą korzystać z <strong>prywatnych tarasów na dachu </strong>z widokiem na zielone okolice.</p><p><strong>Większość powierzchni osiedla stanowią obszary biologicznie aktywne</strong>, które wspierają retencję wód oraz wzrost roślinności. Dzięki zastosowanym rozwiązaniom z zakresu zrównoważonego rozwoju, takim jak budki dla ptaków, ogródki deszczowe i czujniki jakości powietrza, <strong>Jaśminowy Mokotów uzyskał certyfikat BREEAM </strong>na poziomie „Very good”.</p><p>Położenie osiedla łączy w sobie bliskość centrum metropolii z sąsiedztwem niezwykłych terenów zielonych, takich jak <strong>Park Enklawa</strong>, idealny na spacery i aktywny wypoczynek. <strong>Bliskość zabytkowej Królikarni oraz jej Parku Arkadia</strong> dodaje temu miejscu wyjątkowego historycznego charakteru. <strong>Okolica z bogatym zapleczem infrastrukturalnym </strong>– sklepami, szkołami, restauracjami i obiektami sportowymi – ułatwia codzienne funkcjonowanie, łącząc spokój zieleni z udogodnieniami miejskiego życia.</p><br/><strong>Jaśminowy Mokotów VI - lokalizacja</strong><br/><br/>Mokotów, ul. Białego Dębu<br/><ul><li>5,7 km do centrum</li><li>8 min. spacerem do przystanku autobusowego</li><li>5 min. samochodem do przystanku tramwajowego</li><li>8 min. samochodem do stacji metra</li><li>dojazd do centrum: 20 min samochodem</li></ul>Istotne punkty w okolicy inwestycji<ul><li>Park (282 m, 4 minuty spacerem)</li><li>Piekarnia (455 m, 7 minut spacerem)</li><li>Lekarz (458 m, 7 minut spacerem)</li><li>Kawiarnia (521 m, 8 minut spacerem)</li><li>Przystanek autobusowy (586 m, 8 minut spacerem)</li><li>Szkoła Podstawowa (758 m, 11 minut spacerem)</li><li>Weterynarz (860 m, 12 minut spacerem)</li><li>Przedszkole (942 m, 13 minut spacerem)</li><li>Siłownia (997 m, 15 minut spacerem)</li></ul><br/>",
+  "offerType": "sale",
+  "scrapedAt": "2026-07-08T18:41:33.411Z"
+}
