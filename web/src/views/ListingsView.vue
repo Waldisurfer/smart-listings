@@ -1,0 +1,323 @@
+<script setup lang="ts">
+import { computed, nextTick, onMounted, reactive, ref, watch } from 'vue';
+import { useRoute, useRouter } from 'vue-router';
+import { fetchListings, type Listing, type ListingFilters } from '../api/client';
+import ChatSearch, { type IntentResponse } from '../components/ChatSearch.vue';
+import ListingCard from '../components/ListingCard.vue';
+
+const PAGE_SIZE = 20;
+const DEBOUNCE_MS = 300;
+const CITIES = ['Kraków', 'Warszawa']; // the scraped snapshot's cities
+
+const route = useRoute();
+const router = useRouter();
+
+// One reactive filters object, synced to the URL: refresh/share a
+// search, and chat-search results are demonstrable as a URL.
+const filters = reactive<ListingFilters>({
+  offerType: route.query.offerType === 'rent' ? 'rent' : 'sale',
+  q: String(route.query.q ?? ''),
+  city: String(route.query.city ?? ''),
+  minPrice: String(route.query.minPrice ?? ''),
+  maxPrice: String(route.query.maxPrice ?? ''),
+  minArea: String(route.query.minArea ?? ''),
+  maxArea: String(route.query.maxArea ?? ''),
+  rooms: String(route.query.rooms ?? ''),
+  page: Number(route.query.page ?? 1) || 1,
+});
+
+const items = ref<Listing[]>([]);
+const total = ref(0);
+const loading = ref(true);
+const error = ref('');
+
+const totalPages = computed(() => Math.max(1, Math.ceil(total.value / PAGE_SIZE)));
+
+const chatOpen = ref(false);
+const interpretation = ref('');
+const degraded = ref(false);
+
+// Applying a chat intent mutates several filter fields at once. Without this
+// guard each mutated field's watcher would fire its own load(); we suppress
+// them for the batch and issue exactly one fetch instead.
+let suppressWatch = false;
+// Monotonic token: a slow request that resolves after a newer one is discarded
+// rather than overwriting fresh results (out-of-order response guard).
+let loadSeq = 0;
+
+// AI intent lands in the SAME filters object the manual controls drive —
+// one search implementation, two input modalities.
+function applyIntent(intent: IntentResponse) {
+  suppressWatch = true;
+  Object.assign(filters, {
+    offerType: 'sale', q: '', city: '', minPrice: '', maxPrice: '',
+    minArea: '', maxArea: '', rooms: '', page: 1,
+  });
+  for (const [key, value] of Object.entries(intent.filters)) {
+    if (key in filters) (filters as Record<string, unknown>)[key] = String(value);
+  }
+  filters.page = 1;
+  interpretation.value = intent.interpretation;
+  degraded.value = intent.degraded;
+  // Let the watchers flush against the suppress flag, then fetch exactly once.
+  nextTick(() => {
+    suppressWatch = false;
+    load();
+  });
+}
+
+async function load() {
+  const seq = ++loadSeq;
+  loading.value = true;
+  error.value = '';
+  const query = Object.fromEntries(
+    Object.entries({ ...filters, page: String(filters.page) }).filter(([, v]) => v !== '' && v !== '1'),
+  );
+  router.replace({ query });
+  try {
+    const data = await fetchListings(filters);
+    if (seq !== loadSeq) return; // superseded by a newer load()
+    items.value = data.items;
+    total.value = data.total;
+  } catch (err) {
+    if (seq !== loadSeq) return;
+    error.value = err instanceof Error ? err.message : 'Failed to load listings';
+    items.value = [];
+    total.value = 0;
+  } finally {
+    if (seq === loadSeq) loading.value = false;
+  }
+}
+
+// Text input debounces; every other control fetches immediately.
+let qTimer: ReturnType<typeof setTimeout> | undefined;
+watch(
+  () => filters.q,
+  () => {
+    if (suppressWatch) return;
+    clearTimeout(qTimer);
+    qTimer = setTimeout(() => {
+      filters.page = 1;
+      load();
+    }, DEBOUNCE_MS);
+  },
+);
+watch(
+  () => [filters.offerType, filters.city, filters.minPrice, filters.maxPrice, filters.minArea, filters.maxArea, filters.rooms],
+  () => {
+    if (suppressWatch) return;
+    filters.page = 1;
+    load();
+  },
+);
+watch(
+  () => filters.page,
+  () => {
+    if (suppressWatch) return;
+    load();
+    window.scrollTo({ top: 0 });
+  },
+);
+
+onMounted(load);
+</script>
+
+<template>
+  <section>
+    <div class="search-bar">
+      <input
+        v-model="filters.q"
+        type="search"
+        placeholder="Search title or description… (balkon, garaż, Kazimierz)"
+        aria-label="Text search"
+      />
+      <button class="chat-toggle" :class="{ open: chatOpen }" @click="chatOpen = !chatOpen">
+        ✨ Chat search
+      </button>
+    </div>
+
+    <ChatSearch v-if="chatOpen" @apply-filters="applyIntent" />
+
+    <p v-if="interpretation" class="interpretation" :class="{ degraded }">
+      {{ interpretation }}
+      <button class="dismiss" aria-label="Dismiss" @click="interpretation = ''">✕</button>
+    </p>
+
+    <div class="filter-row">
+      <div class="toggle" role="group" aria-label="Offer type">
+        <button :class="{ active: filters.offerType === 'sale' }" @click="filters.offerType = 'sale'">
+          Sale
+        </button>
+        <button :class="{ active: filters.offerType === 'rent' }" @click="filters.offerType = 'rent'">
+          Rent
+        </button>
+      </div>
+      <select v-model="filters.city" aria-label="City">
+        <option value="">All cities</option>
+        <option v-for="c in CITIES" :key="c" :value="c">{{ c }}</option>
+      </select>
+      <input v-model="filters.minPrice" type="number" min="0" placeholder="Min zł" aria-label="Min price" />
+      <input v-model="filters.maxPrice" type="number" min="0" placeholder="Max zł" aria-label="Max price" />
+      <input v-model="filters.minArea" type="number" min="0" placeholder="Min m²" aria-label="Min area" />
+      <input v-model="filters.maxArea" type="number" min="0" placeholder="Max m²" aria-label="Max area" />
+      <select v-model="filters.rooms" aria-label="Rooms">
+        <option value="">Rooms</option>
+        <option v-for="n in 5" :key="n" :value="String(n)">{{ n }}+</option>
+      </select>
+    </div>
+
+    <p v-if="!loading && !error" class="result-count">
+      {{ total }} listing{{ total === 1 ? '' : 's' }}
+    </p>
+
+    <div v-if="loading" class="grid" aria-hidden="true">
+      <div v-for="n in 6" :key="n" class="skeleton" />
+    </div>
+
+    <p v-else-if="error" class="state error">{{ error }}</p>
+
+    <p v-else-if="items.length === 0" class="state">No listings match these filters.</p>
+
+    <div v-else class="grid">
+      <ListingCard v-for="l in items" :key="l.id" :listing="l" />
+    </div>
+
+    <nav v-if="totalPages > 1" class="pagination" aria-label="Pagination">
+      <button :disabled="filters.page <= 1" @click="filters.page--">← Prev</button>
+      <span>page {{ filters.page }} of {{ totalPages }}</span>
+      <button :disabled="filters.page >= totalPages" @click="filters.page++">Next →</button>
+    </nav>
+  </section>
+</template>
+
+<style scoped>
+.search-bar {
+  display: flex;
+  gap: 8px;
+}
+
+.search-bar input {
+  flex: 1;
+  padding: 12px 14px;
+  font-size: 16px;
+}
+
+.chat-toggle {
+  white-space: nowrap;
+}
+
+.chat-toggle.open {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.interpretation {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  border-radius: calc(var(--radius) - 4px);
+  padding: 8px 12px;
+  margin: 10px 0 0;
+  font-size: 14px;
+}
+
+.interpretation.degraded {
+  border-color: #9a6700;
+  color: #9a6700;
+}
+
+.interpretation .dismiss {
+  margin-left: auto;
+  border: none;
+  background: none;
+  padding: 2px 6px;
+  color: var(--muted);
+}
+
+.filter-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.filter-row input[type='number'] {
+  width: 96px;
+}
+
+.toggle {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: calc(var(--radius) - 4px);
+  overflow: hidden;
+}
+
+.toggle button {
+  border: none;
+  border-radius: 0;
+  padding: 8px 16px;
+}
+
+.toggle button.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.result-count {
+  color: var(--muted);
+  font-size: 13px;
+  margin: 14px 0 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.skeleton {
+  height: 320px;
+  border-radius: var(--radius);
+  background: linear-gradient(100deg, var(--line) 40%, var(--surface) 50%, var(--line) 60%);
+  background-size: 200% 100%;
+  animation: pulse 1.2s infinite linear;
+}
+
+@keyframes pulse {
+  from {
+    background-position: 120% 0;
+  }
+  to {
+    background-position: -80% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton {
+    animation: none;
+  }
+}
+
+.state {
+  color: var(--muted);
+  padding: 48px 0;
+  text-align: center;
+}
+
+.state.error {
+  color: #b3261e;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin: 28px 0 40px;
+  color: var(--muted);
+}
+</style>
