@@ -4,7 +4,12 @@
   "engines": {
     "node": ">=20"
   },
+  "workspaces": [
+    "server"
+  ],
   "scripts": {
+    "dev": "npm --workspace server run dev",
+    "typecheck": "npm --workspace server run typecheck",
     "test": "echo \"no tests yet — added in phase 2\" && exit 0"
   }
 }
