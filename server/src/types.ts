@@ -6,7 +6,7 @@ export type OfferType = 'sale' | 'rent';
  * `price` semantics: total PLN for sale, monthly PLN for rent.
  */
 export interface NormalizedListing {
-  source: 'otodom' | 'olx';
+  source: 'otodom';
   source_id: string;
   offer_type: OfferType;
   source_url: string;

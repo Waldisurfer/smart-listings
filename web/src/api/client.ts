@@ -6,7 +6,7 @@ export type OfferType = 'sale' | 'rent';
 
 export interface Listing {
   id: number;
-  source: 'otodom' | 'olx';
+  source: 'otodom';
   source_id: string;
   offer_type: OfferType;
   source_url: string;

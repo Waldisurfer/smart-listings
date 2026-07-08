@@ -9,7 +9,7 @@
 -- so there is no separate migration step to forget.
 CREATE TABLE IF NOT EXISTS listings (
   id            INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-  source        ENUM('otodom','olx') NOT NULL,      -- portal-tolerant; ids can collide across portals
+  source        ENUM('otodom') NOT NULL,             -- provenance; otodom is the only portal
   source_id     VARCHAR(64)  NOT NULL,              -- portal offer id → idempotent upsert key
   offer_type    ENUM('sale','rent') NOT NULL,       -- price semantics depend on this
   source_url    VARCHAR(768) NOT NULL,

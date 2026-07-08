@@ -20,7 +20,7 @@ const fixture = (name: string) =>
   );
 
 describe('parseRooms', () => {
-  test('maps word enums from both portals (otodom caps, olx lowercase)', () => {
+  test('maps otodom word enums, case-insensitively', () => {
     expect(parseRooms('THREE')).toBe(3);
     expect(parseRooms('four')).toBe(4);
     expect(parseRooms('ONE')).toBe(1);
@@ -39,17 +39,11 @@ describe('parseRooms', () => {
 });
 
 describe('parseFloor', () => {
-  test('maps otodom enums: GROUND=0, ordinals, ABOVE_TENTH=11', () => {
+  test('maps otodom enums: GROUND=0, ordinals, ABOVE_TENTH=11, CELLAR=-1', () => {
     expect(parseFloor('GROUND')).toBe(0);
     expect(parseFloor('FIRST')).toBe(1);
     expect(parseFloor('TENTH')).toBe(10);
     expect(parseFloor('ABOVE_TENTH')).toBe(11);
-  });
-
-  test('maps olx/polish forms: floor_N, parter, suterena', () => {
-    expect(parseFloor('floor_2')).toBe(2);
-    expect(parseFloor('parter')).toBe(0);
-    expect(parseFloor('suterena')).toBe(-1);
     expect(parseFloor('CELLAR')).toBe(-1);
   });
 

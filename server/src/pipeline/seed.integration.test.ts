@@ -26,7 +26,7 @@ test('seed loads a ~100-listing dataset with consistent counts', async () => {
   // signal a scrape/seed regression rather than normal variation.
   expect(stats.total).toBeGreaterThanOrEqual(90);
   expect(stats.total).toBeLessThanOrEqual(120);
-  expect(stats.otodom + stats.olx).toBe(stats.total);
+  expect(stats.otodom).toBe(stats.total); // every row is otodom-sourced
   expect(stats.sale + stats.rent).toBe(stats.total);
   // flag-never-drop: incomplete offers (e.g. investment adverts) are kept and
   // counted, not dropped — some, but not all.
