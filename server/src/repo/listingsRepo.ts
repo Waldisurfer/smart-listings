@@ -14,7 +14,6 @@ import type { NormalizedListing, OfferType } from '../types.js';
 
 export interface ListingFilters {
   offerType: OfferType;
-  source?: 'otodom' | 'olx';
   q?: string;
   city?: string;
   minPrice?: number;
@@ -52,10 +51,6 @@ export async function findListings(
   const conditions: string[] = ['is_duplicate = FALSE', 'offer_type = ?'];
   const params: unknown[] = [f.offerType];
 
-  if (f.source) {
-    conditions.push('source = ?');
-    params.push(f.source);
-  }
   if (f.q) {
     conditions.push('(title LIKE ? OR description LIKE ?)'); // LIKE is correct at n≈100
     params.push(`%${f.q}%`, `%${f.q}%`);

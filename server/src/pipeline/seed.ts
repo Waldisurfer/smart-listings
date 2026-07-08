@@ -40,7 +40,6 @@ const UPSERT = `
 export interface SeedStats {
   total: number;
   otodom: number;
-  olx: number;
   sale: number;
   rent: number;
   incomplete: number;
@@ -77,7 +76,7 @@ export async function seed(): Promise<SeedStats> {
 
   const [[row]] = (await pool.query(`
     SELECT COUNT(*) AS total,
-      SUM(source = 'otodom') AS otodom, SUM(source = 'olx') AS olx,
+      SUM(source = 'otodom') AS otodom,
       SUM(offer_type = 'sale') AS sale, SUM(offer_type = 'rent') AS rent,
       SUM(is_incomplete) AS incomplete, SUM(is_duplicate) AS duplicates
     FROM listings
@@ -86,7 +85,6 @@ export async function seed(): Promise<SeedStats> {
   return {
     total: Number(row.total),
     otodom: Number(row.otodom),
-    olx: Number(row.olx),
     sale: Number(row.sale),
     rent: Number(row.rent),
     incomplete: Number(row.incomplete),
@@ -100,7 +98,7 @@ if (import.meta.url === pathToFileURL(process.argv[1]!).href) {
     .then((s) => {
       console.log(
         `Seeded ${s.total} listings ` +
-          `(otodom ${s.otodom} / olx ${s.olx} · sale ${s.sale} / rent ${s.rent} · ` +
+          `(otodom ${s.otodom} · sale ${s.sale} / rent ${s.rent} · ` +
           `${s.incomplete} incomplete, ${s.duplicates} duplicates flagged)`,
       );
       return pool.end();

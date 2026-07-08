@@ -4,9 +4,8 @@
  * No AI here: everything below is derivable by plain code; the model only gets
  * involved later, for the fields that are STILL null after this pass.
  *
- * Parsers are deliberately tolerant of both portals' encodings (otodom enums
- * like "THREE"/"GROUND", OLX forms like "four"/"floor_2"/"951 000 zł") so the
- * OLX adapter can reuse them if that source is unparked.
+ * Parsers accept otodom's word/enum encodings ("THREE", "GROUND", "ABOVE_TENTH")
+ * case-insensitively, and fall back to numeric forms.
  */
 import { createHash } from 'node:crypto';
 import type { NormalizedListing, OfferType } from '../types.js';
@@ -27,11 +26,11 @@ export function parseRooms(value: unknown): number | null {
 }
 
 const FLOOR_ORDINALS: Record<string, number> = {
-  ground: 0, parter: 0,
+  ground: 0,
   first: 1, second: 2, third: 3, fourth: 4, fifth: 5,
   sixth: 6, seventh: 7, eighth: 8, ninth: 9, tenth: 10,
   above_tenth: 11,
-  cellar: -1, suterena: -1,
+  cellar: -1,
 };
 
 export function parseFloor(value: unknown): number | null {
@@ -39,8 +38,6 @@ export function parseFloor(value: unknown): number | null {
   if (typeof value !== 'string' || value === '') return null;
   const key = value.toLowerCase();
   if (key in FLOOR_ORDINALS) return FLOOR_ORDINALS[key];
-  const olx = key.match(/^floor_(-?\d+)$/); // OLX encodes floors as "floor_N"
-  if (olx) return parseInt(olx[1], 10);
   return null;
 }
 

@@ -9,7 +9,6 @@ import { findById, findListings, getDistinctCities } from '../repo/listingsRepo.
 
 const ListQuery = z.object({
   offerType: z.enum(['sale', 'rent']).default('sale'),
-  source: z.enum(['otodom', 'olx']).optional(),
   q: z.string().trim().min(1).max(200).optional(),
   city: z.string().trim().min(1).max(128).optional(),
   minPrice: z.coerce.number().int().nonnegative().optional(),
