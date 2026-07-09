@@ -137,6 +137,31 @@ The intent parser can **hallucinate a price ceiling** for a vague word like
 **and** land in the normal filter controls — the user sees exactly what was
 applied and can clear or adjust it. Nothing happens invisibly.
 
+## Example scenarios (user journeys)
+
+### Example A: the high-precision filter (deterministic UI)
+
+- **User intent:** find a mid-sized flat within a specific geographic and
+  physical boundary, without AI intervention.
+- **Path:** the user opens the web interface, selects "Sale", types "Kraków"
+  into the dynamic city filter, and sets the area sliders to 40 m² – 80 m².
+- **Outcome:** the system bypasses the LLM entirely, querying the database
+  deterministically. It returns the exact subset matching those bounds. Missing
+  data fields (like an absent floor number) render cleanly as "—" without
+  breaking the UI layout.
+
+### Example B: the vague intent (AI chat box)
+
+- **User intent:** a fluid budget and fuzzy criteria, typed as *"I want a nice,
+  cheap flat, 40m in Kraków"*.
+- **Path:** the input hits the intent parser. The LLM maps "Kraków" to
+  `{ city: "Kraków" }`, "40m" to `{ minArea: 40 }`, and translates the
+  subjective "cheap" into a metro-adjusted price ceiling `{ maxPrice: 650000 }`.
+- **Outcome:** the UI updates to show the matching listings, and a visible banner
+  above the results reads *"Applied filters: City: Kraków | Max Price: 650,000
+  PLN | Min Area: 40 m²"*. The user can manually clear the AI-generated price
+  ceiling if the model guessed too aggressively — full control is retained.
+
 ## What I'd improve with more time
 
 - A second marketplace as a source (parsers written portal-tolerant to make this
