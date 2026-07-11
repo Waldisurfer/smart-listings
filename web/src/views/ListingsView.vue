@@ -13,6 +13,11 @@ const cities = ref<string[]>([]);
 const route = useRoute();
 const router = useRouter();
 
+const DEFAULT_FILTERS: ListingFilters = {
+  offerType: 'sale', q: '', city: '', minPrice: '', maxPrice: '',
+  minArea: '', maxArea: '', rooms: '', page: 1,
+};
+
 // One reactive filters object, synced to the URL: refresh/share a
 // search, and chat-search results are demonstrable as a URL.
 const filters = reactive<ListingFilters>({
@@ -60,10 +65,7 @@ let loadSeq = 0;
 // one search implementation, two input modalities.
 function applyIntent(intent: IntentResponse) {
   suppressWatch = true;
-  Object.assign(filters, {
-    offerType: 'sale', q: '', city: '', minPrice: '', maxPrice: '',
-    minArea: '', maxArea: '', rooms: '', page: 1,
-  });
+  Object.assign(filters, DEFAULT_FILTERS);
   for (const [key, value] of Object.entries(intent.filters)) {
     if (key in filters) (filters as Record<string, unknown>)[key] = String(value);
   }
@@ -82,7 +84,9 @@ async function load() {
   loading.value = true;
   error.value = '';
   const query = Object.fromEntries(
-    Object.entries({ ...filters, page: String(filters.page) }).filter(([, v]) => v !== '' && v !== '1'),
+    Object.entries({ ...filters, page: String(filters.page) }).filter(
+      ([k, v]) => v !== '' && (k !== 'page' || v !== '1'), // only page=1 is a default worth hiding
+    ),
   );
   router.replace({ query });
   try {
@@ -129,6 +133,24 @@ watch(
     window.scrollTo({ top: 0 });
   },
 );
+
+// The mode toggle is view state, but the shared filters object is search state:
+// without a reset, AI-applied filters (some unrenderable by the manual controls,
+// e.g. a city that is not among the <select> options) stay silently active after
+// switching modes. Each switch starts from a clean search.
+function resetSearch() {
+  clearTimeout(qTimer);
+  suppressWatch = true;
+  Object.assign(filters, DEFAULT_FILTERS);
+  interpretation.value = '';
+  degraded.value = false;
+  nextTick(() => {
+    suppressWatch = false;
+    load();
+  });
+}
+
+watch(aiMode, resetSearch);
 
 onMounted(() => {
   load();
