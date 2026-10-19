@@ -1,0 +1,69 @@
+flowchart TB
+  subgraph offline["OFFLINE — author machine once"]
+    OTO["otodom.pl"]
+    SCR["pipeline/scrape.ts<br/>random nationwide pages<br/>54 sale + 54 rent"]
+    RAW["data/raw/otodom/*.json"]
+    ING["pipeline/ingest.ts"]
+    NORM["normalize.ts<br/>deterministic parsers"]
+    CLAUDE_OFF["claude.ts<br/>gap-fill + summaries"]
+    ENRICH["enrich.ts<br/>deterministic-wins merge"]
+    ENR["data/enriched/listings.json<br/>committed runtime input"]
+
+    OTO --> SCR --> RAW --> ING
+    ING --> NORM
+    NORM --> CLAUDE_OFF
+    CLAUDE_OFF --> ENRICH
+    NORM --> ENRICH
+    ENRICH --> ENR
+  end
+
+  subgraph bootstrap["BOOT / DEPLOY"]
+    DC["docker compose up"]
+    APP["Node app<br/>seed then serve"]
+    ENS["db.ts<br/>ensureSchema()"]
+  end
+
+  subgraph runtime["RUNTIME — browse works without API key"]
+    WEB["Vue 3 SPA"]
+    MAIN["main.ts + router.ts"]
+    LISTV["ListingsView.vue<br/>manual filters + AI mode"]
+    DETAIL["ListingDetailView.vue"]
+    CHAT["ChatSearch.vue"]
+    CLIENT["api/client.ts"]
+
+    API["Express 5<br/>index.ts"]
+    LISTR["routes/listings.ts"]
+    SEARCHR["routes/search.ts"]
+    ZOD["zod validation"]
+    REPO["repo/listingsRepo.ts<br/>all SQL"]
+    CLAUDE_RT["claude.ts<br/>parseSearchIntent"]
+    FALLBACK["degraded fallback<br/>plain text search"]
+  end
+
+  subgraph data["DATA"]
+    SEED["pipeline/seed.ts<br/>upsert + fuzzy dedupe"]
+    DB[(MySQL 8<br/>single listings table)]
+  end
+
+  subgraph external["EXTERNAL"]
+    ANTH["Anthropic API<br/>optional"]
+    USER["Browser user"]
+  end
+
+  ENR --> SEED --> DB
+  DC --> APP --> ENS --> DB
+
+  USER --> WEB --> MAIN
+  MAIN --> LISTV
+  MAIN --> DETAIL
+  LISTV --> CHAT
+  LISTV --> CLIENT
+  DETAIL --> CLIENT
+  CHAT -->|parse intent| CLIENT
+  CLIENT -->|/api| API
+
+  API --> LISTR --> ZOD --> REPO --> DB
+  API --> SEARCHR --> ZOD
+  SEARCHR --> CLAUDE_RT
+  CLAUDE_RT -.-> ANTH
+  SEARCHR --> FALLBACK

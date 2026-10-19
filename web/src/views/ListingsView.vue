@@ -27,6 +27,14 @@ const filters = reactive<ListingFilters>({
   page: Number(route.query.page ?? 1) || 1,
 });
 
+// A city arriving via URL or AI intent may not be in the fetched list (yet):
+// surface it as a select option instead of leaving the filter invisibly active.
+const cityOptions = computed(() =>
+  filters.city && !cities.value.includes(filters.city)
+    ? [filters.city, ...cities.value]
+    : cities.value,
+);
+
 const items = ref<Listing[]>([]);
 const total = ref(0);
 const loading = ref(true);
@@ -44,7 +52,7 @@ const resultLabel = computed(() => {
   return `${n} ${word}`;
 });
 
-const aiMode = ref(false);
+const aiMode = ref(route.query.mode === 'ai');
 const interpretation = ref('');
 const degraded = ref(false);
 
@@ -82,8 +90,16 @@ async function load() {
   loading.value = true;
   error.value = '';
   const query = Object.fromEntries(
+<<<<<<< Updated upstream
     Object.entries({ ...filters, page: String(filters.page) }).filter(([, v]) => v !== '' && v !== '1'),
+=======
+    Object.entries({ ...filters, page: String(filters.page) }).filter(
+      // defaults (page=1, offerType=sale) don't earn a place in a shareable URL
+      ([k, v]) => v !== '' && !(k === 'page' && v === '1') && !(k === 'offerType' && v === 'sale'),
+    ),
+>>>>>>> Stashed changes
   );
+  if (aiMode.value) query.mode = 'ai';
   router.replace({ query });
   try {
     const data = await fetchListings(filters);
@@ -102,23 +118,33 @@ async function load() {
 
 // Text input debounces; every other control fetches immediately.
 let qTimer: ReturnType<typeof setTimeout> | undefined;
+
+// Every filter change restarts the search from page 1 through this single
+// entry point. It kills any pending q debounce (a half-typed query must not
+// fire a stale fetch later) and never double-loads: when the page needs
+// resetting, the mutation is left to trigger the page watcher's load().
+function searchFromPage1() {
+  clearTimeout(qTimer);
+  if (filters.page !== 1) {
+    filters.page = 1;
+    return;
+  }
+  load();
+}
+
 watch(
   () => filters.q,
   () => {
     if (suppressWatch) return;
     clearTimeout(qTimer);
-    qTimer = setTimeout(() => {
-      filters.page = 1;
-      load();
-    }, DEBOUNCE_MS);
+    qTimer = setTimeout(searchFromPage1, DEBOUNCE_MS);
   },
 );
 watch(
   () => [filters.offerType, filters.city, filters.minPrice, filters.maxPrice, filters.minArea, filters.maxArea, filters.rooms],
   () => {
     if (suppressWatch) return;
-    filters.page = 1;
-    load();
+    searchFromPage1();
   },
 );
 watch(
@@ -130,6 +156,33 @@ watch(
   },
 );
 
+<<<<<<< Updated upstream
+=======
+// Leaving AI mode starts from a clean search: an AI-applied combination
+// shouldn't silently keep shaping the "manual" results. Entering AI mode keeps
+// the user's filters — only the URL needs a sync to record mode=ai.
+function resetSearch() {
+  clearTimeout(qTimer);
+  suppressWatch = true;
+  Object.assign(filters, DEFAULT_FILTERS);
+  interpretation.value = '';
+  degraded.value = false;
+  nextTick(() => {
+    suppressWatch = false;
+    load();
+  });
+}
+
+watch(aiMode, (isAi) => {
+  if (isAi) {
+    clearTimeout(qTimer); // a half-typed q applies now, not via a late timer
+    load();
+  } else {
+    resetSearch();
+  }
+});
+
+>>>>>>> Stashed changes
 onMounted(() => {
   load();
   fetchCities()
@@ -183,7 +236,7 @@ onMounted(() => {
         </div>
         <select v-model="filters.city" aria-label="Miasto">
           <option value="">Wszystkie miasta</option>
-          <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
+          <option v-for="c in cityOptions" :key="c" :value="c">{{ c }}</option>
         </select>
         <input v-model="filters.minPrice" type="number" min="0" placeholder="Cena od (zł)" aria-label="Cena minimalna" />
         <input v-model="filters.maxPrice" type="number" min="0" placeholder="Cena do (zł)" aria-label="Cena maksymalna" />

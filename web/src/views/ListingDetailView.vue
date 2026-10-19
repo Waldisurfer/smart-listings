@@ -135,7 +135,7 @@ h2 {
 }
 
 .badge.warn {
-  background: #9a6700;
+  background: var(--warn);
   margin-left: 6px;
 }
 
@@ -204,15 +204,5 @@ h2 {
   margin-top: 8px;
   color: var(--accent);
   font-weight: 600;
-}
-
-.state {
-  color: var(--muted);
-  padding: 48px 0;
-  text-align: center;
-}
-
-.state.error {
-  color: #b3261e;
 }
 </style>

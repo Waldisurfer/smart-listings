@@ -1,4 +1,4 @@
-/* Design tokens — the whole visual system in 8 variables.
+/* Design tokens — the whole visual system in 10 variables.
    Serif display + warm paper: intentional, zero font-loading cost. */
 :root {
   --bg: #f6f4ef;
@@ -9,6 +9,8 @@
   --line: #e4e0d8;
   --radius: 10px;
   --shadow: 0 1px 2px rgba(33, 37, 42, 0.06), 0 4px 14px rgba(33, 37, 42, 0.07);
+  --error: #b3261e; /* load/fetch failures */
+  --warn: #9a6700; /* degraded AI, incomplete-data badge */
 }
 
 * {
@@ -70,4 +72,15 @@ button:disabled {
   max-width: 1120px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+/* Shared loading/error/empty message — used across views. */
+.state {
+  color: var(--muted);
+  padding: 48px 0;
+  text-align: center;
+}
+
+.state.error {
+  color: var(--error);
 }

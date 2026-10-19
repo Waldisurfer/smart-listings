@@ -44,9 +44,7 @@ const LIST_COLUMNS = `
 /** Detail view adds the full description — but still never the raw snapshot. */
 const DETAIL_COLUMNS = `${LIST_COLUMNS}, description`;
 
-export async function findListings(
-  f: ListingFilters,
-): Promise<{ items: ListingRow[]; total: number }> {
+export async function findListings(f: ListingFilters, ): Promise<{ items: ListingRow[]; total: number }> {
   // Duplicates are excluded from every list result — still in the DB, inspectable.
   const conditions: string[] = ['is_duplicate = FALSE', 'offer_type = ?'];
   const params: unknown[] = [f.offerType];
